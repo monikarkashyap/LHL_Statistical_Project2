@@ -1,0 +1,152 @@
+id,alias,name,review_count,rating,station,category_alias,category_title,station_id,latitude,longitude,no_of_bikes,network_id
+o0AHPpZqqWc8jszVVNbooA,au-chien-chic-calais,Au Chien Chic,1.0,5.0,a,restaurants,Restaurants,116978dc6ed165d95a1ce386466bf165,50.9461755412333,1.89117629896361,0,vel-in
+o0AHPpZqqWc8jszVVNbooA,au-chien-chic-calais,Au Chien Chic,1.0,5.0,a,beautysvc,Beauty & Spas,116978dc6ed165d95a1ce386466bf165,50.9461755412333,1.89117629896361,0,vel-in
+WU6IaRGdEkYOm6r3QZOuUw,l-absinthe-calais-2,L'Absinthe,2.0,4.0,a,bars,Bars,116978dc6ed165d95a1ce386466bf165,50.9461755412333,1.89117629896361,0,vel-in
+WU6IaRGdEkYOm6r3QZOuUw,l-absinthe-calais-2,L'Absinthe,2.0,4.0,a,danceclubs,Dance Clubs,116978dc6ed165d95a1ce386466bf165,50.9461755412333,1.89117629896361,0,vel-in
+8sdlNaz1z5PosLyL8qPMIA,campanile-calais,Campanile,1.0,2.0,a,french,French,116978dc6ed165d95a1ce386466bf165,50.9461755412333,1.89117629896361,0,vel-in
+8sdlNaz1z5PosLyL8qPMIA,campanile-calais,Campanile,1.0,2.0,a,hotels,Hotels,116978dc6ed165d95a1ce386466bf165,50.9461755412333,1.89117629896361,0,vel-in
+8gdWT3_-ssBF4KOfvuRSFA,calais-ferry-terminal-calais,Calais Ferry Terminal,5.0,3.5,b,hotdogs,Fast Food,3b58c82f8aca0fd26a55dd5fcb82f9ec,50.9607702279798,1.87392179485119,0,vel-in
+NIGgI2mh1-Y4LBEzhF6Rew,la-buissonnière-calais-5,La Buissonnière,2.0,5.0,01 : Lafayette,french,French,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+NIGgI2mh1-Y4LBEzhF6Rew,la-buissonnière-calais-5,La Buissonnière,2.0,5.0,01 : Lafayette,seafood,Seafood,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+m7fZizhIXQXjYs1TtqzsGA,les-bourgeois-de-calais-calais,Les Bourgeois de Calais,3.0,4.5,01 : Lafayette,landmarks,Landmarks & Historical Buildings,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+x6mnSevWdonoG8vRWBmB4w,café-de-la-renaissance-calais-2,Café de la Renaissance,1.0,5.0,01 : Lafayette,french,French,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+x6mnSevWdonoG8vRWBmB4w,café-de-la-renaissance-calais-2,Café de la Renaissance,1.0,5.0,01 : Lafayette,bistros,Bistros,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+x6mnSevWdonoG8vRWBmB4w,café-de-la-renaissance-calais-2,Café de la Renaissance,1.0,5.0,01 : Lafayette,brasseries,Brasseries,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+0LakTdI7Fh4WVoZUvEB17g,pizza-doms-calais-2,Pizza Dom's,4.0,4.5,01 : Lafayette,fooddeliveryservices,Food Delivery Services,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+0LakTdI7Fh4WVoZUvEB17g,pizza-doms-calais-2,Pizza Dom's,4.0,4.5,01 : Lafayette,italian,Italian,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+0LakTdI7Fh4WVoZUvEB17g,pizza-doms-calais-2,Pizza Dom's,4.0,4.5,01 : Lafayette,pizza,Pizza,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+_ySViM0hJA11Y1Dxi78LzA,au-1000-borg-calais,Au 1000 Borg,1.0,5.0,01 : Lafayette,french,French,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+h8vwDgh4ad6yShzDGD_adg,café-le-mirador-calais,Café Le Mirador,1.0,5.0,01 : Lafayette,bars,Bars,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+4vyrMDK7ObcsrKkcCLfKkA,sushi-kyo-calais,Sushi Kyo,6.0,4.0,01 : Lafayette,japanese,Japanese,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+4vyrMDK7ObcsrKkcCLfKkA,sushi-kyo-calais,Sushi Kyo,6.0,4.0,01 : Lafayette,panasian,Pan Asian,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+HTQZ7_gb_iAi50t4ryPI1w,sushi-kyo-calais-2,Sushi Kyo,1.0,5.0,01 : Lafayette,japanese,Japanese,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+t2A4bSLFAQXRY9zRTx08XA,fred-calais,Fred,3.0,4.5,01 : Lafayette,bakeries,Bakeries,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+2-h4Ywgr-DCGmXcdoVDuCg,chouchen-calais,chouchen,2.0,4.5,01 : Lafayette,restaurants,Restaurants,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+ddNc_8r5dzua6WWLF18MJA,au-calice-calais,Au Calice,12.0,3.5,01 : Lafayette,bistros,Bistros,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+Nn2NxVA1hqh5qNUAlM_zIA,métropol-hôtel-calais-4,Métropol Hôtel,2.0,4.0,01 : Lafayette,hotels,Hotels,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+Nn2NxVA1hqh5qNUAlM_zIA,métropol-hôtel-calais-4,Métropol Hôtel,2.0,4.0,01 : Lafayette,bars,Bars,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+AitImzmkUvN_7jVVwXxKyA,le-channel-scène-nationale-de-calais-calais-4,Le Channel Scène Nationale de Calais,2.0,4.0,01 : Lafayette,theater,Performing Arts,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+AitImzmkUvN_7jVVwXxKyA,le-channel-scène-nationale-de-calais-calais-4,Le Channel Scène Nationale de Calais,2.0,4.0,01 : Lafayette,bars,Bars,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+AitImzmkUvN_7jVVwXxKyA,le-channel-scène-nationale-de-calais-calais-4,Le Channel Scène Nationale de Calais,2.0,4.0,01 : Lafayette,culturalcenter,Cultural Center,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+P54hBGV43Reb_FrWjQ8sYw,le-garden-calais,Le Garden,1.0,4.0,01 : Lafayette,french,French,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+HOh4wOol1H-2-_HdxIgeeA,le-thaï-palace-calais,Le Thaï Palace,1.0,4.0,01 : Lafayette,thai,Thai,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+pmuw4TBXX3rm-qCFrpbhcg,la-pataterie-calais-2,La Pataterie,1.0,4.0,01 : Lafayette,restaurants,Restaurants,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+yiWBrqrlMyADaz6oq-8GlA,la-pataterie-calais,La Pataterie,1.0,4.0,01 : Lafayette,restaurants,Restaurants,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+hJtBC1eTg9n5uKChjXjlWA,aux-chardons-de-la-cote-d-opale-calais-3,Aux Chardons De La Cote D'Opale,1.0,3.0,01 : Lafayette,bakeries,Bakeries,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+cJidt90EUPJ-IaYODAlE-w,cafe-du-théâtre-calais-3,Cafe du Théâtre,1.0,3.0,01 : Lafayette,restaurants,Restaurants,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+cJidt90EUPJ-IaYODAlE-w,cafe-du-théâtre-calais-3,Cafe du Théâtre,1.0,3.0,01 : Lafayette,bars,Bars,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+DFlAo1zh325hYnX6YnNLjg,le-thomé-de-gamond-calais,Le Thomé de Gamond,2.0,2.5,01 : Lafayette,french,French,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+DFlAo1zh325hYnX6YnNLjg,le-thomé-de-gamond-calais,Le Thomé de Gamond,2.0,2.5,01 : Lafayette,seafood,Seafood,fedaa58e592a7e4156cf9f89e3f44560,50.9466094970703,1.85830295085907,0,vel-in
+yETTFjY9EFBd-Y5BjHLv4g,la-chênaie-calais-2,La Chênaie,2.0,5.0,02 : Théatre,creperies,Creperies,a75dfb30a2a5e87b7ad50863923461ce,50.9473774202641,1.85376906394959,1,vel-in
+N3VNSNFC42OivYMebbTrqg,l-hovercraft-calais,L'Hovercraft,4.0,4.0,02 : Théatre,pubs,Pubs,a75dfb30a2a5e87b7ad50863923461ce,50.9473774202641,1.85376906394959,1,vel-in
+N3VNSNFC42OivYMebbTrqg,l-hovercraft-calais,L'Hovercraft,4.0,4.0,02 : Théatre,brasseries,Brasseries,a75dfb30a2a5e87b7ad50863923461ce,50.9473774202641,1.85376906394959,1,vel-in
+l6wLF6vb4J_Rsodr8s-yTQ,restaurant-la-brasérade-calais,Restaurant La Brasérade,10.0,3.5,02 : Théatre,french,French,a75dfb30a2a5e87b7ad50863923461ce,50.9473774202641,1.85376906394959,1,vel-in
+2tiGTlBPBU700eCwS3ZQuQ,le-sesame-calais,Le Sesame,11.0,4.5,04 : Gare SNCF,restaurants,Restaurants,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+JSEpFIXiy4pg5kBgGI4fDQ,la-sole-meunière-calais-7,La Sole Meunière,6.0,4.5,04 : Gare SNCF,restaurants,Restaurants,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+Ya9NdWrIOdbOjb5Lc35h4w,brasserie-le-centaure-calais,brasserie Le Centaure,5.0,4.5,04 : Gare SNCF,brasseries,Brasseries,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+ZuozgPp6stEzPhTQjoobvA,la-tourello-calais,La Tourello,9.0,4.5,04 : Gare SNCF,brasseries,Brasseries,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+VXNVcBjRHaZuYaEV4fAe4A,le-channel-calais,Le Channel,14.0,4.5,04 : Gare SNCF,restaurants,Restaurants,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+UDO7uBuvda0rc1R_ke1CDg,du-vignoble-au-verre-calais,Du Vignoble au Verre,12.0,4.5,04 : Gare SNCF,french,French,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+UDO7uBuvda0rc1R_ke1CDg,du-vignoble-au-verre-calais,Du Vignoble au Verre,12.0,4.5,04 : Gare SNCF,wine_bars,Wine Bars,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+lHNsezzM3JJCmHZHC4Qaww,tonnerre-de-brest-calais,Tonnerre de Brest,19.0,4.5,04 : Gare SNCF,creperies,Creperies,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+lHNsezzM3JJCmHZHC4Qaww,tonnerre-de-brest-calais,Tonnerre de Brest,19.0,4.5,04 : Gare SNCF,french,French,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+lHNsezzM3JJCmHZHC4Qaww,tonnerre-de-brest-calais,Tonnerre de Brest,19.0,4.5,04 : Gare SNCF,salad,Salad,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+hhz0yfrigbgS1JFtL8n32A,the-london-bridge-calais,The London Bridge,2.0,5.0,04 : Gare SNCF,brasseries,Brasseries,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+hhz0yfrigbgS1JFtL8n32A,the-london-bridge-calais,The London Bridge,2.0,5.0,04 : Gare SNCF,pizza,Pizza,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+teUmvafQzMflGzwqB0BUxw,la-bigoudène-calais,La Bigoudène,8.0,4.5,04 : Gare SNCF,creperies,Creperies,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+teUmvafQzMflGzwqB0BUxw,la-bigoudène-calais,La Bigoudène,8.0,4.5,04 : Gare SNCF,french,French,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+NYXv3rwaSw_xN8vjGrVcZA,au-cadre-vert-calais,Au Cadre Vert,8.0,4.5,04 : Gare SNCF,french,French,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+2MVl7MddKdkvcBdcTKUvQw,le-vénezia-calais,Le Vénezia,3.0,4.5,04 : Gare SNCF,pizza,Pizza,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+2MVl7MddKdkvcBdcTKUvQw,le-vénezia-calais,Le Vénezia,3.0,4.5,04 : Gare SNCF,italian,Italian,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+aecdsKKrDgWlazwj8QSGbw,le-phare-de-calais-calais-2,Le Phare de Calais,3.0,4.5,04 : Gare SNCF,landmarks,Landmarks & Historical Buildings,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+oZtAibjXjDUIUmYrnB53Hw,au-vieux-fourneau-calais,Au Vieux Fourneau,3.0,4.5,04 : Gare SNCF,restaurants,Restaurants,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+MMufRfu6KuvcqJ6-qXH08Q,histoire-ancienne-calais-2,Histoire Ancienne,18.0,4.0,04 : Gare SNCF,french,French,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+HmqOjOGWLIWwkXnOUxa4iA,bollywood-brasserie-calais,Bollywood Brasserie,1.0,5.0,04 : Gare SNCF,brasseries,Brasseries,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+LILRPF9Ot-zHME5GOqlQjQ,le-fournil-de-la-tour-calais,Le Fournil de la Tour,1.0,5.0,04 : Gare SNCF,bakeries,Bakeries,9723c2436cfc9652882bf1b7c7e182e7,50.9533029460493,1.85127753019333,2,vel-in
+GmtwzWLLOjrKDXWgWdtrIw,le-grand-bleu-calais,Le Grand Bleu,18.0,4.5,05 : Richelieu,french,French,9f1b2e94cbc6ea6cdb20e548ea28f31a,50.9550294770367,1.8502995967865,1,vel-in
+GmtwzWLLOjrKDXWgWdtrIw,le-grand-bleu-calais,Le Grand Bleu,18.0,4.5,05 : Richelieu,seafood,Seafood,9f1b2e94cbc6ea6cdb20e548ea28f31a,50.9550294770367,1.8502995967865,1,vel-in
+jDBjz-qxq1Qo_Zrg2v6_Ig,oh-mouettes-calais,Oh! Mouettes,6.0,4.5,05 : Richelieu,seafood,Seafood,9f1b2e94cbc6ea6cdb20e548ea28f31a,50.9550294770367,1.8502995967865,1,vel-in
+hFGGnXVaWxgZWfMjUyjIPQ,au-côte-d-argent-calais,Au Côte d'Argent,18.0,4.0,06 : Place d'Armes,french,French,db957c09b32adefad9c19798a6818962,50.9588776267415,1.84921402937107,9,vel-in
+hFGGnXVaWxgZWfMjUyjIPQ,au-côte-d-argent-calais,Au Côte d'Argent,18.0,4.0,06 : Place d'Armes,seafood,Seafood,db957c09b32adefad9c19798a6818962,50.9588776267415,1.84921402937107,9,vel-in
+2WsTfT8BUZ6mjhjp3OyQbA,aquar-aile-calais,Aquar'Aile,18.0,4.5,07 : Pluviose,french,French,2035df637be1e0881ccd43656c5067d6,50.9652289200567,1.84306496288627,6,vel-in
+MB5t-hO7xiOunZm6JTLvfg,a-l-entre-2-mers-calais,A l'Entre 2 Mers,1.0,5.0,09 : Eglise de Blériot,french,French,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+MB5t-hO7xiOunZm6JTLvfg,a-l-entre-2-mers-calais,A l'Entre 2 Mers,1.0,5.0,09 : Eglise de Blériot,seafood,Seafood,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+z_xLTHQe50zdZ-Za0w04pA,boulangerie-patisserie-de-la-plage-calais,Boulangerie Patisserie de la Plage,2.0,4.5,09 : Eglise de Blériot,bakeries,Bakeries,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+4CfVk7IXxJCH3ebRMGM7Ag,plage-de-calais-calais,Plage De Calais,3.0,3.5,09 : Eglise de Blériot,beaches,Beaches,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+GzoQGqdNdfquYs_WHN4VKw,le-restaurant-de-la-plage-calais,Le Restaurant de la Plage,1.0,3.0,09 : Eglise de Blériot,french,French,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+F60UntRqVNe_iJlNPLcx_A,l-oasis-calais,L'Oasis,2.0,2.5,09 : Eglise de Blériot,french,French,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+F60UntRqVNe_iJlNPLcx_A,l-oasis-calais,L'Oasis,2.0,2.5,09 : Eglise de Blériot,pizza,Pizza,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+F60UntRqVNe_iJlNPLcx_A,l-oasis-calais,L'Oasis,2.0,2.5,09 : Eglise de Blériot,sandwiches,Sandwiches,cb33dacad30230c56f961d22df427c99,50.9583526562474,1.825364112854,5,vel-in
+eOaBrtrI2p-oCeTMQBtU6g,m-wok-coquelles,M. Wok,1.0,5.0,12 : CC La Française,buffets,Buffets,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+eOaBrtrI2p-oCeTMQBtU6g,m-wok-coquelles,M. Wok,1.0,5.0,12 : CC La Française,wok,Wok,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+eOaBrtrI2p-oCeTMQBtU6g,m-wok-coquelles,M. Wok,1.0,5.0,12 : CC La Française,panasian,Pan Asian,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+gnMBGzKub-RgoAIFwZrj2Q,flunch-coquelles,Flunch,3.0,3.5,12 : CC La Française,restaurants,Restaurants,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+A99oBoDCrXGh4vQU7KlqXg,mc-donalds-coquelles,Mc Donald's,2.0,3.5,12 : CC La Française,hotdogs,Fast Food,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+OY29AKUiPuKxtG8Sp5DQSA,hertz-france-coquelles,Hertz France,1.0,3.0,12 : CC La Française,shoes,Shoe Stores,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+OY29AKUiPuKxtG8Sp5DQSA,hertz-france-coquelles,Hertz France,1.0,3.0,12 : CC La Française,jewelry,Jewelry,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+OY29AKUiPuKxtG8Sp5DQSA,hertz-france-coquelles,Hertz France,1.0,3.0,12 : CC La Française,restaurants,Restaurants,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+OY29AKUiPuKxtG8Sp5DQSA,hertz-france-coquelles,Hertz France,1.0,3.0,12 : CC La Française,carrental,Car Rental,918e267f5a72e1213e089f3b2a964950,50.9433964178014,1.80812895298004,1,vel-in
+yxdYFapqQ6l4YULjMqs40g,grill-courtepaille-calais,Grill Courtepaille,3.0,3.0,17 : Mogador,steak,Steakhouses,e4c1694919dcecf427c03fb34d2d4c05,50.9452402344141,1.83069121837616,3,vel-in
+T2_yARPp6BhRKfYmbDLp4g,buffalo-grill-restaurant-calais-2,Buffalo Grill Restaurant,2.0,3.0,17 : Mogador,steak,Steakhouses,e4c1694919dcecf427c03fb34d2d4c05,50.9452402344141,1.83069121837616,3,vel-in
+3ROpJlAb56fB7PyOr3SmMQ,kfc-calais-2,KFC,3.0,2.5,17 : Mogador,hotdogs,Fast Food,e4c1694919dcecf427c03fb34d2d4c05,50.9452402344141,1.83069121837616,3,vel-in
+3ROpJlAb56fB7PyOr3SmMQ,kfc-calais-2,KFC,3.0,2.5,17 : Mogador,chickenshop,Chicken Shop,e4c1694919dcecf427c03fb34d2d4c05,50.9452402344141,1.83069121837616,3,vel-in
+2xYLuL5Lrq631p9hkoPUtA,yves-vanacker-calais,Yves Vanacker,1.0,1.0,17 : Mogador,bakeries,Bakeries,e4c1694919dcecf427c03fb34d2d4c05,50.9452402344141,1.83069121837616,3,vel-in
+jvWgefc9K0UFmYH9WTNoFg,la-faim-de-journée-calais-2,La faim de Journée,1.0,1.0,18 : Piscine patinoire Icéo,brasseries,Brasseries,e2a6cce5d2fd8bef1dc2bc286a4b92ca,50.9567044570158,1.89690744876862,1,vel-in
+qj4JG4sLmyuD9xzw7EUuRQ,boulangerie-joly-calais-2,Boulangerie Joly,1.0,5.0,20 : IUT,bakeries,Bakeries,690228976cdad4087c2a3efefb5347ca,50.9505437554394,1.88234746456146,0,vel-in
+I-ds93oiMxa8ECfzkG7LWQ,family-pub-calais,Family Pub,1.0,5.0,21 : Coubertin,bars,Bars,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+I-ds93oiMxa8ECfzkG7LWQ,family-pub-calais,Family Pub,1.0,5.0,21 : Coubertin,burgers,Burgers,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+I-ds93oiMxa8ECfzkG7LWQ,family-pub-calais,Family Pub,1.0,5.0,21 : Coubertin,french,French,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+nAVjsHpUJ6mmX99t16w9MQ,le-détroit-calais-2,Le Détroit,5.0,4.0,21 : Coubertin,seafood,Seafood,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+BGtZqAt11EYw1AXDKSIjLw,venezia-calais,Venezia,7.0,4.0,21 : Coubertin,italian,Italian,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+b_5etFSmbFFG_I8uh-QIxg,au-singe-en-hiver-calais,Au Singe En Hiver,3.0,4.5,21 : Coubertin,bars,Bars,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+b_5etFSmbFFG_I8uh-QIxg,au-singe-en-hiver-calais,Au Singe En Hiver,3.0,4.5,21 : Coubertin,brasseries,Brasseries,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+EpphVkcInag2AHpgQKTcIQ,la-mer-calais,La Mer,11.0,3.5,21 : Coubertin,desserts,Desserts,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+EpphVkcInag2AHpgQKTcIQ,la-mer-calais,La Mer,11.0,3.5,21 : Coubertin,seafood,Seafood,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+EpphVkcInag2AHpgQKTcIQ,la-mer-calais,La Mer,11.0,3.5,21 : Coubertin,bars,Bars,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+PFUWUmccqk_EJe0f7oP9aw,café-de-la-tour-calais-2,Café de la Tour,11.0,3.5,21 : Coubertin,brasseries,Brasseries,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+PFUWUmccqk_EJe0f7oP9aw,café-de-la-tour-calais-2,Café de la Tour,11.0,3.5,21 : Coubertin,sandwiches,Sandwiches,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+sdsD9ecekgt-kStCwlWNrg,le-milano-calais-2,Le Milano,10.0,3.5,21 : Coubertin,italian,Italian,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+sdsD9ecekgt-kStCwlWNrg,le-milano-calais-2,Le Milano,10.0,3.5,21 : Coubertin,pizza,Pizza,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+kmkp-7qNDcp_UXWmL65X2A,la-kabylie-calais,La Kabylie,9.0,3.5,21 : Coubertin,vegetarian,Vegetarian,f8f05a96b2a991fa46d55077546aa644,50.9559561784671,1.83498778056332,3,vel-in
+U_E0Zu0_b2FU0Y8ChfnU2w,l-etable-calais,L'Etable,1.0,5.0,22 : Diderot,french,French,96988b717871cb59046af9f0ee8df14b,50.9556917599038,1.86437272142598,1,vel-in
+_l-gi7m4TYYM5LyrDFzcUQ,pop-rock-bar-calais,Pop Rock Bar,1.0,5.0,22 : Diderot,bars,Bars,96988b717871cb59046af9f0ee8df14b,50.9556917599038,1.86437272142598,1,vel-in
+4gIaOswHjhjW62dZRXVfqQ,marrakech-calais,Marrakech,1.0,5.0,22 : Diderot,moroccan,Moroccan,96988b717871cb59046af9f0ee8df14b,50.9556917599038,1.86437272142598,1,vel-in
+V-MndHu0p8z81tq0PP8Szw,le-piano-dans-la-cuisine-calais,Le Piano dans la Cuisine,2.0,4.5,22 : Diderot,french,French,96988b717871cb59046af9f0ee8df14b,50.9556917599038,1.86437272142598,1,vel-in
+o_Us4A9pIRRqGq-gkxMkuQ,les-coulisses-calais-3,Les Coulisses,4.0,4.0,22 : Diderot,restaurants,Restaurants,96988b717871cb59046af9f0ee8df14b,50.9556917599038,1.86437272142598,1,vel-in
+o_Us4A9pIRRqGq-gkxMkuQ,les-coulisses-calais-3,Les Coulisses,4.0,4.0,22 : Diderot,musicvenues,Music Venues,96988b717871cb59046af9f0ee8df14b,50.9556917599038,1.86437272142598,1,vel-in
+7MDmxVHQE8_GovOtaWGhjw,mcdonalds-calais-2,McDonald's,2.0,3.0,25 : Copernic,hotdogs,Fast Food,d8361e34a92bcfbef112a9de53b10aec,50.9393852948121,1.86540134858319,4,vel-in
+7MDmxVHQE8_GovOtaWGhjw,mcdonalds-calais-2,McDonald's,2.0,3.0,25 : Copernic,burgers,Burgers,d8361e34a92bcfbef112a9de53b10aec,50.9393852948121,1.86540134858319,4,vel-in
+Aq59QRMwdDIrf05Ff7ROLA,memphis-coffee-calais,Memphis Coffee,1.0,2.0,25 : Copernic,tradamerican,American (Traditional),d8361e34a92bcfbef112a9de53b10aec,50.9393852948121,1.86540134858319,4,vel-in
+Aq59QRMwdDIrf05Ff7ROLA,memphis-coffee-calais,Memphis Coffee,1.0,2.0,25 : Copernic,cafes,Cafes,d8361e34a92bcfbef112a9de53b10aec,50.9393852948121,1.86540134858319,4,vel-in
+Aq59QRMwdDIrf05Ff7ROLA,memphis-coffee-calais,Memphis Coffee,1.0,2.0,25 : Copernic,breakfast_brunch,Breakfast & Brunch,d8361e34a92bcfbef112a9de53b10aec,50.9393852948121,1.86540134858319,4,vel-in
+Bu6cntCKtZMmPKiGLrWdbA,pegast-coquelles-2,Pegast,1.0,5.0,28 : Coquelles - Charles de Gaulle,hotdogs,Fast Food,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+e8xo-UQVsBsyAtjHfbBScA,la-tagliatella-coquelles,La Tagliatella,4.0,4.5,28 : Coquelles - Charles de Gaulle,italian,Italian,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+DufTyOlcupNFLRuFGFogUA,le-dragon-coquelles,Le Dragon,5.0,3.5,28 : Coquelles - Charles de Gaulle,chinese,Chinese,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+4J4AeI9rESpxyE1WwqoVsQ,grand-place-coquelles,Grand Place,2.0,4.0,28 : Coquelles - Charles de Gaulle,french,French,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+tajez6S32tm806qWMPp9ow,l-omelette-gourmande-coquelles,L'Omelette Gourmande,3.0,3.5,28 : Coquelles - Charles de Gaulle,restaurants,Restaurants,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+E7O9H2T6o7ux79bRsQaAZQ,le-vieux-carré-coquelles-2,Le Vieux Carré,1.0,3.0,28 : Coquelles - Charles de Gaulle,restaurants,Restaurants,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+8CUcMxUZ5LBI-7IkG3geBw,john-pull-pub-coquelles,John Pull Pub,1.0,3.0,28 : Coquelles - Charles de Gaulle,pubs,Pubs,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+8CUcMxUZ5LBI-7IkG3geBw,john-pull-pub-coquelles,John Pull Pub,1.0,3.0,28 : Coquelles - Charles de Gaulle,breakfast_brunch,Breakfast & Brunch,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+djmjHhwq87cKp36-WRETJg,le-comptoir-du-malt-coquelles,Le Comptoir du Malt,1.0,1.0,28 : Coquelles - Charles de Gaulle,restaurants,Restaurants,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+ykxKZx-znVK0iw6kPes-aQ,tutti-quanti-coquelles,Tutti Quanti,1.0,1.0,28 : Coquelles - Charles de Gaulle,pizza,Pizza,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+ykxKZx-znVK0iw6kPes-aQ,tutti-quanti-coquelles,Tutti Quanti,1.0,1.0,28 : Coquelles - Charles de Gaulle,italian,Italian,37da2ded45352e7de81d29a301407127,50.9348139969917,1.79933988165089,2,vel-in
+lTMi2CO4k-IjFX4t3Rk6XA,le-blanc-nez-sangatte-2,Le Blanc Nez,6.0,4.5,29 : Sangatte - Mairie,french,French,52311c660c34a0126f10cd2666240423,50.9471729601747,1.7579708309097,2,vel-in
+lTMi2CO4k-IjFX4t3Rk6XA,le-blanc-nez-sangatte-2,Le Blanc Nez,6.0,4.5,29 : Sangatte - Mairie,seafood,Seafood,52311c660c34a0126f10cd2666240423,50.9471729601747,1.7579708309097,2,vel-in
+nUxv4bEvE9XodVq3ggGDkQ,le-cappucino-coquelles,Le Cappucino,6.0,3.5,30 : Coulogne - Eglise,french,French,17a3bc026ae6d1a8437ed7f0d225ed4e,50.9254899962998,1.8871782035751,3,vel-in
+nUxv4bEvE9XodVq3ggGDkQ,le-cappucino-coquelles,Le Cappucino,6.0,3.5,30 : Coulogne - Eglise,bistros,Bistros,17a3bc026ae6d1a8437ed7f0d225ed4e,50.9254899962998,1.8871782035751,3,vel-in
+nUxv4bEvE9XodVq3ggGDkQ,le-cappucino-coquelles,Le Cappucino,6.0,3.5,30 : Coulogne - Eglise,brasseries,Brasseries,17a3bc026ae6d1a8437ed7f0d225ed4e,50.9254899962998,1.8871782035751,3,vel-in
+UwUpm3sS41NTJi1hx_dl8w,le-tutti-quanti-coquelles,Le Tutti Quanti,2.0,3.5,30 : Coulogne - Eglise,italian,Italian,17a3bc026ae6d1a8437ed7f0d225ed4e,50.9254899962998,1.8871782035751,3,vel-in
+UwUpm3sS41NTJi1hx_dl8w,le-tutti-quanti-coquelles,Le Tutti Quanti,2.0,3.5,30 : Coulogne - Eglise,breakfast_brunch,Breakfast & Brunch,17a3bc026ae6d1a8437ed7f0d225ed4e,50.9254899962998,1.8871782035751,3,vel-in
+HBHqo5jPYByPOA_JN8mdcQ,estaminet-les-aigrettes-marck,Estaminet les Aigrettes,1.0,5.0,33 : Marck - Stade,bistros,Bistros,eaae0a80aaa0b0d5d212fb0d7dd17613,50.9531683032271,1.9350127191467,4,vel-in
+1n3T_zdyvI1lMlNfUKjbmQ,casino-le-touquets-calais-2,Casino Le Touquet's,3.0,3.5,36 : Conservatoire,casinos,Casinos,c6e13f41b221119ef0cbf991d0524b7e,50.9493393563634,1.84845882627997,4,vel-in
+1n3T_zdyvI1lMlNfUKjbmQ,casino-le-touquets-calais-2,Casino Le Touquet's,3.0,3.5,36 : Conservatoire,french,French,c6e13f41b221119ef0cbf991d0524b7e,50.9493393563634,1.84845882627997,4,vel-in
+Qh0ndUw6m_HOOuNJXrS4PQ,le-grand-large-calais,Le Grand Large,1.0,4.0,40 : Camping de Calais,brasseries,Brasseries,4160a89f608044e674d8bfeb1040e490,50.9591633311727,1.8324513360858,2,vel-in
+NcdZiRQMdtpxDQx1maythw,l-alexandra-calais,L'Alexandra,1.0,4.0,40 : Camping de Calais,brasseries,Brasseries,4160a89f608044e674d8bfeb1040e490,50.9591633311727,1.8324513360858,2,vel-in
+c2AG6wYZOD2pN0NO1_mnqQ,le-petit-baigneur-calais,Le Petit Baigneur,2.0,2.5,40 : Camping de Calais,restaurants,Restaurants,4160a89f608044e674d8bfeb1040e490,50.9591633311727,1.8324513360858,2,vel-in
+r2NSAdpmY-cqNesFr37nsA,le-sybilien-calais,Le Sybilien,1.0,1.0,40 : Camping de Calais,french,French,4160a89f608044e674d8bfeb1040e490,50.9591633311727,1.8324513360858,2,vel-in
+wn_Et6kI7DvNuR0TohaR8w,au-coq-d-or-calais-2,Au Coq D'Or,13.0,4.0,42 : Terminal Transmanche,french,French,5a2567d019a85ca5828f8f49ca6da5bf,50.9665196007155,1.86257956495888,0,vel-in
+12zcTN7VQkJJ1NfLlWybrQ,au-café-de-paris-calais,Au Café de Paris,25.0,4.0,42 : Terminal Transmanche,bistros,Bistros,5a2567d019a85ca5828f8f49ca6da5bf,50.9665196007155,1.86257956495888,0,vel-in
+12zcTN7VQkJJ1NfLlWybrQ,au-café-de-paris-calais,Au Café de Paris,25.0,4.0,42 : Terminal Transmanche,brasseries,Brasseries,5a2567d019a85ca5828f8f49ca6da5bf,50.9665196007155,1.86257956495888,0,vel-in
+12zcTN7VQkJJ1NfLlWybrQ,au-café-de-paris-calais,Au Café de Paris,25.0,4.0,42 : Terminal Transmanche,bbq,Barbeque,5a2567d019a85ca5828f8f49ca6da5bf,50.9665196007155,1.86257956495888,0,vel-in
+kEqfL9cBajOxhHL0OlqmWA,l-ardoise-calais,L'Ardoise,2.0,4.5,42 : Terminal Transmanche,brasseries,Brasseries,5a2567d019a85ca5828f8f49ca6da5bf,50.9665196007155,1.86257956495888,0,vel-in
+KY-C3LzjBMJKuQKSzeNIlA,la-ferme-gourmande-guînes,La Ferme Gourmande,3.0,3.0,52 : 4 Vents,french,French,39747158053ece35bc6f02acb59dacff,50.8653360130927,1.869189370252,0,vel-in
