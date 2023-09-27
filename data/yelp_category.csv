@@ -1,152 +1,1703 @@
 category_alias,category_title,id
-restaurants,Restaurants,o0AHPpZqqWc8jszVVNbooA
-beautysvc,Beauty & Spas,o0AHPpZqqWc8jszVVNbooA
-bars,Bars,WU6IaRGdEkYOm6r3QZOuUw
-danceclubs,Dance Clubs,WU6IaRGdEkYOm6r3QZOuUw
-french,French,8sdlNaz1z5PosLyL8qPMIA
-hotels,Hotels,8sdlNaz1z5PosLyL8qPMIA
-hotdogs,Fast Food,8gdWT3_-ssBF4KOfvuRSFA
-french,French,NIGgI2mh1-Y4LBEzhF6Rew
-seafood,Seafood,NIGgI2mh1-Y4LBEzhF6Rew
-landmarks,Landmarks & Historical Buildings,m7fZizhIXQXjYs1TtqzsGA
-french,French,x6mnSevWdonoG8vRWBmB4w
-bistros,Bistros,x6mnSevWdonoG8vRWBmB4w
-brasseries,Brasseries,x6mnSevWdonoG8vRWBmB4w
-fooddeliveryservices,Food Delivery Services,0LakTdI7Fh4WVoZUvEB17g
-italian,Italian,0LakTdI7Fh4WVoZUvEB17g
-pizza,Pizza,0LakTdI7Fh4WVoZUvEB17g
-french,French,_ySViM0hJA11Y1Dxi78LzA
-bars,Bars,h8vwDgh4ad6yShzDGD_adg
-japanese,Japanese,4vyrMDK7ObcsrKkcCLfKkA
-panasian,Pan Asian,4vyrMDK7ObcsrKkcCLfKkA
-japanese,Japanese,HTQZ7_gb_iAi50t4ryPI1w
-bakeries,Bakeries,t2A4bSLFAQXRY9zRTx08XA
-restaurants,Restaurants,2-h4Ywgr-DCGmXcdoVDuCg
-bistros,Bistros,ddNc_8r5dzua6WWLF18MJA
-hotels,Hotels,Nn2NxVA1hqh5qNUAlM_zIA
-bars,Bars,Nn2NxVA1hqh5qNUAlM_zIA
-theater,Performing Arts,AitImzmkUvN_7jVVwXxKyA
-bars,Bars,AitImzmkUvN_7jVVwXxKyA
-culturalcenter,Cultural Center,AitImzmkUvN_7jVVwXxKyA
-french,French,P54hBGV43Reb_FrWjQ8sYw
-thai,Thai,HOh4wOol1H-2-_HdxIgeeA
-restaurants,Restaurants,pmuw4TBXX3rm-qCFrpbhcg
-restaurants,Restaurants,yiWBrqrlMyADaz6oq-8GlA
-bakeries,Bakeries,hJtBC1eTg9n5uKChjXjlWA
-restaurants,Restaurants,cJidt90EUPJ-IaYODAlE-w
-bars,Bars,cJidt90EUPJ-IaYODAlE-w
-french,French,DFlAo1zh325hYnX6YnNLjg
-seafood,Seafood,DFlAo1zh325hYnX6YnNLjg
-creperies,Creperies,yETTFjY9EFBd-Y5BjHLv4g
-pubs,Pubs,N3VNSNFC42OivYMebbTrqg
-brasseries,Brasseries,N3VNSNFC42OivYMebbTrqg
-french,French,l6wLF6vb4J_Rsodr8s-yTQ
-restaurants,Restaurants,2tiGTlBPBU700eCwS3ZQuQ
-restaurants,Restaurants,JSEpFIXiy4pg5kBgGI4fDQ
-brasseries,Brasseries,Ya9NdWrIOdbOjb5Lc35h4w
-brasseries,Brasseries,ZuozgPp6stEzPhTQjoobvA
-restaurants,Restaurants,VXNVcBjRHaZuYaEV4fAe4A
-french,French,UDO7uBuvda0rc1R_ke1CDg
-wine_bars,Wine Bars,UDO7uBuvda0rc1R_ke1CDg
-creperies,Creperies,lHNsezzM3JJCmHZHC4Qaww
-french,French,lHNsezzM3JJCmHZHC4Qaww
-salad,Salad,lHNsezzM3JJCmHZHC4Qaww
-brasseries,Brasseries,hhz0yfrigbgS1JFtL8n32A
-pizza,Pizza,hhz0yfrigbgS1JFtL8n32A
-creperies,Creperies,teUmvafQzMflGzwqB0BUxw
-french,French,teUmvafQzMflGzwqB0BUxw
-french,French,NYXv3rwaSw_xN8vjGrVcZA
-pizza,Pizza,2MVl7MddKdkvcBdcTKUvQw
-italian,Italian,2MVl7MddKdkvcBdcTKUvQw
-landmarks,Landmarks & Historical Buildings,aecdsKKrDgWlazwj8QSGbw
-restaurants,Restaurants,oZtAibjXjDUIUmYrnB53Hw
-french,French,MMufRfu6KuvcqJ6-qXH08Q
-brasseries,Brasseries,HmqOjOGWLIWwkXnOUxa4iA
-bakeries,Bakeries,LILRPF9Ot-zHME5GOqlQjQ
-french,French,GmtwzWLLOjrKDXWgWdtrIw
-seafood,Seafood,GmtwzWLLOjrKDXWgWdtrIw
-seafood,Seafood,jDBjz-qxq1Qo_Zrg2v6_Ig
-french,French,hFGGnXVaWxgZWfMjUyjIPQ
-seafood,Seafood,hFGGnXVaWxgZWfMjUyjIPQ
-french,French,2WsTfT8BUZ6mjhjp3OyQbA
-french,French,MB5t-hO7xiOunZm6JTLvfg
-seafood,Seafood,MB5t-hO7xiOunZm6JTLvfg
-bakeries,Bakeries,z_xLTHQe50zdZ-Za0w04pA
-beaches,Beaches,4CfVk7IXxJCH3ebRMGM7Ag
-french,French,GzoQGqdNdfquYs_WHN4VKw
-french,French,F60UntRqVNe_iJlNPLcx_A
-pizza,Pizza,F60UntRqVNe_iJlNPLcx_A
-sandwiches,Sandwiches,F60UntRqVNe_iJlNPLcx_A
-buffets,Buffets,eOaBrtrI2p-oCeTMQBtU6g
-wok,Wok,eOaBrtrI2p-oCeTMQBtU6g
-panasian,Pan Asian,eOaBrtrI2p-oCeTMQBtU6g
-restaurants,Restaurants,gnMBGzKub-RgoAIFwZrj2Q
-hotdogs,Fast Food,A99oBoDCrXGh4vQU7KlqXg
-shoes,Shoe Stores,OY29AKUiPuKxtG8Sp5DQSA
-jewelry,Jewelry,OY29AKUiPuKxtG8Sp5DQSA
-restaurants,Restaurants,OY29AKUiPuKxtG8Sp5DQSA
-carrental,Car Rental,OY29AKUiPuKxtG8Sp5DQSA
-steak,Steakhouses,yxdYFapqQ6l4YULjMqs40g
-steak,Steakhouses,T2_yARPp6BhRKfYmbDLp4g
-hotdogs,Fast Food,3ROpJlAb56fB7PyOr3SmMQ
-chickenshop,Chicken Shop,3ROpJlAb56fB7PyOr3SmMQ
-bakeries,Bakeries,2xYLuL5Lrq631p9hkoPUtA
-brasseries,Brasseries,jvWgefc9K0UFmYH9WTNoFg
-bakeries,Bakeries,qj4JG4sLmyuD9xzw7EUuRQ
-bars,Bars,I-ds93oiMxa8ECfzkG7LWQ
-burgers,Burgers,I-ds93oiMxa8ECfzkG7LWQ
-french,French,I-ds93oiMxa8ECfzkG7LWQ
-seafood,Seafood,nAVjsHpUJ6mmX99t16w9MQ
-italian,Italian,BGtZqAt11EYw1AXDKSIjLw
-bars,Bars,b_5etFSmbFFG_I8uh-QIxg
-brasseries,Brasseries,b_5etFSmbFFG_I8uh-QIxg
-desserts,Desserts,EpphVkcInag2AHpgQKTcIQ
-seafood,Seafood,EpphVkcInag2AHpgQKTcIQ
-bars,Bars,EpphVkcInag2AHpgQKTcIQ
-brasseries,Brasseries,PFUWUmccqk_EJe0f7oP9aw
-sandwiches,Sandwiches,PFUWUmccqk_EJe0f7oP9aw
-italian,Italian,sdsD9ecekgt-kStCwlWNrg
-pizza,Pizza,sdsD9ecekgt-kStCwlWNrg
-vegetarian,Vegetarian,kmkp-7qNDcp_UXWmL65X2A
-french,French,U_E0Zu0_b2FU0Y8ChfnU2w
-bars,Bars,_l-gi7m4TYYM5LyrDFzcUQ
-moroccan,Moroccan,4gIaOswHjhjW62dZRXVfqQ
-french,French,V-MndHu0p8z81tq0PP8Szw
-restaurants,Restaurants,o_Us4A9pIRRqGq-gkxMkuQ
-musicvenues,Music Venues,o_Us4A9pIRRqGq-gkxMkuQ
-hotdogs,Fast Food,7MDmxVHQE8_GovOtaWGhjw
-burgers,Burgers,7MDmxVHQE8_GovOtaWGhjw
-tradamerican,American (Traditional),Aq59QRMwdDIrf05Ff7ROLA
-cafes,Cafes,Aq59QRMwdDIrf05Ff7ROLA
-breakfast_brunch,Breakfast & Brunch,Aq59QRMwdDIrf05Ff7ROLA
-hotdogs,Fast Food,Bu6cntCKtZMmPKiGLrWdbA
-italian,Italian,e8xo-UQVsBsyAtjHfbBScA
-chinese,Chinese,DufTyOlcupNFLRuFGFogUA
-french,French,4J4AeI9rESpxyE1WwqoVsQ
-restaurants,Restaurants,tajez6S32tm806qWMPp9ow
-restaurants,Restaurants,E7O9H2T6o7ux79bRsQaAZQ
-pubs,Pubs,8CUcMxUZ5LBI-7IkG3geBw
-breakfast_brunch,Breakfast & Brunch,8CUcMxUZ5LBI-7IkG3geBw
-restaurants,Restaurants,djmjHhwq87cKp36-WRETJg
-pizza,Pizza,ykxKZx-znVK0iw6kPes-aQ
-italian,Italian,ykxKZx-znVK0iw6kPes-aQ
-french,French,lTMi2CO4k-IjFX4t3Rk6XA
-seafood,Seafood,lTMi2CO4k-IjFX4t3Rk6XA
-french,French,nUxv4bEvE9XodVq3ggGDkQ
-bistros,Bistros,nUxv4bEvE9XodVq3ggGDkQ
-brasseries,Brasseries,nUxv4bEvE9XodVq3ggGDkQ
-italian,Italian,UwUpm3sS41NTJi1hx_dl8w
-breakfast_brunch,Breakfast & Brunch,UwUpm3sS41NTJi1hx_dl8w
-bistros,Bistros,HBHqo5jPYByPOA_JN8mdcQ
-casinos,Casinos,1n3T_zdyvI1lMlNfUKjbmQ
-french,French,1n3T_zdyvI1lMlNfUKjbmQ
-brasseries,Brasseries,Qh0ndUw6m_HOOuNJXrS4PQ
-brasseries,Brasseries,NcdZiRQMdtpxDQx1maythw
-restaurants,Restaurants,c2AG6wYZOD2pN0NO1_mnqQ
-french,French,r2NSAdpmY-cqNesFr37nsA
-french,French,wn_Et6kI7DvNuR0TohaR8w
-bistros,Bistros,12zcTN7VQkJJ1NfLlWybrQ
-brasseries,Brasseries,12zcTN7VQkJJ1NfLlWybrQ
-bbq,Barbeque,12zcTN7VQkJJ1NfLlWybrQ
-brasseries,Brasseries,kEqfL9cBajOxhHL0OlqmWA
-french,French,KY-C3LzjBMJKuQKSzeNIlA
+museums,Museums,JNbPJxM07pzJ-6JiXkZu6g
+arttours,Art Tours,JNbPJxM07pzJ-6JiXkZu6g
+fashion,Fashion,JNbPJxM07pzJ-6JiXkZu6g
+bakeries,Bakeries,3zZOFdwxA_JDcAKEKomknA
+breakfast_brunch,Breakfast & Brunch,3zZOFdwxA_JDcAKEKomknA
+tea,Tea Rooms,3zZOFdwxA_JDcAKEKomknA
+french,French,pjuZB_Qf-bFzvLDiEqApjA
+seafood,Seafood,pjuZB_Qf-bFzvLDiEqApjA
+french,French,zpRDPVf_Izk5B7foS9yd8Q
+danceclubs,Dance Clubs,zpRDPVf_Izk5B7foS9yd8Q
+french,French,7bHtpYzGmCrvvXGWmnszNQ
+bistros,Bistros,7O17125BuwZOv02DV1nY_w
+cocktailbars,Cocktail Bars,G2OzmHeJnDaQwXsFBRYC3g
+champagne_bars,Champagne Bars,G2OzmHeJnDaQwXsFBRYC3g
+persian,Persian/Iranian,-NTjIQv5RSWi1N6IcGMubg
+desserts,Desserts,4mMD5DFOsyLYlffxHRjUOQ
+cakeshop,Patisserie/Cake Shop,4mMD5DFOsyLYlffxHRjUOQ
+chocolate,Chocolatiers & Shops,4mMD5DFOsyLYlffxHRjUOQ
+french,French,F0lJ6g6Q6SItwW9FS4WM8A
+italian,Italian,ivik9fxKe1Kw3EkTjp7yKA
+japanese,Japanese,FXCx3Tuj8NJfCKPHJzyakg
+french,French,vf0SfwWuKbwmJJvtmzAKcg
+lebanese,Lebanese,fqn_3FlonAbku67LZOFzFQ
+sandwiches,Sandwiches,fqn_3FlonAbku67LZOFzFQ
+french,French,wxS-igraHYS5C3ELPNdnVg
+financialadvising,Financial Advising,EZDvf7GO4LdTBElWpR95Fg
+cafes,Cafes,EZDvf7GO4LdTBElWpR95Fg
+coffee,Coffee & Tea,EZDvf7GO4LdTBElWpR95Fg
+japanese,Japanese,GzWfXIXbGwacNHfJZyr-aw
+sushi,Sushi Bars,GzWfXIXbGwacNHfJZyr-aw
+coffee,Coffee & Tea,NlnxJAbtdC0IEkQ8--4Z2w
+breakfast_brunch,Breakfast & Brunch,NlnxJAbtdC0IEkQ8--4Z2w
+sandwiches,Sandwiches,NlnxJAbtdC0IEkQ8--4Z2w
+italian,Italian,_nILmFStE93xzMLDt7sr6g
+desserts,Desserts,_nILmFStE93xzMLDt7sr6g
+coffeeroasteries,Coffee Roasteries,SKTQl4LX-enMA_7fFJKMzQ
+french,French,VL8xQnwvbPwALQNuvqnY9g
+korean,Korean,L484Kcj0HebtQtby9y9nqw
+french,French,1nWamR8Gv8fPaQfsy3TbNA
+beer_and_wine,"Beer, Wine & Spirits",JzfIx3vhYalXR9xuu61IOw
+sandwiches,Sandwiches,JzfIx3vhYalXR9xuu61IOw
+bakeries,Bakeries,BTs8KoiXPH2jLlURJvta-A
+turkish,Turkish,s8WX-lVvG9RUFtpTkkku4A
+tradamerican,American (Traditional),NfRFVlK7-4uV8-CcXVi0KA
+cajun,Cajun/Creole,NfRFVlK7-4uV8-CcXVi0KA
+french,French,XrDNvRVXmYXrYTLZZzJyow
+beerbar,Beer Bar,NEEgRG1lU4yb4RfugrR43A
+cocktailbars,Cocktail Bars,NEEgRG1lU4yb4RfugrR43A
+vietnamese,Vietnamese,Q-iqfYih1nTEEWIWyBt8Pw
+thai,Thai,Q-iqfYih1nTEEWIWyBt8Pw
+wine_bars,Wine Bars,Q6mfWCz0hMu9wsfO1zQy2A
+cafes,Cafes,Q6mfWCz0hMu9wsfO1zQy2A
+wine_bars,Wine Bars,vS9_lZDvPPkoQndrqKo79Q
+beer_and_wine,"Beer, Wine & Spirits",vS9_lZDvPPkoQndrqKo79Q
+restaurants,Restaurants,vS9_lZDvPPkoQndrqKo79Q
+italian,Italian,hu53X0AgSKMt8UuHjp5ZLw
+wineries,Wineries,lqJ84DHC4vGOka8laTNfKw
+cheese,Cheese Shops,lqJ84DHC4vGOka8laTNfKw
+wine_bars,Wine Bars,lqJ84DHC4vGOka8laTNfKw
+cocktailbars,Cocktail Bars,yxMjypY-Wbgwe9LtynROxw
+beerbar,Beer Bar,yxMjypY-Wbgwe9LtynROxw
+pizza,Pizza,yxMjypY-Wbgwe9LtynROxw
+cajun,Cajun/Creole,i-x9jq6JRv8jpH8SUztwSA
+coffee,Coffee & Tea,LwDEWaKJzae_Pswp4f8n5A
+vegetarian,Vegetarian,dTfNXkhHxZATdgzQhUEPtA
+vegan,Vegan,dTfNXkhHxZATdgzQhUEPtA
+indpak,Indian,hCNPRyAorAeHoh3YsibMRA
+bakeries,Bakeries,haFOSMmsts549sIVUXbttw
+bakeries,Bakeries,BB7mWOm8nHIQh8Iney68Kg
+italian,Italian,IO8XFm4B0xoZlJDp_LhS0w
+pizza,Pizza,IO8XFm4B0xoZlJDp_LhS0w
+thai,Thai,lskzvgYAIPNrWq_RMpq2aA
+restaurants,Restaurants,pf4wbF0FiRkgkrJY6nCCyQ
+bars,Bars,g1M73kBmjYj3bWi37RaFtA
+musicvenues,Music Venues,g1M73kBmjYj3bWi37RaFtA
+venues,Venues & Event Spaces,g1M73kBmjYj3bWi37RaFtA
+french,French,9s_6-zeLtobYHy28M9ccMQ
+bistros,Bistros,9s_6-zeLtobYHy28M9ccMQ
+coffeeroasteries,Coffee Roasteries,K5T7N8ZlrilNTX6OdtjC6Q
+landmarks,Landmarks & Historical Buildings,Y1AgP6b5q8wT6xnpXGPBVw
+boating,Boating,Y1AgP6b5q8wT6xnpXGPBVw
+bakeries,Bakeries,jxJ6B1IGD3UsmMTOXptARA
+african,African,17idPukUd766jj1VbvxRXg
+kebab,Kebab,-zFZOZuGQKUcaIbaGASo3A
+desserts,Desserts,QW_3m4g6a_B5uQt9T96XKg
+tradamerican,American (Traditional),QW_3m4g6a_B5uQt9T96XKg
+bagels,Bagels,QW_3m4g6a_B5uQt9T96XKg
+italian,Italian,YZ6majJgV46Oc6jdPqtQ3Q
+pizza,Pizza,YZ6majJgV46Oc6jdPqtQ3Q
+fooddeliveryservices,Food Delivery Services,Vh5ZEAlVv7fgDagjELw35g
+japanese,Japanese,Vh5ZEAlVv7fgDagjELw35g
+himalayan,Himalayan/Nepalese,rDxm1ifIiTfDH9RAsJteDg
+french,French,rsnetdq0Csh1pWwfTTgH2w
+hotels,Hotels,HoHyYr_1khMP763uAPctgw
+cafes,Cafes,HoHyYr_1khMP763uAPctgw
+coffee,Coffee & Tea,HoHyYr_1khMP763uAPctgw
+cocktailbars,Cocktail Bars,b9xcHyeMHOCysmhcwUtzrg
+lounges,Lounges,b9xcHyeMHOCysmhcwUtzrg
+brasseries,Brasseries,M9KZBXIO6pCu2waIrYhvGQ
+indpak,Indian,a41eEenOJO3wvOuGtbFX5g
+srilankan,Sri Lankan,a41eEenOJO3wvOuGtbFX5g
+coffee,Coffee & Tea,C0PIvZ7tUKdxi7CLIk2w4g
+beerbar,Beer Bar,QiHeh_-Nmek410nrWXuJTQ
+french,French,QiHeh_-Nmek410nrWXuJTQ
+french,French,iSXAiRhlSfvXs4BczLSV1A
+foodtours,Food Tours,iSXAiRhlSfvXs4BczLSV1A
+gardeners,Gardeners,Q_Gz6_pMA3VpYbdyOMQjdg
+parks,Parks,Q_Gz6_pMA3VpYbdyOMQjdg
+landscapearchitects,Landscape Architects or Designers,Q_Gz6_pMA3VpYbdyOMQjdg
+foodtrucks,Food Trucks,KqZSk4_ugXe5SZSfQsafNA
+burgers,Burgers,KqZSk4_ugXe5SZSfQsafNA
+panasian,Pan Asian,eakoVR0HKMvjtEsBILvmaQ
+icecream,Ice Cream & Frozen Yogurt,YwfVd74eOszith6k5CPLvQ
+foodtrucks,Food Trucks,YwfVd74eOszith6k5CPLvQ
+italian,Italian,7MKN5a6TVwdwtuCtOdbf-A
+pizza,Pizza,7MKN5a6TVwdwtuCtOdbf-A
+pizza,Pizza,FU8FjsdashthkGM_GhB2gw
+desserts,Desserts,qmFnpvyjP3708OPjyDupxA
+cakeshop,Patisserie/Cake Shop,qmFnpvyjP3708OPjyDupxA
+macarons,Macarons,qmFnpvyjP3708OPjyDupxA
+french,French,appCOYTQUEIwoMxvos4Xug
+creperies,Creperies,Vtf3s-f-EK5V1ONUxW_I5w
+french,French,cApHABm0BGS4xBsOdm2ukA
+spanish,Spanish,Uon80EaNfcoxmpr5SS8HoQ
+cocktailbars,Cocktail Bars,Uon80EaNfcoxmpr5SS8HoQ
+tapas,Tapas Bars,Uon80EaNfcoxmpr5SS8HoQ
+french,French,ijKib0GFoY6mk02kdWyXRw
+bars,Bars,ijKib0GFoY6mk02kdWyXRw
+bakeries,Bakeries,KihX5t1xFbRgPHh22TW6xg
+bars,Bars,2vMVSmKactz_MjYkfLd-PQ
+chinese,Chinese,-gAuYHPoJ0vGSl5uaBHHRQ
+danceclubs,Dance Clubs,jYCDR_9ACz159NXRvQOKww
+pubs,Pubs,jYCDR_9ACz159NXRvQOKww
+french,French,HV4cQ4pz7qVyYb3I1T4fyg
+creperies,Creperies,nqb3iKcboDnrGpL3xrq23Q
+coffee,Coffee & Tea,sAeOKc8TxV0Q_b2cVMJ6Zg
+cafes,Cafes,sAeOKc8TxV0Q_b2cVMJ6Zg
+lebanese,Lebanese,rooUGpVIJkwnYQyaCaBcZg
+chinese,Chinese,SjoaLqu2jTjYjeP0IOotZQ
+ramen,Ramen,SjoaLqu2jTjYjeP0IOotZQ
+french,French,XIb_L5SQSzgKbMWcesBQuw
+french,French,3B5NtIoQuC--Bme00uDUIA
+italian,Italian,ytPPamo0GP3R3y8uCYxSRw
+hookah_bars,Hookah Bars,KW9w_p_CZFUvLduYErAMEA
+japanese,Japanese,TO1J6K91RjaLnu2RbXdRlA
+korean,Korean,4dYX73U9ROTNQZ4GBSlg5w
+cheese,Cheese Shops,dbdJFucvf4i2zpmUW8n_eQ
+salad,Salad,dbdJFucvf4i2zpmUW8n_eQ
+sandwiches,Sandwiches,dbdJFucvf4i2zpmUW8n_eQ
+creperies,Creperies,jAAdF3qWMcVpjP-gR4EADA
+bakeries,Bakeries,9-I2IlzSxJ9_55ezLGSYZw
+bakeries,Bakeries,285ac4ebFwBxQP1_Tpb4vg
+japanese,Japanese,gyxq68OZaFWg0yYg2vMeGA
+brasseries,Brasseries,UP5jnt30VLhmmOxQ9d1fgg
+korean,Korean,cXYN8hF9yPGIebcZoJVPeA
+bakeries,Bakeries,kVSdrsA5BFfWEaCzLv2czQ
+cafes,Cafes,ZN-ATyEKr7NoUWzk4NZ7vA
+breakfast_brunch,Breakfast & Brunch,npMKQlvcITn53sh96D_Ujg
+coffee,Coffee & Tea,npMKQlvcITn53sh96D_Ujg
+cocktailbars,Cocktail Bars,BR25gexBROPbNOuz0XgXDQ
+wine_bars,Wine Bars,BR25gexBROPbNOuz0XgXDQ
+beerbar,Beer Bar,BR25gexBROPbNOuz0XgXDQ
+pizza,Pizza,VLk9hr7jYGgUujYkqver7A
+french,French,VLk9hr7jYGgUujYkqver7A
+wine_bars,Wine Bars,VLk9hr7jYGgUujYkqver7A
+mideastern,Middle Eastern,kPyqVsm4qdXb9sZvRQ8k2Q
+pubs,Pubs,WtZnM3ihizTHiKQnO7RTtQ
+pizza,Pizza,DSMFt9iDBuSm18s2C8ZcgA
+french,French,DSMFt9iDBuSm18s2C8ZcgA
+italian,Italian,DSMFt9iDBuSm18s2C8ZcgA
+pizza,Pizza,idE1IsuSdkTmatYIQGQ8JA
+italian,Italian,idE1IsuSdkTmatYIQGQ8JA
+pizza,Pizza,ROcEH_ESZp6hV_k09eQ4mQ
+bistros,Bistros,aKjfwIP192Vw1OC4Lirq-A
+wine_bars,Wine Bars,EGaSDUrhj2QGcfD87IIdJw
+french,French,EGaSDUrhj2QGcfD87IIdJw
+italian,Italian,Tn63b3wXUoXuEedkKaQJyw
+bbq,Barbeque,y_cYyZ5gGA1WjNqcrucl-w
+breakfast_brunch,Breakfast & Brunch,lyo0XqwY4iB6K3PcQX2sww
+french,French,lyo0XqwY4iB6K3PcQX2sww
+cafes,Cafes,taedvvHE1GIYobAAu7WrIA
+bars,Bars,taedvvHE1GIYobAAu7WrIA
+desserts,Desserts,vKETCYfbc5IZlhyr5SjvpA
+delicatessen,Delicatessen,vKETCYfbc5IZlhyr5SjvpA
+sandwiches,Sandwiches,vKETCYfbc5IZlhyr5SjvpA
+pizza,Pizza,47wYMlaIBVzcjUNmwuBWSQ
+italian,Italian,47wYMlaIBVzcjUNmwuBWSQ
+italian,Italian,zj_VG6_wjhJK30su7ZZCyg
+tapas,Tapas Bars,IKCv97UEI-4gp133NzW8HQ
+wine_bars,Wine Bars,gfCBVPT48Noe4qGEVkpN5g
+pizza,Pizza,HO31AKmlmywDkpcwhDWh-A
+italian,Italian,HO31AKmlmywDkpcwhDWh-A
+japanese,Japanese,De9ggm_AZYtUbg4NMuxxsg
+bakeries,Bakeries,APHdwLHJ1Qggnq1OripT_A
+bistros,Bistros,eLppXlyGwUwqvlSHmpHIgg
+french,French,eLppXlyGwUwqvlSHmpHIgg
+bakeries,Bakeries,SIgX2ygdmJ5MozV9yzGYvw
+srilankan,Sri Lankan,LiswnNHQWuf2VO9C_2d59Q
+italian,Italian,iCC9ruwg8jVLxt77syO8XQ
+pizza,Pizza,iCC9ruwg8jVLxt77syO8XQ
+french,French,8HayzmdrC1JqWLi_7uonSA
+greek,Greek,JSuT7a7vgZVGyCvQMYSemg
+panasian,Pan Asian,b-bFPUjflbPMEZ6Z1Co9Wg
+italian,Italian,4xLQMBNHCrtCJ2wj-pAXUQ
+french,French,eoUCWArm9w8kXtyA0N7MoQ
+asianfusion,Asian Fusion,V6-KvEIECs8P2cXayCO22Q
+coffee,Coffee & Tea,Yz-FRQ1qlXBxXX7YADx0KQ
+burgers,Burgers,6GOzjK6ONKw2mCxGSc4gqA
+seafood,Seafood,r5hIJbPCB2Q0_sw1EBS4Zw
+burgers,Burgers,r5hIJbPCB2Q0_sw1EBS4Zw
+cocktailbars,Cocktail Bars,r5hIJbPCB2Q0_sw1EBS4Zw
+bistros,Bistros,eW7xda0_ISEo_1ZG8g22WQ
+pizza,Pizza,b95KnQnbSXGNFMlJVcJVnA
+beerbar,Beer Bar,FyROvdQq9ZeGwtD40u0e4Q
+cocktailbars,Cocktail Bars,0yly7egVha2qZWsM_54imw
+chinese,Chinese,I5ABgPbV2IyPOZIIFmNzow
+french,French,IV-U3hpsW7eL0eB3ogSc9A
+beerbar,Beer Bar,IV-U3hpsW7eL0eB3ogSc9A
+cocktailbars,Cocktail Bars,IV-U3hpsW7eL0eB3ogSc9A
+french,French,u0g7WQaFcrIBhG29TSzWJw
+italian,Italian,7oFpNTCcsQZE0RbFp7Y3BA
+seafood,Seafood,R3bELm2-TJPBNu3Y9edaGA
+japanese,Japanese,sELjVQsud9aKqLhBC9vNqw
+mediterranean,Mediterranean,2VjVSIw300_iDsK_gi_emg
+vietnamese,Vietnamese,53U3AEWiVgf-vKVfithMrw
+french,French,rkNa2PaSNb1Y8zDu9fHbww
+cocktailbars,Cocktail Bars,rkNa2PaSNb1Y8zDu9fHbww
+creperies,Creperies,RxLHqvoEE62nwIcsxA3VHA
+breakfast_brunch,Breakfast & Brunch,RxLHqvoEE62nwIcsxA3VHA
+delicatessen,Delicatessen,gW2d26Iz5c4gesMCZ7agHA
+sandwiches,Sandwiches,gW2d26Iz5c4gesMCZ7agHA
+japanese,Japanese,lZWlDIhp9cbnJN4FvmoTBg
+lebanese,Lebanese,yFZ1_kGVYiTwqNR2O4HQqA
+creperies,Creperies,AzmLFVuOHT3QbfGcoLe4qg
+sandwiches,Sandwiches,AzmLFVuOHT3QbfGcoLe4qg
+french,French,DUjjUkDexVXd3hef0rhlZg
+italian,Italian,KsPNOKokkwf6lTNQiF5Q4w
+coffee,Coffee & Tea,d_FCQt27rR-uJypwgjFPbg
+indpak,Indian,oBry7omEm5kavp_l86AjCA
+french,French,EmeR6gAn-CUNaKE4icbgnw
+french,French,1S3P9O2J2e7JPv2UmRSsLw
+modern_european,Modern European,3nJa6ra1CetN2HTaIzUXoA
+french,French,vXBXu2G6YaiGHsH4wO3wEw
+french,French,4AlcEZLAWfGWyCkRcQoWuw
+italian,Italian,zFxHWHYX6_MQcnso2KSBag
+french,French,AIgHVORoeEsGKKVZVSNlPg
+japanese,Japanese,kpxcH7VsExHmbjzRHgizVw
+amusementparks,Amusement Parks,FJjyEXO6UTirJzQtwwx44Q
+french,French,2oKjqg386xiVUN3tOFFrug
+cafes,Cafes,uSbrVw_sVHOthg63MwJBxA
+breakfast_brunch,Breakfast & Brunch,uSbrVw_sVHOthg63MwJBxA
+bistros,Bistros,W1BQq4zOuiOnR3jgnPWNDQ
+bakeries,Bakeries,lGRVrfoE-6vd7nfVHzfkaw
+mediterranean,Mediterranean,xU7XqyR-7gbdQeY7kSfJOA
+hotdogs,Fast Food,xU7XqyR-7gbdQeY7kSfJOA
+mideastern,Middle Eastern,xU7XqyR-7gbdQeY7kSfJOA
+french,French,vBgH6P6TGe5WiEIYY32zug
+tapasmallplates,Tapas/Small Plates,H-zQAY6zHAb-fWpJnpPh2g
+cocktailbars,Cocktail Bars,H-zQAY6zHAb-fWpJnpPh2g
+french,French,2iXqrG7UVTQj4VLX9ts7ZQ
+creperies,Creperies,JbITkgisChYWtrAxsnFRTw
+french,French,C0E_6Vkp4_ZkOhshlaUzfA
+seafood,Seafood,C0E_6Vkp4_ZkOhshlaUzfA
+cafes,Cafes,1SqrXDSixGOGpUrM7FYYeg
+breakfast_brunch,Breakfast & Brunch,1SqrXDSixGOGpUrM7FYYeg
+french,French,2BdUhnAAPohrmbX-8FWwyQ
+tea,Tea Rooms,qYtTvEq5ZLDbQYisalAIUw
+pizza,Pizza,EVHq81kzEilIWvm06roNbQ
+italian,Italian,EVHq81kzEilIWvm06roNbQ
+auvergnat,Auvergnat,GxyDiKMzNyE-7Sui55h7jw
+parks,Parks,bY3F-s9tLFgZMMaC0FrLAA
+bistros,Bistros,8sKh4WaYS6jAFfnz8cdQLQ
+french,French,gEFwkNmam8Dev4EXmc-BlQ
+french,French,RFYaxrDX1uT1ZlNOdfuDOA
+restaurants,Restaurants,l71FXlZrExpRs5RqX9Ty-A
+kosher,Kosher,lgCDqPkFhnvn_qTDFphdYA
+burgers,Burgers,lgCDqPkFhnvn_qTDFphdYA
+bakeries,Bakeries,uqX65Je_8GAvvhsqG6X5ow
+french,French,x3OIwHaSHcfN5z0KWnuC4g
+creperies,Creperies,QKOaZpL4tnhEBFyd0EeeCA
+seafood,Seafood,CB8HN0AnBxV3jEZYggsTVQ
+bakeries,Bakeries,ygxg5QxtApRZtQtv2nkaxw
+bakeries,Bakeries,UVaUpD0MsW4GUX9AeRtTkw
+wine_bars,Wine Bars,9m27lKBvquj1XVn94ytW3w
+italian,Italian,9m27lKBvquj1XVn94ytW3w
+creperies,Creperies,dONNqHhumDtsnxgXI1FFdw
+modern_european,Modern European,Y3jckbVRuGWNNS1sFz2vKw
+bistros,Bistros,Y3jckbVRuGWNNS1sFz2vKw
+bakeries,Bakeries,jVspEfYCGnJVg0FNeP6LeQ
+italian,Italian,-rcpysSmRK2hqapL0OCW8g
+french,French,RS7zLsdgYgYvErU1ZljifQ
+naturopathic,Naturopathic/Holistic,cI4V2GfhtUIFHq9FW5ptHg
+gluten_free,Gluten-Free,cI4V2GfhtUIFHq9FW5ptHg
+cafes,Cafes,cI4V2GfhtUIFHq9FW5ptHg
+desserts,Desserts,0tO0G-_b4HXY8jBMY8Nhlg
+bakeries,Bakeries,0tO0G-_b4HXY8jBMY8Nhlg
+panasian,Pan Asian,Y_a6B6XEeIXSyF5pyfLEWg
+japanese,Japanese,jUoy1vo748LNM_iyq_vBFg
+sushi,Sushi Bars,jUoy1vo748LNM_iyq_vBFg
+french,French,DO20Zh_yvk3UJeWiA_Xt7w
+moroccan,Moroccan,W9YBfaQ8snwoKBi5EWG5Fw
+catering,Caterers,eZZwkHbvjKBX6kvW5vZLUQ
+indpak,Indian,eZZwkHbvjKBX6kvW5vZLUQ
+brasseries,Brasseries,kjQpLIlnJ8u-y2PvnHVLsA
+burgers,Burgers,cKRSQzqdzNX8ScMz4IVx3g
+cafes,Cafes,syOSxYizAeqZXYHLq3pt9w
+coffee,Coffee & Tea,syOSxYizAeqZXYHLq3pt9w
+pizza,Pizza,5Sp2qtqWdIvG6chl6DSj2Q
+italian,Italian,5Sp2qtqWdIvG6chl6DSj2Q
+landmarks,Landmarks & Historical Buildings,kz3PdcEnAFqxzsFGYupF_w
+museums,Museums,PWwvwAQicQWYPrdq1CrYPA
+creperies,Creperies,iHREoX93HaxUnRKokxo1UA
+food,Food,hLmtXEesqatsMcNq4la9KQ
+bars,Bars,hLmtXEesqatsMcNq4la9KQ
+french,French,zalgIn8YW47VOsirkOtHxA
+italian,Italian,zalgIn8YW47VOsirkOtHxA
+pizza,Pizza,zalgIn8YW47VOsirkOtHxA
+restaurants,Restaurants,LYxAyKTwXol9figyY3A6qA
+french,French,xMrM_pXbMu1zGw34wOM3VA
+vegetarian,Vegetarian,6W3XS-k6YrebddH9Ar1AkA
+museums,Museums,7hzY5uBLnaw5NrlGarE8-A
+bbq,Barbeque,pLUm26Dv_20xuvi3lAKXdw
+moroccan,Moroccan,pLUm26Dv_20xuvi3lAKXdw
+restaurants,Restaurants,uBDdjVzoiMzQ9e19PDkyvQ
+italian,Italian,PkYTk9ulPKAzIuNGua86Aw
+panasian,Pan Asian,3YvRY02qCn7cSzZQqxx4lQ
+belgian,Belgian,f9JOcYHga32nYb2R3V6TaQ
+lounges,Lounges,qaFNRQDmsW89gN7atsGg2w
+brasseries,Brasseries,qaFNRQDmsW89gN7atsGg2w
+foodtrucks,Food Trucks,DcwuFWMFy8dHhwmJAeeaAA
+african,African,DcwuFWMFy8dHhwmJAeeaAA
+caribbean,Caribbean,DcwuFWMFy8dHhwmJAeeaAA
+restaurants,Restaurants,qovtaOGnFK4c3KpADY9ezg
+japanese,Japanese,eenXnM3j8jxoJBvVCBkxvg
+italian,Italian,lZ28GDranYgohEBlhLAYuQ
+french,French,4jAY4aCmn3KqNMrfZJPcvg
+seafood,Seafood,qWY5_v3XjhSfaw3KrS9eOg
+seafood,Seafood,awnyHcz9mpobe91T43PvxQ
+scandinavian,Scandinavian,awnyHcz9mpobe91T43PvxQ
+bakeries,Bakeries,fDII6pKChvtlPND14v853w
+french,French,6e4I5RDNwFPVH4nNOxxKrg
+japanese,Japanese,G6OAB1ZuwnGYOvo1phqaRQ
+bakeries,Bakeries,vf6FNB8SQhYsmIGwkbz9BQ
+desserts,Desserts,vf6FNB8SQhYsmIGwkbz9BQ
+salad,Salad,85_KIoZXQQL_Swkpxw5COA
+french,French,85_KIoZXQQL_Swkpxw5COA
+sandwiches,Sandwiches,85_KIoZXQQL_Swkpxw5COA
+museums,Museums,L4nEaEI72gvFRI88L4xaEw
+international,International,gBCOp4QBoGaawgNigHij8w
+italian,Italian,gBCOp4QBoGaawgNigHij8w
+restaurants,Restaurants,F0Ba9IJc78CHd8LcIU_z9w
+french,French,WHHt_Jb8Tgidn9mW7oDnIg
+bakeries,Bakeries,wCfRv8PEb1cNjy02y3NoFQ
+bistros,Bistros,us0-Gf-_M-8MZzqBagb5kA
+coffee,Coffee & Tea,Vcai0o69zrtqbAY_Wam9Iw
+bakeries,Bakeries,06DyILiMgvx5cIcSYK7bLQ
+italian,Italian,bYhtqa4y-Sem1syq3kQffQ
+bistros,Bistros,ImboxNVZPq7Wn3JWUjchWQ
+italian,Italian,fexAXMbB1T03-k7O0Ttwdw
+wine_bars,Wine Bars,ASen2utCctS6YWluJAJbPA
+bistros,Bistros,ASen2utCctS6YWluJAJbPA
+cocktailbars,Cocktail Bars,ASen2utCctS6YWluJAJbPA
+bakeries,Bakeries,us8zYWKaS2f3y88iYVo3gQ
+himalayan,Himalayan/Nepalese,3fVE8i57zteoeBnrgAkbCw
+cafes,Cafes,H8wx17sZ7i4C463OgHCDFQ
+bakeries,Bakeries,H8wx17sZ7i4C463OgHCDFQ
+japanese,Japanese,u-PsbIdHlea2tcgVpwPJsQ
+sushi,Sushi Bars,u-PsbIdHlea2tcgVpwPJsQ
+french,French,MsxfKPacvYhg97x1ui22wA
+french,French,weiNgy7k32W5fmZoTaF-Bw
+wine_bars,Wine Bars,d-HpsAD3_duEkraGrE952g
+soup,Soup,m8NmEDE037oBJ0zQ1lbDZw
+chinese,Chinese,m8NmEDE037oBJ0zQ1lbDZw
+panasian,Pan Asian,m8NmEDE037oBJ0zQ1lbDZw
+tea,Tea Rooms,b4SiRx5qTgijxyQ-KWHgCw
+cakeshop,Patisserie/Cake Shop,b4SiRx5qTgijxyQ-KWHgCw
+coffeeroasteries,Coffee Roasteries,vsCWS8eD-35ryL5cNwuYRw
+breakfast_brunch,Breakfast & Brunch,vsCWS8eD-35ryL5cNwuYRw
+salad,Salad,eKECABmrfM7CNCXDUsujYQ
+sandwiches,Sandwiches,eKECABmrfM7CNCXDUsujYQ
+gluten_free,Gluten-Free,eKECABmrfM7CNCXDUsujYQ
+bakeries,Bakeries,4PcxyWXrkBeHXsCc8GhDHg
+italian,Italian,HaqUm30q9W7scOj2k-bpSg
+bakeries,Bakeries,hgCCn5C3hFgb-fRj8WZi-A
+cakeshop,Patisserie/Cake Shop,hgCCn5C3hFgb-fRj8WZi-A
+laotian,Laotian,_FjIipJ6hez_tlqqDieenQ
+french,French,9Xi2_E_2c0_1A4UxntR6Og
+peruvian,Peruvian,Ws4ibqvZYP7uAX1_8zfuQw
+halal,Halal,wbkod_0Enz97_AyXe54KSw
+french,French,wbkod_0Enz97_AyXe54KSw
+french,French,qMnhkyNKQymNssDsYG1muA
+french,French,N_lW5al83X9cmqyHjvjEsA
+coffee,Coffee & Tea,N_lW5al83X9cmqyHjvjEsA
+pizza,Pizza,9ru1fYRoXm4IMRldUOS59A
+salad,Salad,9ru1fYRoXm4IMRldUOS59A
+whiskeybars,Whiskey Bars,2QkEIA-U84lAdCQY_7ax-w
+bakeries,Bakeries,hOLjmbvoVVL_2t9U4ODbvQ
+cakeshop,Patisserie/Cake Shop,hOLjmbvoVVL_2t9U4ODbvQ
+sharedofficespaces,Shared Office Spaces,OHGcF5jpWEHvtRXghqHx9Q
+coffee,Coffee & Tea,OHGcF5jpWEHvtRXghqHx9Q
+eventplanning,Party & Event Planning,OHGcF5jpWEHvtRXghqHx9Q
+asianfusion,Asian Fusion,KpoXpvctx9Yw5rP7T6FdgQ
+panasian,Pan Asian,1oeXmtMcBbS0BZbsLGZ0qg
+bakeries,Bakeries,gOL6AHQZhY3oSKj2QQhaNg
+hotdogs,Fast Food,rSWF0mXkm-J6SZCO4q9tFA
+pizza,Pizza,5_4JD4c6IKCqrSAYUUgmgQ
+italian,Italian,5_4JD4c6IKCqrSAYUUgmgQ
+french,French,GoYMZz55cdFN8ZIc63QJ7Q
+french,French,Xh16xM655GFnFdGAXMGiFQ
+desserts,Desserts,aQh7g0UkQNHWUU2ZY3jFSQ
+coffee,Coffee & Tea,aQh7g0UkQNHWUU2ZY3jFSQ
+bars,Bars,JGmlBOPev4wX4bQOmjMvbA
+coffee,Coffee & Tea,v0erDERoPDk719Mt1gkEZw
+mediterranean,Mediterranean,gcI2EOl5TnFpHa4uzrlJOw
+cocktailbars,Cocktail Bars,TzbS5NTzdK5oYkc8YEx4SA
+french,French,XkiFIjW7peRyKhBVOYKzVA
+bistros,Bistros,XkiFIjW7peRyKhBVOYKzVA
+pizza,Pizza,XMtOE6L58G8II2HN2EQqEQ
+french,French,XMtOE6L58G8II2HN2EQqEQ
+cocktailbars,Cocktail Bars,XMtOE6L58G8II2HN2EQqEQ
+moroccan,Moroccan,Jp5n11ZLuFH3n6iQ9zSSZg
+gluten_free,Gluten-Free,Jp5n11ZLuFH3n6iQ9zSSZg
+french,French,42oT6JZLfnCRT_4Z8GGMvQ
+tapas,Tapas Bars,X5IyD3AYdOtIkUuE0QV5cA
+seafood,Seafood,X5IyD3AYdOtIkUuE0QV5cA
+senegalese,Senegalese,i68SO4FbrwQ735qjDEFJnA
+french,French,RZKuo6dEEUk4FQrhHfo4pw
+bakeries,Bakeries,u8yQBt-WlxQPYZKEe2FY1g
+desserts,Desserts,u8yQBt-WlxQPYZKEe2FY1g
+pubs,Pubs,ZUDq3UloGN-1A-a6OVX6Aw
+musicvenues,Music Venues,ZUDq3UloGN-1A-a6OVX6Aw
+cakeshop,Patisserie/Cake Shop,tpaCl2PkKpeNFoGevHD7FQ
+bakeries,Bakeries,tpaCl2PkKpeNFoGevHD7FQ
+salad,Salad,qBWYoCphaZeK9NqyqV0tgQ
+hotdogs,Fast Food,qBWYoCphaZeK9NqyqV0tgQ
+sandwiches,Sandwiches,qBWYoCphaZeK9NqyqV0tgQ
+french,French,QLTo1y7dGCAANPQ7Po9fhA
+brasseries,Brasseries,QLTo1y7dGCAANPQ7Po9fhA
+bars,Bars,YXuSdz_JWpB4_nY4ggmlbw
+salad,Salad,YXuSdz_JWpB4_nY4ggmlbw
+burgers,Burgers,YXuSdz_JWpB4_nY4ggmlbw
+burgers,Burgers,xsCFiOHruIdlj6JFs1rokA
+bbq,Barbeque,xsCFiOHruIdlj6JFs1rokA
+salad,Salad,xsCFiOHruIdlj6JFs1rokA
+chinese,Chinese,q3sXsBE_DWLkcQR7rLvz0w
+french,French,ACekuBfaUUkw9isv7zBUiQ
+seafood,Seafood,ACekuBfaUUkw9isv7zBUiQ
+bistros,Bistros,oGDr0XaImMDpiVuqxgdeoQ
+pizza,Pizza,cJPOKlNnbJAxEQGB9t_Rkg
+halal,Halal,cJPOKlNnbJAxEQGB9t_Rkg
+japanese,Japanese,B6t9rEvRLyMwJbQ3RKHbJQ
+portuguese,Portuguese,O9acSDghTMkUevs3TxrPqw
+sushi,Sushi Bars,zBzGBbcTPtAd6XjzcK8UWw
+japanese,Japanese,zBzGBbcTPtAd6XjzcK8UWw
+french,French,5dKZ9WDjaG8FLpXLt6AgpQ
+bars,Bars,5dKZ9WDjaG8FLpXLt6AgpQ
+restaurants,Restaurants,2V2yDdQdf7xPu4gdZt8Tjw
+french,French,Xghxj90gTCgRhBwSTSa6bw
+lebanese,Lebanese,Xghxj90gTCgRhBwSTSa6bw
+restaurants,Restaurants,lc41IrM0HbxYR69YmIePaA
+bars,Bars,lc41IrM0HbxYR69YmIePaA
+french,French,fPiYIjJGnPhg72jZa0plIg
+japanese,Japanese,LPjEK6YnHJPvfZexgoEyGQ
+sushi,Sushi Bars,LPjEK6YnHJPvfZexgoEyGQ
+italian,Italian,hH8eOc6t-KS4DxfxeRjzvQ
+pizza,Pizza,hH8eOc6t-KS4DxfxeRjzvQ
+italian,Italian,kJVuq3kyfU45wsRwQPWk8Q
+bakeries,Bakeries,-Oqr-JRnFK-cMTtc13zL3Q
+french,French,39JKH-41xyEVKjVI75ST4w
+international,International,39JKH-41xyEVKjVI75ST4w
+french,French,nsOeoBRrECA9_llX-IB22w
+cafes,Cafes,B4d0GBKrF2Rz3WWr3bpKFA
+vietnamese,Vietnamese,FECqJqzCLd7lpI-Bou5csA
+french,French,BNRuBK7WeRumRzipT7xBjA
+bars,Bars,BNRuBK7WeRumRzipT7xBjA
+chinese,Chinese,rpgpw9v79Hh91kF5soQNnQ
+mexican,Mexican,f6qIKSyHqK3ZGugkvb076w
+french,French,_3AP0cwBociYfFTpjH5WIg
+french,French,dmWAR1xuEUiWPQo0NX6Fhw
+bars,Bars,R184dXR3enkK9yN8cq46Iw
+moroccan,Moroccan,R184dXR3enkK9yN8cq46Iw
+brasseries,Brasseries,R184dXR3enkK9yN8cq46Iw
+bistros,Bistros,l6pI9BbiMXJrnQIxUDdCaw
+bars,Bars,8sM5s2_D19WIwADb-3mhyQ
+musicvenues,Music Venues,8sM5s2_D19WIwADb-3mhyQ
+chinese,Chinese,SHKMfl_9Lcx7R5K0mRHWyg
+panasian,Pan Asian,SHKMfl_9Lcx7R5K0mRHWyg
+moroccan,Moroccan,MPUp8Rx4H5jmu713uruizw
+chinese,Chinese,yjqZzO9eU-PWTYsIzgY9zA
+japanese,Japanese,yjqZzO9eU-PWTYsIzgY9zA
+french,French,5s8e60g-7gQ_Ybqdp_LCbQ
+panasian,Pan Asian,5s8e60g-7gQ_Ybqdp_LCbQ
+bakeries,Bakeries,bNLELF0e_VObyiBvvScW4g
+cakeshop,Patisserie/Cake Shop,bNLELF0e_VObyiBvvScW4g
+wine_bars,Wine Bars,xJ2cKZbEDGaa1CxSoJ-5Cg
+french,French,xJ2cKZbEDGaa1CxSoJ-5Cg
+beerbar,Beer Bar,KKdzARPYdmbjmzGrYXcYbA
+bistros,Bistros,ffyDe0isvIoazdm78LAVSg
+french,French,ffyDe0isvIoazdm78LAVSg
+bagels,Bagels,cptjvv5RQFpHW53KgeGAhA
+cafes,Cafes,IS-ph2BFwGrYLMOYFCOUnw
+beerbar,Beer Bar,lTTzYtu-mkObqRANIRt5wg
+wine_bars,Wine Bars,lTTzYtu-mkObqRANIRt5wg
+hotdogs,Fast Food,sCbLigteBXDzIve1ZgBCfQ
+lebanese,Lebanese,sCbLigteBXDzIve1ZgBCfQ
+french,French,IMnLlceZimV_OhHO6F6eLg
+bars,Bars,QTzEWq8nRLLwYUJi_3Iz8Q
+cafes,Cafes,QTzEWq8nRLLwYUJi_3Iz8Q
+butcher,Butcher,rl4JqMHzHx6dHbBNzSLcTg
+butcher,Butcher,Jyb9N5vDI7pnFwUSv2hXZQ
+parks,Parks,hi8exBCxJra79qPEovRing
+landmarks,Landmarks & Historical Buildings,hi8exBCxJra79qPEovRing
+pizza,Pizza,KCts2Ipmfzgc_QH2Gp22zA
+italian,Italian,KCts2Ipmfzgc_QH2Gp22zA
+bars,Bars,3bYzNVawAvwGkF1e6O3xDw
+japanese,Japanese,fktUPloPt_3PWrzyYNq1rA
+indpak,Indian,BbaN5LPeNF9Ejd_mVDmnaw
+pizza,Pizza,az9nK5n9cFyw0On1gn-u7g
+french,French,C5xv5wdf8mkZXqrq4aim3g
+wine_bars,Wine Bars,C5xv5wdf8mkZXqrq4aim3g
+beer_and_wine,"Beer, Wine & Spirits",C5xv5wdf8mkZXqrq4aim3g
+indpak,Indian,zMT2NdJn6TW1YmfkIWAfjw
+italian,Italian,MZPyGja5tPCnvcjPA2IkcA
+pizza,Pizza,MZPyGja5tPCnvcjPA2IkcA
+french,French,mx4A-HpA5RVXlWDHJKrBIg
+parks,Parks,ZkHS5rUeb-J5K1u0WRRZFA
+breakfast_brunch,Breakfast & Brunch,yORtNidFFmSfFLGdyBtSgA
+french,French,BD_poW53hBAKxDjf40Mq1Q
+french,French,EGOI9ZJssbshHMCs5CgEEQ
+french,French,8jq9Wumj3Yri8HKPWT5Ekg
+french,French,TU0s5H4ct3hbu1axgoxlFA
+cafes,Cafes,Y1HWvUYyacXV5MoyCbLCoA
+french,French,0v26s2eIC20M_vTnwqyHPg
+bakeries,Bakeries,QUgI1WoNc8vxFI9ondu-xg
+african,African,NEoldzd3tUx98uOLvvnWKw
+bistros,Bistros,IQzmfrWb2kW-RuegmPaS-w
+sandwiches,Sandwiches,26Ts-2XRSeqiweSwLuyv6Q
+delicatessen,Delicatessen,26Ts-2XRSeqiweSwLuyv6Q
+coffee,Coffee & Tea,C4bVk10hzVqRZYb6yy6D8A
+bakeries,Bakeries,VvOuiA43GoL0QxNmueeGMg
+japanese,Japanese,d0p3U3DSWIBJ40XZgMmC0A
+french,French,ScuxLQQOQWGB6jrP4565MA
+creperies,Creperies,ScuxLQQOQWGB6jrP4565MA
+salad,Salad,ScuxLQQOQWGB6jrP4565MA
+lounges,Lounges,PCOSXTuU7pLdNnas9cdD8w
+cafes,Cafes,PCOSXTuU7pLdNnas9cdD8w
+golf,Golf,Pd7N6yw3RaYwJifGYjuULg
+bakeries,Bakeries,4pWhD6wJu45sBhbrI14wjA
+japanese,Japanese,FfLcAoVwNQW3MIVo-0UWzA
+panasian,Pan Asian,FfLcAoVwNQW3MIVo-0UWzA
+japanese,Japanese,QBHF29wgC_ZNv3G8Ji1PDw
+sushi,Sushi Bars,QBHF29wgC_ZNv3G8Ji1PDw
+burgers,Burgers,GoLGuHW-Lt58SeHyHk7XJg
+creperies,Creperies,_1hVJY8mN9A9b4IANm-qYw
+pizza,Pizza,-N7A5RVxt4vdJBB5h8tZXw
+italian,Italian,-N7A5RVxt4vdJBB5h8tZXw
+fooddeliveryservices,Food Delivery Services,-N7A5RVxt4vdJBB5h8tZXw
+chinese,Chinese,x2qBVutfA9sHbuEXzXS4Og
+vietnamese,Vietnamese,x2qBVutfA9sHbuEXzXS4Og
+thai,Thai,x2qBVutfA9sHbuEXzXS4Og
+stadiumsarenas,Stadiums & Arenas,8H5e26ZB6nGJOhCG5sCJjg
+parks,Parks,8H5e26ZB6nGJOhCG5sCJjg
+chinese,Chinese,6IXORSpn4mB1BG7Fz6jf6Q
+vietnamese,Vietnamese,6IXORSpn4mB1BG7Fz6jf6Q
+thai,Thai,6IXORSpn4mB1BG7Fz6jf6Q
+restaurants,Restaurants,Sj9cEeQ8ATTL32TXQLU_mQ
+breakfast_brunch,Breakfast & Brunch,F5F7r7sCoeTTe_e-7MVg8Q
+cafes,Cafes,F5F7r7sCoeTTe_e-7MVg8Q
+pizza,Pizza,F5F7r7sCoeTTe_e-7MVg8Q
+restaurants,Restaurants,M7ecmUmx3iBZUSbbhlRQfA
+bakeries,Bakeries,eMHWnb6ig6pIki4nzzFcJQ
+portuguese,Portuguese,xw_96NkJD4iR3dpWak_0vw
+restaurants,Restaurants,roqxukjgXwiIxAl5K10FaQ
+korean,Korean,UjxlYEPpNSHZsgkXTZXAfA
+french,French,v0c2wjLoKWYXDHrHTkRcSw
+lebanese,Lebanese,dGhFkkR-2ZiFXfsCJNG5OQ
+salad,Salad,dGhFkkR-2ZiFXfsCJNG5OQ
+sandwiches,Sandwiches,dGhFkkR-2ZiFXfsCJNG5OQ
+vietnamese,Vietnamese,y6W23vFLTQV4c1EmB23S-Q
+moroccan,Moroccan,YjTOgR8ZRYRRH5qjCxUCpQ
+french,French,NerAPXI1rxR9fVo-1erqrQ
+pizza,Pizza,MBX813phW8g6HiBV6ppp5Q
+italian,Italian,MBX813phW8g6HiBV6ppp5Q
+lebanese,Lebanese,DVjPgHN9D9RS4VK6Dd5pBA
+hotdogs,Fast Food,BrSrY6eEJskuIwLlLixVFw
+japanese,Japanese,W4sqORTDgu-aI5fSCtomzA
+italian,Italian,3JaVV8jxGSRYnlEvWgE79Q
+restaurants,Restaurants,So1GPsivL_qBJSc19fDGBw
+restaurants,Restaurants,iuOr3pz0tkhSdDtGpjZbmw
+french,French,2BUo8nsZIVa_ZwOLtRCJmQ
+bars,Bars,2BUo8nsZIVa_ZwOLtRCJmQ
+basque,Basque,CIe-2UTmOxEvtwD_E4nqIA
+grocery,Grocery,CIe-2UTmOxEvtwD_E4nqIA
+restaurants,Restaurants,ys7kiT43uNTUtgOjoCQi1w
+lebanese,Lebanese,q5Y-dXa8ywMOABG3WflwAA
+halal,Halal,q5Y-dXa8ywMOABG3WflwAA
+arabian,Arabic,q5Y-dXa8ywMOABG3WflwAA
+pubs,Pubs,RY6uTCW5NwN8AnfeYkjfMA
+bakeries,Bakeries,9Aywsi0QelbDGAaoPmYd-Q
+cafes,Cafes,vaUsqopocotQ6Xnke2lw8A
+galleries,Art Galleries,S7VwCEVLPaYIZtZ2AaL_Ww
+bakeries,Bakeries,S7VwCEVLPaYIZtZ2AaL_Ww
+chinese,Chinese,8iBRqGjOu4CnUKvelRu1JA
+african,African,jQnwCvK4vsXS8WCmLBrIkA
+french,French,hyKPTol3RKQm8S4IHtBsRQ
+chinese,Chinese,mTtqXRXp4_MJegIHYOoPYg
+french,French,8G0v1xjC0kcURL749x__tA
+wine_bars,Wine Bars,8G0v1xjC0kcURL749x__tA
+french,French,-mi7_8IfHDJSjK3KuSLuog
+mediterranean,Mediterranean,fX_RsiTpbwpVKjQJVo8K3g
+french,French,fX_RsiTpbwpVKjQJVo8K3g
+desserts,Desserts,erZ7YtY4Z62_PNpUqh0fhg
+coffee,Coffee & Tea,erZ7YtY4Z62_PNpUqh0fhg
+panasian,Pan Asian,erZ7YtY4Z62_PNpUqh0fhg
+french,French,WVeyJKUkYPTzm6FIDtKMpw
+korean,Korean,Ksx0RVZtYuh9hd1Lt42XfA
+lebanese,Lebanese,qAQTZdpVkMuGspaf4l2BBw
+cafes,Cafes,bbi97rCa7UL4jOZ2eNZVwA
+breakfast_brunch,Breakfast & Brunch,bbi97rCa7UL4jOZ2eNZVwA
+french,French,pt3g9D5gkWTwanBscCLToQ
+korean,Korean,IucBQxcOXGZd4OezcpdKeQ
+vietnamese,Vietnamese,7hePVRXOyDD2wkpfQmOxrQ
+french,French,IUjXmKo-WnKZl8l-WVYrfA
+pizza,Pizza,SCIn9w_ezUXWffZtK1D-kA
+salad,Salad,SCIn9w_ezUXWffZtK1D-kA
+italian,Italian,SCIn9w_ezUXWffZtK1D-kA
+japanese,Japanese,YggkCJq5nprLW9Ud91gJbA
+french,French,oFdyQjpA87-Y1BlFJi81Pg
+seafood,Seafood,-XdeJunKGvFEyjTAm4Wjtg
+cocktailbars,Cocktail Bars,O-X0r1kxlDzKimc-HyicSw
+danceclubs,Dance Clubs,O-X0r1kxlDzKimc-HyicSw
+seafood,Seafood,yNjWRVdbVvzGkQNhvpuMvg
+french,French,CQi4W2vY8KSiG6n24eaScA
+sushi,Sushi Bars,W2DRU4CmZwGy6I5C1Jwe1g
+japanese,Japanese,W2DRU4CmZwGy6I5C1Jwe1g
+french,French,Yq1084dh0THvZYQRJkR1kg
+bars,Bars,InFc2tIyO3RkfJdqu5H6EA
+french,French,jvaKUEzscmxTmVSbSR7Maw
+breakfast_brunch,Breakfast & Brunch,jvaKUEzscmxTmVSbSR7Maw
+jazzandblues,Jazz & Blues,I3Hmkr69O3TEfqh_BZ7KBQ
+bars,Bars,I3Hmkr69O3TEfqh_BZ7KBQ
+cocktailbars,Cocktail Bars,lTGYl3EcDKgXUhKpd7qQsw
+beerbar,Beer Bar,lTGYl3EcDKgXUhKpd7qQsw
+cafes,Cafes,lTGYl3EcDKgXUhKpd7qQsw
+macarons,Macarons,9hDfehxkmfQYaE9nvVKjCw
+chocolate,Chocolatiers & Shops,9hDfehxkmfQYaE9nvVKjCw
+icecream,Ice Cream & Frozen Yogurt,9hDfehxkmfQYaE9nvVKjCw
+gourmet,Specialty Food,wAFzjPSm_GfmcPqyUJxmxw
+bakeries,Bakeries,wAFzjPSm_GfmcPqyUJxmxw
+vietnamese,Vietnamese,GNJSCW8x0N0R_s7BJug8cg
+french,French,R38fKm8cPHPBCovE9ThGVA
+creperies,Creperies,ilCyT646klObzfxseJ0z1A
+french,French,ilCyT646klObzfxseJ0z1A
+wine_bars,Wine Bars,ilCyT646klObzfxseJ0z1A
+bakeries,Bakeries,r2kbxjWiU8BV7Vxn-p53Qg
+sandwiches,Sandwiches,r2kbxjWiU8BV7Vxn-p53Qg
+wine_bars,Wine Bars,N_um0udzr5HLGN_KMCHyDQ
+bakeries,Bakeries,Pn0BTmp4ZxJLS4FHLYHY2g
+beerbar,Beer Bar,5TvpB7UPDFdUv_MqQfEsEg
+pubs,Pubs,5TvpB7UPDFdUv_MqQfEsEg
+french,French,iPkTOYajrg6e7-ldGgyJQA
+french,French,JhmhAbjtOhjWqMjUj9IwYg
+museums,Museums,IGne41QpDs1YnCDhw44GIw
+japanese,Japanese,z5Uyisyd9qU7sFGRNyowwA
+french,French,auVjpJst3io9eb6s8pt2Ag
+wine_bars,Wine Bars,auVjpJst3io9eb6s8pt2Ag
+restaurants,Restaurants,PKpDGvhD_7hJWoUwdOXUyg
+pizza,Pizza,CzIpCPKyjA4-RAxNtApr6Q
+italian,Italian,CzIpCPKyjA4-RAxNtApr6Q
+french,French,oaQqFlZMArCHyDUSzFFhmw
+french,French,9YGHVIExM7h2My84CTKpQQ
+french,French,LsgVnQCkOxNN3XOvdCAwEw
+beerbar,Beer Bar,LsgVnQCkOxNN3XOvdCAwEw
+cocktailbars,Cocktail Bars,LsgVnQCkOxNN3XOvdCAwEw
+italian,Italian,zV4s5IayJhiCe5jqYbTM_Q
+french,French,bLU03O9C-t3eX9GGN-0Tow
+restaurants,Restaurants,Db6fIHCJLiX-RCu0v0_egQ
+italian,Italian,P2-YSPFnPLppUTDCzushTg
+pizza,Pizza,P2-YSPFnPLppUTDCzushTg
+french,French,9OyPyTmY8WNV-gAIOZDEIg
+museums,Museums,njeu2OAqtqO8jQhfJslm8Q
+salad,Salad,DPSqlOxK1w4U8suA5ux05w
+soup,Soup,DPSqlOxK1w4U8suA5ux05w
+sandwiches,Sandwiches,DPSqlOxK1w4U8suA5ux05w
+lebanese,Lebanese,TXx3oYZKg5t8w3aIFZ0Edw
+burgers,Burgers,6FUSAQ03zzwyMrUO18VuYg
+restaurants,Restaurants,gNxtFBjrCZw5t5Kab7dQew
+eastern_european,Eastern European,RBjFi0vfHsE877rRTiWR4A
+turkish,Turkish,YtBPi1OJPjoH7P8DGCpquA
+kebab,Kebab,YtBPi1OJPjoH7P8DGCpquA
+vietnamese,Vietnamese,GJfk1ZLQeJIz28gFK6xd7g
+kebab,Kebab,AQzioCKDA8PNvIXaQO1d_w
+catering,Caterers,Cd17mEsdnG0DY6U-86Dn2Q
+portuguese,Portuguese,Cd17mEsdnG0DY6U-86Dn2Q
+hotdogs,Fast Food,vh4E5bxOf8PO7VxkA2p2Qw
+tapasmallplates,Tapas/Small Plates,7M5e943gtENh4Esi8RFeQw
+french,French,fp2Og-_qLvM2M3VMsF8W0A
+wine_bars,Wine Bars,fp2Og-_qLvM2M3VMsF8W0A
+brasseries,Brasseries,hhlZ_dt8_-xcKIqmkduObA
+burgers,Burgers,hhlZ_dt8_-xcKIqmkduObA
+chinese,Chinese,hhzNClGhNfe0CzMO1EkD_A
+restaurants,Restaurants,KD4VqtDcCWpGYXXfSgqCuA
+spanish,Spanish,TtCUyN4XlMMIxB-I9jdTsA
+restaurants,Restaurants,gicRmLwmTEp5KGP8tciaIQ
+bars,Bars,gicRmLwmTEp5KGP8tciaIQ
+pubs,Pubs,5c-x4hnMwHgSnxVc4UKrTg
+danceclubs,Dance Clubs,5c-x4hnMwHgSnxVc4UKrTg
+pizza,Pizza,YM_dZyeoLGJz1pp4gNVH-g
+indpak,Indian,2YuhvvNiiJAcJqA1nASplg
+pakistani,Pakistani,2YuhvvNiiJAcJqA1nASplg
+restaurants,Restaurants,ezjYZW7VynguC4LLbw-ROw
+japanese,Japanese,BSD7DZUlz7-y0Wu1L0iGog
+pizza,Pizza,7eEMVnnRnNCS36um5rlm1A
+italian,Italian,7eEMVnnRnNCS36um5rlm1A
+food,Food,7eEMVnnRnNCS36um5rlm1A
+pizza,Pizza,gRynnAXo8oWcGI4j53NOjw
+tex-mex,Tex-Mex,gRynnAXo8oWcGI4j53NOjw
+salad,Salad,gRynnAXo8oWcGI4j53NOjw
+pizza,Pizza,EZrBxoh-0-7_daecNKBVvA
+french,French,xAx-SmdovJ1jLLPeP-sz7w
+bars,Bars,xAx-SmdovJ1jLLPeP-sz7w
+danceclubs,Dance Clubs,xAx-SmdovJ1jLLPeP-sz7w
+french,French,GcXYnzn-J6N6lKYt1rmdhg
+bakeries,Bakeries,xiVrVHZnXIQ1QsYB5ZckXQ
+creperies,Creperies,f9XCOqtE3qrvURUXIQbLzQ
+bars,Bars,f9XCOqtE3qrvURUXIQbLzQ
+pizza,Pizza,-FG1vfWFxkhYnNiKEwqPLg
+sud_ouest,French Southwest,eGqQ_9kksER3P4qT9p26nw
+french,French,iwbkYfgaQZDK8PqQxwkS7g
+persian,Persian/Iranian,EqruLhO8XGIIUXRXoOza2A
+cafes,Cafes,qC_AJP7ww7Vbug3bwDVvTg
+chickenshop,Chicken Shop,1djxsLyRrmz2Ci0A_oYmDQ
+bbq,Barbeque,1djxsLyRrmz2Ci0A_oYmDQ
+chinese,Chinese,Ei_yYfm22NkhI8EM-nnAqw
+french,French,NyDVfQD_JJ9JOrZ6blTHNA
+french,French,zpvfY-aVrqIt6-W7up_I5Q
+french,French,NYvkVO0cExmTnWGKw9DD1Q
+bakeries,Bakeries,75o5GGijnKTb2DfmTZEg2w
+cafes,Cafes,9v5wjdsZ3Y9fIzCbNHZaow
+breakfast_brunch,Breakfast & Brunch,9v5wjdsZ3Y9fIzCbNHZaow
+french,French,07-tDuYdWTosbTugLwTUDw
+coffee,Coffee & Tea,DH956iI91y45OpnCNb5_sg
+bubbletea,Bubble Tea,vsEQ4vAzTw5PB8QPSwDWKQ
+cafes,Cafes,vsEQ4vAzTw5PB8QPSwDWKQ
+sandwiches,Sandwiches,vsEQ4vAzTw5PB8QPSwDWKQ
+french,French,zSZ5-zMnusVLLEPOaJasSQ
+french,French,U3BHZJh7OTGzyzAnuRhsJg
+vegan,Vegan,szmR_ZXSV85gWSDH38g4QA
+bookstores,Bookstores,4wu4yzuq8KumELj2qeNyHw
+coffee,Coffee & Tea,4wu4yzuq8KumELj2qeNyHw
+bakeries,Bakeries,KESpMmUvRyFJmsw9AN4-GQ
+french,French,TdACvPkXg0xjOvK8eYjnRQ
+persian,Persian/Iranian,HXV1dy85FXHlT5An8eI4fA
+bookstores,Bookstores,g7ceVj6dLb1NGIXb4JG40g
+sandwiches,Sandwiches,g7ceVj6dLb1NGIXb4JG40g
+bubbletea,Bubble Tea,syfRIl99mik41_x2Zijenw
+vietnamese,Vietnamese,PkBfwjMHkfmmq_d4T_LL0w
+thai,Thai,PkBfwjMHkfmmq_d4T_LL0w
+chinese,Chinese,PkBfwjMHkfmmq_d4T_LL0w
+french,French,EXbBGRYUu2X1xaA83WnN4Q
+italian,Italian,EXbBGRYUu2X1xaA83WnN4Q
+french,French,i67eoaIRG-dE3eXw6iCQDQ
+pizza,Pizza,_krfAiFpbX_n7t5XbcHOiQ
+italian,Italian,_krfAiFpbX_n7t5XbcHOiQ
+vietnamese,Vietnamese,f0x-9Da_QHfxjahGK_Wlcg
+sandwiches,Sandwiches,ODpAE-4WQAZV166-3H9TfA
+vietnamese,Vietnamese,ODpAE-4WQAZV166-3H9TfA
+laotian,Laotian,7C3QnbURsiDxiJcwcAjoCA
+thai,Thai,7C3QnbURsiDxiJcwcAjoCA
+panasian,Pan Asian,7C3QnbURsiDxiJcwcAjoCA
+cambodian,Cambodian,e18Z9RhKyC8459HxB3WEZg
+vietnamese,Vietnamese,sVZsCd4nD5F3X7wyr0XciQ
+vietnamese,Vietnamese,caDP1P0M1ZpzHu-ZmvZrmQ
+asianfusion,Asian Fusion,caDP1P0M1ZpzHu-ZmvZrmQ
+wine_bars,Wine Bars,fLCDWAxE93c-RNbSE9VxuQ
+italian,Italian,7x9uyVWKkba8SrlbLXj4fg
+bistros,Bistros,Yhv2RTggtsKmd5otco_XTw
+icecream,Ice Cream & Frozen Yogurt,BBu9k7jIvfL9T5AvQCQhXA
+coffee,Coffee & Tea,BBu9k7jIvfL9T5AvQCQhXA
+vietnamese,Vietnamese,Ww6EF_hHV3PbpSznu_l29A
+brasseries,Brasseries,LJ2uNOaRKTqSdhUJ9icqQA
+parks,Parks,AEDz6Pr6ZyG6cYhMH6jZDw
+french,French,mbY3jqvEjAnL7YVhq4ahVw
+japanese,Japanese,lDieyMQVf1FNnyU1J6bwoA
+french,French,6mH5KUUNKp4Fo7lL4Gctyg
+gourmet,Specialty Food,6mH5KUUNKp4Fo7lL4Gctyg
+japanese,Japanese,RCo4I9nHLlEdgokpvSOQfw
+parks,Parks,TTnLoeIYu708Oo0UVijrFA
+brazilian,Brazilian,ezUIVnrT3wSnGFCRoy82Ew
+bars,Bars,ezUIVnrT3wSnGFCRoy82Ew
+tapas,Tapas Bars,a9R0CjLQmmsXqVALhgdGYg
+wine_bars,Wine Bars,a9R0CjLQmmsXqVALhgdGYg
+delicatessen,Delicatessen,a9R0CjLQmmsXqVALhgdGYg
+pizza,Pizza,UATGH4PEKIIWK9aUFI2mRg
+french,French,6b7pQZf1XEkAKKybdpnsAQ
+french,French,CQ2XFmtiqDDcILfYrnFbFA
+pizza,Pizza,sCNxpbc8VgNkOrz3W1SR6g
+italian,Italian,sCNxpbc8VgNkOrz3W1SR6g
+french,French,ws4hcEEWoIRAvjphNX0T5g
+beer_and_wine,"Beer, Wine & Spirits",038bfbFzigqwaogOZnUXpw
+french,French,038bfbFzigqwaogOZnUXpw
+french,French,lxMaDs0myifY70JDVzkU8A
+gardens,Botanical Gardens,-A6JxXK7PZeKBQBP9sf-hQ
+museums,Museums,-A6JxXK7PZeKBQBP9sf-hQ
+parks,Parks,-A6JxXK7PZeKBQBP9sf-hQ
+restaurants,Restaurants,zDsMJuTU164Iym8MkYcQ4A
+restaurants,Restaurants,slVSQoTHiQ50JC1miGVZww
+japanese,Japanese,JH6u-RCEUSdU7nY0n-OpWw
+burgers,Burgers,JH6u-RCEUSdU7nY0n-OpWw
+panasian,Pan Asian,JH6u-RCEUSdU7nY0n-OpWw
+latin,Latin American,8IuYchlBlwpwiKcfec86Zg
+peruvian,Peruvian,8IuYchlBlwpwiKcfec86Zg
+donairs,Donairs,sjNVj6_-rEZUM4X0u4lORA
+turkish,Turkish,sjNVj6_-rEZUM4X0u4lORA
+sandwiches,Sandwiches,sjNVj6_-rEZUM4X0u4lORA
+french,French,W7HlQtKj_kp2SHyqxuYDPg
+bars,Bars,W7HlQtKj_kp2SHyqxuYDPg
+japanese,Japanese,0jMks4praEDC2ES_UfZq0A
+sushi,Sushi Bars,0jMks4praEDC2ES_UfZq0A
+bakeries,Bakeries,IXNMwTIPNM25EtPAWq7zhQ
+cakeshop,Patisserie/Cake Shop,IXNMwTIPNM25EtPAWq7zhQ
+beerbar,Beer Bar,kB4PbNnoAvtdgTJ8ofTriQ
+museums,Museums,SfeBa1C_dfdBNcn6DYCOOw
+indpak,Indian,r0CLZWVRSFnvoeQ5m02lNA
+bakeries,Bakeries,IYQ67uTSfYod9AWyJYalaw
+vietnamese,Vietnamese,Khrhk-1WCz-Hm49Tzf8DRQ
+moroccan,Moroccan,WfiyBqyhbx0TncJPQ2fGMA
+halal,Halal,mkQAUzML0iwGo0Rqb2J-5Q
+kebab,Kebab,mkQAUzML0iwGo0Rqb2J-5Q
+italian,Italian,ooofj6nC2GnTXUNfvFSRng
+pizza,Pizza,ooofj6nC2GnTXUNfvFSRng
+moroccan,Moroccan,kHF71poyiYiTCDeW7bbCfQ
+mediterranean,Mediterranean,kHF71poyiYiTCDeW7bbCfQ
+african,African,kHF71poyiYiTCDeW7bbCfQ
+wine_bars,Wine Bars,mywDIwqDHPtQFSmcqJRDkg
+champagne_bars,Champagne Bars,mywDIwqDHPtQFSmcqJRDkg
+beerbar,Beer Bar,mywDIwqDHPtQFSmcqJRDkg
+landmarks,Landmarks & Historical Buildings,K8IMCafzgJv9dMrtw7vzSg
+parks,Parks,K8IMCafzgJv9dMrtw7vzSg
+hotdog,Hot Dogs,tkqlzQfs2jS4rNQfHmcaGA
+foodtrucks,Food Trucks,tkqlzQfs2jS4rNQfHmcaGA
+hotdogs,Fast Food,tkqlzQfs2jS4rNQfHmcaGA
+creperies,Creperies,tPxAVjISE8D92Y33AHgSEQ
+french,French,58F0cZMvOKPXtfhs2CW0dA
+cocktailbars,Cocktail Bars,THwd-G0VNS0ljXF0tOUmcw
+burgers,Burgers,THwd-G0VNS0ljXF0tOUmcw
+french,French,THwd-G0VNS0ljXF0tOUmcw
+italian,Italian,RcaTOZd3NdmI1NPMa8E9oQ
+french,French,SPXompl2Mr_Fk02Z3rdEIw
+breakfast_brunch,Breakfast & Brunch,SPXompl2Mr_Fk02Z3rdEIw
+parks,Parks,OSaGev9gC4Hrj6kBjhSj3A
+french,French,BuJnfWI86tTxFUon071EKg
+beerbar,Beer Bar,dh4sHu0knIDnsWCFl1oB2Q
+cafes,Cafes,JWo-u2OBnEJEz0CFAZ9IdA
+delicatessen,Delicatessen,JWo-u2OBnEJEz0CFAZ9IdA
+bakeries,Bakeries,emAz71y-NLkcBTYk23KUBg
+bakeries,Bakeries,Rk5X3MusWoANrhd2o6VhFQ
+pizza,Pizza,thXvzZMxyAZ8pjC0uU_2iw
+italian,Italian,thXvzZMxyAZ8pjC0uU_2iw
+french,French,7mOKARUxAqiJRLBVBpLHDg
+parks,Parks,rBJk2BKuxxjmA2SllKlk1A
+restaurants,Restaurants,OXwTJ0Y9e7pmYZQEhhHlYA
+restaurants,Restaurants,wJaoYMqYnHHnY0g4higXpg
+bars,Bars,wJaoYMqYnHHnY0g4higXpg
+japanese,Japanese,hAJbhr6RgfBjJIdIkf4Fdw
+parks,Parks,wlcdbqZ_T3V9744tFGoGQw
+japanese,Japanese,th9nngbceUAR-ZWAvj5cGg
+sushi,Sushi Bars,th9nngbceUAR-ZWAvj5cGg
+bistros,Bistros,tp9Ag_OmBmgDz_pQ2jCdHQ
+cafes,Cafes,tp9Ag_OmBmgDz_pQ2jCdHQ
+desserts,Desserts,gCQ0Nfcx4qMktjHOuzx9vA
+bakeries,Bakeries,gCQ0Nfcx4qMktjHOuzx9vA
+sandwiches,Sandwiches,gCQ0Nfcx4qMktjHOuzx9vA
+french,French,5PgWxjrp9SXUpdRL8Rp5GA
+restaurants,Restaurants,48EpF_Bu0EbyHfrEq0vt9Q
+french,French,6EkcAYeTdjwPaRWEYKrrqw
+italian,Italian,bgSZXrRY2lacML7vOtDGbQ
+pizza,Pizza,bgSZXrRY2lacML7vOtDGbQ
+french,French,pe3z8BK513e5vYryblQj1A
+restaurants,Restaurants,pzDwgs6_DkH_c3L0fqPG3g
+japanese,Japanese,ykcQdDZlmXD2KP_hJdsocQ
+lounges,Lounges,tR6u-AFTMt1eark-oQdX8A
+french,French,tR6u-AFTMt1eark-oQdX8A
+bars,Bars,TwrMmC0zNingGLsOHrZSrQ
+italian,Italian,TwrMmC0zNingGLsOHrZSrQ
+danceclubs,Dance Clubs,Y04HnbUUomFf0xBgL_CqUg
+french,French,Y04HnbUUomFf0xBgL_CqUg
+french,French,83urH8LEVqpchRJ70WiA8g
+japanese,Japanese,02NKfAZFUknkF3LVyjnf6A
+french,French,FZRiGsg9wtN5vwX7fjVfbg
+vietnamese,Vietnamese,FZRiGsg9wtN5vwX7fjVfbg
+creperies,Creperies,JxjqDDJ5N45irzLzcR4onQ
+bistros,Bistros,OjJroSzpjwPXOe3MMZzFWg
+mideastern,Middle Eastern,7FaBNTyfqIKUn-YJYc_YbQ
+pizza,Pizza,C-8tAGTvdAdPE136QohE3w
+italian,Italian,C-8tAGTvdAdPE136QohE3w
+italian,Italian,7hhKRXcRbYKZhpMXuUMtBg
+coffee,Coffee & Tea,q04i5-4c7rmEOiwDjYgjtg
+french,French,GLAx7XKmlNCIvBeSrpDTfA
+bakeries,Bakeries,RgDXkphYsvJdCWkuEVfRiw
+creperies,Creperies,qOUyZtnAH1nWvIy0JtUUDA
+cafes,Cafes,fjHwanCdDvp5iPMwO7o_DA
+burgers,Burgers,CJ4OEbcv9GNRxp6-xjAEZA
+pizza,Pizza,CJ4OEbcv9GNRxp6-xjAEZA
+french,French,CJ4OEbcv9GNRxp6-xjAEZA
+musicvenues,Music Venues,MQCIWOTdeWyDxRgLBc99OA
+theater,Performing Arts,MQCIWOTdeWyDxRgLBc99OA
+museums,Museums,MQCIWOTdeWyDxRgLBc99OA
+french,French,_ZTNYu1jg4nJkD2GQS3N9g
+bistros,Bistros,_ZTNYu1jg4nJkD2GQS3N9g
+japanese,Japanese,CiVuxmFNVAAI64-4JyYZ1w
+coffee,Coffee & Tea,18RM_fQo8QVJX9r-fQn0MQ
+vietnamese,Vietnamese,Ct77aBDwU0PwJyOhjPTKXQ
+bakeries,Bakeries,J1pAzTNXSUW4GekJxsVHJA
+bistros,Bistros,hHLVTNSlGpDn4S7WSZC_3A
+french,French,sjesDaZ05LPAcRyqh6fG7g
+french,French,vKDDjyLUVG8h0NpjO9U3yw
+seafood,Seafood,vKDDjyLUVG8h0NpjO9U3yw
+japanese,Japanese,02nRqrSoTTtl7mqANc0hAA
+japanese,Japanese,eRW2w3JQpXiaDGpPdX91yA
+sushi,Sushi Bars,eRW2w3JQpXiaDGpPdX91yA
+french,French,1NBOJW2u26RX0kNd_jvsqw
+french,French,pp7kjFN_qu-fFZFtAVZdQw
+modern_european,Modern European,pp7kjFN_qu-fFZFtAVZdQw
+italian,Italian,hhVItBbmrQzON98XF84jTA
+pizza,Pizza,hhVItBbmrQzON98XF84jTA
+french,French,MfMRYtUHb5zx6NkkbuP4RA
+italian,Italian,uaF5N63oPMmXNZ8lbzp6bA
+mideastern,Middle Eastern,3rv9aPZrEDyEtd_AygOTpw
+kosher,Kosher,3rv9aPZrEDyEtd_AygOTpw
+bakeries,Bakeries,SN2Bhtb6jfO7eqezTrpbiA
+hotdogs,Fast Food,zQrFfkefJtfaMF2DxGNk7w
+burgers,Burgers,zQrFfkefJtfaMF2DxGNk7w
+restaurants,Restaurants,Xsdewr4b6bdIO1fcf4HEgQ
+japanese,Japanese,Fbbbe-2x8r7GxF0iqcwU8g
+landmarks,Landmarks & Historical Buildings,Wc77qBjWrSRjOvgDXRntkw
+bakeries,Bakeries,dSkZw4FQKYuGGtktJqwEqg
+pizza,Pizza,J-SYo_UxvGgnQ7HgHkWJlA
+bakeries,Bakeries,HJjqNRFV_QtflzBuNsyQaQ
+restaurants,Restaurants,CWIvSKwBuYb35b_Zey7HYg
+coffee,Coffee & Tea,EvvhpRZkyTDX_teQiyr82A
+hotdogs,Fast Food,EvvhpRZkyTDX_teQiyr82A
+restaurants,Restaurants,MXAUQO5dsOCAOLY0wnd9Sw
+italian,Italian,U_2-YA1Iz0q2LYi_FaCeQQ
+pizza,Pizza,U_2-YA1Iz0q2LYi_FaCeQQ
+pizza,Pizza,GQXRI6p7vAHlzCL8Rp3e3g
+pizza,Pizza,Q5mm28RDFhc54wCszcxgEA
+japanese,Japanese,j5-Hzbuj3YXLEQvbcC2vQw
+pizza,Pizza,2ZRuzIWU2h_xh6cxlcxvSg
+italian,Italian,2ZRuzIWU2h_xh6cxlcxvSg
+chinese,Chinese,zlzCqAiBfLTwa8qjYSj7Kg
+restaurants,Restaurants,A90QEk04DG3u4ti-xkTumg
+japanese,Japanese,6q5i1vYxRYBRNI3eZ_NfBg
+hotdogs,Fast Food,uy65NLF2ikTZAnUEHIgjtw
+butcher,Butcher,uy65NLF2ikTZAnUEHIgjtw
+steak,Steakhouses,uy65NLF2ikTZAnUEHIgjtw
+hotdogs,Fast Food,79sE-l7jRFXvgASvin_M7Q
+hotdogs,Fast Food,H2rXp7TrKu9x_SvTtDR2zw
+peruvian,Peruvian,H2rXp7TrKu9x_SvTtDR2zw
+foodtrucks,Food Trucks,H2rXp7TrKu9x_SvTtDR2zw
+wine_bars,Wine Bars,6UJVVNbO0b9Zy5WNqhNM2g
+beer_and_wine,"Beer, Wine & Spirits",6UJVVNbO0b9Zy5WNqhNM2g
+tapasmallplates,Tapas/Small Plates,6UJVVNbO0b9Zy5WNqhNM2g
+bakeries,Bakeries,tOfHAJhrDEPIQa2wkqEDUA
+beaches,Beaches,tbw4Kqy3DhfAT1JKzAohhg
+burgers,Burgers,adv_Qdwj69IT_eNJ6_sJVw
+culturalcenter,Cultural Center,KV_bWS_dgnmDABp4jAX3FA
+landmarks,Landmarks & Historical Buildings,KV_bWS_dgnmDABp4jAX3FA
+sandwiches,Sandwiches,5DEBuVXa-93MFZuEvZEsKQ
+salad,Salad,5DEBuVXa-93MFZuEvZEsKQ
+cafes,Cafes,5DEBuVXa-93MFZuEvZEsKQ
+indpak,Indian,Fe5dIGcQ1Gb8AatGJbiu-A
+french,French,NNEQV-4sqCMiv2xnUDMp4A
+lounges,Lounges,NNEQV-4sqCMiv2xnUDMp4A
+pianobars,Piano Bars,NNEQV-4sqCMiv2xnUDMp4A
+restaurants,Restaurants,ubnLBcBEhrC9SaT0n4FU0g
+restaurants,Restaurants,MM0q7R65jYmMH_Y8Cymqmw
+restaurants,Restaurants,_jvm4XHdjZ4Adhlb1ISRsg
+salad,Salad,mJdKegTcdikOgK-vFoLOLA
+cafes,Cafes,QZ29kTDWqBsY4rc_JvqhIQ
+japanese,Japanese,FPIVaR2F1NCwJFJ3G5HYkg
+sushi,Sushi Bars,FPIVaR2F1NCwJFJ3G5HYkg
+hotels,Hotels,OM4q6M_2BsPN8ybuI12WXQ
+french,French,OM4q6M_2BsPN8ybuI12WXQ
+vietnamese,Vietnamese,dQvWASBiQkYA2fvq5P3cjQ
+hotdogs,Fast Food,aI7X1Vj4oryK_O5ClmB41A
+creperies,Creperies,aI7X1Vj4oryK_O5ClmB41A
+pizza,Pizza,s8DP260k4bqczA1eTjft-g
+italian,Italian,s8DP260k4bqczA1eTjft-g
+parks,Parks,lZxFu6_8O5FkqlIBeTQjgA
+pizza,Pizza,HJeNPcTBlXVonX6apNCP9w
+japanese,Japanese,NUB99-IOIQh6XR9dtB5fqg
+fooddeliveryservices,Food Delivery Services,GkKsBP3DRzAwhmTC5zh_iA
+italian,Italian,GkKsBP3DRzAwhmTC5zh_iA
+vietnamese,Vietnamese,howQeAEmxa8luLTh_nDeag
+bakeries,Bakeries,Sns0G3YlhBEWE88s1WHhHg
+bakeries,Bakeries,8KWdhiqPKl0cJnTJ5MloEw
+beer_and_wine,"Beer, Wine & Spirits",xlAPGo8_O-gC35_X1I93rw
+delicatessen,Delicatessen,xlAPGo8_O-gC35_X1I93rw
+tapasmallplates,Tapas/Small Plates,xlAPGo8_O-gC35_X1I93rw
+pubs,Pubs,DETKMqXHoP9BjENRjre1Wg
+brasseries,Brasseries,DETKMqXHoP9BjENRjre1Wg
+restaurants,Restaurants,3JTj1wr-FeDPFsGzL2Ja0g
+bistros,Bistros,KMuAClWxNH1mvN-x0-5YEQ
+french,French,rMTfSx3NadZw8gakTLXQgg
+french,French,-1oOcUrZiYDMdXAt_JzkKw
+chinese,Chinese,nncZVU4Ik48rlW1mUG7VxQ
+panasian,Pan Asian,nncZVU4Ik48rlW1mUG7VxQ
+pizza,Pizza,5YZdJyH8GGajbsuQZYFh6Q
+italian,Italian,5YZdJyH8GGajbsuQZYFh6Q
+gourmet,Specialty Food,5YZdJyH8GGajbsuQZYFh6Q
+italian,Italian,dqxocDTyyQVpnpuYZMhv-g
+creperies,Creperies,gZciFQ5YSB01cRTEostDHw
+vietnamese,Vietnamese,oIG1VbXp-mpz1ZLrWnsLpQ
+thai,Thai,oIG1VbXp-mpz1ZLrWnsLpQ
+bars,Bars,T8jIEafO1NzE3KByjN0TkA
+musicvenues,Music Venues,T8jIEafO1NzE3KByjN0TkA
+restaurants,Restaurants,T8jIEafO1NzE3KByjN0TkA
+bakeries,Bakeries,vcVXkPMOv949uAfjygcFqA
+bistros,Bistros,424z1agmQDXOQqcYdxuArg
+mauritius,Mauritius,424z1agmQDXOQqcYdxuArg
+asianfusion,Asian Fusion,fBlzVuk8rokgMKTd3K8_3Q
+landmarks,Landmarks & Historical Buildings,qlPpOVUaH_J26SUvHotgHQ
+french,French,9gZoKfhOIsAxiPLphoPEeg
+italian,Italian,2PIj2aZcSgjRVD-y6CigqA
+italian,Italian,3irx6jqYH859VksJ7SVpbg
+museums,Museums,D-oCRvsAOb4H1rgZyYMseQ
+creperies,Creperies,0a0TlqGTMQtb_AsvXyDqmw
+coffee,Coffee & Tea,uZm7gIlhJEmDOfCyKQ0npg
+coffeeroasteries,Coffee Roasteries,uZm7gIlhJEmDOfCyKQ0npg
+italian,Italian,cOmOHeDP2YrRw227OSoRYQ
+gluten_free,Gluten-Free,cOmOHeDP2YrRw227OSoRYQ
+french,French,lYTQNVXVVGYKrxViUGl68g
+french,French,cnb32GbaHRczxiWQGISICQ
+brasseries,Brasseries,7ffr3tb0rfDp1FD-muHTYw
+panasian,Pan Asian,FEKXKFf8-fMa4OMir3QE4Q
+pizza,Pizza,lmOsSKuQ4qRDnTzwaR0EzQ
+italian,Italian,lmOsSKuQ4qRDnTzwaR0EzQ
+restaurants,Restaurants,_XsiXKf2cuoXfEHaNJRE_g
+parks,Parks,flzdHr5ymU_8Bu5dI7LAag
+hotdogs,Fast Food,ROpWk6X4MT8rmD2tqOAJPw
+turkish,Turkish,ROpWk6X4MT8rmD2tqOAJPw
+kebab,Kebab,ROpWk6X4MT8rmD2tqOAJPw
+bakeries,Bakeries,-8KkNcqBQEJBASH1gxiXNQ
+sushi,Sushi Bars,FmGVMtHTdSGsqtZWj91BCQ
+french,French,QB0q3ZHOaVkdd-pnDbe3-A
+french,French,rt37GFp8wAH0MfMg4TCzMw
+wine_bars,Wine Bars,DCiVRfoAoPEgjnfnUdkpUA
+foodtrucks,Food Trucks,deoTmXkqGcp9EdlFyYoiqw
+tradamerican,American (Traditional),deoTmXkqGcp9EdlFyYoiqw
+restaurants,Restaurants,n-DsFr8EDOTXk44J6WHpDg
+french,French,XNZDGQJbh8s1ccMhB6ZrkA
+restaurants,Restaurants,7AxRkVzOyhhRnT-QQr97Nw
+greek,Greek,ccbRN0UNeReSC-0QudPLAw
+italian,Italian,3Xbafw311rcNsIZqXBYyiQ
+pizza,Pizza,__4tBxOtfilspR-MisnWjA
+japanese,Japanese,lK8X-aT0oCkPy2uP_mzwJw
+bars,Bars,3kI_XF1EpXllYhL4oFf9QA
+french,French,JwSbi2LStIqTy2XRPFoUiw
+seafood,Seafood,6zl1KhwNASWWfxDGckkL_g
+french,French,6zl1KhwNASWWfxDGckkL_g
+japanese,Japanese,AXbv9qZwemX86ivAC2mbZA
+bakeries,Bakeries,Az94aCC9Btht5Gi7U4ScsQ
+italian,Italian,OJZzm2urqunuhmtZhYU04g
+pizza,Pizza,OJZzm2urqunuhmtZhYU04g
+bakeries,Bakeries,MGCMlrW-TKzsTF73r0mXIw
+french,French,VObdi-75CUkcFSdYtPgDgw
+sud_ouest,French Southwest,VObdi-75CUkcFSdYtPgDgw
+armenian,Armenian,yWQfMsHKJCHLcrotppbtzw
+italian,Italian,w2_F6PNXZ59Vf3QQKb04UA
+pizza,Pizza,w2_F6PNXZ59Vf3QQKb04UA
+oriental,Oriental,QD1G2khlsWdILb5v9dLKSA
+salad,Salad,QD1G2khlsWdILb5v9dLKSA
+international,International,QD1G2khlsWdILb5v9dLKSA
+himalayan,Himalayan/Nepalese,IM4cMNWCPmR4Lsqiy9HNIw
+thai,Thai,JQYkPzw8LxEYlOFoeWglaw
+cafes,Cafes,MJeKfzKO4_qU4jtfwiL_0Q
+cocktailbars,Cocktail Bars,e5nXFleu4p9bgLqh63TazA
+bars,Bars,rXDuoodOaitxkVn20msbzA
+bakeries,Bakeries,sN7IXZIdImlCmAVpiw-6dQ
+french,French,McOL7V9_HF5DxkK9ozed7Q
+mideastern,Middle Eastern,SACazSvi1Kq0nhj_rpL5SQ
+moroccan,Moroccan,SACazSvi1Kq0nhj_rpL5SQ
+chinese,Chinese,cZ5nc33vniIUAo8bZJVcfQ
+bakeries,Bakeries,stGT8avkDnkErSLlHYeLSA
+hotdogs,Fast Food,8DEKkmQ_-sHHlyiWLJkRkA
+pizza,Pizza,kjB2c955dOaNpQGf_LA6iQ
+italian,Italian,kjB2c955dOaNpQGf_LA6iQ
+bakeries,Bakeries,e-rSyUGslWRGDTbEsjzMaA
+cakeshop,Patisserie/Cake Shop,e-rSyUGslWRGDTbEsjzMaA
+french,French,jpZjNmPH03dJIrQittJ23A
+japanese,Japanese,4-BjzrA4cLw8m59mTmF9Gw
+sushi,Sushi Bars,4-BjzrA4cLw8m59mTmF9Gw
+bakeries,Bakeries,G3dusr4C7dHFfhu9YHA7xA
+bakeries,Bakeries,p4Zg5o8Uqw-FJdBqmAvd0w
+bakeries,Bakeries,V9AS7DeR_qiv5EG_y-BK3Q
+chinese,Chinese,g8BacTavQBDz_943woUfBQ
+panasian,Pan Asian,g8BacTavQBDz_943woUfBQ
+bakeries,Bakeries,KMDYZnmHVj7_BVUlVLtWdg
+creperies,Creperies,pI9jLmkthL8zRHrWuJkfEQ
+french,French,xPYZfaxNmxcD--8tOlqt-w
+bistros,Bistros,xPYZfaxNmxcD--8tOlqt-w
+japanese,Japanese,yRFa16FfaMe9wbpjASqoPA
+vietnamese,Vietnamese,MThcSF-3ESGSvtSel4931A
+parks,Parks,XRWof-I6Xg2r97AvtYWdVA
+tradamerican,American (Traditional),alz7ZgpBRCz_6tKcpZ7M5A
+breakfast_brunch,Breakfast & Brunch,alz7ZgpBRCz_6tKcpZ7M5A
+burgers,Burgers,alz7ZgpBRCz_6tKcpZ7M5A
+italian,Italian,QWmIzSx6E9vzkc9S-6JFeg
+lebanese,Lebanese,j0qQv9R_wxs-2tVdnTZg0w
+french,French,RadAmoJoDzl4iffnO44dXw
+french,French,3Q9OeehlclmPtKm8qQKJ8w
+breakfast_brunch,Breakfast & Brunch,3Q9OeehlclmPtKm8qQKJ8w
+italian,Italian,juuXMcg2jwR0UFbfQpeG2w
+pizza,Pizza,juuXMcg2jwR0UFbfQpeG2w
+bars,Bars,ne52uA4r_6Y4b0vOT_yZNQ
+wine_bars,Wine Bars,y2AVuQzpM_CKTHkk9S8aIg
+bakeries,Bakeries,iuuAbuOeayVwqhxYWHuGRA
+bistros,Bistros,jX1FQpzxLqNDe5xBgLF_-A
+italian,Italian,ReXvZkWQzhkJUupi-rtq4Q
+french,French,MUCIZ8uJfiyKi_2KbVZSUg
+modern_european,Modern European,MUCIZ8uJfiyKi_2KbVZSUg
+bakeries,Bakeries,8wGpkjU8drbZLIbpICh8OQ
+indpak,Indian,sElWVYcEDMHzkP51hUcvmA
+indpak,Indian,eaA8C4paLOX9jC9brxrY5g
+thai,Thai,qw-F0JN3tpsqfxGTWL4O9w
+french,French,48Tq8Nz9zcFBxIHqNWK9Xw
+breakfast_brunch,Breakfast & Brunch,48Tq8Nz9zcFBxIHqNWK9Xw
+soup,Soup,48Tq8Nz9zcFBxIHqNWK9Xw
+greek,Greek,g12Ru5yV5DPQ-SZJCb6lAA
+cafes,Cafes,g12Ru5yV5DPQ-SZJCb6lAA
+thai,Thai,D2iXH8rWxDAfjUU7Pw-dxg
+panasian,Pan Asian,D2iXH8rWxDAfjUU7Pw-dxg
+hotdogs,Fast Food,odftIKspRj54UJi_3CNvng
+sandwiches,Sandwiches,odftIKspRj54UJi_3CNvng
+thai,Thai,M44PW4dBJ5l1IcvKdq1Fwg
+pizza,Pizza,E5lGr7_Z_GJo5rU2qVgYMA
+italian,Italian,E5lGr7_Z_GJo5rU2qVgYMA
+gastropubs,Gastropubs,Ij4m8UMalmLH_yQtTqvPNQ
+pubs,Pubs,Ij4m8UMalmLH_yQtTqvPNQ
+burgers,Burgers,Ij4m8UMalmLH_yQtTqvPNQ
+italian,Italian,hu_cDlVuB5RrG1HZP9lXcA
+desserts,Desserts,ttyuc43C7IBnp-Q-nZb0hA
+cakeshop,Patisserie/Cake Shop,ttyuc43C7IBnp-Q-nZb0hA
+breakfast_brunch,Breakfast & Brunch,ttyuc43C7IBnp-Q-nZb0hA
+french,French,eQjLpCshP3WeQowLA4mISw
+french,French,KWEQ1yyXS82l2dAmTpPI7w
+bakeries,Bakeries,oYmLzgKDv032rsyrzTO7-A
+french,French,Hmz0oNPT3954ohR0UnAqIw
+french,French,DCxlpw3NwvgUx2iqPRwbHg
+bistros,Bistros,J1uJVDBqr9SbXz0RnUG-tQ
+french,French,J1uJVDBqr9SbXz0RnUG-tQ
+bistros,Bistros,PI6edk8v1mpFWpCS56e-0g
+indpak,Indian,AUO2yxurmnxvPf-2FFT7tQ
+himalayan,Himalayan/Nepalese,AUO2yxurmnxvPf-2FFT7tQ
+chinese,Chinese,4050Km_2ftM55e7XiELnNA
+burgers,Burgers,QcpxI7Am6g6mc0D20w0Gng
+french,French,QcpxI7Am6g6mc0D20w0Gng
+bakeries,Bakeries,bGc4IyTLEstW5uwzzv-NjA
+cakeshop,Patisserie/Cake Shop,bGc4IyTLEstW5uwzzv-NjA
+french,French,CapD-bekbE05gDMSe29UJA
+chinese,Chinese,CapD-bekbE05gDMSe29UJA
+vegan,Vegan,GrbhxOQ7ABn2WZ51o9sRjA
+gluten_free,Gluten-Free,GrbhxOQ7ABn2WZ51o9sRjA
+raw_food,Live/Raw Food,GrbhxOQ7ABn2WZ51o9sRjA
+creperies,Creperies,xZ_BbtU_Nbc6ZrTvk6aOdA
+italian,Italian,rpfp3ZcOjWkkfvVrM2li_Q
+pizza,Pizza,rpfp3ZcOjWkkfvVrM2li_Q
+french,French,rpfp3ZcOjWkkfvVrM2li_Q
+french,French,tM2GensNFi0OjEDhrbA4TQ
+bistros,Bistros,ZPBirB62EiLzINctktCcFg
+french,French,FgxmJLQlXvHpDrgTLgJjGA
+wine_bars,Wine Bars,FgxmJLQlXvHpDrgTLgJjGA
+italian,Italian,5V07bcBJlLCCIRwoUbKMOg
+french,French,jCcSFT44X8mlGJxnryWPMg
+lebanese,Lebanese,rBl7wSAWHfkRgVd2uC_fqA
+brasseries,Brasseries,OhnNOvudKQPl2-4YSacwjw
+tabac,Tabac,OhnNOvudKQPl2-4YSacwjw
+thai,Thai,kU8T-QW436orqbIDhHPpPA
+laotian,Laotian,1GCbHcHNA9HrPGmbv7EOmQ
+desserts,Desserts,K_EeB-baJvIlfmIK8YkN1Q
+french,French,N5KI41tz3mAoDAfm9x2hGA
+pizza,Pizza,N5KI41tz3mAoDAfm9x2hGA
+korean,Korean,dl4zI8jeN_6jYKxq0K49vA
+chinese,Chinese,IO2DfERYs6NAaddsAAkwAw
+creperies,Creperies,tOYzt4uMReSXhvJDl6q9ag
+korean,Korean,hmOY5sgFzTDJA5zoOU-kcQ
+italian,Italian,O9iGgBk7Q-ALc8v1mNtYww
+bistros,Bistros,5Hg3EklzGxNudgDswy3wKQ
+kebab,Kebab,FQMuAo-MsSQOSMCzAkjthg
+turkish,Turkish,FQMuAo-MsSQOSMCzAkjthg
+bars,Bars,P4gUm0mmp76H2UhiQ-AY2w
+popuprestaurants,Pop-Up Restaurants,P4gUm0mmp76H2UhiQ-AY2w
+bistros,Bistros,KqWLvsRLqD552ZEJI3rCnQ
+french,French,7gu2CYkX__LJEETm3fJNvA
+tapasmallplates,Tapas/Small Plates,7gu2CYkX__LJEETm3fJNvA
+bars,Bars,7gu2CYkX__LJEETm3fJNvA
+cocktailbars,Cocktail Bars,VXn49_1SRV1mHpH898fKVQ
+lounges,Lounges,VXn49_1SRV1mHpH898fKVQ
+indpak,Indian,JeCg9uzTSF6s3fR5fWUS5w
+bakeries,Bakeries,GjTwrw-a7hrSIEEoYKFLIw
+french,French,skTAHuCvKJOXXG7HAecszg
+chinese,Chinese,PhVL_9GUsxyBiXe7FSEOaQ
+french,French,w9yWBiJMReO7vzl6n0yxcw
+bakeries,Bakeries,lyqP5LqZL0pfqWZVfeo1Lg
+lebanese,Lebanese,EqbupxF_wuHxn7izysoabA
+vietnamese,Vietnamese,Bd3Z4JjYpa809phAFrU0iQ
+french,French,f63kX8v4ZU2Bog87CFfB_g
+french,French,tE8YMel7Oljhke1cHLNOCA
+restaurants,Restaurants,gLK_b2QssRKUsw1Pnje8dA
+hotdogs,Fast Food,SgCsohy2i5RVbl2Rk3uALw
+burgers,Burgers,l181LQ0Sj2l6FYBaOhZnJQ
+hotdogs,Fast Food,l181LQ0Sj2l6FYBaOhZnJQ
+tradamerican,American (Traditional),l181LQ0Sj2l6FYBaOhZnJQ
+pizza,Pizza,IfAJyyIEDJGLt_xrZhrnQg
+bakeries,Bakeries,2KppGmvolqvksc0NOxhYGQ
+international,International,ifGTh9juxAPIIcQ-ueBWJg
+italian,Italian,ifGTh9juxAPIIcQ-ueBWJg
+pizza,Pizza,ifGTh9juxAPIIcQ-ueBWJg
+pizza,Pizza,YI-TdlObyt6VL9KAtOiWPw
+french,French,adM84MIOFR4SYklBU3jDLw
+parks,Parks,lgAsA0EGdbPPg1uX3xYJ5Q
+swimmingpools,Swimming Pools,lgAsA0EGdbPPg1uX3xYJ5Q
+pizza,Pizza,KEEA8IB3rgxXoiGsUXn2cg
+gardens,Botanical Gardens,VH19cv79Ok48UzdjOjNjFw
+parks,Parks,VH19cv79Ok48UzdjOjNjFw
+hotdogs,Fast Food,jWPPrc-AWfRmgrgEoLA7pw
+bbq,Barbeque,NDMtsuUf1SvZI95SNzonCg
+portuguese,Portuguese,u9Q3Xbh_bu-mnybkMM5NJw
+brazilian,Brazilian,u9Q3Xbh_bu-mnybkMM5NJw
+restaurants,Restaurants,5x8gFdkdeEvV9GjiVxHwow
+seafood,Seafood,9bGx56AtmykWx0ZjgVnKeA
+moroccan,Moroccan,JssxMOlcbzJs6LWHzc7MiA
+restaurants,Restaurants,SXI-ng9VSfEwCOshuqXsoQ
+bbq,Barbeque,3iGV-vTI3lwfpR9MEUrelg
+halal,Halal,3iGV-vTI3lwfpR9MEUrelg
+international,International,3iGV-vTI3lwfpR9MEUrelg
+bakeries,Bakeries,rGXk-xm_NYYmo2OeTKMxYg
+sushi,Sushi Bars,hRdqYfjW_IZnaRAPRUZR0w
+japanese,Japanese,hRdqYfjW_IZnaRAPRUZR0w
+lebanese,Lebanese,Oufv-86BCyzOMKlqXHv1ug
+french,French,cOuqzzGeSsirXJCUTR1lxA
+international,International,cOuqzzGeSsirXJCUTR1lxA
+cafes,Cafes,1x7lpbzrfY7dJ9tZbB8rAA
+french,French,atVZhutbFHRqmvTVAe-rEQ
+french,French,ZdQsis9ahsuQS6Q4OPACDQ
+kebab,Kebab,2tPU7aV8HDa_NFC1ICPuwA
+bakeries,Bakeries,svuYgCsKpp9HAk10NzsjUw
+bistros,Bistros,Df983zR2TAcf2cPcSVOceQ
+pizza,Pizza,8pSJvDZqMqmmJtp2J48ALg
+italian,Italian,8pSJvDZqMqmmJtp2J48ALg
+bars,Bars,RRlkBdek3xZmq2EarPHF_A
+bakeries,Bakeries,fxZn9zPmZ2hgSmi_MuZ-3Q
+mediterranean,Mediterranean,8jHjG5meQIK8xWuPqSTzTA
+pizza,Pizza,DMbgFrcv3MntJbE2QylH2A
+italian,Italian,DMbgFrcv3MntJbE2QylH2A
+restaurants,Restaurants,DCLMlZSINRFv_yHrEvyqtg
+creperies,Creperies,xGDDlrL-t3folVWsqnLAyw
+modern_european,Modern European,-1fF73WT42NNikWHNpkvfg
+indpak,Indian,Xj1ied82xIjpNboafJv7Lg
+burgers,Burgers,ZsfPJNSaI_8x1gsm8BxbvA
+tradamerican,American (Traditional),ZsfPJNSaI_8x1gsm8BxbvA
+pizza,Pizza,T0dNZhZNJQYVpwgsRJUg6Q
+french,French,n7L1_oNPUwnm72HPKvYeqw
+pizza,Pizza,V8d1QGNpJtMnkiMTkkGp6A
+japanese,Japanese,ZOSEJjt6K3uMH1SzgEODZg
+french,French,Q1eyoPvVbg1eqLgi8gM9Kg
+lounges,Lounges,Q1eyoPvVbg1eqLgi8gM9Kg
+restaurants,Restaurants,zjIhniJlX8FvryjNgVNzMw
+restaurants,Restaurants,5yfrHbSL1PBOdypf9m2XDw
+indpak,Indian,o4fiNRjUgIRLEExCnt8baQ
+halal,Halal,o4fiNRjUgIRLEExCnt8baQ
+bakeries,Bakeries,uC6oGEIhxbHkxWh9sWt9UQ
+cakeshop,Patisserie/Cake Shop,uC6oGEIhxbHkxWh9sWt9UQ
+french,French,UOmgK6Oy_fKFRnvJp-SUcQ
+buffets,Buffets,rd-ykFOuI9gn-UHcfnvZug
+cafes,Cafes,AM-dAoV3ml9qh8uUA01hcQ
+hotdogs,Fast Food,IuhDehq9gGemhVGv6KhtVg
+panasian,Pan Asian,aoSpk8o4p3_S9K1hyVlfiA
+moroccan,Moroccan,uq5EKr6Svd5FAwZzxuqzUg
+kebab,Kebab,uj_v0_LTwoYmYGungr3FHg
+japanese,Japanese,7r-ANIFQqnrtvBvn-VRIXw
+bakeries,Bakeries,aJTt8qla7JCvHinFFItqtw
+chinese,Chinese,7WpJLW-vYPajCQHyz7yGNQ
+japanese,Japanese,7WpJLW-vYPajCQHyz7yGNQ
+thai,Thai,7WpJLW-vYPajCQHyz7yGNQ
+french,French,7MieRU5mjHFYRSM7z0_q1g
+pizza,Pizza,VrH8xoBBJGEeLtlo5NrOvQ
+bakeries,Bakeries,BLDWxqOz6U69P0911bqiCA
+salad,Salad,BLDWxqOz6U69P0911bqiCA
+sandwiches,Sandwiches,BLDWxqOz6U69P0911bqiCA
+portuguese,Portuguese,8JhRUhvPEl_Q-sDmnj0NsA
+thai,Thai,yp-I506wcdZUHypd4zuooA
+hotdogs,Fast Food,AvKA521ZWk5Lh7Lv9rmf5Q
+burgers,Burgers,AvKA521ZWk5Lh7Lv9rmf5Q
+italian,Italian,AmguhHa6Q8aSr_NiIdlWvA
+italian,Italian,I4NfOByPb4OYsI0LIARXyA
+buffets,Buffets,I4NfOByPb4OYsI0LIARXyA
+chinese,Chinese,dSjbVNMQQwyp6mQMjWyZNQ
+buffets,Buffets,dSjbVNMQQwyp6mQMjWyZNQ
+japanese,Japanese,-XlcMdqvvoCdekl5VuRZyg
+sushi,Sushi Bars,-XlcMdqvvoCdekl5VuRZyg
+restaurants,Restaurants,qm7IuVLbW_AlhDaz8TTAFw
+french,French,MNhCyN8YLlVaoHxfRrsdMw
+hotdogs,Fast Food,gvG0ck-RRyC1PulkPns2lA
+hotdogs,Fast Food,6aH86_Cz76TeFnKB1_Z75A
+burgers,Burgers,6aH86_Cz76TeFnKB1_Z75A
+hotels,Hotels,IKBg5Tsh19uS50MCAEyqbA
+bistros,Bistros,IKBg5Tsh19uS50MCAEyqbA
+hotdogs,Fast Food,YXTdM8tL4nywkf6Gv-KLzw
+japanese,Japanese,YXTdM8tL4nywkf6Gv-KLzw
+creperies,Creperies,mcE6ghhQ9KCv_iZO6VF1bA
+icecream,Ice Cream & Frozen Yogurt,m90LJIsLsBFcFoQljKRG-A
+creperies,Creperies,m90LJIsLsBFcFoQljKRG-A
+coffee,Coffee & Tea,NCY1hqkHQaDXRUbF4nHx1w
+french,French,qsnDWWLY1VlpJ1-j05oyiw
+french,French,l2MfmgWbln2Ipvx6nMotfQ
+senegalese,Senegalese,3YUMRBAAhzdRDqtCjZD3wQ
+pizza,Pizza,9zeGyZ4Jjxqy3CIDBatpgg
+cafes,Cafes,wLJauRAVfiy9Bvm1OBlqmQ
+thai,Thai,ucR5AA4Zc7ZRCphXhEav8A
+vietnamese,Vietnamese,ucR5AA4Zc7ZRCphXhEav8A
+moroccan,Moroccan,Ci-iMtynez8b-t4UIQGBIw
+arabian,Arabic,Ci-iMtynez8b-t4UIQGBIw
+restaurants,Restaurants,wOFpoPg2XcPlBreHrkL8iA
+greek,Greek,MKmz0ptJQ0ESQpIkmwLHiA
+lebanese,Lebanese,MYbGL7JiVwBEMThS-9pMbA
+japanese,Japanese,FDrFOa-4-qSmmwApdOZGjA
+restaurants,Restaurants,7BNaV_t860PA6ID7SXdBdg
+french,French,ymRpMJ0kHHAlChHqOru_wg
+hotels,Hotels,VHaYSjuEGzSRHS14pTCs3Q
+restaurants,Restaurants,VHaYSjuEGzSRHS14pTCs3Q
+burgers,Burgers,4YPA4DHpi6du5ZQiGABcCQ
+japanese,Japanese,ycitZAVFX7jP8SlPjB_SZQ
+sushi,Sushi Bars,ycitZAVFX7jP8SlPjB_SZQ
+seafood,Seafood,kHnkpReaNAYZkqyl807Qng
+portuguese,Portuguese,kHnkpReaNAYZkqyl807Qng
+salad,Salad,lG2aPgVQMW8YmvoNzLDkfA
+hotdogs,Fast Food,lG2aPgVQMW8YmvoNzLDkfA
+sandwiches,Sandwiches,lG2aPgVQMW8YmvoNzLDkfA
+butcher,Butcher,gIrFjcWGwjOYBqlf-Tfyqw
+caribbean,Caribbean,l0z9LfhJQ-B_KpB-KGhBbg
+hotels,Hotels,GkYk16xvQs33vnqe_Vgc2A
+breakfast_brunch,Breakfast & Brunch,GkYk16xvQs33vnqe_Vgc2A
+cafes,Cafes,BjAR-v4S7x_Xzf5-EcveDQ
+french,French,BjAR-v4S7x_Xzf5-EcveDQ
+french,French,oljvmpjZBKv5lm58Jq7XRw
+french,French,Zkz4TNWf-nooLvoUVQRuFQ
+creperies,Creperies,Zkz4TNWf-nooLvoUVQRuFQ
+french,French,W9FYeTUI8d5YHbVyUBmS-A
+korean,Korean,8Hx-wGCLks3E7Ai6zGFsvQ
+african,African,C9bdgKJqAn8vYrxgaWreyQ
+french,French,VC8GEfn_5KkReOIEpVtJRQ
+bars,Bars,VC8GEfn_5KkReOIEpVtJRQ
+desserts,Desserts,oJBKrtRF6rmiQC3n5PreyA
+coffee,Coffee & Tea,yyFIOhLbnFu2swe06qCwlg
+bagels,Bagels,yyFIOhLbnFu2swe06qCwlg
+breakfast_brunch,Breakfast & Brunch,yyFIOhLbnFu2swe06qCwlg
+moroccan,Moroccan,GrFah77tQIU3t_kKVLx4hQ
+bistros,Bistros,GrFah77tQIU3t_kKVLx4hQ
+italian,Italian,6geF1RrWjgLn4cX8xSpNnw
+hotdogs,Fast Food,6geF1RrWjgLn4cX8xSpNnw
+bakeries,Bakeries,7EkrWK89QUqlTNQrjJ73Gg
+seafood,Seafood,K7LaF225SlyyEqSdjHtcMg
+italian,Italian,M5OZSQETvSRPVbLdWDwIYw
+bistros,Bistros,Be2Pbda2li3cHmmXLILbZg
+wine_bars,Wine Bars,Be2Pbda2li3cHmmXLILbZg
+french,French,dobldPbb3uh6Uet7OBm5-g
+bistros,Bistros,3suJu-667dRPuqRd7Te_Dg
+brasseries,Brasseries,3suJu-667dRPuqRd7Te_Dg
+italian,Italian,zqh6jyBabvzC92bxW2Gjyg
+italian,Italian,K6xEXWv-5OV_H5wLmaC1mw
+bakeries,Bakeries,YbycGye-bTcq5s8vCj_0ow
+bakeries,Bakeries,JNtpahsAngLdvVJmxnE2cQ
+sandwiches,Sandwiches,JNtpahsAngLdvVJmxnE2cQ
+italian,Italian,8Vep7z2JA-lzObsah5PbRw
+french,French,cL5fGCT3-dGfOEulLI-joA
+bakeries,Bakeries,lajtG0dwreoQ29FU5Y5f_A
+moroccan,Moroccan,bn19ObsRa9suEi9yWg-5CA
+indpak,Indian,al4Rqn-y-u_Z79atrDaVMw
+vegetarian,Vegetarian,al4Rqn-y-u_Z79atrDaVMw
+korean,Korean,jNk8Deos5q4rp2A1RWZ9HQ
+japanese,Japanese,NgrtKocyYmLtmp2jKzDsWg
+sushi,Sushi Bars,NgrtKocyYmLtmp2jKzDsWg
+peruvian,Peruvian,NgrtKocyYmLtmp2jKzDsWg
+french,French,g9ig7BLxpOXCkV1577dz5A
+tapas,Tapas Bars,g9ig7BLxpOXCkV1577dz5A
+chimneycakes,Chimney Cakes,tXUEgPAskgZoG1fLxFph0w
+cafes,Cafes,tXUEgPAskgZoG1fLxFph0w
+coffee,Coffee & Tea,tXUEgPAskgZoG1fLxFph0w
+bakeries,Bakeries,psgyozH6OXYLu-q3PAiNlw
+burgers,Burgers,G_h2fX0yRz-qMeTOfs7vYA
+bistros,Bistros,G7sJRDfxYtK77reZkRyXag
+basque,Basque,E3PvQMOiAnCVTUgPSU1mJQ
+french,French,_NIqfAkvcwqq_EGwoNVVPA
+fooddeliveryservices,Food Delivery Services,fK946J51hqdGSzBqRK-g3A
+pizza,Pizza,fK946J51hqdGSzBqRK-g3A
+japanese,Japanese,tNE6LVL-ULRqwx9rgSp8uA
+asianfusion,Asian Fusion,woe46ynr7LUMHmDWghuCuQ
+bagels,Bagels,c9TxmrGiYAePoc-88-kl3w
+italian,Italian,K_IVEfjDHORtnAtK40WfvQ
+pizza,Pizza,K_IVEfjDHORtnAtK40WfvQ
+french,French,Rke7WEUz9APaI4Mu9GUs1A
+museums,Museums,7yHQXu5CQnbdDb8e2w9RgA
+pizza,Pizza,sceAP8ZhJLMzIMhA2iwqOw
+sicilian,Sicilian,sceAP8ZhJLMzIMhA2iwqOw
+coffee,Coffee & Tea,d2-084oRPaJdVZxQrwEovQ
+sandwiches,Sandwiches,d2-084oRPaJdVZxQrwEovQ
+restaurants,Restaurants,wtyAjXRCSBpRe-vGeXcX2g
+creperies,Creperies,rOPra9-1Awkd8LAOAE9dHQ
+italian,Italian,jzudgXTV1e7ZX1Bl2dW0qg
+armenian,Armenian,jzudgXTV1e7ZX1Bl2dW0qg
+pizza,Pizza,jzudgXTV1e7ZX1Bl2dW0qg
+japanese,Japanese,2l-xB8TRHb-JtTBHy22hwA
+sushi,Sushi Bars,2l-xB8TRHb-JtTBHy22hwA
+vietnamese,Vietnamese,gUdqjK6d6yjE1bcXxVhPzA
+japanese,Japanese,_a81jjf6ennXAvL_F0AkNg
+chinese,Chinese,3yLiEblgH3zgTzrmI8ypXw
+tapas,Tapas Bars,GOZvP4ihp2uf6h8CGRymaw
+restaurants,Restaurants,R4_e4MqgH-uXCtqidoRWLA
+italian,Italian,s0KEjp_64D7I7dLHN_8Zbw
+pizza,Pizza,s0KEjp_64D7I7dLHN_8Zbw
+french,French,K_Yk2TrrO4wVI8vnjCjdTQ
+french,French,9ZoYeUrT40oxl3Ik5RrtdA
+italian,Italian,qMPGNDvZ6xdnwoomTSRHEA
+indpak,Indian,Ey3PHSfPswo3_KOojYJqhg
+icecream,Ice Cream & Frozen Yogurt,wWq6yGoMDqQadze1gn8Ycw
+italian,Italian,G2ey0HnPMFguxpDjV03yew
+french,French,Gq4QC2N6l51q6sVzMaXEIQ
+gastropubs,Gastropubs,Gq4QC2N6l51q6sVzMaXEIQ
+pizza,Pizza,TPltxpy-cGjHcKC6Ex3efw
+burgers,Burgers,d5s9ZX9zJtsqIXzMm_h0IA
+bbq,Barbeque,d5s9ZX9zJtsqIXzMm_h0IA
+halal,Halal,d5s9ZX9zJtsqIXzMm_h0IA
+restaurants,Restaurants,hi8PwxO-WAXmOPZ7YwI8Lw
+toys,Toy Stores,rMbUAzE_yeNbD9aNaCPDEg
+cafes,Cafes,rMbUAzE_yeNbD9aNaCPDEg
+baby_gear,Baby Gear & Furniture,rMbUAzE_yeNbD9aNaCPDEg
+bistros,Bistros,Tf7C0iP7leWOuhCKIG4c4A
+colombian,Colombian,2CyOhmNkTvrPkF8BHn9zEw
+szechuan,Szechuan,3WAwB6GqfV-3x0sgcKvvlQ
+asianfusion,Asian Fusion,3WAwB6GqfV-3x0sgcKvvlQ
+japanese,Japanese,7O-jfqLq2tQtBbe8bPusiA
+coffee,Coffee & Tea,YfBy-nGsh_zkavnY-ZP5wA
+french,French,MclbOIDIHINQsDQp216EwQ
+bistros,Bistros,MclbOIDIHINQsDQp216EwQ
+italian,Italian,Ad0hO5bHmU3x2q8Et5rj8Q
+italian,Italian,m5SD1lh5_fRAXaw_lvV7MA
+pizza,Pizza,m5SD1lh5_fRAXaw_lvV7MA
+romanian,Romanian,2sqqOdxJKSo_wx6YLbT2MQ
+fooddeliveryservices,Food Delivery Services,QWZqTxXmrCy50vL7YKWjRw
+panasian,Pan Asian,QWZqTxXmrCy50vL7YKWjRw
+restaurants,Restaurants,bMAhMnutnfobLcNfycNmuw
+polish,Polish,nX_X7AzAPIvxC37TzyFblg
+japanese,Japanese,iVvV7JHbzlmZXcKt8i2piw
+sushi,Sushi Bars,iVvV7JHbzlmZXcKt8i2piw
+brasseries,Brasseries,Du4-X3V6K6S4_ginLEwM3w
+italian,Italian,_0r47Ndaf4ai9FW4fcWrng
+chinese,Chinese,j48aLL6T0fRl5jOc8SKQDg
+restaurants,Restaurants,U82beEQrJl619WDfAC5zpA
+bakeries,Bakeries,KLwpyHbVp5ngZEGnsAmsNg
+parks,Parks,_D56zcgU464U9TRzwx_2vg
+mideastern,Middle Eastern,k6JuNL5wIHDDhBwXMdHbiw
+brasseries,Brasseries,HFFDUgNmlH6j4dUJleUlWQ
+bistros,Bistros,HFFDUgNmlH6j4dUJleUlWQ
+pizza,Pizza,BsjxampP1hZw8D4L3YXPQA
+bistros,Bistros,Vflr05BvU3IArpY1VUgvEQ
+brasseries,Brasseries,BguzdE4c3SgiLECDjlGGxg
+panasian,Pan Asian,FwS2IhT8fPUZjUUv9UJQKw
+japanese,Japanese,s4kajb26Y_bdRr3STXhJfg
+pizza,Pizza,CqahvUjF0G9ek-evvPZe0Q
+fooddeliveryservices,Food Delivery Services,CqahvUjF0G9ek-evvPZe0Q
+bubbletea,Bubble Tea,k4b-XsvfqFNBSqE_Mafemg
+burgers,Burgers,k4b-XsvfqFNBSqE_Mafemg
+japanese,Japanese,eChiswjoRHKrjskRtJu00g
+coffee,Coffee & Tea,0G3dwXqveeURdFTIiJNSTg
+breakfast_brunch,Breakfast & Brunch,0G3dwXqveeURdFTIiJNSTg
+sandwiches,Sandwiches,0G3dwXqveeURdFTIiJNSTg
+hotdogs,Fast Food,4EyI-2KItwBN9TCohvSOig
+japanese,Japanese,4EyI-2KItwBN9TCohvSOig
+indpak,Indian,rEB6le27-sbREL4KezB9kg
+french,French,2KKeZ4nX20tWG1DGYTq85w
+french,French,ddshc2_LFf68XC458dx3GA
+bars,Bars,ddshc2_LFf68XC458dx3GA
+tea,Tea Rooms,ddshc2_LFf68XC458dx3GA
+bakeries,Bakeries,9ODa0tzVw3Sn9ZlGBZtDPQ
+portuguese,Portuguese,So2c0LEw8142-dgXuERlbg
+french,French,So2c0LEw8142-dgXuERlbg
+korean,Korean,vab1F8v52U9-Ya8gNR3bPQ
+french,French,LYW9u8sZs57PrLad00zcdg
+creperies,Creperies,mi2HN03GfT95eSxSIgwrsg
+french,French,vPi2XGg6y1czjnrLolZ75Q
+french,French,b_6uSJPYQjsB8jzBE0BcOQ
+bakeries,Bakeries,7r_pSAFACWtXE3l9f3RyeQ
+thai,Thai,zceKRHQNcfg-8dpL_LTwcA
+icecream,Ice Cream & Frozen Yogurt,ULxaZItozE3r_xftjPm-dA
+italian,Italian,eMqz3srR2fd_9yv918k4dQ
+pizza,Pizza,eMqz3srR2fd_9yv918k4dQ
+kebab,Kebab,S2n0c2-J0aCqaQ1zlNfspw
+turkish,Turkish,S2n0c2-J0aCqaQ1zlNfspw
+creperies,Creperies,ys7txWUPL844PjSwNI3e_w
+wineries,Wineries,Fm8t-aDBD2UvnlwGit943Q
+wine_bars,Wine Bars,Fm8t-aDBD2UvnlwGit943Q
+catering,Caterers,H86oVZ2SWQI0eRj7cginow
+italian,Italian,H86oVZ2SWQI0eRj7cginow
+bakeries,Bakeries,t46JBReaB4xTQ9uD-2RLgA
+dimsum,Dim Sum,kuFyh0bNUJuF1v8CJ447AQ
+panasian,Pan Asian,kuFyh0bNUJuF1v8CJ447AQ
+french,French,Ho1rQgdFwwRP6oqaqe8MOg
+seafood,Seafood,Ho1rQgdFwwRP6oqaqe8MOg
+vegan,Vegan,SrXJNzZVyqgAJWHJ5ERQug
+coffee,Coffee & Tea,1W3eqDoP-udoLV_pjawWug
+cakeshop,Patisserie/Cake Shop,1W3eqDoP-udoLV_pjawWug
+concept_shops,Concept Shops,1W3eqDoP-udoLV_pjawWug
+vegetarian,Vegetarian,GOzgHvNY9qGFSLHdNZ7d2Q
+caribbean,Caribbean,GOzgHvNY9qGFSLHdNZ7d2Q
+jazzandblues,Jazz & Blues,m7TQieZVrdcqflApHiU-vg
+bistros,Bistros,m7TQieZVrdcqflApHiU-vg
+french,French,WwXPbv3fvK7fRCqoob0xaw
+caribbean,Caribbean,cYCENbYpJZ8sYk5AQN-RXA
+restaurants,Restaurants,_O4gaApJQ_vqP8OKlzwP4Q
+sushi,Sushi Bars,KiZR5NIk_iba3AXS2raRbA
+japanese,Japanese,KiZR5NIk_iba3AXS2raRbA
+pizza,Pizza,G7l4Qhr-3Q4YDZtule6p1Q
+breakfast_brunch,Breakfast & Brunch,G7l4Qhr-3Q4YDZtule6p1Q
+mediterranean,Mediterranean,G7l4Qhr-3Q4YDZtule6p1Q
+brasseries,Brasseries,20MkPf5YFiGV_QrWq7sAbg
+modern_european,Modern European,20MkPf5YFiGV_QrWq7sAbg
+french,French,bVc3sFBXzYf8M8bObMNNKg
+french,French,H0RVV5ydCfxpJ4H3k7ZF4A
+pizza,Pizza,LeT992tuD-7sXxWzo3b3Tw
+french,French,8N3LTC-Li77zpn5NkXIu0A
+french,French,hwfCJCxtt41_8pgGfZnbOA
+pizza,Pizza,K20IsRYv0xwiztpq5XBTnw
+italian,Italian,lnlVtGV8kxp0GEwPwGOLoQ
+restaurants,Restaurants,L7d-EQUR8WybSqOiJlszaw
+parks,Parks,ikLPLNIzNtNLG6435ZccHw
+thai,Thai,2969AvYrTCsmP-fxTz-0Lw
+moroccan,Moroccan,Grixkfss8zJyfaUEnA6NAg
+bakeries,Bakeries,NSVra69-XT2g5kose-hZDg
+cakeshop,Patisserie/Cake Shop,NSVra69-XT2g5kose-hZDg
+french,French,alK32dk5lEKghN4c6FHG3A
+french,French,TMhKxJx-QQCxQXvNFY2wmg
+japanese,Japanese,TTkYrl5eXfOWqR0esY2Tuw
+sushi,Sushi Bars,TTkYrl5eXfOWqR0esY2Tuw
+bakeries,Bakeries,DZN-T4fHiASR2VKLeG-Oyw
+bakeries,Bakeries,vyvN8xIkrZBN9Y7NRKZeCg
+restaurants,Restaurants,C61JHv2LBdEvbIdN3VYhmg
+chickenshop,Chicken Shop,nq9BpTIeRZzm7hfTLa60xQ
+hotdogs,Fast Food,nq9BpTIeRZzm7hfTLa60xQ
+hotdogs,Fast Food,he1IQ4dM0mlFeTrSAFDOwA
+creperies,Creperies,0vR4bJMsRIiFUquq2bwQgg
+restaurants,Restaurants,x8saJWoTvP806Eznxr3MLA
+pizza,Pizza,Ta6o2mG6OrfDpKdhsUfeBA
+italian,Italian,Ta6o2mG6OrfDpKdhsUfeBA
+french,French,71l-ibe0wjh5FNqvhsrnwQ
+cheese,Cheese Shops,zCG2ePWSiXxsWgHAiC62Sw
+salad,Salad,zCG2ePWSiXxsWgHAiC62Sw
+delicatessen,Delicatessen,zCG2ePWSiXxsWgHAiC62Sw
+french,French,uXDdr1ZlxawGlrpsRfvZtA
+pizza,Pizza,bCFm_UWwhiyoPStWjHigTw
+bistros,Bistros,bCFm_UWwhiyoPStWjHigTw
+italian,Italian,bCFm_UWwhiyoPStWjHigTw
+pizza,Pizza,spRWDHUhdSyMwfr4_QWXgA
+italian,Italian,spRWDHUhdSyMwfr4_QWXgA
+indpak,Indian,FprAiHz74ubnT75EIYvIsg
+bakeries,Bakeries,zsmZxkzFXSHk6Zt4M1PbJA
+chocolate,Chocolatiers & Shops,zsmZxkzFXSHk6Zt4M1PbJA
+butcher,Butcher,JxGL8zxzZlWWpen-hCaCFg
+bakeries,Bakeries,Kjnxs5A--m6lwY_cb2Btmw
+indpak,Indian,KYqh1sfd9Vr5MFXRpWoKRA
+halal,Halal,KYqh1sfd9Vr5MFXRpWoKRA
+hotdogs,Fast Food,sypgvOxFw9o0XL35ht41Xw
+chickenshop,Chicken Shop,sypgvOxFw9o0XL35ht41Xw
+french,French,ptH73KHvHfRCrQwFRRorzQ
+japanese,Japanese,s6gjX-fk_KvDROWisXC_sQ
+chinese,Chinese,s6gjX-fk_KvDROWisXC_sQ
+sushi,Sushi Bars,s6gjX-fk_KvDROWisXC_sQ
+hotdogs,Fast Food,ob0SlrBZtkyg4EDzRlb8hw
+steak,Steakhouses,_r3tLiS7leOFJHOyXAopZQ
+brasseries,Brasseries,_r3tLiS7leOFJHOyXAopZQ
+french,French,qdd3KbphXk2X6Pz0YAYqrQ
+steak,Steakhouses,UmI1pa5SCW6oOk9Dw_TV3Q
+bbq,Barbeque,UmI1pa5SCW6oOk9Dw_TV3Q
+steak,Steakhouses,ynTtQJ2uMrN26lLu0s1fDw
+burgers,Burgers,ynTtQJ2uMrN26lLu0s1fDw
+tex-mex,Tex-Mex,ynTtQJ2uMrN26lLu0s1fDw
+hotdogs,Fast Food,fOToTzoXBeOdSFYhst6e9Q
+burgers,Burgers,fOToTzoXBeOdSFYhst6e9Q
+italian,Italian,AZUXF5luRZEqtgne0afZ8g
+bakeries,Bakeries,jG7NOKZdt0Db_uk17v4paw
+japanese,Japanese,Dcus2Es3kHsYJPWqVnYBNw
+sushi,Sushi Bars,Dcus2Es3kHsYJPWqVnYBNw
+french,French,1M3LmS7ig4U_Fn24naGHsA
+steak,Steakhouses,PMkwPfmC3qgpIoqAYJ5twg
+bakeries,Bakeries,bg4RRtqMQ7huAK6FgZddBQ
+realestate,Real Estate,NTXyqobfOO3MkqWoZqjmAw
+hotdogs,Fast Food,NTXyqobfOO3MkqWoZqjmAw
+pizza,Pizza,bw-FeeoI3G6p6sfxf3N5GA
+french,French,nKgbyels-wU39bN28WGK_Q
+pizza,Pizza,vOH-l0AOnr9rZSo8JRnvzg
+lebanese,Lebanese,OBOaF9UQnxUx-t376wvHxw
+peruvian,Peruvian,7sU6RiweLjouCbNLz96FEQ
+creperies,Creperies,dspHNJKMs4TorCLO6n7EjA
+tea,Tea Rooms,dspHNJKMs4TorCLO6n7EjA
+food,Food,OXQ-eLkvBnNqyoAEg34DtA
+bars,Bars,OXQ-eLkvBnNqyoAEg34DtA
+sportsbars,Sports Bars,oFH-mSHI2oIR9iPzx0rzfg
+bars,Bars,-ItaIO4-QnuK-EHVV7onDg
+food,Food,-ItaIO4-QnuK-EHVV7onDg
+french,French,lh8kyKLF0YHb4K1_W5vzgQ
+napoletana,Napoletana,031_MIYHqcM407dqpzDSdQ
+pizza,Pizza,031_MIYHqcM407dqpzDSdQ
+italian,Italian,lFaDzW86LRHE47QgDTW4jA
+bakeries,Bakeries,IWW8TVa5G9lRgwleZ6e44w
+desserts,Desserts,IWW8TVa5G9lRgwleZ6e44w
+cakeshop,Patisserie/Cake Shop,IWW8TVa5G9lRgwleZ6e44w
+french,French,lryGLNBv-MQZgKmOqHpKAQ
+bakeries,Bakeries,ez2UJVbggBGKGkNBc_qCVA
+bakeries,Bakeries,r1ikC9C7Xirnq1xfeuDDYw
+pizza,Pizza,3ajIPoF3c4Y0cYyvh0861A
+italian,Italian,3ajIPoF3c4Y0cYyvh0861A
+restaurants,Restaurants,SYDQjIgUeurqAIVNUMRB_Q
+indpak,Indian,tPe1CR1dBMaTmdw4expY4Q
+restaurants,Restaurants,xJbADfma-BVwKut54CokLQ
+chinese,Chinese,e-fcore0WD5N_J40_aGMag
+hotdogs,Fast Food,cWoRK7IzwrUMSwoJ485qnQ
+indpak,Indian,GyqUjaPEApYd7QP02gxu8g
+japanese,Japanese,s18j6WjIhpOu1CHDBqEJEw
+sushi,Sushi Bars,s18j6WjIhpOu1CHDBqEJEw
+bistros,Bistros,ksBxomAPGfmBUHuP4UtvYA
+french,French,i5M0jlSo4eI_pXfdwNVAmQ
+french,French,MWARvhGP6aAiazcydsHYLQ
+breakfast_brunch,Breakfast & Brunch,MWARvhGP6aAiazcydsHYLQ
+french,French,x24WKop_7_sK6WzjnViIJA
+burgers,Burgers,KOLp5VG6oUmtHAQOEAoSvg
+french,French,swbPxkqbGi-SDDVrnKY9-g
+wine_bars,Wine Bars,8dukMPN_DYb6E0UjyQ1nlQ
+french,French,8dukMPN_DYb6E0UjyQ1nlQ
+french,French,K_P-jJIvYc9_TA2cFrQpbw
+french,French,LftFrkhdaUaMPknl4rnzHg
+wine_bars,Wine Bars,LftFrkhdaUaMPknl4rnzHg
+pizza,Pizza,S0lwCuaMEV9F34nNOLfGzg
+halal,Halal,KWd1wgFV5ubfcc_zTV8ZnA
+french,French,KWd1wgFV5ubfcc_zTV8ZnA
+japanese,Japanese,5QIzUMMoBFHo_GS92v60wQ
+restaurants,Restaurants,pn5t5SyHamI1oQXuD-rg1Q
+pizza,Pizza,Ik3FZBsentqC8AMDurmqfA
+italian,Italian,Ik3FZBsentqC8AMDurmqfA
+butcher,Butcher,QD3ooBpspQOrI0s0CHqidg
+burgers,Burgers,DhvUVBRKNnd3_4j7vgQV9Q
+tex-mex,Tex-Mex,DhvUVBRKNnd3_4j7vgQV9Q
+pizza,Pizza,DhvUVBRKNnd3_4j7vgQV9Q
+portuguese,Portuguese,6O3GCORH2W2W1m_N46K7_Q
+japanese,Japanese,oePomlZxIh6w53PpXooTrA
+thai,Thai,oePomlZxIh6w53PpXooTrA
+burgers,Burgers,lmNkg10A47pVX4h50_t-UA
+hotdogs,Fast Food,lmNkg10A47pVX4h50_t-UA
+bakeries,Bakeries,IZFnqgGRMo6juKCO0ocxRA
+gardens,Botanical Gardens,2nJN8CVSps7lNtdyWhir8w
+parks,Parks,2nJN8CVSps7lNtdyWhir8w
+chinese,Chinese,cizV8r6XnVCGxlvnYYFCRw
+restaurants,Restaurants,NdQEZLTNoPecS7qOesc0gA
+pizza,Pizza,gxck3bjA5kjYI0ggNfOOlw
+food,Food,gxck3bjA5kjYI0ggNfOOlw
+bakeries,Bakeries,GqdAewJNDDR4Qk3xo8QmrA
+museums,Museums,ZSBDzVrKCNJyUiRxIa_6sQ
+japanese,Japanese,_V8e0TuyXrJYGeUw4xxNBQ
+french,French,3PCV9V60ApNV2J_buBwXPA
+restaurants,Restaurants,eg9mQfPdYxffoO3bJDslsw
+french,French,k7EIezUS1GHxJc9ALIWJhA
+creperies,Creperies,nt8xaDJG81y_OLgE3KFV3A
+japanese,Japanese,UFbTHxUmyFqioAPgaKj2Gw
+sushi,Sushi Bars,UFbTHxUmyFqioAPgaKj2Gw
+hotdogs,Fast Food,UFbTHxUmyFqioAPgaKj2Gw
+fooddeliveryservices,Food Delivery Services,UFbTHxUmyFqioAPgaKj2Gw
+french,French,tCJbmHLHNL2IqOTeDS4lQA
+landmarks,Landmarks & Historical Buildings,cekPcWKzxABG20T_5_j6tQ
+pizza,Pizza,Tldn5fZ9-flOxh7OFiEu1g
+parks,Parks,FsxmezhpqD1bXxBN1TxL9w
+vietnamese,Vietnamese,P96N5Cq8UW6rJ5LgaijWOg
+bakeries,Bakeries,WBzvF5BJU-HTpJ62aCddLA
+french,French,lQaY-u398z7t4lYp1vnfvQ
+bistros,Bistros,lQaY-u398z7t4lYp1vnfvQ
+italian,Italian,L6mwTgmWYhyvaZR1fmvrug
+bars,Bars,L6mwTgmWYhyvaZR1fmvrug
+coffee,Coffee & Tea,L6mwTgmWYhyvaZR1fmvrug
+restaurants,Restaurants,loIXrQ-q3LOBgVyw2OZCAA
+indpak,Indian,mb1As21kDU719nTSGerNCg
+brasseries,Brasseries,yUEqSo1jVRlRTBMXNgdWpQ
+portuguese,Portuguese,SnNY0_BftioHVOT94zq7Tw
+pizza,Pizza,pSrKZs4V211Gb-PEvN0D0A
+skate_parks,Skate Parks,xS6tYa_c0AdWQq_fJm7qpw
+chinese,Chinese,6IOdem6b0lgk4VbdGEaTPw
+hotdogs,Fast Food,AG-74tLizyzNYPdg97bIug
+chickenshop,Chicken Shop,AG-74tLizyzNYPdg97bIug
+gardens,Botanical Gardens,L4tYXryUg-uYk6fsU2qVNQ
+parks,Parks,L4tYXryUg-uYk6fsU2qVNQ
+auto,Automotive,lmvpdXnfgz6k5NMmX-zwxg
+bars,Bars,lmvpdXnfgz6k5NMmX-zwxg
+trainstations,Train Stations,lmvpdXnfgz6k5NMmX-zwxg
+amusementparks,Amusement Parks,p7we0TEB1MzcJRlQYTjogA

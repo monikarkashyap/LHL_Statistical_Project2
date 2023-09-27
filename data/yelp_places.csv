@@ -1,100 +1,1177 @@
-id,alias,name,image_url,is_closed,url,review_count,rating,transactions,phone,display_phone,distance,coordinates.latitude,coordinates.longitude,location.address1,location.address2,location.address3,location.city,location.zip_code,location.country,location.state,location.display_address,station,price
-o0AHPpZqqWc8jszVVNbooA,au-chien-chic-calais,Au Chien Chic,,False,https://www.yelp.com/biz/au-chien-chic-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321977352.0,+33 3 21 97 73 52,984.5396686269312,50.9459,1.87713,198 Boulevard Egalité,,,Calais,62100,FR,62,"['198 Boulevard Egalité', '62100 Calais', 'France']",a,
-WU6IaRGdEkYOm6r3QZOuUw,l-absinthe-calais-2,L'Absinthe,https://s3-media4.fl.yelpcdn.com/bphoto/1fVNlmqkJKyQgjOuQYqxiQ/o.jpg,False,https://www.yelp.com/biz/l-absinthe-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.0,[],33669123862.0,+33 6 69 12 38 62,311.80354863576565,50.9590699,1.85026,12 rue la Paix,Bar,,Calais,62100,FR,62,"['12 rue la Paix', 'Bar', '62100 Calais', 'France']",a,
-8sdlNaz1z5PosLyL8qPMIA,campanile-calais,Campanile,https://s3-media2.fl.yelpcdn.com/bphoto/dXT2IoZ8JuB5rM0yFm7VJA/o.jpg,False,https://www.yelp.com/biz/campanile-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,2.0,[],33321343070.0,+33 3 21 34 30 70,998.5744952491982,50.948366,1.877353,35 Rue de Maubeuge - ZAC du Beau Marais,,,Calais,62100,FR,62,"['35 Rue de Maubeuge - ZAC du Beau Marais', '62100 Calais', 'France']",a,
-8gdWT3_-ssBF4KOfvuRSFA,calais-ferry-terminal-calais,Calais Ferry Terminal,https://s3-media3.fl.yelpcdn.com/bphoto/svPkAH5TO8Fre5TTCK4WaA/o.jpg,False,https://www.yelp.com/biz/calais-ferry-terminal-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,5.0,3.5,[],,,701.1779341390932,50.9657593,1.86696,Ave du Commandant Cousteau,,,Calais,62100,FR,62,"['Ave du Commandant Cousteau', '62100 Calais', 'France']",b,€€€€
-NIGgI2mh1-Y4LBEzhF6Rew,la-buissonnière-calais-5,La Buissonnière,https://s3-media4.fl.yelpcdn.com/bphoto/EuvH1JzBwmzaBeyvJFHNVQ/o.jpg,False,https://www.yelp.com/biz/la-buissonni%C3%A8re-calais-5?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,5.0,[],33321962232.0,+33 3 21 96 22 32,323.9382724215263,50.947806,1.854087,10 Rue Neuve,,,Calais,62100,FR,62,"['10 Rue Neuve', '62100 Calais', 'France']",01 : Lafayette,
-m7fZizhIXQXjYs1TtqzsGA,les-bourgeois-de-calais-calais,Les Bourgeois de Calais,https://s3-media3.fl.yelpcdn.com/bphoto/uiiEqutn5lWGUIYEED2FWw/o.jpg,False,https://www.yelp.com/biz/les-bourgeois-de-calais-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,4.5,[],,,725.6688412595801,50.9523659902299,1.85342276370894,Place du Soldat Inconnu,,,Calais,62100,FR,62,"['Place du Soldat Inconnu', '62100 Calais', 'France']",01 : Lafayette,
-x6mnSevWdonoG8vRWBmB4w,café-de-la-renaissance-calais-2,Café de la Renaissance,,False,https://www.yelp.com/biz/caf%C3%A9-de-la-renaissance-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321820379.0,+33 3 21 82 03 79,350.6006912766799,50.9465808,1.8532987,7 Rue Darnel,,,Calais,62100,FR,62,"['7 Rue Darnel', '62100 Calais', 'France']",01 : Lafayette,€€
-0LakTdI7Fh4WVoZUvEB17g,pizza-doms-calais-2,Pizza Dom's,,False,https://www.yelp.com/biz/pizza-doms-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,4.0,4.5,[],33321970909.0,+33 3 21 97 09 09,239.6393118149116,50.9457,1.861404,143 Boulevard Lafayette,,,Calais,62100,FR,59,"['143 Boulevard Lafayette', '62100 Calais', 'France']",01 : Lafayette,
-_ySViM0hJA11Y1Dxi78LzA,au-1000-borg-calais,Au 1000 Borg,,False,https://www.yelp.com/biz/au-1000-borg-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321343372.0,+33 3 21 34 33 72,440.55712299376034,50.94519,1.8641739,215 bd Lafayette,,,Calais,62100,FR,62,"['215 bd Lafayette', '62100 Calais', 'France']",01 : Lafayette,
-h8vwDgh4ad6yShzDGD_adg,café-le-mirador-calais,Café Le Mirador,,False,https://www.yelp.com/biz/caf%C3%A9-le-mirador-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321343556.0,+33 3 21 34 35 56,427.2011367894205,50.9492776,1.8539153,47 Boulevard Jacquard,,,Calais,62100,FR,62,"['47 Boulevard Jacquard', '62100 Calais', 'France']",01 : Lafayette,€€
-4vyrMDK7ObcsrKkcCLfKkA,sushi-kyo-calais,Sushi Kyo,,False,https://www.yelp.com/biz/sushi-kyo-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,6.0,4.0,[],33321007888.0,+33 3 21 00 78 88,601.6512217826701,50.9511968,1.8537485,Boulevard Jacquard,,,Calais,62100,FR,62,"['Boulevard Jacquard', '62100 Calais', 'France']",01 : Lafayette,€€
-HTQZ7_gb_iAi50t4ryPI1w,sushi-kyo-calais-2,Sushi Kyo,,False,https://www.yelp.com/biz/sushi-kyo-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],,,521.138925764264,50.95129,1.858686,Centre Commercial Des 4 Boulevards,,,Calais,62100,FR,62,"['Centre Commercial Des 4 Boulevards', '62100 Calais', 'France']",01 : Lafayette,
-t2A4bSLFAQXRY9zRTx08XA,fred-calais,Fred,,False,https://www.yelp.com/biz/fred-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,4.5,[],33321348989.0,+33 3 21 34 89 89,653.688083937852,50.9517522,1.853782,120 Boulevard Jacquard,,,Calais,62100,FR,62,"['120 Boulevard Jacquard', '62100 Calais', 'France']",01 : Lafayette,€€
-2-h4Ywgr-DCGmXcdoVDuCg,chouchen-calais,chouchen,,False,https://www.yelp.com/biz/chouchen-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.5,[],33321356600.0,+33 3 21 35 66 00,477.7103042070743,50.9445,1.8523901,40 Rue des Fontinettes,,,Calais,62100,FR,62,"['40 Rue des Fontinettes', '62100 Calais', 'France']",01 : Lafayette,
-ddNc_8r5dzua6WWLF18MJA,au-calice-calais,Au Calice,https://s3-media3.fl.yelpcdn.com/bphoto/St_UytKLhbhQawWGP7Lh2w/o.jpg,False,https://www.yelp.com/biz/au-calice-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,12.0,3.5,[],33321345178.0,+33 3 21 34 51 78,452.0127984860592,50.949498,1.853763,55 boulevard Jacquard,,,Calais,62100,FR,62,"['55 boulevard Jacquard', '62100 Calais', 'France']",01 : Lafayette,
-Nn2NxVA1hqh5qNUAlM_zIA,métropol-hôtel-calais-4,Métropol Hôtel,,False,https://www.yelp.com/biz/m%C3%A9tropol-h%C3%B4tel-calais-4?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.0,[],33321975400.0,+33 3 21 97 54 00,1025.3585333796025,50.95356,1.848684,45 quai du Rhin,,,Calais,62100,FR,62,"['45 quai du Rhin', '62100 Calais', 'France']",01 : Lafayette,
-AitImzmkUvN_7jVVwXxKyA,le-channel-scène-nationale-de-calais-calais-4,Le Channel Scène Nationale de Calais,https://s3-media3.fl.yelpcdn.com/bphoto/jl6vuWamV5lYKPMpVx4w8w/o.jpg,False,https://www.yelp.com/biz/le-channel-sc%C3%A8ne-nationale-de-calais-calais-4?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.0,[],33321467700.0,+33 3 21 46 77 00,727.9322401684057,50.94699,1.84793,173 Boulevard Gambetta,,,Calais,62100,FR,62,"['173 Boulevard Gambetta', '62100 Calais', 'France']",01 : Lafayette,
-P54hBGV43Reb_FrWjQ8sYw,le-garden-calais,Le Garden,https://s3-media1.fl.yelpcdn.com/bphoto/CZtGBhmCHF1u4GZjj4Wh8A/o.jpg,False,https://www.yelp.com/biz/le-garden-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,4.0,[],33321365587.0,+33 3 21 36 55 87,411.6728344818313,50.9476211,1.8526503,26 bd Gambetta,,,Calais,62100,FR,62,"['26 bd Gambetta', '62100 Calais', 'France']",01 : Lafayette,€€
-HOh4wOol1H-2-_HdxIgeeA,le-thaï-palace-calais,Le Thaï Palace,,False,https://www.yelp.com/biz/le-tha%C3%AF-palace-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,4.0,[],33321347774.0,+33 3 21 34 77 74,1060.9067361898162,50.943112,1.8723916,123 Boulevard Victor Hugo,,,Calais,62100,FR,62,"['123 Boulevard Victor Hugo', '62100 Calais', 'France']",01 : Lafayette,
-pmuw4TBXX3rm-qCFrpbhcg,la-pataterie-calais-2,La Pataterie,,False,https://www.yelp.com/biz/la-pataterie-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,4.0,[],33321971871.0,+33 3 21 97 18 71,163.33430758295273,50.945831,1.86028,118 Boulevard Lafayette,,,Calais,62100,FR,59,"['118 Boulevard Lafayette', '62100 Calais', 'France']",01 : Lafayette,
-yiWBrqrlMyADaz6oq-8GlA,la-pataterie-calais,La Pataterie,,False,https://www.yelp.com/biz/la-pataterie-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,4.0,[],33321971871.0,+33 3 21 97 18 71,177.67387665131503,50.9457969,1.8604866,118 Boulevard La Fayette,,,Calais,62100,FR,62,"['118 Boulevard La Fayette', '62100 Calais', 'France']",01 : Lafayette,
-hJtBC1eTg9n5uKChjXjlWA,aux-chardons-de-la-cote-d-opale-calais-3,Aux Chardons De La Cote D'Opale,,False,https://www.yelp.com/biz/aux-chardons-de-la-cote-d-opale-calais-3?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,3.0,[],,,70.7564920748327,50.9462468,1.8591328,92 Boulevard la Fayette,,,Calais,62100,FR,62,"['92 Boulevard la Fayette', '62100 Calais', 'France']",01 : Lafayette,
-cJidt90EUPJ-IaYODAlE-w,cafe-du-théâtre-calais-3,Cafe du Théâtre,,False,https://www.yelp.com/biz/cafe-du-th%C3%A9%C3%A2tre-calais-3?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,3.0,[],33321364100.0,+33 3 21 36 41 00,293.8150714442659,50.9471518,1.8541983,9 Boulevard Pasteur,,,Calais,62100,FR,62,"['9 Boulevard Pasteur', '62100 Calais', 'France']",01 : Lafayette,
-DFlAo1zh325hYnX6YnNLjg,le-thomé-de-gamond-calais,Le Thomé de Gamond,,False,https://www.yelp.com/biz/le-thom%C3%A9-de-gamond-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,2.5,[],33321823203.0,+33 3 21 82 32 03,910.2437965233504,50.94836922,1.87099222,Mont Hubert,Cap Blanc-Nez,,Calais,62179,FR,62,"['Mont Hubert', 'Cap Blanc-Nez', '62179 Calais', 'France']",01 : Lafayette,
-yETTFjY9EFBd-Y5BjHLv4g,la-chênaie-calais-2,La Chênaie,,False,https://www.yelp.com/biz/la-ch%C3%AAnaie-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,5.0,[],33321961652.0,+33 3 21 96 16 52,1048.509795801967,50.9563044,1.848948,12 Rue Jean de Vienne,,,Calais,62100,FR,62,"['12 Rue Jean de Vienne', '62100 Calais', 'France']",02 : Théatre,
-N3VNSNFC42OivYMebbTrqg,l-hovercraft-calais,L'Hovercraft,,False,https://www.yelp.com/biz/l-hovercraft-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,4.0,4.0,[],33321345973.0,+33 3 21 34 59 73,1012.9453257613396,50.956093,1.849562,11 place Foch,,,Calais,62100,FR,62,"['11 place Foch', '62100 Calais', 'France']",02 : Théatre,€€
-l6wLF6vb4J_Rsodr8s-yTQ,restaurant-la-brasérade-calais,Restaurant La Brasérade,https://s3-media1.fl.yelpcdn.com/bphoto/r-l2CZZB9XtvT-KOceGBYw/o.jpg,False,https://www.yelp.com/biz/restaurant-la-bras%C3%A9rade-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,10.0,3.5,[],33321970259.0,+33 3 21 97 02 59,1030.620244686461,50.9562051,1.8492852,8 Rue Jean de Vienne,,,Calais,62100,FR,62,"['8 Rue Jean de Vienne', '62100 Calais', 'France']",02 : Théatre,
-2tiGTlBPBU700eCwS3ZQuQ,le-sesame-calais,Le Sesame,https://s3-media2.fl.yelpcdn.com/bphoto/8UhhDCiOgNwFqhbtU0Crtw/o.jpg,False,https://www.yelp.com/biz/le-sesame-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,11.0,4.5,[],33321974105.0,+33 3 21 97 41 05,767.9126274525987,50.9599373,1.8482328,27 Rue Mer,,,Calais,62100,FR,62,"['27 Rue Mer', '62100 Calais', 'France']",04 : Gare SNCF,€€
-JSEpFIXiy4pg5kBgGI4fDQ,la-sole-meunière-calais-7,La Sole Meunière,https://s3-media2.fl.yelpcdn.com/bphoto/DSKXC-pCC44zsiooTSNBDg/o.jpg,False,https://www.yelp.com/biz/la-sole-meuni%C3%A8re-calais-7?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,6.0,4.5,[],33321344301.0,+33 3 21 34 43 01,830.3471723377762,50.9604,1.84759,1 Boulevard de la Résistance,,,Calais,62100,FR,62,"['1 Boulevard de la Résistance', '62100 Calais', 'France']",04 : Gare SNCF,€€€€
-Ya9NdWrIOdbOjb5Lc35h4w,brasserie-le-centaure-calais,brasserie Le Centaure,https://s3-media2.fl.yelpcdn.com/bphoto/G3W-45afRxfNHDKvLcoEBw/o.jpg,False,https://www.yelp.com/biz/brasserie-le-centaure-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,5.0,4.5,[],33321343737.0,+33 3 21 34 37 37,692.5515903536593,50.9593646,1.8490058,11 Place d'Armes,,,Calais,62100,FR,62,"[""11 Place d'Armes"", '62100 Calais', 'France']",04 : Gare SNCF,
-ZuozgPp6stEzPhTQjoobvA,la-tourello-calais,La Tourello,https://s3-media3.fl.yelpcdn.com/bphoto/ouxd4_DcRRZVH0NkPVTCUw/o.jpg,False,https://www.yelp.com/biz/la-tourello-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,9.0,4.5,[],33321960296.0,+33 3 21 96 02 96,743.5476198396885,50.9599652281092,1.85036760978699,47 placed' Armes,,,Calais,62100,FR,62,"[""47 placed' Armes"", '62100 Calais', 'France']",04 : Gare SNCF,€€
-VXNVcBjRHaZuYaEV4fAe4A,le-channel-calais,Le Channel,https://s3-media1.fl.yelpcdn.com/bphoto/ugEmq438EMUbURKXtPvfrA/o.jpg,False,https://www.yelp.com/biz/le-channel-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,14.0,4.5,[],33321344230.0,+33 3 21 34 42 30,832.5758663594992,50.96048,1.84789,3 boulevard de la Résistance,,,Calais,62100,FR,62,"['3 boulevard de la Résistance', '62100 Calais', 'France']",04 : Gare SNCF,€€€€
-UDO7uBuvda0rc1R_ke1CDg,du-vignoble-au-verre-calais,Du Vignoble au Verre,https://s3-media3.fl.yelpcdn.com/bphoto/nUujjb6SZPzjjVRnpaN8zQ/o.jpg,False,https://www.yelp.com/biz/du-vignoble-au-verre-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,12.0,4.5,[],33321348329.0,+33 3 21 34 83 29,739.9020462544294,50.9599278,1.8502881,43 place d'Armes,,,Calais,62100,FR,62,"[""43 place d'Armes"", '62100 Calais', 'France']",04 : Gare SNCF,
-lHNsezzM3JJCmHZHC4Qaww,tonnerre-de-brest-calais,Tonnerre de Brest,https://s3-media3.fl.yelpcdn.com/bphoto/-u5PwiUKohgA4R9IIjSqdg/o.jpg,False,https://www.yelp.com/biz/tonnerre-de-brest-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,19.0,4.5,[],33321969535.0,+33 3 21 96 95 35,660.8830538873304,50.9592288,1.8505516,16 place d'Armes,,,Calais,62100,FR,62,"[""16 place d'Armes"", '62100 Calais', 'France']",04 : Gare SNCF,€€
-hhz0yfrigbgS1JFtL8n32A,the-london-bridge-calais,The London Bridge,https://s3-media2.fl.yelpcdn.com/bphoto/WCcPc-iFkBGxlj2gAj8Knw/o.jpg,False,https://www.yelp.com/biz/the-london-bridge-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,5.0,[],33321858579.0,+33 3 21 85 85 79,657.301539754665,50.959163,1.850045,12 place d'Armes,,,Calais,62100,FR,62,"[""12 place d'Armes"", '62100 Calais', 'France']",04 : Gare SNCF,
-teUmvafQzMflGzwqB0BUxw,la-bigoudène-calais,La Bigoudène,,False,https://www.yelp.com/biz/la-bigoud%C3%A8ne-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,8.0,4.5,[],33321962952.0,+33 3 21 96 29 52,622.5383261573788,50.9588164,1.8497331,22 Rue de la Paix,,,Calais,62100,FR,62,"['22 Rue de la Paix', '62100 Calais', 'France']",04 : Gare SNCF,
-NYXv3rwaSw_xN8vjGrVcZA,au-cadre-vert-calais,Au Cadre Vert,https://s3-media2.fl.yelpcdn.com/bphoto/VQXcTzzMZfLMqdV7CRt3Dw/o.jpg,False,https://www.yelp.com/biz/au-cadre-vert-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,8.0,4.5,[],33321346944.0,+33 3 21 34 69 44,643.696171000081,50.9588339,1.8485648,3 rue André Gerschell,,,Calais,62100,FR,62,"['3 rue André Gerschell', '62100 Calais', 'France']",04 : Gare SNCF,€€
-2MVl7MddKdkvcBdcTKUvQw,le-vénezia-calais,Le Vénezia,,False,https://www.yelp.com/biz/le-v%C3%A9nezia-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,4.5,[],33321978010.0,+33 3 21 97 80 10,770.4659112144393,50.9600526,1.8487912,24 Rue Mer,,,Calais,62100,FR,62,"['24 Rue Mer', '62100 Calais', 'France']",04 : Gare SNCF,€€
-aecdsKKrDgWlazwj8QSGbw,le-phare-de-calais-calais-2,Le Phare de Calais,https://s3-media3.fl.yelpcdn.com/bphoto/YjCabRkDRvvU-DfiJAvp9g/o.jpg,False,https://www.yelp.com/biz/le-phare-de-calais-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,4.5,[],33321343334.0,+33 3 21 34 33 34,991.532705176993,50.9621077,1.8535174,Place Henri Barbusse,,,Calais,62100,FR,62,"['Place Henri Barbusse', '62100 Calais', 'France']",04 : Gare SNCF,
-oZtAibjXjDUIUmYrnB53Hw,au-vieux-fourneau-calais,Au Vieux Fourneau,https://s3-media2.fl.yelpcdn.com/bphoto/X8WlTEF_jjdvHY2PN5BoiA/o.jpg,False,https://www.yelp.com/biz/au-vieux-fourneau-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,4.5,[],33321346788.0,+33 3 21 34 67 88,367.7132492999714,50.9564836,1.8498407,4 Rue Royale,,,Calais,62100,FR,62,"['4 Rue Royale', '62100 Calais', 'France']",04 : Gare SNCF,
-MMufRfu6KuvcqJ6-qXH08Q,histoire-ancienne-calais-2,Histoire Ancienne,https://s3-media2.fl.yelpcdn.com/bphoto/LHyFUvuFjYQcW9FoR5b_QQ/o.jpg,False,https://www.yelp.com/biz/histoire-ancienne-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,18.0,4.0,[],33321341120.0,+33 3 21 34 11 20,414.95631711443855,50.9569,1.8497,20 rue Royale,,,Calais,62100,FR,62,"['20 rue Royale', '62100 Calais', 'France']",04 : Gare SNCF,€€€
-HmqOjOGWLIWwkXnOUxa4iA,bollywood-brasserie-calais,Bollywood Brasserie,,False,https://www.yelp.com/biz/bollywood-brasserie-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321173335.0,+33 3 21 17 33 35,740.6065890554963,50.9599592,1.8509026,63 place d'Armes,,,Calais,62100,FR,62,"[""63 place d'Armes"", '62100 Calais', 'France']",04 : Gare SNCF,
-LILRPF9Ot-zHME5GOqlQjQ,le-fournil-de-la-tour-calais,Le Fournil de la Tour,,False,https://www.yelp.com/biz/le-fournil-de-la-tour-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321007161.0,+33 3 21 00 71 61,727.0334565119533,50.95966,1.84885,5 rue de la Mer,,,Calais,62100,FR,62,"['5 rue de la Mer', '62100 Calais', 'France']",04 : Gare SNCF,€€
-GmtwzWLLOjrKDXWgWdtrIw,le-grand-bleu-calais,Le Grand Bleu,https://s3-media4.fl.yelpcdn.com/bphoto/Ej36OE3xEbLoIBcaK8mRZA/o.jpg,False,https://www.yelp.com/biz/le-grand-bleu-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,18.0,4.5,[],33321979798.0,+33 3 21 97 97 98,850.2400204899401,50.9626405,1.851466,8 rue Jean Pierre Avron,Quai de la Colonne,,Calais,62100,FR,62,"['8 rue Jean Pierre Avron', 'Quai de la Colonne', '62100 Calais', 'France']",05 : Richelieu,€€€
-jDBjz-qxq1Qo_Zrg2v6_Ig,oh-mouettes-calais,Oh! Mouettes,https://s3-media1.fl.yelpcdn.com/bphoto/mj48-nbYiwh6G4Vb5KsV3A/o.jpg,False,https://www.yelp.com/biz/oh-mouettes-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,6.0,4.5,[],33321346759.0,+33 3 21 34 67 59,857.125047561812,50.9627,1.85151,10 rue Jean-Pierre Avron,,,Calais,62100,FR,62,"['10 rue Jean-Pierre Avron', '62100 Calais', 'France']",05 : Richelieu,€€
-hFGGnXVaWxgZWfMjUyjIPQ,au-côte-d-argent-calais,Au Côte d'Argent,https://s3-media1.fl.yelpcdn.com/bphoto/JkeVI10MCkE2pAJZf_jtGg/o.jpg,False,https://www.yelp.com/biz/au-c%C3%B4te-d-argent-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,18.0,4.0,[],33321346807.0,+33 3 21 34 68 07,884.1577215836433,50.9659614,1.8434794,1 Digue Gaston Berthe,,,Calais,62100,FR,62,"['1 Digue Gaston Berthe', '62100 Calais', 'France']",06 : Place d'Armes,€€€
-2WsTfT8BUZ6mjhjp3OyQbA,aquar-aile-calais,Aquar'Aile,https://s3-media2.fl.yelpcdn.com/bphoto/qI4ixwHOdsUgeGFUH48efw/o.jpg,False,https://www.yelp.com/biz/aquar-aile-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,18.0,4.5,[],33321340000.0,+33 3 21 34 00 00,935.0956705116306,50.9610917,1.8314403,255 rue Jean Moulin,,,Calais,62100,FR,62,"['255 rue Jean Moulin', '62100 Calais', 'France']",07 : Pluviose,€€€
-MB5t-hO7xiOunZm6JTLvfg,a-l-entre-2-mers-calais,A l'Entre 2 Mers,,False,https://www.yelp.com/biz/a-l-entre-2-mers-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321346750.0,+33 3 21 34 67 50,1180.6922045510378,50.9642544,1.8393787,5 Digue Gaston Berthe,,,Calais,62100,FR,62,"['5 Digue Gaston Berthe', '62100 Calais', 'France']",09 : Eglise de Blériot,
-z_xLTHQe50zdZ-Za0w04pA,boulangerie-patisserie-de-la-plage-calais,Boulangerie Patisserie de la Plage,,False,https://www.yelp.com/biz/boulangerie-patisserie-de-la-plage-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.5,[],33321974949.0,+33 3 21 97 49 49,1014.4643540336072,50.9626398,1.83815,Mar de Lattre de Tassigny,,,Calais,62100,FR,62,"['Mar de Lattre de Tassigny', '62100 Calais', 'France']",09 : Eglise de Blériot,€€
-4CfVk7IXxJCH3ebRMGM7Ag,plage-de-calais-calais,Plage De Calais,https://s3-media3.fl.yelpcdn.com/bphoto/nC8goP_sytNt6o8M2FBCDg/o.jpg,False,https://www.yelp.com/biz/plage-de-calais-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,3.5,[],,,1186.1559752852208,50.9647162065347,1.83895708449303,9 Digue Gaston Berthe,,,Calais,62100,FR,62,"['9 Digue Gaston Berthe', '62100 Calais', 'France']",09 : Eglise de Blériot,
-GzoQGqdNdfquYs_WHN4VKw,le-restaurant-de-la-plage-calais,Le Restaurant de la Plage,,False,https://www.yelp.com/biz/le-restaurant-de-la-plage-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,3.0,[],33321346464.0,+33 3 21 34 64 64,869.5636024779051,50.963021,1.835325,693 digue Gaston Berthe,,,Calais,62100,FR,62,"['693 digue Gaston Berthe', '62100 Calais', 'France']",09 : Eglise de Blériot,
-F60UntRqVNe_iJlNPLcx_A,l-oasis-calais,L'Oasis,https://s3-media2.fl.yelpcdn.com/bphoto/NmMlIW9Me-4Dr-S80oRsnA/o.jpg,False,https://www.yelp.com/biz/l-oasis-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,2.5,[],33321859926.0,+33 3 21 85 99 26,962.9987336344344,50.96254,1.8374,Rue Marechal de Lattre de Tassigny,,,Calais,62100,FR,62,"['Rue Marechal de Lattre de Tassigny', '62100 Calais', 'France']",09 : Eglise de Blériot,€€
-eOaBrtrI2p-oCeTMQBtU6g,m-wok-coquelles,M. Wok,,False,https://www.yelp.com/biz/m-wok-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321177204.0,+33 3 21 17 72 04,755.9866315454938,50.9368309864241,1.81093130260706,Place de Cantorbery,,,Coquelles,62100,FR,62,"['Place de Cantorbery', '62100 Coquelles', 'France']",12 : CC La Française,€€
-gnMBGzKub-RgoAIFwZrj2Q,flunch-coquelles,Flunch,https://s3-media2.fl.yelpcdn.com/bphoto/UAJmT7DVKJozUZyjRhRTsw/o.jpg,False,https://www.yelp.com/biz/flunch-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,3.5,[],33321355013.0,+33 3 21 35 50 13,1007.120274815225,50.9345718,1.8113657,Boulevard Kent,,,Coquelles,62231,FR,62,"['Boulevard Kent', '62231 Coquelles', 'France']",12 : CC La Française,€€€
-A99oBoDCrXGh4vQU7KlqXg,mc-donalds-coquelles,Mc Donald's,,False,https://www.yelp.com/biz/mc-donalds-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,3.5,[],33321857980.0,+33 3 21 85 79 80,1007.120274815225,50.9345718,1.8113657,Boulevard Kent,,,Coquelles,62231,FR,62,"['Boulevard Kent', '62231 Coquelles', 'France']",12 : CC La Française,
-OY29AKUiPuKxtG8Sp5DQSA,hertz-france-coquelles,Hertz France,,False,https://www.yelp.com/biz/hertz-france-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,3.0,[],33321828610.0,+33 3 21 82 86 10,1007.120274815225,50.9345718,1.8113657,Boulevard Kent,,,Coquelles,62231,FR,62,"['Boulevard Kent', '62231 Coquelles', 'France']",12 : CC La Française,
-yxdYFapqQ6l4YULjMqs40g,grill-courtepaille-calais,Grill Courtepaille,https://s3-media3.fl.yelpcdn.com/bphoto/vD6OY83GvTavQrgbjFBAFA/o.jpg,False,https://www.yelp.com/biz/grill-courtepaille-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,3.0,[],33321351544.0,+33 3 21 35 15 44,614.0681398973826,50.943018,1.838715,Rue de Tunis,,,Calais,62100,FR,62,"['Rue de Tunis', '62100 Calais', 'France']",17 : Mogador,
-T2_yARPp6BhRKfYmbDLp4g,buffalo-grill-restaurant-calais-2,Buffalo Grill Restaurant,https://s3-media2.fl.yelpcdn.com/bphoto/X00aKO-d7xx1u85tQnanwA/o.jpg,False,https://www.yelp.com/biz/buffalo-grill-restaurant-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,3.0,[],33321964070.0,+33 3 21 96 40 70,541.697488233708,50.9444305,1.8230669,Avenue Roger Salengro,,,Calais,62100,FR,62,"['Avenue Roger Salengro', '62100 Calais', 'France']",17 : Mogador,
-3ROpJlAb56fB7PyOr3SmMQ,kfc-calais-2,KFC,https://s3-media4.fl.yelpcdn.com/bphoto/jbDUjW3OZHVcFuHGG9suTw/o.jpg,False,https://www.yelp.com/biz/kfc-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,2.5,[],33321000773.0,+33 3 21 00 07 73,627.7996383505033,50.9410690200733,1.8367299503901,Chemin Vert,,,Calais,62100,FR,62,"['Chemin Vert', '62100 Calais', 'France']",17 : Mogador,
-2xYLuL5Lrq631p9hkoPUtA,yves-vanacker-calais,Yves Vanacker,,False,https://www.yelp.com/biz/yves-vanacker-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,1.0,[],33321346461.0,+33 3 21 34 64 61,876.472359783586,50.9464521,1.843053,171 Boulevard Gambetta,,,Calais,62100,FR,62,"['171 Boulevard Gambetta', '62100 Calais', 'France']",17 : Mogador,€€
-jvWgefc9K0UFmYH9WTNoFg,la-faim-de-journée-calais-2,La faim de Journée,,False,https://www.yelp.com/biz/la-faim-de-journ%C3%A9e-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,1.0,[],33321973859.0,+33 3 21 97 38 59,892.9259831856077,50.9543,1.9090706,580 rue Marcel Dassault,,,Calais,62100,FR,62,"['580 rue Marcel Dassault', '62100 Calais', 'France']",18 : Piscine patinoire Icéo,
-qj4JG4sLmyuD9xzw7EUuRQ,boulangerie-joly-calais-2,Boulangerie Joly,https://s3-media1.fl.yelpcdn.com/bphoto/e9yO8V2rlfhhBVqS7-aQvg/o.jpg,False,https://www.yelp.com/biz/boulangerie-joly-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321964559.0,+33 3 21 96 45 59,818.8601526292967,50.9458275,1.8733703,158 Boulevard Egalité,,,Calais,62100,FR,62,"['158 Boulevard Egalité', '62100 Calais', 'France']",20 : IUT,€€€
-I-ds93oiMxa8ECfzkG7LWQ,family-pub-calais,Family Pub,,False,https://www.yelp.com/biz/family-pub-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321972276.0,+33 3 21 97 22 76,1010.3282056029144,50.95746,1.84934,33 rue Royale,,,Calais,62100,FR,62,"['33 rue Royale', '62100 Calais', 'France']",21 : Coubertin,
-nAVjsHpUJ6mmX99t16w9MQ,le-détroit-calais-2,Le Détroit,https://s3-media2.fl.yelpcdn.com/bphoto/JICrdBUtqvohG2br4wjKSQ/o.jpg,False,https://www.yelp.com/biz/le-d%C3%A9troit-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,5.0,4.0,[],33970351011.0,+33 9 70 35 10 11,1007.6210726420302,50.9603303,1.8475871,7 bd Résistance,,,Calais,62100,FR,62,"['7 bd Résistance', '62100 Calais', 'France']",21 : Coubertin,€€
-BGtZqAt11EYw1AXDKSIjLw,venezia-calais,Venezia,,False,https://www.yelp.com/biz/venezia-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,7.0,4.0,[],33321978010.0,+33 3 21 97 80 10,1021.967624457415,50.959871,1.848189,24 Rue de la Mer,,,Calais,62100,FR,62,"['24 Rue de la Mer', '62100 Calais', 'France']",21 : Coubertin,
-b_5etFSmbFFG_I8uh-QIxg,au-singe-en-hiver-calais,Au Singe En Hiver,,False,https://www.yelp.com/biz/au-singe-en-hiver-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,4.5,[],33321343414.0,+33 3 21 34 34 14,1029.9994649549012,50.9601402,1.84834,35 rue de la Mer,,,Calais,62100,FR,62,"['35 rue de la Mer', '62100 Calais', 'France']",21 : Coubertin,
-EpphVkcInag2AHpgQKTcIQ,la-mer-calais,La Mer,https://s3-media3.fl.yelpcdn.com/bphoto/UTDM4a4p2gHcipMnBKxBvw/o.jpg,False,https://www.yelp.com/biz/la-mer-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,11.0,3.5,[],33321961772.0,+33 3 21 96 17 72,1072.1909436841886,50.9601572,1.8487667,30 rue de la Mer,,,Calais,62100,FR,62,"['30 rue de la Mer', '62100 Calais', 'France']",21 : Coubertin,€€
-PFUWUmccqk_EJe0f7oP9aw,café-de-la-tour-calais-2,Café de la Tour,https://s3-media3.fl.yelpcdn.com/bphoto/rYEKnsMrhWDCbs9eUQTSow/o.jpg,False,https://www.yelp.com/biz/caf%C3%A9-de-la-tour-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,11.0,3.5,[],33321345014.0,+33 3 21 34 50 14,1029.843147341972,50.9591598636643,1.84878350674592,5 place Armes,,,Calais,62100,FR,62,"['5 place Armes', '62100 Calais', 'France']",21 : Coubertin,
-sdsD9ecekgt-kStCwlWNrg,le-milano-calais-2,Le Milano,https://s3-media3.fl.yelpcdn.com/bphoto/LPMuoJuOQba7WiAokWgLxw/o.jpg,False,https://www.yelp.com/biz/le-milano-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,10.0,3.5,[],33321344120.0,+33 3 21 34 41 20,1063.3164951161402,50.959575,1.8490401,14 place d'Armes,,,Calais,62100,FR,62,"[""14 place d'Armes"", '62100 Calais', 'France']",21 : Coubertin,€€
-kmkp-7qNDcp_UXWmL65X2A,la-kabylie-calais,La Kabylie,,False,https://www.yelp.com/biz/la-kabylie-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,9.0,3.5,[],33321349121.0,+33 3 21 34 91 21,1019.0627561925678,50.960125,1.847945,38 Rue de la Mer,,,Calais,62100,FR,62,"['38 Rue de la Mer', '62100 Calais', 'France']",21 : Coubertin,€€
-U_E0Zu0_b2FU0Y8ChfnU2w,l-etable-calais,L'Etable,https://s3-media1.fl.yelpcdn.com/bphoto/lAarLD0rG_UjFDH7S3T-fQ/o.jpg,False,https://www.yelp.com/biz/l-etable-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321962840.0,+33 3 21 96 28 40,987.7774259595468,50.95922,1.85143,24 place d'Armes,,,Calais,62100,FR,62,"[""24 place d'Armes"", '62100 Calais', 'France']",22 : Diderot,
-_l-gi7m4TYYM5LyrDFzcUQ,pop-rock-bar-calais,Pop Rock Bar,https://s3-media2.fl.yelpcdn.com/bphoto/kanXUOe4lJziL4g0nXpl_A/o.jpg,False,https://www.yelp.com/biz/pop-rock-bar-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33673967693.0,+33 6 73 96 76 93,1072.340906695527,50.9599915,1.85067,59 Place d'Armes,,,Calais,62100,FR,62,"[""59 Place d'Armes"", '62100 Calais', 'France']",22 : Diderot,
-4gIaOswHjhjW62dZRXVfqQ,marrakech-calais,Marrakech,https://s3-media1.fl.yelpcdn.com/bphoto/JOckaSmhcMmUzMe8RaK7Gg/o.jpg,False,https://www.yelp.com/biz/marrakech-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33361310470.0,+33 3 61 31 04 70,1089.391652467376,50.96081,1.85104,28 bd des Alliés,,,Calais,62100,FR,62,"['28 bd des Alliés', '62100 Calais', 'France']",22 : Diderot,
-V-MndHu0p8z81tq0PP8Szw,le-piano-dans-la-cuisine-calais,Le Piano dans la Cuisine,,False,https://www.yelp.com/biz/le-piano-dans-la-cuisine-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.5,[],33321859064.0,+33 3 21 85 90 64,985.6905339059724,50.960265,1.852317,Rue de therme,,,Calais,62100,FR,62,"['Rue de therme', '62100 Calais', 'France']",22 : Diderot,€€
-o_Us4A9pIRRqGq-gkxMkuQ,les-coulisses-calais-3,Les Coulisses,,False,https://www.yelp.com/biz/les-coulisses-calais-3?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,4.0,4.0,[],33321344662.0,+33 3 21 34 46 62,1072.4701571971996,50.9598905,1.8505877,55 Place d'Armes,,,Calais,62100,FR,62,"[""55 Place d'Armes"", '62100 Calais', 'France']",22 : Diderot,
-7MDmxVHQE8_GovOtaWGhjw,mcdonalds-calais-2,McDonald's,https://s3-media2.fl.yelpcdn.com/bphoto/KumVsjqoR9YIRP2AV58Bwg/o.jpg,False,https://www.yelp.com/biz/mcdonalds-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,3.0,[],33321851102.0,+33 3 21 85 11 02,393.71800238724,50.936949,1.861324,Sortie 44 Saint Pierre,,ZAC Curie,Calais,62100,FR,62,"['Sortie 44 Saint Pierre', 'ZAC Curie', '62100 Calais', 'France']",25 : Copernic,
-Aq59QRMwdDIrf05Ff7ROLA,memphis-coffee-calais,Memphis Coffee,https://s3-media3.fl.yelpcdn.com/bphoto/FqFUhdXfgHENx_O0O97PYQ/o.jpg,False,https://www.yelp.com/biz/memphis-coffee-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,2.0,[],33321369465.0,+33 3 21 36 94 65,351.1934114895505,50.9373439791108,1.86157684002494,ZAC Curie,225 rue Chevreuil,,Calais,62100,FR,62,"['ZAC Curie', '225 rue Chevreuil', '62100 Calais', 'France']",25 : Copernic,€€
-Bu6cntCKtZMmPKiGLrWdbA,pegast-coquelles-2,Pegast,https://s3-media2.fl.yelpcdn.com/bphoto/KrKjKXHQthtY1ccisaaddg/o.jpg,False,https://www.yelp.com/biz/pegast-coquelles-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321351335.0,+33 3 21 35 13 35,784.5670626217079,50.93405,1.81047,127 bd du Kent,,,Coquelles,62231,FR,62,"['127 bd du Kent', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-e8xo-UQVsBsyAtjHfbBScA,la-tagliatella-coquelles,La Tagliatella,https://s3-media1.fl.yelpcdn.com/bphoto/N2Jon3IlYKa77upB3BVEqg/o.jpg,False,https://www.yelp.com/biz/la-tagliatella-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,4.0,4.5,[],33321366048.0,+33 3 21 36 60 48,815.6154994439834,50.9336018,1.8108188,1001 bd du Kent,,,Coquelles,62231,FR,62,"['1001 bd du Kent', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,€€
-DufTyOlcupNFLRuFGFogUA,le-dragon-coquelles,Le Dragon,https://s3-media1.fl.yelpcdn.com/bphoto/1RVEPkftE0HLsdfSaepFKQ/o.jpg,False,https://www.yelp.com/biz/le-dragon-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,5.0,3.5,[],33321369508.0,+33 3 21 36 95 08,692.4857425740896,50.93264,1.8086,Boulevard Europe,,,Coquelles,62231,FR,62,"['Boulevard Europe', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-4J4AeI9rESpxyE1WwqoVsQ,grand-place-coquelles,Grand Place,,False,https://www.yelp.com/biz/grand-place-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.0,[],33321859430.0,+33 3 21 85 94 30,544.2567898585243,50.934077,1.807018,1001 Boulevard Kent - Cité Europe,,,Coquelles,62231,FR,62,"['1001 Boulevard Kent - Cité Europe', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-tajez6S32tm806qWMPp9ow,l-omelette-gourmande-coquelles,L'Omelette Gourmande,,False,https://www.yelp.com/biz/l-omelette-gourmande-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,3.5,[],33321009498.0,+33 3 21 00 94 98,544.2567898585243,50.934077,1.807018,Boulevard Kent - Cité Europe,,,Coquelles,62231,FR,62,"['Boulevard Kent - Cité Europe', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-E7O9H2T6o7ux79bRsQaAZQ,le-vieux-carré-coquelles-2,Le Vieux Carré,,False,https://www.yelp.com/biz/le-vieux-carr%C3%A9-coquelles-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,3.0,[],33321859418.0,+33 3 21 85 94 18,805.3962468259753,50.9335559,1.8106583,Avenue Kent - Cité Europe,,,Coquelles,62231,FR,62,"['Avenue Kent - Cité Europe', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-8CUcMxUZ5LBI-7IkG3geBw,john-pull-pub-coquelles,John Pull Pub,,False,https://www.yelp.com/biz/john-pull-pub-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,3.0,[],33321820864.0,+33 3 21 82 08 64,544.2567898585243,50.934077,1.807018,Boulevard Kent - Cité Europe,,,Coquelles,62231,FR,62,"['Boulevard Kent - Cité Europe', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-djmjHhwq87cKp36-WRETJg,le-comptoir-du-malt-coquelles,Le Comptoir du Malt,,False,https://www.yelp.com/biz/le-comptoir-du-malt-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,1.0,[],33321859056.0,+33 3 21 85 90 56,831.1464764087157,50.933049,1.810865,1001 Boulevard du Kent,Cité de l''Europe,,Coquelles,62231,FR,62,"['1001 Boulevard du Kent', ""Cité de l''Europe"", '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-ykxKZx-znVK0iw6kPes-aQ,tutti-quanti-coquelles,Tutti Quanti,https://s3-media3.fl.yelpcdn.com/bphoto/0i4ss_QLeTHl2spIJVmAcA/o.jpg,False,https://www.yelp.com/biz/tutti-quanti-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,1.0,[],33321357092.0,+33 3 21 35 70 92,770.187083103211,50.9309077,1.8084157,Boulevard Europe,,,Coquelles,62231,FR,62,"['Boulevard Europe', '62231 Coquelles', 'France']",28 : Coquelles - Charles de Gaulle,
-lTMi2CO4k-IjFX4t3Rk6XA,le-blanc-nez-sangatte-2,Le Blanc Nez,https://s3-media2.fl.yelpcdn.com/bphoto/TJW2sHJFswpakQi0-6p33g/o.jpg,False,https://www.yelp.com/biz/le-blanc-nez-sangatte-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,6.0,4.5,[],33321820053.0,+33 3 21 82 00 53,939.8387283900348,50.9438066466629,1.74566581653289,2281 Route Nationale,,,Sangatte,62231,FR,62,"['2281 Route Nationale', '62231 Sangatte', 'France']",29 : Sangatte - Mairie,€€€
-nUxv4bEvE9XodVq3ggGDkQ,le-cappucino-coquelles,Le Cappucino,,False,https://www.yelp.com/biz/le-cappucino-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,6.0,3.5,[],33321859366.0,+33 3 21 85 93 66,431.9708487706813,50.922672,1.882936,Cité Europe,,,Coquelles,62231,FR,62,"['Cité Europe', '62231 Coquelles', 'France']",30 : Coulogne - Eglise,
-UwUpm3sS41NTJi1hx_dl8w,le-tutti-quanti-coquelles,Le Tutti Quanti,,False,https://www.yelp.com/biz/le-tutti-quanti-coquelles?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,3.5,[],33321357092.0,+33 3 21 35 70 92,431.9708487706813,50.922672,1.882936,Cité Europe,,,Coquelles,62231,FR,62,"['Cité Europe', '62231 Coquelles', 'France']",30 : Coulogne - Eglise,
-HBHqo5jPYByPOA_JN8mdcQ,estaminet-les-aigrettes-marck,Estaminet les Aigrettes,https://s3-media2.fl.yelpcdn.com/bphoto/zin5VTpzDbfDL1B-zGOsPA/o.jpg,False,https://www.yelp.com/biz/estaminet-les-aigrettes-marck?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,5.0,[],33321172260.0,+33 3 21 17 22 60,683.7466703172214,50.9567175708605,1.92704144865274,191 allée de la Découverte,,,Marck,62730,FR,62,"['191 allée de la Découverte', '62730 Marck', 'France']",33 : Marck - Stade,
-1n3T_zdyvI1lMlNfUKjbmQ,casino-le-touquets-calais-2,Casino Le Touquet's,,False,https://www.yelp.com/biz/casino-le-touquets-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,3.5,[],33321191666.0,+33 3 21 19 16 66,1001.3411785802716,50.9583428,1.8487481,57 Rue Royale,,,Calais,62100,FR,62,"['57 Rue Royale', '62100 Calais', 'France']",36 : Conservatoire,
-Qh0ndUw6m_HOOuNJXrS4PQ,le-grand-large-calais,Le Grand Large,https://s3-media1.fl.yelpcdn.com/bphoto/e1Fjb-ebtv0YrfQIN2kCIA/o.jpg,False,https://www.yelp.com/biz/le-grand-large-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,4.0,[],33321346750.0,+33 3 21 34 67 50,1039.748690299063,50.96554,1.84331,5 digue Gaston Berthe,,,Calais,62100,FR,62,"['5 digue Gaston Berthe', '62100 Calais', 'France']",40 : Camping de Calais,
-NcdZiRQMdtpxDQx1maythw,l-alexandra-calais,L'Alexandra,,False,https://www.yelp.com/biz/l-alexandra-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,4.0,[],33321858520.0,+33 3 21 85 85 20,1059.9691877986036,50.965737,1.843412,1 Digue Gaston Berthe,,,Calais,62100,FR,62,"['1 Digue Gaston Berthe', '62100 Calais', 'France']",40 : Camping de Calais,
-c2AG6wYZOD2pN0NO1_mnqQ,le-petit-baigneur-calais,Le Petit Baigneur,,False,https://www.yelp.com/biz/le-petit-baigneur-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,2.5,[],33321345714.0,+33 3 21 34 57 14,902.3560697408813,50.96432,1.8424,97 Rue Mar De Lattre De Tassigny,,,Calais,62100,FR,62,"['97 Rue Mar De Lattre De Tassigny', '62100 Calais', 'France']",40 : Camping de Calais,
-r2NSAdpmY-cqNesFr37nsA,le-sybilien-calais,Le Sybilien,,False,https://www.yelp.com/biz/le-sybilien-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,1.0,1.0,[],33321976500.0,+33 3 21 97 65 00,1078.2975445194113,50.966478,1.84256,9 Digue Gaston Berthe,,,Calais,62100,FR,62,"['9 Digue Gaston Berthe', '62100 Calais', 'France']",40 : Camping de Calais,
-wn_Et6kI7DvNuR0TohaR8w,au-coq-d-or-calais-2,Au Coq D'Or,https://s3-media3.fl.yelpcdn.com/bphoto/QOkw_-pjyPmsbYtiu9P9Lg/o.jpg,False,https://www.yelp.com/biz/au-coq-d-or-calais-2?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,13.0,4.0,[],33321347905.0,+33 3 21 34 79 05,1160.715951692685,50.95976,1.84995,31 Place Armes,,,Calais,62100,FR,62,"['31 Place Armes', '62100 Calais', 'France']",42 : Terminal Transmanche,€€
-12zcTN7VQkJJ1NfLlWybrQ,au-café-de-paris-calais,Au Café de Paris,https://s3-media1.fl.yelpcdn.com/bphoto/MCJ68Ixiu-dFoLM2wDhw-g/o.jpg,False,https://www.yelp.com/biz/au-caf%C3%A9-de-paris-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,25.0,4.0,[],33321347684.0,+33 3 21 34 76 84,1260.9162973650375,50.95857,1.84945,72 rue Royale,,,Calais,62100,FR,62,"['72 rue Royale', '62100 Calais', 'France']",42 : Terminal Transmanche,€€
-kEqfL9cBajOxhHL0OlqmWA,l-ardoise-calais,L'Ardoise,,False,https://www.yelp.com/biz/l-ardoise-calais?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,2.0,4.5,[],33321366413.0,+33 3 21 36 64 13,1171.385537302744,50.9597702,1.8496701,29 place d'Armes,,,Calais,62100,FR,62,"[""29 place d'Armes"", '62100 Calais', 'France']",42 : Terminal Transmanche,€€
-KY-C3LzjBMJKuQKSzeNIlA,la-ferme-gourmande-guînes,La Ferme Gourmande,,False,https://www.yelp.com/biz/la-ferme-gourmande-gu%C3%AEnes?adjust_creative=cBr4t0M-GgBXDDCBqu5SRg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=cBr4t0M-GgBXDDCBqu5SRg,3.0,3.0,[],33321357821.0,+33 3 21 35 78 21,1056.7827953399842,50.859372,1.857466,Avenue de Verdun,,,Guînes,62340,FR,62,"['Avenue de Verdun', '62340 Guînes', 'France']",52 : 4 Vents,
+id,name,review_count,rating,latitude,longitude,price,station
+JNbPJxM07pzJ-6JiXkZu6g,La Galerie Dior,9.0,5.0,48.86653,2.30697,0,Boétie - Ponthieu
+3zZOFdwxA_JDcAKEKomknA,Merci Jérôme,5.0,5.0,48.8777597,2.298876,0,Boétie - Ponthieu
+pjuZB_Qf-bFzvLDiEqApjA,Helen,5.0,5.0,48.8750916,2.30406,€€€€,Boétie - Ponthieu
+zpRDPVf_Izk5B7foS9yd8Q,Le Colisée,6.0,5.0,48.87079,2.308084,0,Boétie - Ponthieu
+7bHtpYzGmCrvvXGWmnszNQ,La Cour Jardin,5.0,5.0,48.866496192705,2.30420208427494,0,Boétie - Ponthieu
+7O17125BuwZOv02DV1nY_w,La Haute Cloche,6.0,5.0,48.86941,2.30008,€€€,Boétie - Ponthieu
+G2OzmHeJnDaQwXsFBRYC3g,Les Ambassadeurs,9.0,5.0,48.8673,2.32113,0,Boétie - Ponthieu
+-NTjIQv5RSWi1N6IcGMubg,Shabestan,16.0,5.0,48.8727,2.30932,0,Boétie - Ponthieu
+4mMD5DFOsyLYlffxHRjUOQ,Pierre Hermé,8.0,5.0,48.8782479511257,2.31531919881138,€€€,Boétie - Ponthieu
+F0lJ6g6Q6SItwW9FS4WM8A,Le Bizetro,8.0,5.0,48.86676,2.29858,€€€,Boétie - Ponthieu
+ivik9fxKe1Kw3EkTjp7yKA,Le Comptoir de l'Artoise,25.0,5.0,48.872302,2.308658,€€€,Boétie - Ponthieu
+FXCx3Tuj8NJfCKPHJzyakg,Okuda,6.0,5.0,48.8670149,2.3028129,0,Boétie - Ponthieu
+vf0SfwWuKbwmJJvtmzAKcg,Le Gabriel,19.0,5.0,48.869764,2.313287,€€€€,Boétie - Ponthieu
+fqn_3FlonAbku67LZOFzFQ,La Galette du Liban,9.0,5.0,48.8733040855109,2.30314341104508,€€,Boétie - Ponthieu
+wxS-igraHYS5C3ELPNdnVg,Pages,13.0,5.0,48.8708134743974,2.29616437107325,€€€€,Boétie - Ponthieu
+EZDvf7GO4LdTBElWpR95Fg,Terrasse de Partech,4.0,5.0,48.8729,2.3164,€€€,Boétie - Ponthieu
+GzWfXIXbGwacNHfJZyr-aw,Sushi Okuda,4.0,5.0,48.8670947,2.3024713,0,Boétie - Ponthieu
+NlnxJAbtdC0IEkQ8--4Z2w,Prêt à Manger,4.0,5.0,48.87014,2.29829,0,Boétie - Ponthieu
+_nILmFStE93xzMLDt7sr6g,Allegria,4.0,5.0,48.87117,2.3096499,€€,Boétie - Ponthieu
+SKTQl4LX-enMA_7fFJKMzQ,La Brûlerie des Ternes,4.0,5.0,48.878881,2.296661,€€€,Boétie - Ponthieu
+VL8xQnwvbPwALQNuvqnY9g,NENI,5.0,5.0,48.8795065,2.3547303,0,Jemmapes - Ecluses Saint-Martin
+L484Kcj0HebtQtby9y9nqw,Bulgogi,6.0,5.0,48.870907,2.376759,0,Jemmapes - Ecluses Saint-Martin
+1nWamR8Gv8fPaQfsy3TbNA,La Bécane à Gaston,6.0,5.0,48.87251,2.36112,0,Jemmapes - Ecluses Saint-Martin
+JzfIx3vhYalXR9xuu61IOw,Superbières,6.0,5.0,48.8800507,2.3636501,0,Jemmapes - Ecluses Saint-Martin
+BTs8KoiXPH2jLlURJvta-A,Le Pain des Copains,5.0,5.0,48.87298,2.35803,0,Jemmapes - Ecluses Saint-Martin
+s8WX-lVvG9RUFtpTkkku4A,Restaurant Ella,9.0,5.0,48.87044,2.3531399,0,Jemmapes - Ecluses Saint-Martin
+NfRFVlK7-4uV8-CcXVi0KA,Two Stories,9.0,5.0,48.8714683,2.3657338,€€€,Jemmapes - Ecluses Saint-Martin
+XrDNvRVXmYXrYTLZZzJyow,Les Résistants,8.0,5.0,48.870082,2.360515,€€€,Jemmapes - Ecluses Saint-Martin
+NEEgRG1lU4yb4RfugrR43A,Tony,7.0,5.0,48.87291,2.35424,€€,Jemmapes - Ecluses Saint-Martin
+Q-iqfYih1nTEEWIWyBt8Pw,Jumbo Express,7.0,5.0,48.8789393,2.3633725,€,Jemmapes - Ecluses Saint-Martin
+Q6mfWCz0hMu9wsfO1zQy2A,0/Gustave,7.0,5.0,48.87071,2.35641,€€,Jemmapes - Ecluses Saint-Martin
+vS9_lZDvPPkoQndrqKo79Q,HABILE.,6.0,5.0,48.86965,2.36067,0,Jemmapes - Ecluses Saint-Martin
+hu53X0AgSKMt8UuHjp5ZLw,Giacomo,6.0,5.0,48.8799748122413,2.36246455460787,0,Jemmapes - Ecluses Saint-Martin
+lqJ84DHC4vGOka8laTNfKw,La Vache dans les Vignes,12.0,5.0,48.8696287,2.36711,€€,Jemmapes - Ecluses Saint-Martin
+yxMjypY-Wbgwe9LtynROxw,John Circus,6.0,5.0,48.8748999,2.35562,€€€,Jemmapes - Ecluses Saint-Martin
+i-x9jq6JRv8jpH8SUztwSA,Po Boy,6.0,5.0,48.8718404994787,2.36538011395959,0,Jemmapes - Ecluses Saint-Martin
+LwDEWaKJzae_Pswp4f8n5A,5 Pailles,11.0,5.0,48.87322,2.35452,€€,Jemmapes - Ecluses Saint-Martin
+dTfNXkhHxZATdgzQhUEPtA,Primeur,5.0,5.0,48.87156,2.37837,0,Jemmapes - Ecluses Saint-Martin
+hCNPRyAorAeHoh3YsibMRA,Chennai dosa,5.0,5.0,48.879724,2.35751,0,Jemmapes - Ecluses Saint-Martin
+haFOSMmsts549sIVUXbttw,SAIN Boulangerie,5.0,5.0,48.87193,2.36617,0,Jemmapes - Ecluses Saint-Martin
+BB7mWOm8nHIQh8Iney68Kg,Boulangerie Tembely,9.0,5.0,48.88711,2.35344,€,Pajol - Place Herbert
+IO8XFm4B0xoZlJDp_LhS0w,Le 104,9.0,4.5,48.890225,2.370082,€€,Pajol - Place Herbert
+lskzvgYAIPNrWq_RMpq2aA,La Maison Thaï,6.0,4.5,48.89143,2.36134,€,Pajol - Place Herbert
+pf4wbF0FiRkgkrJY6nCCyQ,Thai 18,6.0,4.5,48.89003,2.36021,€€,Pajol - Place Herbert
+g1M73kBmjYj3bWi37RaFtA,Péniche Antipode - Abricadabra,48.0,4.5,48.88677189326417,2.375423138381185,€,Pajol - Place Herbert
+9s_6-zeLtobYHy28M9ccMQ,Les Routiers,31.0,4.5,48.888886,2.360083,€€,Pajol - Place Herbert
+K5T7N8ZlrilNTX6OdtjC6Q,Lomi,75.0,4.5,48.890313,2.35531,€€,Pajol - Place Herbert
+Y1AgP6b5q8wT6xnpXGPBVw,Le Bassin de la Villette,6.0,4.5,48.88629,2.37494,0,Pajol - Place Herbert
+jxJ6B1IGD3UsmMTOXptARA,Au Duc de la Chapelle,6.0,4.5,48.89549,2.36325,€€,Pajol - Place Herbert
+17idPukUd766jj1VbvxRXg,La Forêt Noire,2.0,5.0,48.8902341898043,2.35465994280407,0,Pajol - Place Herbert
+-zFZOZuGQKUcaIbaGASo3A,Restaurant Rime,2.0,5.0,48.88785922,2.35982748,€,Pajol - Place Herbert
+QW_3m4g6a_B5uQt9T96XKg,Bob's Bake Shop,40.0,4.5,48.8887667370818,2.36293970301517,€€,Pajol - Place Herbert
+YZ6majJgV46Oc6jdPqtQ3Q,Anima,4.0,4.5,48.885212,2.352787,0,Pajol - Place Herbert
+Vh5ZEAlVv7fgDagjELw35g,Shin Juku,2.0,5.0,48.8909646,2.3606396,0,Pajol - Place Herbert
+rDxm1ifIiTfDH9RAsJteDg,Le Petit Tibet,8.0,4.5,48.8848940934691,2.36512117221061,€€,Pajol - Place Herbert
+rsnetdq0Csh1pWwfTTgH2w,Le Canaille Gourmet,2.0,5.0,48.884644,2.364138,€€€,Pajol - Place Herbert
+HoHyYr_1khMP763uAPctgw,Café des Sports / Hotel,2.0,5.0,48.891,2.37627,0,Pajol - Place Herbert
+b9xcHyeMHOCysmhcwUtzrg,Ice Kube,31.0,4.0,48.887466,2.358853,0,Pajol - Place Herbert
+M9KZBXIO6pCu2waIrYhvGQ,La Goutte d'Or,8.0,4.0,48.88501,2.3525,€€,Pajol - Place Herbert
+a41eEenOJO3wvOuGtbFX5g,Muniyandi Vilas,40.0,4.0,48.8838873,2.35912310000006,€,Pajol - Place Herbert
+C0PIvZ7tUKdxi7CLIk2w4g,Café Kaldi,5.0,5.0,48.85824,2.43603,€,Lucie Aubrac - Franklin
+QiHeh_-Nmek410nrWXuJTQ,Le Drunken,6.0,4.5,48.85718,2.43397,0,Lucie Aubrac - Franklin
+iSXAiRhlSfvXs4BczLSV1A,Bustronome,21.0,4.5,48.87276,2.294027,€€€€,Lucie Aubrac - Franklin
+Q_Gz6_pMA3VpYbdyOMQjdg,Coach jardin,3.0,5.0,48.8819885,2.1854501,0,Lucie Aubrac - Franklin
+KqZSk4_ugXe5SZSfQsafNA,Le Réfectoire - Foodtruck,12.0,4.5,48.8569297790527,2.34120011329651,€€,Lucie Aubrac - Franklin
+eakoVR0HKMvjtEsBILvmaQ,Apsara,8.0,4.5,48.8683282499801,2.43209838867188,€,Lucie Aubrac - Franklin
+YwfVd74eOszith6k5CPLvQ,Glacier Martinez,2.0,5.0,48.86259,2.44214,0,Lucie Aubrac - Franklin
+7MKN5a6TVwdwtuCtOdbf-A,Casa Lovi,8.0,4.5,48.8576012,2.43314,€€,Lucie Aubrac - Franklin
+FU8FjsdashthkGM_GhB2gw,La Bottega Della Pizza,2.0,5.0,48.8601831970923,2.43885319679975,0,Lucie Aubrac - Franklin
+qmFnpvyjP3708OPjyDupxA,La Romainville,3.0,4.5,48.8599391,2.4390436,€€,Lucie Aubrac - Franklin
+appCOYTQUEIwoMxvos4Xug,Villa 9 Trois,28.0,4.0,48.86391,2.43313,€€€€,Lucie Aubrac - Franklin
+Vtf3s-f-EK5V1ONUxW_I5w,Le Garage à Crêpes,1.0,5.0,48.8558197,2.44221,0,Lucie Aubrac - Franklin
+cApHABm0BGS4xBsOdm2ukA,Le Jardin de Montreuil,10.0,4.0,48.8534,2.4348,€€€,Lucie Aubrac - Franklin
+Uon80EaNfcoxmpr5SS8HoQ,El Pincho,1.0,5.0,48.8576696,2.4342436,0,Lucie Aubrac - Franklin
+ijKib0GFoY6mk02kdWyXRw,La Station Services,1.0,5.0,48.86012,2.43926,0,Lucie Aubrac - Franklin
+KihX5t1xFbRgPHh22TW6xg,Duchet Christophe,1.0,5.0,48.85581,2.43972,0,Lucie Aubrac - Franklin
+2vMVSmKactz_MjYkfLd-PQ,Le Chinois,4.0,4.5,48.858369,2.434087,€,Lucie Aubrac - Franklin
+-gAuYHPoJ0vGSl5uaBHHRQ,I Love Asie,1.0,5.0,48.854229,2.4321101,0,Lucie Aubrac - Franklin
+jYCDR_9ACz159NXRvQOKww,Le Mange Disc,8.0,4.0,48.8658135,2.4466307,€€,Lucie Aubrac - Franklin
+HV4cQ4pz7qVyYb3I1T4fyg,Restaurant Filippo,7.0,4.0,48.8581999,2.43616,€€,Lucie Aubrac - Franklin
+nqb3iKcboDnrGpL3xrq23Q,Tu Fais ta Crêpe,6.0,5.0,48.85002,2.28913,0,Joseph Liouville - Croix Nivert
+sAeOKc8TxV0Q_b2cVMJ6Zg,Flirt'The,5.0,5.0,48.8537336,2.3073545,0,Joseph Liouville - Croix Nivert
+rooUGpVIJkwnYQyaCaBcZg,Arzeh,5.0,5.0,48.8413506,2.30373,€,Joseph Liouville - Croix Nivert
+SjoaLqu2jTjYjeP0IOotZQ,Les Nouilles Fraiches,8.0,5.0,48.8475092,2.29966,0,Joseph Liouville - Croix Nivert
+XIb_L5SQSzgKbMWcesBQuw,Neige d'Eté,32.0,5.0,48.8453598,2.2990401,€€€€,Joseph Liouville - Croix Nivert
+3B5NtIoQuC--Bme00uDUIA,Le Félix,8.0,5.0,48.84739,2.30599,0,Joseph Liouville - Croix Nivert
+ytPPamo0GP3R3y8uCYxSRw,Bacco,6.0,5.0,48.8436329206109,2.29445453910999,€€€€,Joseph Liouville - Croix Nivert
+KW9w_p_CZFUvLduYErAMEA,La Chich'Art,58.0,5.0,48.84463,2.3108,€€,Joseph Liouville - Croix Nivert
+TO1J6K91RjaLnu2RbXdRlA,Ido,5.0,5.0,48.8397197746534,2.30563477778801,0,Joseph Liouville - Croix Nivert
+4dYX73U9ROTNQZ4GBSlg5w,Akasaka,5.0,5.0,48.84767,2.28564,0,Joseph Liouville - Croix Nivert
+dbdJFucvf4i2zpmUW8n_eQ,La Maison de la Mozzarella,5.0,5.0,48.84928,2.29467,€€,Joseph Liouville - Croix Nivert
+jAAdF3qWMcVpjP-gR4EADA,Les Frères Bretons,26.0,5.0,48.8490914,2.2987172,€€,Joseph Liouville - Croix Nivert
+9-I2IlzSxJ9_55ezLGSYZw,Boulangerie Suffren 55,29.0,5.0,48.85291,2.29843,€,Joseph Liouville - Croix Nivert
+285ac4ebFwBxQP1_Tpb4vg,Boulangerie Le Linois,4.0,5.0,48.84696,2.2853,0,Joseph Liouville - Croix Nivert
+gyxq68OZaFWg0yYg2vMeGA,Le Concert de Cuisine,16.0,5.0,48.8531,2.2879,€€€,Joseph Liouville - Croix Nivert
+UP5jnt30VLhmmOxQ9d1fgg,Le Cosmos,4.0,5.0,48.8471,2.29361,0,Joseph Liouville - Croix Nivert
+cXYN8hF9yPGIebcZoJVPeA,Jium,4.0,5.0,48.84869,2.29668,0,Joseph Liouville - Croix Nivert
+kVSdrsA5BFfWEaCzLv2czQ,Le Moulin de la Croix Nivert,4.0,5.0,48.84599,2.2989,0,Joseph Liouville - Croix Nivert
+ZN-ATyEKr7NoUWzk4NZ7vA,Les Cafééries de Paris,4.0,5.0,48.83676,2.29807,€€,Joseph Liouville - Croix Nivert
+npMKQlvcITn53sh96D_Ujg,Good News Coffee Shop,7.0,4.5,48.84368,2.2955899,0,Joseph Liouville - Croix Nivert
+BR25gexBROPbNOuz0XgXDQ,Combat,5.0,5.0,48.873408,2.382214,€€,Marché Secrétan
+VLk9hr7jYGgUujYkqver7A,Café Odilon,8.0,5.0,48.8891849554352,2.38175801932812,€€,Marché Secrétan
+kPyqVsm4qdXb9sZvRQ8k2Q,La Brick,18.0,5.0,48.87559,2.38188,€€,Marché Secrétan
+WtZnM3ihizTHiKQnO7RTtQ,Café Mama Kin,5.0,5.0,48.8894145,2.3836315,€,Marché Secrétan
+DSMFt9iDBuSm18s2C8ZcgA,La Nonna,5.0,5.0,48.8745499,2.3735001,0,Marché Secrétan
+idE1IsuSdkTmatYIQGQ8JA,Adaggio,5.0,5.0,48.88116853365,2.36392434686422,0,Marché Secrétan
+ROcEH_ESZp6hV_k09eQ4mQ,Bricktop Pizza,4.0,5.0,48.8779899,2.36556,€€,Marché Secrétan
+aKjfwIP192Vw1OC4Lirq-A,Le Cadoret,4.0,5.0,48.8747186967947,2.38108499289667,0,Marché Secrétan
+EGaSDUrhj2QGcfD87IIdJw,Le Verre Taquin,7.0,4.5,48.8758962495005,2.36877180416375,0,Marché Secrétan
+Tn63b3wXUoXuEedkKaQJyw,Simonetta,7.0,4.5,48.8902828134029,2.38396789842577,0,Marché Secrétan
+y_cYyZ5gGA1WjNqcrucl-w,FLESH,15.0,4.5,48.88009,2.36684,€€€,Marché Secrétan
+lyo0XqwY4iB6K3PcQX2sww,Sunny,5.0,4.5,48.87902,2.37797,0,Marché Secrétan
+taedvvHE1GIYobAAu7WrIA,La Guincheuse,7.0,4.5,48.88325,2.36782,€€,Marché Secrétan
+vKETCYfbc5IZlhyr5SjvpA,Myrthe,13.0,4.5,48.873539,2.3647699,€€,Marché Secrétan
+47wYMlaIBVzcjUNmwuBWSQ,Toda l'Akel,4.0,5.0,48.8895627,2.3779289,0,Marché Secrétan
+zj_VG6_wjhJK30su7ZZCyg,La Favorita,12.0,5.0,48.88358,2.34299,0,Square d'Anvers
+IKCv97UEI-4gp133NzW8HQ,Abuela,8.0,5.0,48.8794923766656,2.33598176389933,0,Square d'Anvers
+gfCBVPT48Noe4qGEVkpN5g,Wine Therapy,9.0,5.0,48.876438,2.344895,0,Square d'Anvers
+HO31AKmlmywDkpcwhDWh-A,Via Emilia,5.0,5.0,48.87929,2.33512,0,Square d'Anvers
+De9ggm_AZYtUbg4NMuxxsg,Ken Kawasaki,5.0,5.0,48.88722,2.33298,€€€€,Square d'Anvers
+APHdwLHJ1Qggnq1OripT_A,Boulangerie & Patisserie Cyprien,5.0,5.0,48.880572,2.33526661992073,0,Square d'Anvers
+eLppXlyGwUwqvlSHmpHIgg,Louis,5.0,5.0,48.875061,2.3387899,€€€€,Square d'Anvers
+SIgX2ygdmJ5MozV9yzGYvw,Ferrand Michel,7.0,5.0,48.87745,2.34932,0,Square d'Anvers
+LiswnNHQWuf2VO9C_2d59Q,Kanna Tanna,7.0,5.0,48.8800049,2.3345288,0,Square d'Anvers
+iCC9ruwg8jVLxt77syO8XQ,Pizza Del Mundo,6.0,5.0,48.8845406,2.3412299,0,Square d'Anvers
+oA1AJEEPOcVSH1KQFopPGw,Le Bergerac,5.0,5.0,48.87755,2.33845,€€,Square d'Anvers
+8HayzmdrC1JqWLi_7uonSA,Chez Delphine,8.0,5.0,48.8772257556351,2.33733181919955,0,Square d'Anvers
+JSuT7a7vgZVGyCvQMYSemg,Étsi,6.0,5.0,48.890361,2.332896,0,Square d'Anvers
+b-bFPUjflbPMEZ6Z1Co9Wg,Haha,5.0,5.0,48.88529,2.33525,€€,Square d'Anvers
+4xLQMBNHCrtCJ2wj-pAXUQ,Domenico’s,8.0,5.0,48.876947,2.338323,0,Square d'Anvers
+eoUCWArm9w8kXtyA0N7MoQ,ASPIC,28.0,5.0,48.87918,2.34367,€€€€,Square d'Anvers
+V6-KvEIECs8P2cXayCO22Q,Signature Montmartre,18.0,5.0,48.88443,2.34129,0,Square d'Anvers
+Yz-FRQ1qlXBxXX7YADx0KQ,Bonthés,9.0,5.0,48.891343950777,2.3379677254929,€€,Square d'Anvers
+6GOzjK6ONKw2mCxGSc4gqA,B&M,9.0,5.0,48.884396,2.339872,0,Square d'Anvers
+r5hIJbPCB2Q0_sw1EBS4Zw,Mr. T,5.0,5.0,48.86269,2.3636499,€€€,Grand Prieuré - Crussol
+eW7xda0_ISEo_1ZG8g22WQ,Le Café de la Mairie,5.0,5.0,48.86353,2.36097,0,Grand Prieuré - Crussol
+b95KnQnbSXGNFMlJVcJVnA,Le Four du Marais,6.0,5.0,48.8575643836822,2.36434301598659,0,Grand Prieuré - Crussol
+FyROvdQq9ZeGwtD40u0e4Q,La Ruée vers l'Orge,6.0,5.0,48.8656,2.35959,€,Grand Prieuré - Crussol
+0yly7egVha2qZWsM_54imw,Medusa,5.0,5.0,48.85636,2.3782899,€,Grand Prieuré - Crussol
+I5ABgPbV2IyPOZIIFmNzow,Fong Lai,5.0,5.0,48.865415,2.369119,€€,Grand Prieuré - Crussol
+IV-U3hpsW7eL0eB3ogSc9A,Jackpot,8.0,5.0,48.86179,2.3573,0,Grand Prieuré - Crussol
+u0g7WQaFcrIBhG29TSzWJw,Maison,5.0,5.0,48.86374,2.37922,0,Grand Prieuré - Crussol
+7oFpNTCcsQZE0RbFp7Y3BA,DICE Caffè,6.0,5.0,48.855943163075,2.36710687116729,0,Grand Prieuré - Crussol
+R3bELm2-TJPBNu3Y9edaGA,Les Enfants du Marché,8.0,5.0,48.86296,2.36215,0,Grand Prieuré - Crussol
+sELjVQsud9aKqLhBC9vNqw,Pontochoux,16.0,5.0,48.861319,2.365104,0,Grand Prieuré - Crussol
+2VjVSIw300_iDsK_gi_emg,Le Petit Falafel,15.0,5.0,48.86527894542,2.36841570585966,€,Grand Prieuré - Crussol
+53U3AEWiVgf-vKVfithMrw,Co Ba Saigon,22.0,5.0,48.8659652,2.365558,0,Grand Prieuré - Crussol
+rkNa2PaSNb1Y8zDu9fHbww,Korus,10.0,5.0,48.85925,2.36817,€€€,Grand Prieuré - Crussol
+RxLHqvoEE62nwIcsxA3VHA,Krügen ROI,10.0,5.0,48.86813,2.37386,€€,Grand Prieuré - Crussol
+gW2d26Iz5c4gesMCZ7agHA,Pasta Luna,6.0,5.0,48.8501731,2.3301594,€€,Mairie du 7ème
+lZWlDIhp9cbnJN4FvmoTBg,Koï,10.0,5.0,48.85455,2.30765,€€,Mairie du 7ème
+yFZ1_kGVYiTwqNR2O4HQqA,Cook'n Saj,19.0,5.0,48.85314,2.33197,€€,Mairie du 7ème
+AzmLFVuOHT3QbfGcoLe4qg,Happy Caffé,116.0,5.0,48.86476,2.329615,€,Mairie du 7ème
+DUjjUkDexVXd3hef0rhlZg,La Table d'Aki,17.0,5.0,48.85111,2.31929,€€€,Mairie du 7ème
+KsPNOKokkwf6lTNQiF5Q4w,Casa di Mario,7.0,5.0,48.851463,2.323327,0,Mairie du 7ème
+d_FCQt27rR-uJypwgjFPbg,Ladurée,7.0,5.0,48.865301,2.3277099,0,Mairie du 7ème
+oBry7omEm5kavp_l86AjCA,Khajuraho,24.0,5.0,48.861542,2.310126,0,Mairie du 7ème
+EmeR6gAn-CUNaKE4icbgnw,Reed - Restaurant,50.0,5.0,48.859,2.3075899,€€€,Mairie du 7ème
+1S3P9O2J2e7JPv2UmRSsLw,Tomy and Co,16.0,5.0,48.86056,2.30944,0,Mairie du 7ème
+3nJa6ra1CetN2HTaIzUXoA,Restaurant ES,5.0,5.0,48.85647,2.32113,€€€€,Mairie du 7ème
+vXBXu2G6YaiGHsH4wO3wEw,Le 27 Madame,5.0,5.0,48.84978,2.33187,0,Mairie du 7ème
+4AlcEZLAWfGWyCkRcQoWuw,Mariette,46.0,5.0,48.856016196205,2.3058138676935,€€€€,Mairie du 7ème
+zFxHWHYX6_MQcnso2KSBag,Gusto Italia,44.0,5.0,48.8589903,2.307595,€€,Mairie du 7ème
+AIgHVORoeEsGKKVZVSNlPg,La Bonne Excuse,20.0,5.0,48.858552,2.327725,€€€,Mairie du 7ème
+kpxcH7VsExHmbjzRHgizVw,Aïda,16.0,5.0,48.85021,2.31869,€€€€,Mairie du 7ème
+FJjyEXO6UTirJzQtwwx44Q,Le Carrousel de la Tour Eiffel,8.0,5.0,48.8543345,2.3134029,0,Mairie du 7ème
+2oKjqg386xiVUN3tOFFrug,Sylvestre,4.0,5.0,48.85974,2.30862,0,Mairie du 7ème
+uSbrVw_sVHOthg63MwJBxA,Zia Paris,91.0,4.5,48.854286,2.3071856,€€,Mairie du 7ème
+W1BQq4zOuiOnR3jgnPWNDQ,Le Bonne Nouvelle,5.0,5.0,48.87053,2.350453,0,Saint Georges - d'Aumale
+lGRVrfoE-6vd7nfVHzfkaw,Les Saveurs de Batignolles - Boulangerie Julien,7.0,5.0,48.88275,2.32427,€,Saint Georges - d'Aumale
+xU7XqyR-7gbdQeY7kSfJOA,Miznon,5.0,5.0,48.872894,2.3425698,0,Saint Georges - d'Aumale
+vBgH6P6TGe5WiEIYY32zug,Vivre Opéra Garnier,11.0,5.0,48.86922,2.33446,€€€,Saint Georges - d'Aumale
+H-zQAY6zHAb-fWpJnpPh2g,Le Distrait,10.0,5.0,48.86989,2.34919,€€,Saint Georges - d'Aumale
+2iXqrG7UVTQj4VLX9ts7ZQ,Méli Mel'Anges,5.0,5.0,48.890543,2.28629,0,Anatole France - Louise Michel
+JbITkgisChYWtrAxsnFRTw,Fricotin,6.0,5.0,48.880744,2.299896,0,Anatole France - Louise Michel
+C0E_6Vkp4_ZkOhshlaUzfA,Abydoise,5.0,5.0,48.8853071775556,2.29329639464572,0,Anatole France - Louise Michel
+1SqrXDSixGOGpUrM7FYYeg,Resto Today,6.0,5.0,48.890948,2.278801,0,Anatole France - Louise Michel
+2BdUhnAAPohrmbX-8FWwyQ,Roca,9.0,5.0,48.8848837,2.2950957,€€€€,Anatole France - Louise Michel
+qYtTvEq5ZLDbQYisalAIUw,Kusmi Tea,7.0,5.0,48.8825999,2.29599,€€,Anatole France - Louise Michel
+EVHq81kzEilIWvm06roNbQ,In Casa,7.0,5.0,48.8966484,2.27565,0,Anatole France - Louise Michel
+GxyDiKMzNyE-7Sui55h7jw,L'Aligot,14.0,5.0,48.8823099,2.29584,0,Anatole France - Louise Michel
+bY3F-s9tLFgZMMaC0FrLAA,Parc de la Planchette,6.0,5.0,48.893217,2.287864,0,Anatole France - Louise Michel
+8sKh4WaYS6jAFfnz8cdQLQ,Le Trois-Quart,6.0,5.0,48.88253,2.29417,€€€,Anatole France - Louise Michel
+gEFwkNmam8Dev4EXmc-BlQ,Phébé,6.0,5.0,48.885498,2.296771,€€,Anatole France - Louise Michel
+RFYaxrDX1uT1ZlNOdfuDOA,En Vert et Contre Tous,6.0,5.0,48.89059514,2.28774905,€€,Anatole France - Louise Michel
+l71FXlZrExpRs5RqX9Ty-A,Petrus Exploitation,5.0,5.0,48.8852199,2.29653,0,Anatole France - Louise Michel
+lgCDqPkFhnvn_qTDFphdYA,Burger Delight,7.0,4.5,48.88148,2.29503,0,Anatole France - Louise Michel
+uqX65Je_8GAvvhsqG6X5ow,Boulangerie Lohezic Jocelyn,11.0,4.5,48.8831405,2.2985314,€€,Anatole France - Louise Michel
+x3OIwHaSHcfN5z0KWnuC4g,Le Petit Champerret,13.0,4.5,48.88456,2.29102,€€€,Anatole France - Louise Michel
+QKOaZpL4tnhEBFyd0EeeCA,L'Elfe Assis,10.0,4.5,48.88954,2.28937,€€,Anatole France - Louise Michel
+CB8HN0AnBxV3jEZYggsTVQ,Ballon et Coquillages,5.0,4.5,48.88042,2.28521,€€€,Anatole France - Louise Michel
+ygxg5QxtApRZtQtv2nkaxw,Raoul Maeder,10.0,4.5,48.886782,2.296108,€€,Anatole France - Louise Michel
+UVaUpD0MsW4GUX9AeRtTkw,boulangerie de sablonville,5.0,4.5,48.8802455,2.2768911,€€,Anatole France - Louise Michel
+9m27lKBvquj1XVn94ytW3w,Il Covo,7.0,5.0,48.8655727,2.3774005,€€€,Parmentier - Hôpital Saint-Louis
+dONNqHhumDtsnxgXI1FFdw,Divin' Art,14.0,5.0,48.8662500292687,2.35742361851058,0,Parmentier - Hôpital Saint-Louis
+Y3jckbVRuGWNNS1sFz2vKw,Armonia,5.0,5.0,48.8563,2.3055,0,Varenne
+jVspEfYCGnJVg0FNeP6LeQ,Boulangerie Laurent B,19.0,5.0,48.85849,2.302267,0,Varenne
+-rcpysSmRK2hqapL0OCW8g,Sapori di Parma,17.0,5.0,48.856232,2.3021,0,Varenne
+RS7zLsdgYgYvErU1ZljifQ,Tabac de l'Université,10.0,5.0,48.861151,2.305332,€€€,Varenne
+cI4V2GfhtUIFHq9FW5ptHg,Le Cairn,7.0,5.0,48.8594099,2.30187,€€,Varenne
+0tO0G-_b4HXY8jBMY8Nhlg,Aux Merveilleux de Fred,23.0,5.0,48.85924,2.30485,€€,Varenne
+Y_a6B6XEeIXSyF5pyfLEWg,Le Lotus Impérial,6.0,4.5,48.884722,2.268588,€€,Paul Vaillant Couturier - Chaptal
+jUoy1vo748LNM_iyq_vBFg,Yotaro,4.0,5.0,48.887718060201,2.28594616055489,€€,Paul Vaillant Couturier - Chaptal
+DO20Zh_yvk3UJeWiA_Xt7w,Lily de Neuilly,15.0,4.5,48.89276,2.27118,€€€€,Paul Vaillant Couturier - Chaptal
+W9YBfaQ8snwoKBi5EWG5Fw,La Koutoubia,9.0,4.5,48.897221,2.290577,€€,Paul Vaillant Couturier - Chaptal
+eZZwkHbvjKBX6kvW5vZLUQ,Les Délices du Kashmir,12.0,4.5,48.8956145,2.2817502,€€,Paul Vaillant Couturier - Chaptal
+kjQpLIlnJ8u-y2PvnHVLsA,Le Wilson Park,6.0,4.5,48.89519,2.28757,€€,Paul Vaillant Couturier - Chaptal
+cKRSQzqdzNX8ScMz4IVx3g,Big Fernand,10.0,4.5,48.89514,2.28157,€€,Paul Vaillant Couturier - Chaptal
+syOSxYizAeqZXYHLq3pt9w,Le Sabodet,20.0,4.5,48.8937843,2.2910843,€€,Paul Vaillant Couturier - Chaptal
+5Sp2qtqWdIvG6chl6DSj2Q,Pizzeria Lotauro,2.0,5.0,48.8844464,2.2910337,0,Paul Vaillant Couturier - Chaptal
+kz3PdcEnAFqxzsFGYupF_w,Hausboot,2.0,5.0,48.8862724304199,2.26517510414124,0,Paul Vaillant Couturier - Chaptal
+PWwvwAQicQWYPrdq1CrYPA,La Cité des Enfants,13.0,4.5,48.896032,2.388009,0,Bordier - Félix Faure
+iHREoX93HaxUnRKokxo1UA,Le Ptit Hugo,17.0,4.5,48.89589,2.38266,€€,Bordier - Félix Faure
+hLmtXEesqatsMcNq4la9KQ,La Chope de Corentin,5.0,4.5,48.8955144,2.3831456,€€,Bordier - Félix Faure
+zalgIn8YW47VOsirkOtHxA,Au Comptoir du Temp,8.0,4.5,48.8975339728673,2.38505318574828,0,Bordier - Félix Faure
+LYxAyKTwXol9figyY3A6qA,Muraille d'or,2.0,5.0,48.9021931,2.3857024,0,Bordier - Félix Faure
+xMrM_pXbMu1zGw34wOM3VA,Au Cochon de Lait,9.0,4.0,48.89634,2.38414,0,Bordier - Félix Faure
+6W3XS-k6YrebddH9Ar1AkA,Freegan Pony,14.0,4.0,48.900102,2.38723,€,Bordier - Félix Faure
+7hzY5uBLnaw5NrlGarE8-A,Cité des Sciences et de l'Industrie,118.0,4.0,48.895602,2.387897,0,Bordier - Félix Faure
+pLUm26Dv_20xuvi3lAKXdw,L'Orange Bleue,8.0,4.0,48.9011422,2.3897243,€€,Bordier - Félix Faure
+uBDdjVzoiMzQ9e19PDkyvQ,Espace Vert,1.0,5.0,48.90322,2.39238,0,Bordier - Félix Faure
+PkYTk9ulPKAzIuNGua86Aw,Pizza Di Napoli,1.0,5.0,48.90375,2.39448,€,Bordier - Félix Faure
+3YvRY02qCn7cSzZQqxx4lQ,Macao,1.0,5.0,48.90782,2.38471,€,Bordier - Félix Faure
+f9JOcYHga32nYb2R3V6TaQ,Léon de B,1.0,5.0,48.8984206953258,2.37517901119232,0,Bordier - Félix Faure
+qaFNRQDmsW89gN7atsGg2w,Park Avenue,1.0,5.0,48.89728,2.38481,0,Bordier - Félix Faure
+DcwuFWMFy8dHhwmJAeeaAA,New Soul Food,9.0,4.0,48.83012,2.36224,0,Bordier - Félix Faure
+qovtaOGnFK4c3KpADY9ezg,Café Henri,1.0,5.0,48.90162,2.38912,0,Bordier - Félix Faure
+eenXnM3j8jxoJBvVCBkxvg,Kyoto restaurant japonais,1.0,5.0,48.90345,2.3747101,€€,Bordier - Félix Faure
+lZ28GDranYgohEBlhLAYuQ,Sorella,6.0,5.0,48.87009,2.28307,0,Flandrin - Henri Martin
+4jAY4aCmn3KqNMrfZJPcvg,L'Archeste,5.0,5.0,48.86179,2.27811,0,Flandrin - Henri Martin
+qWY5_v3XjhSfaw3KrS9eOg,Langousta,41.0,5.0,48.856266,2.278149,€€,Flandrin - Henri Martin
+awnyHcz9mpobe91T43PvxQ,Huîtres et Saumons de Passy,14.0,5.0,48.8563199,2.27972,€€€,Flandrin - Henri Martin
+fDII6pKChvtlPND14v853w,Boulangerie TY-Pascal,6.0,5.0,48.85824,2.27363,€€,Flandrin - Henri Martin
+6e4I5RDNwFPVH4nNOxxKrg,La Place Longchamp,4.0,5.0,48.86549,2.28379,0,Flandrin - Henri Martin
+G6OAB1ZuwnGYOvo1phqaRQ,Kura,10.0,4.5,48.8576025808262,2.27479808447182,€€€,Flandrin - Henri Martin
+vf6FNB8SQhYsmIGwkbz9BQ,Aux Merveilleux,18.0,4.5,48.8569030761719,2.27889394760132,€€,Flandrin - Henri Martin
+85_KIoZXQQL_Swkpxw5COA,DS Café Victor Hugo,7.0,4.5,48.8701782,2.2845199,0,Flandrin - Henri Martin
+L4nEaEI72gvFRI88L4xaEw,Musée Marmottan Monet,70.0,4.5,48.8591399,2.26755,0,Flandrin - Henri Martin
+gBCOp4QBoGaawgNigHij8w,Il Conte,9.0,4.5,48.8666399,2.28594,€€,Flandrin - Henri Martin
+F0Ba9IJc78CHd8LcIU_z9w,Akasaka,11.0,4.5,48.85832,2.2805,€€€€,Flandrin - Henri Martin
+WHHt_Jb8Tgidn9mW7oDnIg,La Coïncidence,511.0,4.5,48.868105,2.284365,€€,Flandrin - Henri Martin
+wCfRv8PEb1cNjy02y3NoFQ,La Petite Marquise,69.0,4.5,48.86958,2.28557,€€,Flandrin - Henri Martin
+us0-Gf-_M-8MZzqBagb5kA,Marcello Ristorante,8.0,4.5,48.8587935,2.2851472,€€,Flandrin - Henri Martin
+Vcai0o69zrtqbAY_Wam9Iw,Theodor,3.0,5.0,48.8641838764141,2.28213708847761,€€€,Flandrin - Henri Martin
+06DyILiMgvx5cIcSYK7bLQ,La Pompadour,8.0,4.5,48.862718,2.2766155,€€,Flandrin - Henri Martin
+bYhtqa4y-Sem1syq3kQffQ,Settebello,15.0,4.5,48.8568826,2.2777089,€€€,Flandrin - Henri Martin
+ImboxNVZPq7Wn3JWUjchWQ,Bistrot Paul Chêne,24.0,4.5,48.865739,2.285838,€€€€,Flandrin - Henri Martin
+fexAXMbB1T03-k7O0Ttwdw,Marcello,11.0,4.5,48.8588295,2.2850399,€€,Flandrin - Henri Martin
+ASen2utCctS6YWluJAJbPA,Le Chanard,8.0,5.0,48.8530299,2.36129,€€€,Bastille - Biscornet
+us8zYWKaS2f3y88iYVo3gQ,Mamy Thérèse,5.0,5.0,48.853763847218,2.36618677096843,€€€,Bastille - Biscornet
+3fVE8i57zteoeBnrgAkbCw,Karma,6.0,5.0,48.8469505087499,2.37246185601454,0,Bastille - Biscornet
+H8wx17sZ7i4C463OgHCDFQ,Mokonuts,32.0,5.0,48.8507634203731,2.38146599382162,€€€,Bastille - Biscornet
+u-PsbIdHlea2tcgVpwPJsQ,Fuji Yaki,9.0,5.0,48.85431,2.37125,€€,Bastille - Biscornet
+MsxfKPacvYhg97x1ui22wA,Nous 4,7.0,5.0,48.846778,2.379134,0,Bastille - Biscornet
+weiNgy7k32W5fmZoTaF-Bw,L'Ange 20,50.0,5.0,48.8558083,2.3673799,€€€,Bastille - Biscornet
+d-HpsAD3_duEkraGrE952g,Bubar,36.0,5.0,48.85398,2.36728,€€,Bastille - Biscornet
+m8NmEDE037oBJ0zQ1lbDZw,Maison Nouilles,12.0,5.0,48.8583794,2.3826399,€€,Bastille - Biscornet
+b4SiRx5qTgijxyQ-KWHgCw,Diamande,11.0,5.0,48.855433,2.37076,€€,Bastille - Biscornet
+vsCWS8eD-35ryL5cNwuYRw,Back in Black,11.0,5.0,48.8562271994093,2.36906211823225,0,Bastille - Biscornet
+eKECABmrfM7CNCXDUsujYQ,Bears and Raccoons,16.0,5.0,48.8553999606388,2.38155383616686,€€,Bastille - Biscornet
+4PcxyWXrkBeHXsCc8GhDHg,Aux Délices de Saint Antoine,5.0,5.0,48.8496929642866,2.37404465675354,€,Bastille - Biscornet
+HaqUm30q9W7scOj2k-bpSg,Les Rendez-Vous Italiens,5.0,5.0,48.845166,2.3813265,€€,Bastille - Biscornet
+hgCCn5C3hFgb-fRj8WZi-A,Maison Ellini,5.0,5.0,48.85678,2.37787,€€,Bastille - Biscornet
+_FjIipJ6hez_tlqqDieenQ,Chez Alfred Lao Cuisine,5.0,5.0,48.85189,2.37879,0,Bastille - Biscornet
+9Xi2_E_2c0_1A4UxntR6Og,Le Vieux Crapaud,8.0,5.0,48.8717885462766,2.29239356812286,0,Courcelles - Place des Ternes
+Ws4ibqvZYP7uAX1_8zfuQw,Puerta del Sol,7.0,5.0,48.88676,2.30981,€€,Courcelles - Place des Ternes
+wbkod_0Enz97_AyXe54KSw,Le Crystal,13.0,5.0,48.876219,2.290163,€€€,Courcelles - Place des Ternes
+qMnhkyNKQymNssDsYG1muA,La Cuisiniere Lyonnaise,8.0,5.0,48.87788,2.28794,€€€,Courcelles - Place des Ternes
+N_lW5al83X9cmqyHjvjEsA,L'Ours Blanc,7.0,5.0,48.86065,2.35434,€€€,René Boulanger - Lancry
+9ru1fYRoXm4IMRldUOS59A,Pizza e Mozza,5.0,5.0,48.860309,2.348149,0,René Boulanger - Lancry
+2QkEIA-U84lAdCQY_7ax-w,Golden Promise,9.0,5.0,48.86449,2.3491399,0,René Boulanger - Lancry
+hOLjmbvoVVL_2t9U4ODbvQ,Laurent Dheilly,5.0,5.0,48.86006,2.34644,€€,René Boulanger - Lancry
+OHGcF5jpWEHvtRXghqHx9Q,Unicorners Café & Coworking,8.0,5.0,48.8633744142339,2.35437501221895,€,René Boulanger - Lancry
+KpoXpvctx9Yw5rP7T6FdgQ,FrenchyTaste,7.0,5.0,48.8676699,2.35526,0,René Boulanger - Lancry
+1oeXmtMcBbS0BZbsLGZ0qg,Jixiao's Buns,10.0,5.0,48.8644754144291,2.35501288596881,0,René Boulanger - Lancry
+gOL6AHQZhY3oSKj2QQhaNg,Biogrenelle,5.0,5.0,48.8469943370758,2.28346778980618,€,Emeriau - Place de Brazzaville
+rSWF0mXkm-J6SZCO4q9tFA,C.Comme Chez Vous,7.0,5.0,48.8575299,2.30059,0,Emeriau - Place de Brazzaville
+5_4JD4c6IKCqrSAYUUgmgQ,Pop's,11.0,5.0,48.85418,2.2759,0,Emeriau - Place de Brazzaville
+GoYMZz55cdFN8ZIc63QJ7Q,Comice,23.0,5.0,48.8495,2.2761,0,Emeriau - Place de Brazzaville
+Xh16xM655GFnFdGAXMGiFQ,Restaurant de la Tour,64.0,5.0,48.85439,2.29505,€€€,Emeriau - Place de Brazzaville
+aQh7g0UkQNHWUU2ZY3jFSQ,Kahwehgi Coffee House,6.0,5.0,48.864105,2.397389,0,Henri Chevreau - Couronnes
+JGmlBOPev4wX4bQOmjMvbA,Haut les Coeurs,5.0,5.0,48.8641349120439,2.38610990345478,€,Henri Chevreau - Couronnes
+v0erDERoPDk719Mt1gkEZw,Le Temple du Thé PARIS,4.0,5.0,48.8643074,2.4011871,€€€€,Henri Chevreau - Couronnes
+gcI2EOl5TnFpHa4uzrlJOw,Tunis Tunis,4.0,5.0,48.871241,2.37818,€,Henri Chevreau - Couronnes
+TzbS5NTzdK5oYkc8YEx4SA,My Woodie,7.0,4.5,48.86559,2.37679,€€,Henri Chevreau - Couronnes
+XkiFIjW7peRyKhBVOYKzVA,L'Entracte Bistrot,7.0,4.5,48.8648,2.39715,€€€,Henri Chevreau - Couronnes
+XMtOE6L58G8II2HN2EQqEQ,Oxymore,7.0,4.5,48.8631825234595,2.37932123243809,0,Henri Chevreau - Couronnes
+Jp5n11ZLuFH3n6iQ9zSSZg,Couscous Deli,6.0,4.5,48.86211,2.38463,€€,Henri Chevreau - Couronnes
+42oT6JZLfnCRT_4Z8GGMvQ,L'Arbre Jaune,6.0,4.5,48.86777,2.37799,€€€,Henri Chevreau - Couronnes
+X5IyD3AYdOtIkUuE0QV5cA,Le Jourdain,24.0,4.5,48.8721699,2.38924,€€,Henri Chevreau - Couronnes
+i68SO4FbrwQ735qjDEFJnA,Le Khelkom,14.0,4.5,48.86753,2.37687,€€,Henri Chevreau - Couronnes
+RZKuo6dEEUk4FQrhHfo4pw,Chez Papa,8.0,4.5,48.8762093,2.3927701,€€,Henri Chevreau - Couronnes
+u8yQBt-WlxQPYZKEe2FY1g,Scoop Me A Cookie,37.0,4.5,48.86623,2.38167,€€,Henri Chevreau - Couronnes
+ZUDq3UloGN-1A-a6OVX6Aw,O'Grady's,1.0,5.0,48.9127944,2.3354786,0,Carrefour Pleyel
+tpaCl2PkKpeNFoGevHD7FQ,Nayagom Angélique,1.0,5.0,48.919529,2.344491,0,Carrefour Pleyel
+qBWYoCphaZeK9NqyqV0tgQ,Cooking Cuisine Maison,5.0,4.0,48.9170895726324,2.35244828042596,€€,Carrefour Pleyel
+QLTo1y7dGCAANPQ7Po9fhA,Brasserie Latour,1.0,5.0,48.9220237,2.342953,0,Carrefour Pleyel
+YXuSdz_JWpB4_nY4ggmlbw,Au Grand Comptoir,1.0,5.0,48.920791,2.344385,0,Carrefour Pleyel
+xsCFiOHruIdlj6JFs1rokA,Fresh Factory,1.0,5.0,48.9264453112951,2.33031793334351,0,Carrefour Pleyel
+q3sXsBE_DWLkcQR7rLvz0w,restaurant chinois,1.0,5.0,48.914089,2.3362252,0,Carrefour Pleyel
+ACekuBfaUUkw9isv7zBUiQ,Le Coq de la Maison Blanche,13.0,4.0,48.912806,2.335321,€€,Carrefour Pleyel
+oGDr0XaImMDpiVuqxgdeoQ,Le Ripailleur,2.0,4.5,48.9121917789049,2.33626858435468,0,Carrefour Pleyel
+cJPOKlNnbJAxEQGB9t_Rkg,Emir Pizza,3.0,4.0,48.91884,2.34409,0,Carrefour Pleyel
+B6t9rEvRLyMwJbQ3RKHbJQ,Osaka,3.0,3.5,48.9273623360494,2.33570623915922,€€,Carrefour Pleyel
+O9acSDghTMkUevs3TxrPqw,Ginjinha,1.0,4.0,48.9135175,2.3339535,0,Carrefour Pleyel
+zBzGBbcTPtAd6XjzcK8UWw,Chen Sushi,1.0,4.0,48.91684,2.3397,0,Carrefour Pleyel
+5dKZ9WDjaG8FLpXLt6AgpQ,Auberge de Tighza,1.0,4.0,48.91841,2.3443,0,Carrefour Pleyel
+2V2yDdQdf7xPu4gdZt8Tjw,Amira chicha,1.0,4.0,48.911856,2.333764,0,Carrefour Pleyel
+Xghxj90gTCgRhBwSTSa6bw,Les Deux Frères,1.0,4.0,48.926384,2.342133,0,Carrefour Pleyel
+lc41IrM0HbxYR69YmIePaA,Cafe Loom,1.0,4.0,48.911856,2.333764,0,Carrefour Pleyel
+fPiYIjJGnPhg72jZa0plIg,Chez Serge,7.0,3.0,48.913781,2.33595,€€,Carrefour Pleyel
+LPjEK6YnHJPvfZexgoEyGQ,Mizumi,7.0,4.5,48.84581,2.2778,0,Place Violet
+hH8eOc6t-KS4DxfxeRjzvQ,Amalfi,31.0,4.5,48.85067,2.2918,€€,Place Violet
+kJVuq3kyfU45wsRwQPWk8Q,La Pieta,18.0,4.5,48.8461021,2.2786725,€€,Place Violet
+-Oqr-JRnFK-cMTtc13zL3Q,La Gambette à Pain,13.0,5.0,48.869797035591,2.4029097295433,€€€,Haxo - Surmelin
+39JKH-41xyEVKjVI75ST4w,Le Stendhal,5.0,4.5,48.86167,2.40166,€€,Haxo - Surmelin
+nsOeoBRrECA9_llX-IB22w,Le Comptoir,7.0,4.5,48.8662187226949,2.39496722817421,€€,Haxo - Surmelin
+B4d0GBKrF2Rz3WWr3bpKFA,Ma Pomme en Colimaçon,9.0,4.5,48.869257,2.392259,€€,Haxo - Surmelin
+FECqJqzCLd7lpI-Bou5csA,Pho Hanoi,9.0,4.5,48.8748017998448,2.39552234354335,€€,Haxo - Surmelin
+BNRuBK7WeRumRzipT7xBjA,Chéri-Chérie,16.0,4.5,48.8730507,2.4047599,€€,Haxo - Surmelin
+rpgpw9v79Hh91kF5soQNnQ,Chez Wuhan,5.0,4.5,48.8639195228482,2.40420311070864,€€,Haxo - Surmelin
+f6qIKSyHqK3ZGugkvb076w,Huitzilin,10.0,4.5,48.86499,2.40518,€€,Haxo - Surmelin
+_3AP0cwBociYfFTpjH5WIg,La Confidente,5.0,4.5,48.86813,2.4013,€€,Haxo - Surmelin
+dmWAR1xuEUiWPQo0NX6Fhw,Le Tablier Rouge,9.0,4.5,48.86887,2.3972,€€,Haxo - Surmelin
+R184dXR3enkK9yN8cq46Iw,Café des Banques,6.0,4.5,48.8643858,2.3978411,€€,Haxo - Surmelin
+l6pI9BbiMXJrnQIxUDdCaw,Aux Petits Oignons,51.0,4.5,48.868136,2.399965,€€,Haxo - Surmelin
+8sM5s2_D19WIwADb-3mhyQ,La Maroquinerie,86.0,4.5,48.86826,2.39229,€€,Haxo - Surmelin
+SHKMfl_9Lcx7R5K0mRHWyg,Lotus Canton,2.0,5.0,48.867298,2.416348,0,Haxo - Surmelin
+MPUp8Rx4H5jmu713uruizw,Le Petit Village,2.0,5.0,48.871197,2.392634,0,Haxo - Surmelin
+yjqZzO9eU-PWTYsIzgY9zA,Sushisaka,8.0,4.5,48.8686526,2.401042,€,Haxo - Surmelin
+5s8e60g-7gQ_Ybqdp_LCbQ,An di an di,5.0,4.5,48.8686905,2.38535,€€€,Ménilmontant - Pelleport
+bNLELF0e_VObyiBvvScW4g,Boulangerie Père Lachaise,4.0,5.0,48.8632732,2.3880754,€,Ménilmontant - Pelleport
+xJ2cKZbEDGaa1CxSoJ-5Cg,O Divin,12.0,4.5,48.87888197,2.38977844,€€€€,Ménilmontant - Pelleport
+KKdzARPYdmbjmzGrYXcYbA,Bar & Beer Ménilmontant,3.0,5.0,48.863286,2.3874483,€,Ménilmontant - Pelleport
+ffyDe0isvIoazdm78LAVSg,Bistrot Blanc Bec,8.0,4.5,48.8665619,2.38533,€€€,Ménilmontant - Pelleport
+cptjvv5RQFpHW53KgeGAhA,Dr Auguste,3.0,5.0,48.86329,2.3881199,€€,Ménilmontant - Pelleport
+IS-ph2BFwGrYLMOYFCOUnw,TopKnot Café,9.0,4.5,48.87488,2.38607,0,Ménilmontant - Pelleport
+lTTzYtu-mkObqRANIRt5wg,Les Trois 8,31.0,4.5,48.8666847,2.3855099,€€,Ménilmontant - Pelleport
+sCbLigteBXDzIve1ZgBCfQ,L'Etoile du Liban,10.0,5.0,48.9129148,2.2726495,€€,Gare d'Asnières sur Seine
+IMnLlceZimV_OhHO6F6eLg,Saisons - Cuisine du Marché,4.0,5.0,48.90858,2.29062,0,Gare d'Asnières sur Seine
+QTzEWq8nRLLwYUJi_3Iz8Q,La Terrasse,2.0,5.0,48.914858,2.271599,€€,Gare d'Asnières sur Seine
+rl4JqMHzHx6dHbBNzSLcTg,Dominique Cussy,2.0,5.0,48.9148316,2.2829729,€€,Gare d'Asnières sur Seine
+Jyb9N5vDI7pnFwUSv2hXZQ,Boucherie Ornaise,2.0,5.0,48.9065533,2.2845686,0,Gare d'Asnières sur Seine
+hi8exBCxJra79qPEovRing,Île de la Jatte,5.0,4.0,48.8984669074759,2.27465448467856,0,Gare d'Asnières sur Seine
+KCts2Ipmfzgc_QH2Gp22zA,Melting Pot,5.0,4.0,48.905083,2.2829725,€€,Gare d'Asnières sur Seine
+3bYzNVawAvwGkF1e6O3xDw,Chez Nous,7.0,4.0,48.9138461,2.2877233,€€,Gare d'Asnières sur Seine
+fktUPloPt_3PWrzyYNq1rA,Itoya,8.0,4.0,48.90948,2.28751,€€,Gare d'Asnières sur Seine
+BbaN5LPeNF9Ejd_mVDmnaw,Village du Bengale,8.0,4.0,48.9139276,2.2836399,0,Gare d'Asnières sur Seine
+az9nK5n9cFyw0On1gn-u7g,Cas Azzurra,1.0,5.0,48.89777272598,2.29203209280968,0,Gare d'Asnières sur Seine
+C5xv5wdf8mkZXqrq4aim3g,Le 24,1.0,5.0,48.9055275,2.2825338,0,Gare d'Asnières sur Seine
+zMT2NdJn6TW1YmfkIWAfjw,Mumtaz,4.0,4.5,48.90704,2.28226,€€,Gare d'Asnières sur Seine
+MZPyGja5tPCnvcjPA2IkcA,Brossolette Pizzeria,1.0,5.0,48.9112445,2.2932973,0,Gare d'Asnières sur Seine
+mx4A-HpA5RVXlWDHJKrBIg,Bistrot d'Asnières,5.0,4.0,48.909906,2.292204,0,Gare d'Asnières sur Seine
+ZkHS5rUeb-J5K1u0WRRZFA,Square Maréchal Leclerc,1.0,5.0,48.9114362401733,2.28819127710724,0,Gare d'Asnières sur Seine
+yORtNidFFmSfFLGdyBtSgA,Brasserie du Parc,1.0,5.0,48.898329,2.2832741,0,Gare d'Asnières sur Seine
+BD_poW53hBAKxDjf40Mq1Q,Café de la Butte,23.0,5.0,48.88965590654,2.336664036781,€€€,Mairie du 18ème
+EGOI9ZJssbshHMCs5CgEEQ,Le Réciproque,6.0,5.0,48.8916210880693,2.34613191336393,0,Mairie du 18ème
+8jq9Wumj3Yri8HKPWT5Ekg,Le Bistrot de la Galette,6.0,5.0,48.88716,2.33751,€€€,Mairie du 18ème
+TU0s5H4ct3hbu1axgoxlFA,La Vache et le Cuisinier,80.0,5.0,48.8846092,2.3412001,€€€,Mairie du 18ème
+Y1HWvUYyacXV5MoyCbLCoA,Café Tabac,17.0,5.0,48.8851649,2.337411,€,Mairie du 18ème
+0v26s2eIC20M_vTnwqyHPg,La Boîte aux Lettres,51.0,5.0,48.8868300540186,2.3381794989109,€€€,Mairie du 18ème
+QUgI1WoNc8vxFI9ondu-xg,Boris Lumé,10.0,5.0,48.88901,2.33475,€,Mairie du 18ème
+NEoldzd3tUx98uOLvvnWKw,Les Délices du Sacré-Coeur,5.0,5.0,48.8877,2.34794,0,Mairie du 18ème
+IQzmfrWb2kW-RuegmPaS-w,L'Atelier Ramey,26.0,5.0,48.888275,2.34670993005943,€€€,Mairie du 18ème
+26Ts-2XRSeqiweSwLuyv6Q,Grenouilles,51.0,5.0,48.8871061857917,2.34178242552619,€,Mairie du 18ème
+C4bVk10hzVqRZYb6yy6D8A,Café Pimpin,8.0,5.0,48.89176,2.34482,€€,Mairie du 18ème
+VvOuiA43GoL0QxNmueeGMg,Le Pain Boulanger,4.0,5.0,48.8896,2.34394,€,Mairie du 18ème
+d0p3U3DSWIBJ40XZgMmC0A,Sashimi Ya,6.0,5.0,48.8198562,2.4838762,€€,Place de Verdun
+ScuxLQQOQWGB6jrP4565MA,La Crêperie - La Bolée de Tournant,12.0,4.5,48.816892,2.467781,€€,Place de Verdun
+PCOSXTuU7pLdNnas9cdD8w,The Soul Cat,4.0,5.0,48.81991,2.47532,€€,Place de Verdun
+Pd7N6yw3RaYwJifGYjuULg,Golf du Parc du Tremblay,7.0,4.0,48.8217416,2.4861189,0,Place de Verdun
+4pWhD6wJu45sBhbrI14wjA,La Fournée d'Augustine,1.0,5.0,48.8201822,2.4770593,0,Place de Verdun
+FfLcAoVwNQW3MIVo-0UWzA,New Ichiban Sushi,6.0,4.0,48.81982,2.48452,€€,Place de Verdun
+QBHF29wgC_ZNv3G8Ji1PDw,Sakura,2.0,4.5,48.815626,2.460799,0,Place de Verdun
+GoLGuHW-Lt58SeHyHk7XJg,La Fabrike,2.0,4.5,48.81993,2.47542,0,Place de Verdun
+_1hVJY8mN9A9b4IANm-qYw,Au Rendez-Vous Gourmand,8.0,4.0,48.8191,2.4760399,€€,Place de Verdun
+-N7A5RVxt4vdJBB5h8tZXw,Loulou Pizza,2.0,4.5,48.8164,2.47825,0,Place de Verdun
+x2qBVutfA9sHbuEXzXS4Og,Soleil Levant,8.0,4.0,48.81979,2.485168,€€,Place de Verdun
+8H5e26ZB6nGJOhCG5sCJjg,Parc du Tremblay,5.0,3.5,48.8282819,2.4814043,0,Place de Verdun
+6IXORSpn4mB1BG7Fz6jf6Q,Le Palais d'Or,5.0,3.5,48.817723,2.466705,0,Place de Verdun
+Sj9cEeQ8ATTL32TXQLU_mQ,Le Casino,2.0,4.0,48.82005,2.47703,0,Place de Verdun
+F5F7r7sCoeTTe_e-7MVg8Q,Central Parc,2.0,4.0,48.81233,2.4729199,0,Place de Verdun
+M7ecmUmx3iBZUSbbhlRQfA,Vila Real,1.0,4.0,48.81537,2.46088,0,Place de Verdun
+eMHWnb6ig6pIki4nzzFcJQ,Gourmandine La,1.0,4.0,48.81809,2.46629,€€,Place de Verdun
+xw_96NkJD4iR3dpWak_0vw,A Mesa Marie,1.0,4.0,48.820636,2.485461,0,Place de Verdun
+roqxukjgXwiIxAl5K10FaQ,Le Mocca,1.0,4.0,48.8198799,2.4779951,0,Place de Verdun
+UjxlYEPpNSHZsgkXTZXAfA,Jeongané,6.0,5.0,48.83189,2.30421,0,Jean Bleuzen - Square du 11 Novembre
+v0c2wjLoKWYXDHrHTkRcSw,Le Coin d'Alexandre,8.0,5.0,48.832253,2.293413,€€€,Jean Bleuzen - Square du 11 Novembre
+dGhFkkR-2ZiFXfsCJNG5OQ,Happy Break,4.0,5.0,48.83011,2.28425,€€,Jean Bleuzen - Square du 11 Novembre
+y6W23vFLTQV4c1EmB23S-Q,Bistro D'indochine,8.0,4.5,48.8307953,2.2965558,€€,Jean Bleuzen - Square du 11 Novembre
+YjTOgR8ZRYRRH5qjCxUCpQ,Le Caroubier,27.0,4.5,48.83032,2.29575,€€€,Jean Bleuzen - Square du 11 Novembre
+NerAPXI1rxR9fVo-1erqrQ,Pavillon de la Tourelle,6.0,4.5,48.817668,2.283245,0,Jean Bleuzen - Square du 11 Novembre
+MBX813phW8g6HiBV6ppp5Q,Spiga d'Oro 2,4.0,4.5,48.8237356,2.2969728,€€,Jean Bleuzen - Square du 11 Novembre
+DVjPgHN9D9RS4VK6Dd5pBA,Le Libanais,4.0,4.5,48.81662,2.30654,0,Jean Bleuzen - Square du 11 Novembre
+BrSrY6eEJskuIwLlLixVFw,Galatasaray,2.0,5.0,48.81719515,2.30720133,0,Jean Bleuzen - Square du 11 Novembre
+W4sqORTDgu-aI5fSCtomzA,Sushiken by Saito,12.0,4.5,48.82956,2.28355,€€,Jean Bleuzen - Square du 11 Novembre
+3JaVV8jxGSRYnlEvWgE79Q,dolce vita,5.0,4.0,48.8296972,2.2836067,€€,Jean Bleuzen - Square du 11 Novembre
+So1GPsivL_qBJSc19fDGBw,Sand-jess,6.0,4.0,48.8200098,2.3084526,€€,Jean Bleuzen - Square du 11 Novembre
+iuOr3pz0tkhSdDtGpjZbmw,Hongfulin,3.0,4.5,48.8172444,2.307529,0,Jean Bleuzen - Square du 11 Novembre
+2BUo8nsZIVa_ZwOLtRCJmQ,Piano Fou,3.0,4.5,48.82423,2.303989,€,Jean Bleuzen - Square du 11 Novembre
+CIe-2UTmOxEvtwD_E4nqIA,Epicerie de la Chistera,8.0,4.0,48.8192,2.2984303,€€,Jean Bleuzen - Square du 11 Novembre
+ys7kiT43uNTUtgOjoCQi1w,L'envie des Mets,6.0,4.0,48.8232156,2.2927539,0,Jean Bleuzen - Square du 11 Novembre
+q5Y-dXa8ywMOABG3WflwAA,Restaurant-Snack Traiteur Murex,1.0,5.0,48.82220264,2.30354624,€€,Jean Bleuzen - Square du 11 Novembre
+RY6uTCW5NwN8AnfeYkjfMA,Bar 61,6.0,4.5,48.8905699,2.38204,€,Porte d'Aubervilliers
+9Aywsi0QelbDGAaoPmYd-Q,Boulangerie Pauline,5.0,4.5,48.890831,2.3782899,€€,Porte d'Aubervilliers
+vaUsqopocotQ6Xnke2lw8A,Kaffee Bar 19,13.0,4.5,48.8906403445757,2.38230418413877,€€,Porte d'Aubervilliers
+S7VwCEVLPaYIZtZ2AaL_Ww,Robert  boulangerie,2.0,5.0,48.8942358,2.3817264,0,Porte d'Aubervilliers
+8iBRqGjOu4CnUKvelRu1JA,Palais de Wenzhou,2.0,5.0,48.89079,2.37818,€,Porte d'Aubervilliers
+jQnwCvK4vsXS8WCmLBrIkA,24 Zones,2.0,5.0,48.8929556090036,2.3803273960948,0,Porte d'Aubervilliers
+hyKPTol3RKQm8S4IHtBsRQ,Le Saint-Fiacre,5.0,4.0,48.90684,2.35797,€€,Porte d'Aubervilliers
+mTtqXRXp4_MJegIHYOoPYg,Kim-Phuc,9.0,4.0,48.8902611,2.377369,€,Porte d'Aubervilliers
+8G0v1xjC0kcURL749x__tA,En Vrac,19.0,4.0,48.8901533035745,2.36136333374601,€€,Porte d'Aubervilliers
+-mi7_8IfHDJSjK3KuSLuog,Au Roi du Café,35.0,4.0,48.89024,2.360385,€€,Porte d'Aubervilliers
+fX_RsiTpbwpVKjQJVo8K3g,Aux Trois Arbres,1.0,5.0,48.89416,2.3816799,0,Porte d'Aubervilliers
+erZ7YtY4Z62_PNpUqh0fhg,Sna'x Time,1.0,5.0,48.8925018,2.3611701,0,Porte d'Aubervilliers
+WVeyJKUkYPTzm6FIDtKMpw,Au Goût Dujour,9.0,4.5,48.8475279,2.285597,€€€,Maison de Radio - France
+Ksx0RVZtYuh9hd1Lt42XfA,Hanzan,6.0,4.5,48.84767,2.28564,€€,Maison de Radio - France
+qAQTZdpVkMuGspaf4l2BBw,Leymoun,6.0,4.5,48.84466,2.28379,€€,Maison de Radio - France
+bbi97rCa7UL4jOZ2eNZVwA,O Coffeeshop,77.0,4.5,48.84911,2.291145,€€,Maison de Radio - France
+pt3g9D5gkWTwanBscCLToQ,L'Epopée,8.0,4.5,48.846744436209,2.2879467620389,€€€,Maison de Radio - France
+IucBQxcOXGZd4OezcpdKeQ,Kohyang,33.0,4.5,48.84406,2.28427,€€,Maison de Radio - France
+7hePVRXOyDD2wkpfQmOxrQ,Miam Miam,11.0,4.5,48.89555857,2.29561552,€€,Président Wilson - Jean Jaures
+IUjXmKo-WnKZl8l-WVYrfA,Paris XVII,19.0,4.5,48.882268835579,2.2882651718518,€€€,Président Wilson - Jean Jaures
+SCIn9w_ezUXWffZtK1D-kA,La Samb,4.0,5.0,48.89636,2.29737,0,Président Wilson - Jean Jaures
+YggkCJq5nprLW9Ud91gJbA,Teppanyaki Ginza Onodera,7.0,5.0,48.8530352594942,2.33398758830003,€€€€,Musée d'Orsay
+oFdyQjpA87-Y1BlFJi81Pg,Tamara,5.0,5.0,48.86429,2.33605,0,Musée d'Orsay
+-XdeJunKGvFEyjTAm4Wjtg,Les Pinces,5.0,5.0,48.8540599,2.33831,0,Musée d'Orsay
+O-X0r1kxlDzKimc-HyicSw,Arbane,14.0,5.0,48.85564,2.33835,€€,Musée d'Orsay
+yNjWRVdbVvzGkQNhvpuMvg,Seulement Sea,13.0,5.0,48.8516186,2.336174,0,Musée d'Orsay
+CQi4W2vY8KSiG6n24eaScA,Mystery Cuisine,13.0,5.0,48.86572,2.33728,€€€€,Musée d'Orsay
+W2DRU4CmZwGy6I5C1Jwe1g,Sushi B,6.0,5.0,48.8677572025742,2.33746652516746,€€€€,Musée d'Orsay
+Yq1084dh0THvZYQRJkR1kg,Restaurant du Palais Royal,11.0,5.0,48.865580245548,2.33890172838062,€€€€,Musée d'Orsay
+InFc2tIyO3RkfJdqu5H6EA,Ritz Bar,11.0,5.0,48.868108,2.328869,€€€€,Musée d'Orsay
+jvaKUEzscmxTmVSbSR7Maw,L'Espadon,5.0,5.0,48.868108,2.328869,0,Musée d'Orsay
+I3Hmkr69O3TEfqh_BZ7KBQ,Tennessee Paris,5.0,5.0,48.8537899,2.3390399,€€€,Musée d'Orsay
+lTGYl3EcDKgXUhKpd7qQsw,Le Pré,10.0,5.0,48.85301,2.33514,0,Musée d'Orsay
+9hDfehxkmfQYaE9nvVKjCw,RICHART,13.0,5.0,48.8551483,2.33393,€€€,Musée d'Orsay
+wAFzjPSm_GfmcPqyUJxmxw,Le Petit Jacques,9.0,5.0,48.8438628569738,2.34169956296682,0,Sabot - Rennes
+GNJSCW8x0N0R_s7BJug8cg,Saigon d'Anton,5.0,5.0,48.8496499,2.34005,0,Sabot - Rennes
+R38fKm8cPHPBCovE9ThGVA,Sequana,7.0,5.0,48.85675,2.34154,€€€€,Sabot - Rennes
+ilCyT646klObzfxseJ0z1A,Nadia,9.0,5.0,48.8512795,2.3440643,€,Sabot - Rennes
+r2kbxjWiU8BV7Vxn-p53Qg,Boulangerie Moderne,11.0,5.0,48.84551,2.34422,0,Sabot - Rennes
+N_um0udzr5HLGN_KMCHyDQ,Wine O'Clock,5.0,5.0,48.85398,2.34352,0,Sabot - Rennes
+Pn0BTmp4ZxJLS4FHLYHY2g,La Boulangerie d'Assas,5.0,5.0,48.84554,2.33178,€,Sabot - Rennes
+5TvpB7UPDFdUv_MqQfEsEg,Little Big Bear,10.0,5.0,48.84957,2.34021,€,Sabot - Rennes
+iPkTOYajrg6e7-ldGgyJQA,Cap,4.0,5.0,48.8878098,2.30597,€€€,Alfred Roll - Berthier
+JhmhAbjtOhjWqMjUj9IwYg,Les Messugues,13.0,4.5,48.880122248126,2.30326132650721,€€€,Alfred Roll - Berthier
+IGne41QpDs1YnCDhw44GIw,Musée Nissim de Camondo,20.0,4.5,48.87885,2.31286,0,Alfred Roll - Berthier
+z5Uyisyd9qU7sFGRNyowwA,Shiki,27.0,4.5,48.837524,2.24815,€€€,Billancourt - Général Leclerc 
+auVjpJst3io9eb6s8pt2Ag,La Table de Cybèle,7.0,4.5,48.8278755,2.2421091,€€€,Billancourt - Général Leclerc 
+PKpDGvhD_7hJWoUwdOXUyg,Le Ténéré,7.0,4.5,48.83266,2.24923,€€,Billancourt - Général Leclerc 
+CzIpCPKyjA4-RAxNtApr6Q,Patrizia,3.0,5.0,48.8396745305946,2.24140103906393,0,Billancourt - Général Leclerc 
+oaQqFlZMArCHyDUSzFFhmw,La Marmite,4.0,5.0,48.8358834,2.2501314,€€€,Billancourt - Général Leclerc 
+9YGHVIExM7h2My84CTKpQQ,71 Pm,3.0,5.0,48.84011,2.23738,€€€,Billancourt - Général Leclerc 
+LsgVnQCkOxNN3XOvdCAwEw,Home Sweet Home,14.0,4.5,48.8315168,2.2401865,€€,Billancourt - Général Leclerc 
+zV4s5IayJhiCe5jqYbTM_Q,Gusto Divino,5.0,4.5,48.83631,2.23798,€€,Billancourt - Général Leclerc 
+bLU03O9C-t3eX9GGN-0Tow,Plantxa,8.0,4.5,48.83752,2.24709,€€€,Billancourt - Général Leclerc 
+Db6fIHCJLiX-RCu0v0_egQ,A Tavola,19.0,4.5,48.84002,2.23729,€€€,Billancourt - Général Leclerc 
+P2-YSPFnPLppUTDCzushTg,Dolce Vita,9.0,4.5,48.837268,2.245522,€€,Billancourt - Général Leclerc 
+9OyPyTmY8WNV-gAIOZDEIg,Le Plaisir des Mets,9.0,4.5,48.8355834,2.2505925,0,Billancourt - Général Leclerc 
+njeu2OAqtqO8jQhfJslm8Q,Musée des Années 30,12.0,4.5,48.83591,2.23929,0,Billancourt - Général Leclerc 
+DPSqlOxK1w4U8suA5ux05w,Vitalis,6.0,4.5,48.8365326283892,2.23663874294807,€,Billancourt - Général Leclerc 
+TXx3oYZKg5t8w3aIFZ0Edw,Chez Madeleine,21.0,4.5,48.8399901,2.2453856,€€,Billancourt - Général Leclerc 
+6FUSAQ03zzwyMrUO18VuYg,Jacob,4.0,4.5,48.8354366,2.2315813,€€,Billancourt - Général Leclerc 
+gNxtFBjrCZw5t5Kab7dQew,J.S.K Jeunesse Sportive Kabilie,2.0,5.0,48.84093,2.2313299,€€,Billancourt - Général Leclerc 
+RBjFi0vfHsE877rRTiWR4A,Colchide,8.0,4.0,48.8926232,2.3520804,€€,Ney - Charles Hermite
+YtBPi1OJPjoH7P8DGCpquA,Grill Istanbul,1.0,5.0,48.89073,2.37626,0,Ney - Charles Hermite
+GJfk1ZLQeJIz28gFK6xd7g,Le Mandarin du Marché,6.0,4.0,48.8912,2.36116,€,Ney - Charles Hermite
+AQzioCKDA8PNvIXaQO1d_w,Restaurant Adana,1.0,5.0,48.8913116,2.37621,€,Ney - Charles Hermite
+Cd17mEsdnG0DY6U-86Dn2Q,Chez Lurdes,1.0,5.0,48.8906593,2.3612599,€,Ney - Charles Hermite
+vh4E5bxOf8PO7VxkA2p2Qw,O Cantinho Do Churrasco,2.0,5.0,48.8154121,2.504876,0,Hôtel de Ville de Champigny sur Marne
+7M5e943gtENh4Esi8RFeQw,casamama,3.0,4.5,48.80742776,2.50771908,€€,Hôtel de Ville de Champigny sur Marne
+fp2Og-_qLvM2M3VMsF8W0A,La Table des Marronniers,3.0,4.5,48.8049327007514,2.49809624852938,€€,Hôtel de Ville de Champigny sur Marne
+hhlZ_dt8_-xcKIqmkduObA,786,1.0,5.0,48.81513,2.50571,€€,Hôtel de Ville de Champigny sur Marne
+hhzNClGhNfe0CzMO1EkD_A,Le Dynastie,1.0,5.0,48.80592,2.51077,€€,Hôtel de Ville de Champigny sur Marne
+KD4VqtDcCWpGYXXfSgqCuA,Villa Celeste,2.0,4.5,48.8072074,2.5085245,0,Hôtel de Ville de Champigny sur Marne
+TtCUyN4XlMMIxB-I9jdTsA,Ole Bodega,5.0,3.5,48.8133877,2.5073434,0,Hôtel de Ville de Champigny sur Marne
+gicRmLwmTEp5KGP8tciaIQ,Aux 4 sergents,3.0,4.0,48.8116598,2.5105111,€€,Hôtel de Ville de Champigny sur Marne
+5c-x4hnMwHgSnxVc4UKrTg,Bario Mio,2.0,4.0,48.82073269,2.51097835,0,Hôtel de Ville de Champigny sur Marne
+YM_dZyeoLGJz1pp4gNVH-g,Restaurant Salvamori,1.0,4.0,48.8142,2.51156,0,Hôtel de Ville de Champigny sur Marne
+2YuhvvNiiJAcJqA1nASplg,Royal Prince,3.0,3.5,48.81504,2.5064,€€,Hôtel de Ville de Champigny sur Marne
+ezjYZW7VynguC4LLbw-ROw,La Guinguette de l'île du Martin Pêcheur,15.0,2.5,48.8111,2.50386,€€€,Hôtel de Ville de Champigny sur Marne
+BSD7DZUlz7-y0Wu1L0iGog,Kichi Suchi,2.0,3.0,48.8149052,2.5073014,0,Hôtel de Ville de Champigny sur Marne
+7eEMVnnRnNCS36um5rlm1A,Chez Marcellino,2.0,3.0,48.8145775,2.5076629,€,Hôtel de Ville de Champigny sur Marne
+gRynnAXo8oWcGI4j53NOjw,Rapido Pizza,3.0,2.5,48.82195,2.51059,0,Hôtel de Ville de Champigny sur Marne
+EZrBxoh-0-7_daecNKBVvA,Pizza Hut,1.0,3.0,48.81303,2.51304,€€,Hôtel de Ville de Champigny sur Marne
+xAx-SmdovJ1jLLPeP-sz7w,Guinguette du Moulin Vert,2.0,2.5,48.807699,2.520112,0,Hôtel de Ville de Champigny sur Marne
+GcXYnzn-J6N6lKYt1rmdhg,L'île de l'abreuvoir,1.0,1.0,48.8108309,2.5106343,€€,Hôtel de Ville de Champigny sur Marne
+xiVrVHZnXIQ1QsYB5ZckXQ,Le Bricheton,6.0,5.0,48.854904,2.402055,€€,Saint-Blaise - Mouraud
+f9XCOqtE3qrvURUXIQbLzQ,Marche ou Crêpe,14.0,5.0,48.85262,2.40042,€,Saint-Blaise - Mouraud
+-FG1vfWFxkhYnNiKEwqPLg,Peppe,9.0,5.0,48.860092,2.404201,0,Saint-Blaise - Mouraud
+eGqQ_9kksER3P4qT9p26nw,Lou Tiap,8.0,5.0,48.8584351866272,2.40054457761232,€€,Saint-Blaise - Mouraud
+iwbkYfgaQZDK8PqQxwkS7g,Chouette,4.0,5.0,48.85423,2.4055,€€,Saint-Blaise - Mouraud
+EqruLhO8XGIIUXRXoOza2A,À Table,5.0,4.5,48.8569125958272,2.40007879999998,€€,Saint-Blaise - Mouraud
+qC_AJP7ww7Vbug3bwDVvTg,Café Lumière,3.0,5.0,48.8596306,2.40503,0,Saint-Blaise - Mouraud
+1djxsLyRrmz2Ci0A_oYmDQ,Birdy's,4.0,5.0,48.85179,2.3993,0,Saint-Blaise - Mouraud
+Ei_yYfm22NkhI8EM-nnAqw,jiliya,6.0,4.5,48.848394,2.39591,0,Saint-Blaise - Mouraud
+NyDVfQD_JJ9JOrZ6blTHNA,Le Casque d'Or,9.0,4.5,48.8596091,2.4050794,€,Saint-Blaise - Mouraud
+zpvfY-aVrqIt6-W7up_I5Q,Chez Rita,19.0,4.5,48.856369,2.40417,€,Saint-Blaise - Mouraud
+NYvkVO0cExmTnWGKw9DD1Q,Sadarnac,2.0,5.0,48.85983,2.405125,0,Saint-Blaise - Mouraud
+75o5GGijnKTb2DfmTZEg2w,Boulangerie le 57,2.0,5.0,48.852447,2.4027077,0,Saint-Blaise - Mouraud
+9v5wjdsZ3Y9fIzCbNHZaow,Grounded,5.0,5.0,48.8545089,2.384102,0,Keller - La Roquette
+07-tDuYdWTosbTugLwTUDw,Chez Troquette,12.0,5.0,48.85866,2.38339,€€,Keller - La Roquette
+DH956iI91y45OpnCNb5_sg,Fringe,12.0,5.0,48.86272,2.36476,€€,Keller - La Roquette
+vsEQ4vAzTw5PB8QPSwDWKQ,Coupi Bar,8.0,5.0,48.8210033285843,2.37003795581943,€,Nationale - Marcel Duchamp
+zSZ5-zMnusVLLEPOaJasSQ,Au Petit Village,12.0,5.0,48.8332625215691,2.35616696743751,0,Nationale - Marcel Duchamp
+U3BHZJh7OTGzyzAnuRhsJg,L'Hommage,6.0,5.0,48.8223687343234,2.36309621483088,€€,Nationale - Marcel Duchamp
+szmR_ZXSV85gWSDH38g4QA,Season Square,9.0,5.0,48.8329246392392,2.37078730774658,€,Nationale - Marcel Duchamp
+4wu4yzuq8KumELj2qeNyHw,Librairie Nicole Maruani,4.0,5.0,48.831989,2.3603463,0,Nationale - Marcel Duchamp
+KESpMmUvRyFJmsw9AN4-GQ,Fournil de Tolbiac,6.0,4.5,48.8271,2.36827,€€,Nationale - Marcel Duchamp
+TdACvPkXg0xjOvK8eYjnRQ,Tempero,36.0,4.5,48.8331763147724,2.3693971364491,€€,Nationale - Marcel Duchamp
+HXV1dy85FXHlT5An8eI4fA,Norouz,11.0,4.5,48.8266106,2.3745699,€€,Nationale - Marcel Duchamp
+g7ceVj6dLb1NGIXb4JG40g,Khai Tri,26.0,4.5,48.82491,2.36226,€,Nationale - Marcel Duchamp
+syfRIl99mik41_x2Zijenw,Chatime,5.0,4.5,48.8266869699445,2.35978703945875,€,Nationale - Marcel Duchamp
+PkBfwjMHkfmmq_d4T_LL0w,Siam@Siam,12.0,4.5,48.8235736080354,2.36591744719908,€€,Nationale - Marcel Duchamp
+EXbBGRYUu2X1xaA83WnN4Q,Père Fecto,7.0,4.5,48.82798,2.369,€,Nationale - Marcel Duchamp
+i67eoaIRG-dE3eXw6iCQDQ,Chez Trassoudaine,18.0,4.5,48.828698,2.365149,€€€,Nationale - Marcel Duchamp
+_krfAiFpbX_n7t5XbcHOiQ,Delfino,9.0,4.5,48.833653,2.360921,€€,Nationale - Marcel Duchamp
+f0x-9Da_QHfxjahGK_Wlcg,Pho Bom,30.0,4.5,48.8234519151299,2.3618221655488,€€,Nationale - Marcel Duchamp
+ODpAE-4WQAZV166-3H9TfA,Banh Mi 13,4.0,5.0,48.8248669,2.3640098,0,Nationale - Marcel Duchamp
+7C3QnbURsiDxiJcwcAjoCA,Lak Thaï,4.0,5.0,48.8240125905177,2.36486010253429,€,Nationale - Marcel Duchamp
+e18Z9RhKyC8459HxB3WEZg,Hang Meas,8.0,4.5,48.82216,2.36075,€€,Nationale - Marcel Duchamp
+sVZsCd4nD5F3X7wyr0XciQ,Chào Bà,3.0,5.0,48.83328,2.35512,0,Nationale - Marcel Duchamp
+caDP1P0M1ZpzHu-ZmvZrmQ,May Hong,8.0,4.5,48.8233346,2.3657144,€,Nationale - Marcel Duchamp
+fLCDWAxE93c-RNbSE9VxuQ,Postiche,6.0,5.0,48.8640888,2.3437342,€€,Jeûneurs - Mulhouse
+7x9uyVWKkba8SrlbLXj4fg,Sfizio,7.0,5.0,48.86571,2.3458,€€,Jeûneurs - Mulhouse
+Yhv2RTggtsKmd5otco_XTw,Tradi,13.0,5.0,48.86635,2.34158,€€€,Jeûneurs - Mulhouse
+BBu9k7jIvfL9T5AvQCQhXA,Yogis Bar,5.0,5.0,48.8569937618001,2.30139065533876,€,Place du Canada
+Ww6EF_hHV3PbpSznu_l29A,Vietnam Food,10.0,5.0,48.8570652334938,2.30119083076715,0,Place du Canada
+LJ2uNOaRKTqSdhUJ9icqQA,Le Boissy d'Anglas,10.0,5.0,48.870102,2.32229,€€€,Place du Canada
+AEDz6Pr6ZyG6cYhMH6jZDw,foret de meudon,4.0,5.0,48.81208,2.23778,0,Place Tony de Graaff
+mbY3jqvEjAnL7YVhq4ahVw,Issy Guinguette,20.0,4.5,48.8188179103984,2.25521208524447,€€€,Place Tony de Graaff
+lDieyMQVf1FNnyU1J6bwoA,Oisushi,3.0,4.5,48.816426,2.2474058,€€,Place Tony de Graaff
+6mH5KUUNKp4Fo7lL4Gctyg,La Machine à Coudes,9.0,4.0,48.82495,2.24399,€€€€,Place Tony de Graaff
+RCo4I9nHLlEdgokpvSOQfw,Thon,10.0,4.0,48.817618,2.249047,€€,Place Tony de Graaff
+TTnLoeIYu708Oo0UVijrFA,Parc de l'Île Saint Germain,10.0,4.0,48.8265163433991,2.25747167730373,0,Place Tony de Graaff
+ezUIVnrT3wSnGFCRoy82Ew,O Cantinho do Brasil,1.0,5.0,48.81211,2.24731,0,Place Tony de Graaff
+a9R0CjLQmmsXqVALhgdGYg,Bellota-Bellota Boulogne,1.0,5.0,48.82607,2.24513,€€€,Place Tony de Graaff
+UATGH4PEKIIWK9aUFI2mRg,Pizza Mach,1.0,5.0,48.8158269,2.2555188,0,Place Tony de Graaff
+6b7pQZf1XEkAKKybdpnsAQ,Vap n'Co,1.0,5.0,48.823756,2.244208,0,Place Tony de Graaff
+CQ2XFmtiqDDcILfYrnFbFA,Monsieur Moulinot,1.0,5.0,48.823505,2.249589,0,Place Tony de Graaff
+sCNxpbc8VgNkOrz3W1SR6g,La Giostra,1.0,5.0,48.82582,2.23368,0,Place Tony de Graaff
+ws4hcEEWoIRAvjphNX0T5g,Quai de Meudon,1.0,5.0,48.819229,2.239322,0,Place Tony de Graaff
+038bfbFzigqwaogOZnUXpw,Chemin des vignes,5.0,4.0,48.8191296,2.2550646,€€€,Place Tony de Graaff
+lxMaDs0myifY70JDVzkU8A,Maison Rouge,4.0,4.5,48.809755876496,2.237256141993,€€€,Place Tony de Graaff
+-A6JxXK7PZeKBQBP9sf-hQ,Musée Rodin de Meudon - Dernière maison de l'artiste,3.0,4.5,48.813733,2.252494,0,Place Tony de Graaff
+zDsMJuTU164Iym8MkYcQ4A,Le palais lotus,11.0,4.0,48.8188588,2.2495591,€€,Place Tony de Graaff
+slVSQoTHiQ50JC1miGVZww,Brasserie du Moulin,2.0,4.5,48.8209938,2.2499268,0,Place Tony de Graaff
+JH6u-RCEUSdU7nY0n-OpWw,Makido,5.0,4.5,48.887817,2.389888,€,Melun - Jean Jaurès
+8IuYchlBlwpwiKcfec86Zg,Latinogourmand,14.0,4.5,48.88218,2.36755,€€,Melun - Jean Jaurès
+sjNVj6_-rEZUM4X0u4lORA,Chez Les 4 Frères Bedri,4.0,5.0,48.88146,2.36449,€€,Melun - Jean Jaurès
+W7HlQtKj_kp2SHyqxuYDPg,Les Bancs Publics,22.0,4.5,48.8908797,2.38388,€€,Melun - Jean Jaurès
+0jMks4praEDC2ES_UfZq0A,Kinoko Sushi,8.0,5.0,48.8359,2.3846,€€,Terroirs de France - Lheureux
+IXNMwTIPNM25EtPAWq7zhQ,Ernest et Valentin,5.0,4.5,48.8380514,2.3904362,€€,Terroirs de France - Lheureux
+kB4PbNnoAvtdgTJ8ofTriQ,Bar & Beer Bercy,9.0,4.5,48.839431,2.38783,€,Terroirs de France - Lheureux
+SfeBa1C_dfdBNcn6DYCOOw,Musée des Arts Forains - Les Pavillons de Bercy,40.0,4.5,48.83243508,2.3890405,0,Terroirs de France - Lheureux
+r0CLZWVRSFnvoeQ5m02lNA,Chez Hashana,3.0,5.0,48.8359794,2.39938,€,Terroirs de France - Lheureux
+IYQ67uTSfYod9AWyJYalaw,Boulanger Patissier,3.0,5.0,48.84006,2.39042,0,Terroirs de France - Lheureux
+Khrhk-1WCz-Hm49Tzf8DRQ,Le Mai Vietnam,4.0,5.0,48.8362739,2.4001765,€€,Terroirs de France - Lheureux
+WfiyBqyhbx0TncJPQ2fGMA,L'Escale de Marrakech,14.0,4.5,48.83491,2.40108,€€,Terroirs de France - Lheureux
+mkQAUzML0iwGo0Rqb2J-5Q,Naan Stop,6.0,4.5,48.837429,2.3908899,€,Terroirs de France - Lheureux
+ooofj6nC2GnTXUNfvFSRng,Le Venezia,20.0,4.5,48.8388725,2.3816411,€€,Terroirs de France - Lheureux
+kHF71poyiYiTCDeW7bbCfQ,Le Touareg,11.0,4.5,48.8397217,2.3885688,€€,Terroirs de France - Lheureux
+mywDIwqDHPtQFSmcqJRDkg,Les Caves de Reuilly,11.0,4.5,48.839364,2.39073,€€,Terroirs de France - Lheureux
+K8IMCafzgJv9dMrtw7vzSg,Promenade Plantée,52.0,4.5,48.841136656188,2.39657923579216,0,Terroirs de France - Lheureux
+tkqlzQfs2jS4rNQfHmcaGA,Larry's,4.0,4.5,48.8316689,2.3759999,€,Terroirs de France - Lheureux
+tPxAVjISE8D92Y33AHgSEQ,Le Cidre d'Or,2.0,5.0,48.83637,2.39208,0,Terroirs de France - Lheureux
+58F0cZMvOKPXtfhs2CW0dA,Les Zygomates,28.0,4.5,48.835876,2.398352,€€€,Terroirs de France - Lheureux
+THwd-G0VNS0ljXF0tOUmcw,Dans la Cuisine,2.0,5.0,48.8267954373933,2.3804900759061,0,Terroirs de France - Lheureux
+RcaTOZd3NdmI1NPMa8E9oQ,Il Goto,10.0,4.0,48.840868,2.387272,€€€,Terroirs de France - Lheureux
+SPXompl2Mr_Fk02Z3rdEIw,Café Chabalier,5.0,4.0,48.83773,2.38262,€€,Terroirs de France - Lheureux
+OSaGev9gC4Hrj6kBjhSj3A,Parc de Bercy,42.0,4.0,48.83712,2.380555,0,Terroirs de France - Lheureux
+BuJnfWI86tTxFUon071EKg,Brasserie Bellanger,17.0,5.0,48.880937,2.3499401,0,Léon - Doudeauville
+dh4sHu0knIDnsWCFl1oB2Q,La Binouze,6.0,5.0,48.881581280342,2.34652452170849,0,Léon - Doudeauville
+JWo-u2OBnEJEz0CFAZ9IdA,Les Miscellanées de M Jash,5.0,5.0,48.8801637722566,2.35136020928621,€€,Léon - Doudeauville
+emAz71y-NLkcBTYk23KUBg,Babka Zana,5.0,5.0,48.880263,2.341296,0,Léon - Doudeauville
+Rk5X3MusWoANrhd2o6VhFQ,Boulangerie Mamiche,16.0,5.0,48.88013,2.34351,€€,Léon - Doudeauville
+thXvzZMxyAZ8pjC0uU_2iw,Il Cara Rosso,3.0,5.0,48.8534045478525,2.21577576322593,€€€,Senard - Charles Blum
+7mOKARUxAqiJRLBVBpLHDg,Les Petits Princes,4.0,4.5,48.859910836131,2.2191742950218,0,Senard - Charles Blum
+rBJk2BKuxxjmA2SllKlk1A,Parc Edmond de Rothschild,6.0,4.0,48.85048,2.230287,0,Senard - Charles Blum
+OXwTJ0Y9e7pmYZQEhhHlYA,L'Auberge de la Passerelle,9.0,4.0,48.8513877,2.221343,€€€,Senard - Charles Blum
+wJaoYMqYnHHnY0g4higXpg,Le Terminus,1.0,5.0,48.8511893,2.2340093,€€,Senard - Charles Blum
+hAJbhr6RgfBjJIdIkf4Fdw,Royal Sushi,1.0,5.0,48.8620415,2.2119,€,Senard - Charles Blum
+wlcdbqZ_T3V9744tFGoGQw,Parc du Château,1.0,5.0,48.8648390141463,2.22547931980068,0,Senard - Charles Blum
+th9nngbceUAR-ZWAvj5cGg,Win Sushi,1.0,5.0,48.85992,2.22131,€€,Senard - Charles Blum
+tp9Ag_OmBmgDz_pQ2jCdHQ,Bistrot des Toqués,3.0,4.5,48.8622,2.22331,€€,Senard - Charles Blum
+gCQ0Nfcx4qMktjHOuzx9vA,L'Atelier des Pains,2.0,4.5,48.8630443895832,2.2107697278061,€,Senard - Charles Blum
+5PgWxjrp9SXUpdRL8Rp5GA,Mama Sista,2.0,4.5,48.8523909820304,2.22104814232785,€€,Senard - Charles Blum
+48EpF_Bu0EbyHfrEq0vt9Q,Il Giardino Segreto,2.0,4.0,48.8627397,2.2170964,€€,Senard - Charles Blum
+6EkcAYeTdjwPaRWEYKrrqw,Quai Ouest,108.0,3.0,48.852028,2.223356,€€€,Senard - Charles Blum
+bgSZXrRY2lacML7vOtDGbQ,O' Sole Mio,6.0,3.0,48.8637094346141,2.2120209325409,€€,Senard - Charles Blum
+pe3z8BK513e5vYryblQj1A,Le Galion,14.0,3.0,48.8635836,2.2299742,€€,Senard - Charles Blum
+pzDwgs6_DkH_c3L0fqPG3g,L'Océan Bleu,1.0,4.0,48.85682,2.22076,0,Senard - Charles Blum
+ykcQdDZlmXD2KP_hJdsocQ,Bishoku,1.0,4.0,48.8628,2.22359,0,Senard - Charles Blum
+tR6u-AFTMt1eark-oQdX8A,Vog en Scène,7.0,2.5,48.860776,2.22456,€€€,Senard - Charles Blum
+TwrMmC0zNingGLsOHrZSrQ,Aqua Caffe,3.0,3.0,48.8606498,2.2247804,0,Senard - Charles Blum
+Y04HnbUUomFf0xBgL_CqUg,Longchamps,1.0,3.0,48.8611298,2.22997,0,Senard - Charles Blum
+83urH8LEVqpchRJ70WiA8g,LeGendre Idéal,7.0,5.0,48.88726,2.31952,€€€,Guy Môquet - Saint-Ouen
+02NKfAZFUknkF3LVyjnf6A,Y-Izakaya,19.0,5.0,48.88533,2.3255,€€,Guy Môquet - Saint-Ouen
+FZRiGsg9wtN5vwX7fjVfbg,Banh Mila,6.0,5.0,48.8846561444231,2.32464795088622,0,Guy Môquet - Saint-Ouen
+JxjqDDJ5N45irzLzcR4onQ,BREIZH Café Batignolles | La Crêpe Autrement,6.0,5.0,48.884954,2.320728,0,Guy Môquet - Saint-Ouen
+OjJroSzpjwPXOe3MMZzFWg,Mova,5.0,5.0,48.884107,2.3233201,0,Guy Môquet - Saint-Ouen
+7FaBNTyfqIKUn-YJYc_YbQ,Zozan,5.0,5.0,48.892304,2.330759,€€,Guy Môquet - Saint-Ouen
+C-8tAGTvdAdPE136QohE3w,Cucuzza,9.0,5.0,48.8879089,2.31861,€€€,Guy Môquet - Saint-Ouen
+7hhKRXcRbYKZhpMXuUMtBg,Soprano,9.0,5.0,48.88959,2.32611,€,Guy Môquet - Saint-Ouen
+q04i5-4c7rmEOiwDjYgjtg,Terres de Café,13.0,5.0,48.885,2.32077,€€,Guy Môquet - Saint-Ouen
+GLAx7XKmlNCIvBeSrpDTfA,Petit Boutary,4.0,5.0,48.8878,2.32246,0,Guy Môquet - Saint-Ouen
+RgDXkphYsvJdCWkuEVfRiw,P'tit Père,6.0,5.0,48.8847325946084,2.40364447409583,€€,Alexander Fleming - Belvédère
+qOUyZtnAH1nWvIy0JtUUDA,Délicieux Montmartre,4.0,5.0,48.8907394,2.40154,0,Alexander Fleming - Belvédère
+fjHwanCdDvp5iPMwO7o_DA,Café Parisien,5.0,4.5,48.88202,2.39255,0,Alexander Fleming - Belvédère
+CJ4OEbcv9GNRxp6-xjAEZA,Chez Arnaud,9.0,4.5,48.8874759985102,2.39266354590654,€€,Alexander Fleming - Belvédère
+MQCIWOTdeWyDxRgLBc99OA,Philharmonie de Paris,23.0,4.5,48.8893059,2.3938069,€€,Alexander Fleming - Belvédère
+_ZTNYu1jg4nJkD2GQS3N9g,Les Cascades,4.0,4.5,48.8727808,2.3898283,0,Alexander Fleming - Belvédère
+CiVuxmFNVAAI64-4JyYZ1w,Nagasaki,10.0,4.0,48.8882559,2.3915856,€€,Alexander Fleming - Belvédère
+18RM_fQo8QVJX9r-fQn0MQ,La Brulerie de Jourdain,5.0,4.0,48.87532,2.38983,€€,Alexander Fleming - Belvédère
+Ct77aBDwU0PwJyOhjPTKXQ,Chez Kim,6.0,4.0,48.88018,2.39094,€€,Alexander Fleming - Belvédère
+J1pAzTNXSUW4GekJxsVHJA,Au 140,20.0,4.0,48.87527,2.38983,€€,Alexander Fleming - Belvédère
+hHLVTNSlGpDn4S7WSZC_3A,Le Pré en Bulles,15.0,4.0,48.8858284,2.4006401,€€,Alexander Fleming - Belvédère
+sjesDaZ05LPAcRyqh6fG7g,Au Boeuf Couronné,98.0,4.0,48.88831,2.39135,€€€,Alexander Fleming - Belvédère
+vKDDjyLUVG8h0NpjO9U3yw,Huîtrerie Garnier,5.0,4.5,48.8507208,2.2672306,0,Place de la Montagne du Goulet
+02nRqrSoTTtl7mqANc0hAA,Yamagoya,5.0,4.5,48.84052,2.28939,0,Place de la Montagne du Goulet
+eRW2w3JQpXiaDGpPdX91yA,Eizosushi,5.0,4.5,48.8377,2.27841,0,Place de la Montagne du Goulet
+1NBOJW2u26RX0kNd_jvsqw,O Fil Rouge,7.0,4.5,48.8481903,2.2869899,0,Place de la Montagne du Goulet
+pp7kjFN_qu-fFZFtAVZdQw,Le Pario,14.0,4.5,48.8463274,2.28352,€€€,Place de la Montagne du Goulet
+hhVItBbmrQzON98XF84jTA,La Serenata,9.0,4.5,48.836015,2.285831,0,Place de la Montagne du Goulet
+MfMRYtUHb5zx6NkkbuP4RA,Mini Festin,3.0,5.0,48.8512959,2.2774659,0,Place de la Montagne du Goulet
+uaF5N63oPMmXNZ8lbzp6bA,La Scarpetta,6.0,5.0,48.880897,2.323073,0,Saint-Lazare - Place d'Estienne d'Orves
+3rv9aPZrEDyEtd_AygOTpw,Salatim,9.0,5.0,48.8691034856447,2.34598416206267,0,Saint-Lazare - Place d'Estienne d'Orves
+SN2Bhtb6jfO7eqezTrpbiA,Rêves de Pains,10.0,4.0,48.7922435355249,2.33296086882965,€€,Marc Sangnier - Division Leclerc
+zQrFfkefJtfaMF2DxGNk7w,McDonald's,1.0,5.0,48.792368,2.320718,0,Marc Sangnier - Division Leclerc
+Xsdewr4b6bdIO1fcf4HEgQ,L'Improviste,1.0,5.0,48.7934381,2.3347871,0,Marc Sangnier - Division Leclerc
+Fbbbe-2x8r7GxF0iqcwU8g,O'Silver Sushi,1.0,5.0,48.7803116,2.3391199,0,Marc Sangnier - Division Leclerc
+Wc77qBjWrSRjOvgDXRntkw,Mairie,1.0,5.0,48.7875026,2.320342,0,Marc Sangnier - Division Leclerc
+dSkZw4FQKYuGGtktJqwEqg,La Panetiére,4.0,4.5,48.7944097,2.3214855,€,Marc Sangnier - Division Leclerc
+J-SYo_UxvGgnQ7HgHkWJlA,Pizza Presto,1.0,5.0,48.77953,2.33883,0,Marc Sangnier - Division Leclerc
+HJjqNRFV_QtflzBuNsyQaQ,La Gourmandise - Maison Thomas,1.0,5.0,48.7771893,2.3235786,€€,Marc Sangnier - Division Leclerc
+CWIvSKwBuYb35b_Zey7HYg,L'Ondine,1.0,5.0,48.7861603,2.3273057,0,Marc Sangnier - Division Leclerc
+EvvhpRZkyTDX_teQiyr82A,Walaw,5.0,4.0,48.7783141,2.3347845,0,Marc Sangnier - Division Leclerc
+MXAUQO5dsOCAOLY0wnd9Sw,O Why not,1.0,5.0,48.79239,2.32028,€€,Marc Sangnier - Division Leclerc
+U_2-YA1Iz0q2LYi_FaCeQQ,Pizzeria Vittorino,1.0,5.0,48.793762,2.335926,0,Marc Sangnier - Division Leclerc
+GQXRI6p7vAHlzCL8Rp3e3g,Domino's Pizza,1.0,5.0,48.787699,2.318941,0,Marc Sangnier - Division Leclerc
+Q5mm28RDFhc54wCszcxgEA,Au Carré Pizza,3.0,4.5,48.7891823,2.3189112,0,Marc Sangnier - Division Leclerc
+j5-Hzbuj3YXLEQvbcC2vQw,New Hanjo,6.0,4.0,48.794986,2.321468,€€,Marc Sangnier - Division Leclerc
+2ZRuzIWU2h_xh6cxlcxvSg,Val Di Comino,5.0,4.0,48.7841,2.33877,€€,Marc Sangnier - Division Leclerc
+zlzCqAiBfLTwa8qjYSj7Kg,Foulo,10.0,3.5,48.785458,2.317883,€€,Marc Sangnier - Division Leclerc
+A90QEk04DG3u4ti-xkTumg,Sergio,2.0,4.0,48.78228,2.3276,€€,Marc Sangnier - Division Leclerc
+6q5i1vYxRYBRNI3eZ_NfBg,Gourmand Dong Fang,2.0,4.0,48.7930792,2.3208007,€€,Marc Sangnier - Division Leclerc
+uy65NLF2ikTZAnUEHIgjtw,Persillé,36.0,4.0,48.8303,2.37537,€€,Bruneseau - Quai d'Ivry
+79sE-l7jRFXvgASvin_M7Q,Firat,1.0,5.0,48.81822,2.39783,0,Bruneseau - Quai d'Ivry
+H2rXp7TrKu9x_SvTtDR2zw,Si Señor,1.0,5.0,48.83167,2.376,0,Bruneseau - Quai d'Ivry
+6UJVVNbO0b9Zy5WNqhNM2g,Les Coulisses du Vin,1.0,5.0,48.83128,2.38055,0,Bruneseau - Quai d'Ivry
+tOfHAJhrDEPIQa2wkqEDUA,Midoré,1.0,5.0,48.8287697,2.3812101,0,Bruneseau - Quai d'Ivry
+tbw4Kqy3DhfAT1JKzAohhg,La Plage du Batofar,10.0,4.0,48.83335,2.379387,0,Bruneseau - Quai d'Ivry
+adv_Qdwj69IT_eNJ6_sJVw,Big Fernand,1.0,5.0,48.830492,2.375258,0,Bruneseau - Quai d'Ivry
+KV_bWS_dgnmDABp4jAX3FA,Les Frigos,8.0,4.0,48.83131,2.37949,0,Bruneseau - Quai d'Ivry
+5DEBuVXa-93MFZuEvZEsKQ,Pret A Manger,39.0,4.0,48.8300628501055,2.37667322158814,€,Bruneseau - Quai d'Ivry
+Fe5dIGcQ1Gb8AatGJbiu-A,Golden Fried Chicken,1.0,5.0,48.824543,2.376419,0,Bruneseau - Quai d'Ivry
+NNEQV-4sqCMiv2xnUDMp4A,Le Libertalia,12.0,4.0,48.8208384242255,2.39611361601581,€€€,Bruneseau - Quai d'Ivry
+ubnLBcBEhrC9SaT0n4FU0g,Le Lion d'Or,1.0,5.0,48.8233804,2.3988278,€€,Bruneseau - Quai d'Ivry
+MM0q7R65jYmMH_Y8Cymqmw,Tabac du vieux moulin,4.0,4.5,48.8179,2.37557,€€,Bruneseau - Quai d'Ivry
+_jvm4XHdjZ4Adhlb1ISRsg,Bien Nang,3.0,4.5,48.81678,2.37637,0,Bruneseau - Quai d'Ivry
+mJdKegTcdikOgK-vFoLOLA,C'midi,4.0,4.0,48.830607153085,2.37640232420347,€,Bruneseau - Quai d'Ivry
+QZ29kTDWqBsY4rc_JvqhIQ,La Barge du Crous de Paris,2.0,4.5,48.833043,2.379728,0,Bruneseau - Quai d'Ivry
+FPIVaR2F1NCwJFJ3G5HYkg,Sushi Story,8.0,4.0,48.8312531,2.3753239,€€,Bruneseau - Quai d'Ivry
+OM4q6M_2BsPN8ybuI12WXQ,Le Florus,5.0,4.5,48.8177641,2.3234582,€€,Vanne - Général de Gaulle
+dQvWASBiQkYA2fvq5P3cjQ,Le jardin de Montsouris,5.0,4.5,48.82117,2.34115,€€,Vanne - Général de Gaulle
+aI7X1Vj4oryK_O5ClmB41A,La Bonbonnière,3.0,5.0,48.8234170092598,2.34010199414547,€,Vanne - Général de Gaulle
+s8DP260k4bqczA1eTjft-g,Casa Marco,5.0,4.5,48.8165381,2.3257393,€€,Vanne - Général de Gaulle
+lZxFu6_8O5FkqlIBeTQjgA,Parc Montsouris,75.0,4.5,48.822216,2.338178,0,Vanne - Général de Gaulle
+HJeNPcTBlXVonX6apNCP9w,À Côté du 82,7.0,4.5,48.8159103,2.3178899,€€,Vanne - Général de Gaulle
+NUB99-IOIQh6XR9dtB5fqg,Yakigushi,11.0,4.5,48.81502,2.32062,€€,Vanne - Général de Gaulle
+GkKsBP3DRzAwhmTC5zh_iA,La calypsia,4.0,4.5,48.8202172,2.3207849,€€,Vanne - Général de Gaulle
+howQeAEmxa8luLTh_nDeag,Viet Quan,2.0,5.0,48.8176117,2.3243599,0,Vanne - Général de Gaulle
+Sns0G3YlhBEWE88s1WHhHg,Boulay,4.0,4.5,48.8233274,2.3240551,€€,Vanne - Général de Gaulle
+8KWdhiqPKl0cJnTJ5MloEw,David Bernardin,2.0,5.0,48.8168065,2.3205587,€€,Vanne - Général de Gaulle
+xlAPGo8_O-gC35_X1I93rw,Le Décanteur,2.0,5.0,48.814688,2.317364,€€,Vanne - Général de Gaulle
+DETKMqXHoP9BjENRjre1Wg,Au Bureau,3.0,4.5,48.810581,2.327448,0,Vanne - Général de Gaulle
+3JTj1wr-FeDPFsGzL2Ja0g,La Scappata,3.0,4.5,48.81711,2.32953,€€,Vanne - Général de Gaulle
+KMuAClWxNH1mvN-x0-5YEQ,Le P'tit Bistrot,3.0,4.5,48.80659,2.33582,0,Vanne - Général de Gaulle
+rMTfSx3NadZw8gakTLXQgg,Chinchin,9.0,4.0,48.824049,2.335835,€€,Vanne - Général de Gaulle
+-1oOcUrZiYDMdXAt_JzkKw,Aubergine Et Cie,24.0,4.0,48.8195992,2.3234701,€€,Vanne - Général de Gaulle
+nncZVU4Ik48rlW1mUG7VxQ,Hakka Home,6.0,5.0,48.8522797,2.3900001,€€,Buzenval - Avron
+5YZdJyH8GGajbsuQZYFh6Q,Bistrattoria Nonna Rita,5.0,5.0,48.8452988,2.4028599,0,Buzenval - Avron
+dqxocDTyyQVpnpuYZMhv-g,Il Sorriso,13.0,4.5,48.85857,2.39018,€,Buzenval - Avron
+gZciFQ5YSB01cRTEostDHw,Creperie O'regal Valengaux,5.0,4.5,48.8492448,2.3900846,0,Buzenval - Avron
+oIG1VbXp-mpz1ZLrWnsLpQ,Phô Thaï,5.0,4.5,48.85051,2.38906,€€,Buzenval - Avron
+T8jIEafO1NzE3KByjN0TkA,Le Bizart,22.0,4.5,48.85125,2.38992,€,Buzenval - Avron
+vcVXkPMOv949uAfjygcFqA,Le Pain d'Or de Charonne,7.0,4.5,48.8558804,2.3921721,€,Buzenval - Avron
+424z1agmQDXOQqcYdxuArg,Port Louis Paris,4.0,5.0,48.84798,2.38791,€€,Buzenval - Avron
+fBlzVuk8rokgMKTd3K8_3Q,Boa Wong,3.0,5.0,48.84536,2.40236,€€,Buzenval - Avron
+qlPpOVUaH_J26SUvHotgHQ,Tombe de Jim Morrison,4.0,5.0,48.85871,2.38976,0,Buzenval - Avron
+9gZoKfhOIsAxiPLphoPEeg,La MiN,4.0,5.0,48.850766,2.387915,0,Buzenval - Avron
+2PIj2aZcSgjRVD-y6CigqA,La Cantina,10.0,5.0,48.83976183757,2.26372328495764,€€,Place de Barcelone - Mirabeau
+3irx6jqYH859VksJ7SVpbg,Da Alberto,9.0,4.5,48.8484366,2.2634953,€€,Place de Barcelone - Mirabeau
+D-oCRvsAOb4H1rgZyYMseQ,Fondation Le Corbusier,4.0,5.0,48.85187,2.26539,0,Place de Barcelone - Mirabeau
+0a0TlqGTMQtb_AsvXyDqmw,Le Minos,6.0,5.0,48.853128,2.34532,0,Marché aux fleurs
+uZm7gIlhJEmDOfCyKQ0npg,Motors Coffee,7.0,5.0,48.85929,2.34696,0,Marché aux fleurs
+cOmOHeDP2YrRw227OSoRYQ,Ricette Ristorante,7.0,5.0,48.849105,2.354031,0,Marché aux fleurs
+lYTQNVXVVGYKrxViUGl68g,Alliance,9.0,5.0,48.84993,2.35329,€€€€,Marché aux fleurs
+cnb32GbaHRczxiWQGISICQ,L'Initial,9.0,5.0,48.8507038531378,2.35039796680212,0,Marché aux fleurs
+7ffr3tb0rfDp1FD-muHTYw,Le Bief,2.0,5.0,48.895148,2.417965,0,Benjamin Delessert - Jean Lolive
+FEKXKFf8-fMa4OMir3QE4Q,Gourmet dAsie,1.0,5.0,48.89161,2.40479,0,Benjamin Delessert - Jean Lolive
+lmOsSKuQ4qRDnTzwaR0EzQ,Gallo Blu,1.0,5.0,48.88939,2.40662,0,Benjamin Delessert - Jean Lolive
+_XsiXKf2cuoXfEHaNJRE_g,Espace Pantin,1.0,5.0,48.89788,2.40563,0,Benjamin Delessert - Jean Lolive
+flzdHr5ymU_8Bu5dI7LAag,Parc République,1.0,5.0,48.8891513,2.4214358,0,Benjamin Delessert - Jean Lolive
+ROpWk6X4MT8rmD2tqOAJPw,Toros,1.0,5.0,48.89419,2.40667,0,Benjamin Delessert - Jean Lolive
+-8KkNcqBQEJBASH1gxiXNQ,Boulangerie Patisserie Confisserie Glacerie,1.0,5.0,48.8944511,2.4205699,€€,Benjamin Delessert - Jean Lolive
+FmGVMtHTdSGsqtZWj91BCQ,Oishi Sushi,1.0,5.0,48.89447,2.4049299,0,Benjamin Delessert - Jean Lolive
+QB0q3ZHOaVkdd-pnDbe3-A,Vertigo,3.0,4.5,48.89218,2.40891,0,Benjamin Delessert - Jean Lolive
+rt37GFp8wAH0MfMg4TCzMw,Le Relais,9.0,4.0,48.8937721,2.4090307,€,Benjamin Delessert - Jean Lolive
+DCiVRfoAoPEgjnfnUdkpUA,Canons,2.0,4.5,48.8950100078668,2.4182600483024,0,Benjamin Delessert - Jean Lolive
+deoTmXkqGcp9EdlFyYoiqw,Cheesers,5.0,3.5,48.83218,2.3551,€,Benjamin Delessert - Jean Lolive
+n-DsFr8EDOTXk44J6WHpDg,Chez Agnès,3.0,4.0,48.89503,2.4097,€,Benjamin Delessert - Jean Lolive
+XNZDGQJbh8s1ccMhB6ZrkA,Le Plate's,5.0,3.5,48.893598,2.415088,€€€,Benjamin Delessert - Jean Lolive
+7AxRkVzOyhhRnT-QQr97Nw,Aux Artistes,1.0,4.0,48.885803,2.4132759,0,Benjamin Delessert - Jean Lolive
+ccbRN0UNeReSC-0QudPLAw,L'idéal Bodrum,1.0,4.0,48.8948898,2.4252601,€,Benjamin Delessert - Jean Lolive
+3Xbafw311rcNsIZqXBYyiQ,La Diva,5.0,4.5,48.8067935,2.4386489,€€,Gare RER - Malleret-Joinville
+__4tBxOtfilspR-MisnWjA,Pizza Di Napoli,1.0,5.0,48.8106,2.41418,0,Gare RER - Malleret-Joinville
+lK8X-aT0oCkPy2uP_mzwJw,Sushi d'Alfortville,1.0,5.0,48.81045,2.41433,0,Gare RER - Malleret-Joinville
+3kI_XF1EpXllYhL4oFf9QA,Café du Square,1.0,5.0,48.8047436,2.4194909,0,Gare RER - Malleret-Joinville
+JwSbi2LStIqTy2XRPFoUiw,Bouchons & Resto,1.0,5.0,48.8074665305111,2.414676,0,Gare RER - Malleret-Joinville
+6zl1KhwNASWWfxDGckkL_g,Le Charentonneau,13.0,4.0,48.8086043,2.4362859,€€€,Gare RER - Malleret-Joinville
+AXbv9qZwemX86ivAC2mbZA,Furin Kazan,3.0,4.5,48.80140364,2.42177993,€,Gare RER - Malleret-Joinville
+Az94aCC9Btht5Gi7U4ScsQ,Boulangerie Franck Lamet,5.0,4.0,48.8053819,2.419314,€€€,Gare RER - Malleret-Joinville
+OJZzm2urqunuhmtZhYU04g,Sainte Thérèse,2.0,4.5,48.8052145,2.4267018,€€€,Gare RER - Malleret-Joinville
+MGCMlrW-TKzsTF73r0mXIw,Fabre Michel,4.0,4.0,48.80505,2.41928,€€,Gare RER - Malleret-Joinville
+VObdi-75CUkcFSdYtPgDgw,La Lozère,2.0,4.5,48.8001931,2.4323406,0,Gare RER - Malleret-Joinville
+yWQfMsHKJCHLcrotppbtzw,Le Jardin d'Erevan,2.0,4.5,48.80619,2.41933,0,Gare RER - Malleret-Joinville
+w2_F6PNXZ59Vf3QQKb04UA,Pizza Blanqui,3.0,4.0,48.80019,2.41819,€€,Gare RER - Malleret-Joinville
+QD1G2khlsWdILb5v9dLKSA,Les Petits Plats,2.0,4.0,48.8045684389216,2.4198065262044,€€,Gare RER - Malleret-Joinville
+IM4cMNWCPmR4Lsqiy9HNIw,Pokhara,2.0,4.0,48.8018628,2.4324364,0,Gare RER - Malleret-Joinville
+JQYkPzw8LxEYlOFoeWglaw,Restaurant Campuchea,7.0,3.0,48.8021581,2.4298521,€€,Gare RER - Malleret-Joinville
+MJeKfzKO4_qU4jtfwiL_0Q,Inform Café,4.0,5.0,48.877045289459005,2.2917883470654488,0,Berthier - Place Stuart Merril
+e5nXFleu4p9bgLqh63TazA,L'Ambre Bar,31.0,4.5,48.8787095,2.2877119,€€,Berthier - Place Stuart Merril
+rXDuoodOaitxkVn20msbzA,Bar Anglais,8.0,5.0,48.871357,2.293711,0,Portugais - Kléber
+sN7IXZIdImlCmAVpiw-6dQ,Maison Julambre,4.0,5.0,48.87076,2.29161,0,Portugais - Kléber
+McOL7V9_HF5DxkK9ozed7Q,L'Atelier des Compères,12.0,5.0,48.871509681657,2.2982930599373,0,Portugais - Kléber
+SACazSvi1Kq0nhj_rpL5SQ,Le Timgad,13.0,4.5,48.896786,2.2543198,€€,Île de la Jatte
+cZ5nc33vniIUAo8bZJVcfQ,Kelbol,2.0,5.0,48.892831,2.253302,0,Île de la Jatte
+stGT8avkDnkErSLlHYeLSA,boulangerie huet,2.0,5.0,48.9009375,2.2603365,€€,Île de la Jatte
+8DEKkmQ_-sHHlyiWLJkRkA,Pastabar,2.0,5.0,48.8853577,2.2575101,0,Île de la Jatte
+kjB2c955dOaNpQGf_LA6iQ,San Giovanni,2.0,5.0,48.90074,2.26045,0,Île de la Jatte
+e-rSyUGslWRGDTbEsjzMaA,L'Instant Gourmand,4.0,4.5,48.89736,2.25662,€,Île de la Jatte
+jpZjNmPH03dJIrQittJ23A,Le P'ti,2.0,5.0,48.8384285,2.2779801,0,Île de la Jatte
+4-BjzrA4cLw8m59mTmF9Gw,Kyo Sushi,5.0,4.0,48.9030397,2.2695685,€€,Île de la Jatte
+G3dusr4C7dHFfhu9YHA7xA,Boulangerie Lepareur,3.0,4.5,48.88686,2.26248,€€,Île de la Jatte
+p4Zg5o8Uqw-FJdBqmAvd0w,Patisserie Lepareur,7.0,4.0,48.8897209,2.2678399,€€,Île de la Jatte
+V9AS7DeR_qiv5EG_y-BK3Q,L Atelier des Pains,1.0,5.0,48.8955,2.25652,0,Île de la Jatte
+g8BacTavQBDz_943woUfBQ,Regal Asie,1.0,5.0,48.8858028,2.2609189,0,Île de la Jatte
+KMDYZnmHVj7_BVUlVLtWdg,Maison Charpentier,6.0,4.5,48.8297081,2.2644999,€€,Esplanade du Foncet - Camille Desmoulins
+pI9jLmkthL8zRHrWuJkfEQ,La Maillette,5.0,4.5,48.8258185,2.2732423,€,Esplanade du Foncet - Camille Desmoulins
+xPYZfaxNmxcD--8tOlqt-w,Mon Bistrot,17.0,4.5,48.8357,2.25355,€€€,Esplanade du Foncet - Camille Desmoulins
+yRFa16FfaMe9wbpjASqoPA,Koedo Dozo,12.0,4.5,48.829676,2.263236,€€,Esplanade du Foncet - Camille Desmoulins
+MThcSF-3ESGSvtSel4931A,Bun,2.0,5.0,48.83279,2.267,0,Esplanade du Foncet - Camille Desmoulins
+XRWof-I6Xg2r97AvtYWdVA,Parc Omnisport Suzanne-Lenglen,2.0,5.0,48.830216,2.268375,0,Esplanade du Foncet - Camille Desmoulins
+alz7ZgpBRCz_6tKcpZ7M5A,La Factory,8.0,4.5,48.8231321721902,2.26075055722363,0,Esplanade du Foncet - Camille Desmoulins
+QWmIzSx6E9vzkc9S-6JFeg,Pizza Paparotti 2,8.0,4.5,48.82394,2.26066,€€,Esplanade du Foncet - Camille Desmoulins
+j0qQv9R_wxs-2tVdnTZg0w,Le Libanais,2.0,5.0,48.82314,2.26063,€€€,Esplanade du Foncet - Camille Desmoulins
+RadAmoJoDzl4iffnO44dXw,Le Triporteur,9.0,4.0,48.8258921,2.2731825,€€€,Esplanade du Foncet - Camille Desmoulins
+3Q9OeehlclmPtKm8qQKJ8w,A O C Restaurant,5.0,4.0,48.835198,2.24853,0,Esplanade du Foncet - Camille Desmoulins
+juuXMcg2jwR0UFbfQpeG2w,Controvento,11.0,4.0,48.833443,2.253788,€€,Esplanade du Foncet - Camille Desmoulins
+ne52uA4r_6Y4b0vOT_yZNQ,L'aviation,3.0,4.5,48.8281738,2.2736998,€€€€,Esplanade du Foncet - Camille Desmoulins
+y2AVuQzpM_CKTHkk9S8aIg,Wine Tasting In Paris,10.0,5.0,48.84577139,2.35374549,€€,Buffon - Jardin des Plantes
+iuuAbuOeayVwqhxYWHuGRA,La Maison d'Isabelle,91.0,5.0,48.849847,2.348264,€,Buffon - Jardin des Plantes
+jX1FQpzxLqNDe5xBgLF_-A,Sellae,5.0,5.0,48.8387,2.35968,0,Buffon - Jardin des Plantes
+ReXvZkWQzhkJUupi-rtq4Q,Crazy Pasta,13.0,5.0,48.844588,2.348745,€€,Buffon - Jardin des Plantes
+MUCIZ8uJfiyKi_2KbVZSUg,Les Trublions,4.0,5.0,48.8480186,2.34846,€€€,Buffon - Jardin des Plantes
+8wGpkjU8drbZLIbpICh8OQ,Le Boulanger de la Tour,12.0,5.0,48.849962,2.35467,€€,Buffon - Jardin des Plantes
+sElWVYcEDMHzkP51hUcvmA,India StreEAT,4.0,5.0,48.84039,2.35183,0,Buffon - Jardin des Plantes
+eaA8C4paLOX9jC9brxrY5g,Singh,4.0,5.0,48.84371,2.34937,0,Buffon - Jardin des Plantes
+qw-F0JN3tpsqfxGTWL4O9w,Chez Neung,8.0,5.0,48.8376052829337,2.35388517379761,€€,Buffon - Jardin des Plantes
+48Tq8Nz9zcFBxIHqNWK9Xw,Les Petits Plats de Marc,8.0,5.0,48.840475,2.349184,€€,Buffon - Jardin des Plantes
+g12Ru5yV5DPQ-SZJCb6lAA,Tzeferakos,4.0,5.0,48.84692,2.3512199,€€,Buffon - Jardin des Plantes
+D2iXH8rWxDAfjUU7Pw-dxg,Mae Nam Choaphraya,8.0,5.0,48.84988,2.35304,€€€,Buffon - Jardin des Plantes
+odftIKspRj54UJi_3CNvng,En Faim,4.0,5.0,48.838117,2.3600768,0,Buffon - Jardin des Plantes
+M44PW4dBJ5l1IcvKdq1Fwg,Baan Issan,8.0,5.0,48.8337097,2.3545899,0,Buffon - Jardin des Plantes
+E5lGr7_Z_GJo5rU2qVgYMA,Alimento,19.0,4.5,48.8499162697209,2.35215864418024,€€€,Buffon - Jardin des Plantes
+Ij4m8UMalmLH_yQtTqvPNQ,The Publisher,22.0,5.0,48.8805743518068,2.31821188267692,€€€,Mairie du 8ème 
+hu_cDlVuB5RrG1HZP9lXcA,Bar Italia Brasserie,60.0,5.0,48.879965,2.329399,€€€,Mairie du 8ème 
+ttyuc43C7IBnp-Q-nZb0hA,Yann Couvreur,5.0,5.0,48.872958,2.330318,0,Mairie du 8ème 
+eQjLpCshP3WeQowLA4mISw,Le Vaisseau Vert,10.0,5.0,48.88134,2.32757,0,Mairie du 8ème 
+KWEQ1yyXS82l2dAmTpPI7w,Foyer de la Madeleine,8.0,5.0,48.8690769680389,2.32446029532211,0,Mairie du 8ème 
+oYmLzgKDv032rsyrzTO7-A,Boulangerie Patisserie,7.0,5.0,48.8277206,2.3290401,0,Dareau - Broussais
+Hmz0oNPT3954ohR0UnAqIw,Florina,6.0,5.0,48.8375436,2.3452592,0,Dareau - Broussais
+DCxlpw3NwvgUx2iqPRwbHg,Sourire Le Restaurant,7.0,5.0,48.83716,2.34203,€€€€,Dareau - Broussais
+J1uJVDBqr9SbXz0RnUG-tQ,Le Bistro V,26.0,5.0,48.83768,2.34622,0,Dareau - Broussais
+PI6edk8v1mpFWpCS56e-0g,Le Vaudésir,25.0,5.0,48.83035,2.33548,€,Dareau - Broussais
+AUO2yxurmnxvPf-2FFT7tQ,Restaurant Buddha,11.0,5.0,48.8359909,2.34705,€€€,Dareau - Broussais
+4050Km_2ftM55e7XiELnNA,Exo-Exquis,5.0,5.0,48.827206,2.332527,0,Dareau - Broussais
+QcpxI7Am6g6mc0D20w0Gng,Il Etait un Square,46.0,5.0,48.8309711253147,2.34798106998272,€€,Dareau - Broussais
+bGc4IyTLEstW5uwzzv-NjA,L'Alliance,12.0,5.0,48.8265848,2.3271775,€,Dareau - Broussais
+CapD-bekbE05gDMSe29UJA,Jin Xin Lou,4.0,5.0,48.8217584,2.3423588,0,Dareau - Broussais
+GrbhxOQ7ABn2WZ51o9sRjA,Sweet Rawmance,24.0,5.0,48.83571,2.32468,€€,Dareau - Broussais
+xZ_BbtU_Nbc6ZrTvk6aOdA,Crêperie Parisienne,7.0,4.5,48.8262,2.32311,€€,Dareau - Broussais
+rpfp3ZcOjWkkfvVrM2li_Q,Green Café,9.0,4.5,48.83092,2.32898,€€,Dareau - Broussais
+tM2GensNFi0OjEDhrbA4TQ,Lion Sot,9.0,4.5,48.8329024303849,2.33268231153488,0,Dareau - Broussais
+ZPBirB62EiLzINctktCcFg,Au P'tit Zinc,9.0,4.5,48.8323050124393,2.32480750880012,€€,Dareau - Broussais
+FgxmJLQlXvHpDrgTLgJjGA,La Vie d'Ange,38.0,4.5,48.83257,2.33781,€€€,Dareau - Broussais
+5V07bcBJlLCCIRwoUbKMOg,Cacio e Peppe,34.0,4.5,48.83171,2.34635,€€€,Dareau - Broussais
+jCcSFT44X8mlGJxnryWPMg,La Cantine du Troquet,13.0,4.5,48.8358803,2.3241999,€€€,Dareau - Broussais
+rBl7wSAWHfkRgVd2uC_fqA,B Cuisine,5.0,4.5,48.8343411,2.3447169,€€,Dareau - Broussais
+OhnNOvudKQPl2-4YSacwjw,Le Broca,5.0,4.5,48.83844,2.34838,0,Dareau - Broussais
+kU8T-QW436orqbIDhHPpPA,Mali,11.0,4.5,48.824962,2.361043,€€,Leredde - Tolbiac
+1GCbHcHNA9HrPGmbv7EOmQ,Lao Chaleune,27.0,4.5,48.82424,2.37023,€,Leredde - Tolbiac
+K_EeB-baJvIlfmIK8YkN1Q,Sweet Dessert,11.0,4.5,48.8234482,2.3658099,€€,Leredde - Tolbiac
+N5KI41tz3mAoDAfm9x2hGA,Le Bon Plan,9.0,4.5,48.8272589,2.3707029,€€,Leredde - Tolbiac
+dl4zI8jeN_6jYKxq0K49vA,La Table d'Hami,7.0,4.5,48.84142,2.35532,€€,Bruant - Vincent Auriol
+IO2DfERYs6NAaddsAAkwAw,Au Délice de Confucius,6.0,4.5,48.8376277920063,2.36063629388809,€€,Bruant - Vincent Auriol
+tOYzt4uMReSXhvJDl6q9ag,Crêpe de la Joie,5.0,4.5,48.8395805,2.35584,0,Bruant - Vincent Auriol
+hmOY5sgFzTDJA5zoOU-kcQ,Bekseju Village,23.0,4.5,48.83783409661,2.35501964842013,€€€,Bruant - Vincent Auriol
+O9iGgBk7Q-ALc8v1mNtYww,Tesoro d'Italia,16.0,4.5,48.83754,2.35419,€€,Bruant - Vincent Auriol
+5Hg3EklzGxNudgDswy3wKQ,Le Bistrot Champenois,5.0,4.5,48.84533,2.38286,0,Reuilly - Place Felix Eboue
+FQMuAo-MsSQOSMCzAkjthg,Cristal Doner,7.0,4.5,48.846747,2.382839,0,Reuilly - Place Felix Eboue
+P4gUm0mmp76H2UhiQ-AY2w,Ground Control,9.0,4.5,48.8437399,2.3818,0,Reuilly - Place Felix Eboue
+KqWLvsRLqD552ZEJI3rCnQ,Au Bois Doree,3.0,5.0,48.8358980139219,2.40491150181288,0,Reuilly - Place Felix Eboue
+7gu2CYkX__LJEETm3fJNvA,Le Microsillon,9.0,4.5,48.846557,2.381599,€€€,Reuilly - Place Felix Eboue
+VXn49_1SRV1mHpH898fKVQ,Inside Bar,18.0,4.5,48.848077,2.388073,€,Reuilly - Place Felix Eboue
+JeCg9uzTSF6s3fR5fWUS5w,Curry Villa,5.0,4.5,48.8464660644531,2.38365602493286,€€,Reuilly - Place Felix Eboue
+GjTwrw-a7hrSIEEoYKFLIw,Artocarpus,5.0,5.0,48.8360129,2.3218925,€€,Chevreuse - Montparnasse
+skTAHuCvKJOXXG7HAecszg,Restaurant Montée,7.0,5.0,48.84077,2.33068,0,Chevreuse - Montparnasse
+PhVL_9GUsxyBiXe7FSEOaQ,Yummy Noodles,7.0,5.0,48.83982,2.3327,0,Chevreuse - Montparnasse
+w9yWBiJMReO7vzl6n0yxcw,Chez Lionel,5.0,5.0,48.84179,2.33148,0,Chevreuse - Montparnasse
+lyqP5LqZL0pfqWZVfeo1Lg,Joël,4.0,5.0,48.843836,2.330657,0,Chevreuse - Montparnasse
+EqbupxF_wuHxn7izysoabA,Mezze de Beyrouth,4.0,5.0,48.83645,2.31993,0,Chevreuse - Montparnasse
+Bd3Z4JjYpa809phAFrU0iQ,Pho 15,4.0,5.0,48.844611515685,2.3187730461359,0,Chevreuse - Montparnasse
+f63kX8v4ZU2Bog87CFfB_g,Le Clos Y,16.0,5.0,48.8430214,2.32092,€€€,Chevreuse - Montparnasse
+tE8YMel7Oljhke1cHLNOCA,Le Petit Verdot,15.0,4.5,48.84786,2.32351,€€€€,Chevreuse - Montparnasse
+gLK_b2QssRKUsw1Pnje8dA,Sweets Bread and Co,1.0,5.0,48.78269,2.36208,0,Camille Risch - Paul Armangot
+SgCsohy2i5RVbl2Rk3uALw,Maison saunier,1.0,5.0,48.772,2.36141,0,Camille Risch - Paul Armangot
+l181LQ0Sj2l6FYBaOhZnJQ,Best Break,1.0,5.0,48.7723828499849,2.36721231534183,0,Camille Risch - Paul Armangot
+IfAJyyIEDJGLt_xrZhrnQg,Tablapizza,1.0,5.0,48.7692108,2.36782,0,Camille Risch - Paul Armangot
+2KppGmvolqvksc0NOxhYGQ,Au Pain Gourmand,2.0,4.5,48.7672106949508,2.3627762625656,€€,Camille Risch - Paul Armangot
+ifGTh9juxAPIIcQ-ueBWJg,La Felicita,2.0,4.5,48.7702789,2.3641,€€€,Camille Risch - Paul Armangot
+YI-TdlObyt6VL9KAtOiWPw,La Pratola,4.0,4.0,48.7684052,2.3718734,€,Camille Risch - Paul Armangot
+adM84MIOFR4SYklBU3jDLw,Courtepaille,5.0,3.0,48.7755876,2.3674989,0,Camille Risch - Paul Armangot
+lgAsA0EGdbPPg1uX3xYJ5Q,Piscine Petit Leroy,1.0,4.0,48.7709,2.36773,0,Camille Risch - Paul Armangot
+KEEA8IB3rgxXoiGsUXn2cg,Casa Presto,1.0,4.0,48.7695694,2.36552,0,Camille Risch - Paul Armangot
+VH19cv79Ok48UzdjOjNjFw,Lilabyrinthe,2.0,3.5,48.774163,2.381843,0,Camille Risch - Paul Armangot
+jWPPrc-AWfRmgrgEoLA7pw,Quick,2.0,3.5,48.78029,2.36727,0,Camille Risch - Paul Armangot
+NDMtsuUf1SvZI95SNzonCg,Taverna,3.0,3.0,48.767548,2.367419,€€,Camille Risch - Paul Armangot
+u9Q3Xbh_bu-mnybkMM5NJw,Brasa rio,4.0,3.0,48.77209,2.36674,€€,Camille Risch - Paul Armangot
+5x8gFdkdeEvV9GjiVxHwow,Les Oliviers,1.0,3.0,48.76768,2.36766,0,Camille Risch - Paul Armangot
+9bGx56AtmykWx0ZjgVnKeA,la criée,1.0,3.0,48.7698784,2.36765,0,Camille Risch - Paul Armangot
+JssxMOlcbzJs6LWHzc7MiA,Le Marrakech,1.0,3.0,48.7682956713663,2.36772954051504,€€,Camille Risch - Paul Armangot
+SXI-ng9VSfEwCOshuqXsoQ,bodegon,1.0,3.0,48.7692108,2.36782,€,Camille Risch - Paul Armangot
+3iGV-vTI3lwfpR9MEUrelg,Alhambra,1.0,2.0,48.778887,2.374828,0,Camille Risch - Paul Armangot
+rGXk-xm_NYYmo2OeTKMxYg,Au Paradis du Gourmand,5.0,5.0,48.83044,2.31132,€€,Maine - Liancourt
+hRdqYfjW_IZnaRAPRUZR0w,Sushi Jidai,5.0,5.0,48.82825,2.31591,€€,Maine - Liancourt
+Oufv-86BCyzOMKlqXHv1ug,Al Fadi,7.0,4.5,48.842049,2.32765,€,Maine - Liancourt
+cOuqzzGeSsirXJCUTR1lxA,La Verrière Paris,7.0,4.5,48.83486,2.31818,€€€,Maine - Liancourt
+1x7lpbzrfY7dJ9tZbB8rAA,Café Pasteur,7.0,4.5,48.8425293,2.3119199,€€,Maine - Liancourt
+atVZhutbFHRqmvTVAe-rEQ,Au Reveil du XV,37.0,4.5,48.8384788156894,2.31139198532815,€€,Maine - Liancourt
+ZdQsis9ahsuQS6Q4OPACDQ,Chez Marcel,39.0,4.5,48.84379,2.32835,€€€,Maine - Liancourt
+2tPU7aV8HDa_NFC1ICPuwA,Kebab Alesia,3.0,5.0,48.8277299615516,2.33259559103348,0,Jourdan - Cité Universitaire
+svuYgCsKpp9HAk10NzsjUw,La Fabrique aux Gourmandises,4.0,5.0,48.82109,2.34288,€,Jourdan - Cité Universitaire
+Df983zR2TAcf2cPcSVOceQ,Le Bistrot Montsouris,5.0,4.5,48.8240601,2.3356234,0,Jourdan - Cité Universitaire
+8pSJvDZqMqmmJtp2J48ALg,L'Amaretto,6.0,4.5,48.82445,2.3283,€,Jourdan - Cité Universitaire
+RRlkBdek3xZmq2EarPHF_A,La Folie en Tête,34.0,4.5,48.82754,2.34812,€€,Jourdan - Cité Universitaire
+fxZn9zPmZ2hgSmi_MuZ-3Q,Brun,7.0,4.5,48.8257151069041,2.35081203281879,€€,Jourdan - Cité Universitaire
+8jHjG5meQIK8xWuPqSTzTA,Chez Mamane,30.0,4.5,48.82871,2.35062,€,Jourdan - Cité Universitaire
+DMbgFrcv3MntJbE2QylH2A,Pizza Roberto,2.0,5.0,48.815789,2.3492519,0,Jourdan - Cité Universitaire
+DCLMlZSINRFv_yHrEvyqtg,Misso,2.0,5.0,48.82868,2.3529,0,Jourdan - Cité Universitaire
+xGDDlrL-t3folVWsqnLAyw,Les Docks 13/14,2.0,5.0,48.82553,2.34172,0,Jourdan - Cité Universitaire
+-1fF73WT42NNikWHNpkvfg,Les Marmites Volantes,12.0,4.5,48.88282,2.37321,€€,Centquatre
+Xj1ied82xIjpNboafJv7Lg,Coffee Anjapper,10.0,4.5,48.882746997047,2.3601928981713,€€,Centquatre
+ZsfPJNSaI_8x1gsm8BxbvA,Brooklyn Village,1.0,5.0,48.93311,2.29619,€,Lucien Lanternier - Le Luth
+T0dNZhZNJQYVpwgsRJUg6Q,Fafa Pizza,1.0,5.0,48.9239982272821,2.29574480981263,0,Lucien Lanternier - Le Luth
+n7L1_oNPUwnm72HPKvYeqw,L'Ambassade des Terroirs,5.0,4.0,48.93343,2.29777,€€€,Lucien Lanternier - Le Luth
+V8d1QGNpJtMnkiMTkkGp6A,Koudou Pizza,3.0,4.5,48.92501,2.29001,0,Lucien Lanternier - Le Luth
+ZOSEJjt6K3uMH1SzgEODZg,Yokoso-Sakura,4.0,4.0,48.93348,2.29927,0,Lucien Lanternier - Le Luth
+Q1eyoPvVbg1eqLgi8gM9Kg,L'esprit d'equipe,2.0,4.0,48.92603,2.29176,€€,Lucien Lanternier - Le Luth
+zjIhniJlX8FvryjNgVNzMw,La Roseraie,2.0,4.0,48.9226261,2.2950153,0,Lucien Lanternier - Le Luth
+5yfrHbSL1PBOdypf9m2XDw,Le Castel Centre d'Aide par le Travail,1.0,4.0,48.9297594,2.2877637,0,Lucien Lanternier - Le Luth
+o4fiNRjUgIRLEExCnt8baQ,O'Kuriz,1.0,4.0,48.9333123264485,2.29800403118134,€€€,Lucien Lanternier - Le Luth
+uC6oGEIhxbHkxWh9sWt9UQ,Boulangerie Patisserie Santos,2.0,3.5,48.9335037100241,2.29715431389459,€€,Lucien Lanternier - Le Luth
+UOmgK6Oy_fKFRnvJp-SUcQ,Casa Nova,2.0,3.5,48.9263092,2.2923114,0,Lucien Lanternier - Le Luth
+rd-ykFOuI9gn-UHcfnvZug,La Grande Muraille,2.0,3.0,48.9326377,2.2977668,0,Lucien Lanternier - Le Luth
+AM-dAoV3ml9qh8uUA01hcQ,Achour Aliche,1.0,3.0,48.9323449,2.2964689,0,Lucien Lanternier - Le Luth
+IuhDehq9gGemhVGv6KhtVg,Class' Croute,1.0,3.0,48.9382103,2.2810438,0,Lucien Lanternier - Le Luth
+aoSpk8o4p3_S9K1hyVlfiA,Gourmets D'asie,1.0,3.0,48.92286,2.2949,0,Lucien Lanternier - Le Luth
+uq5EKr6Svd5FAwZzxuqzUg,Riad,1.0,3.0,48.9226685,2.2767401,0,Lucien Lanternier - Le Luth
+uj_v0_LTwoYmYGungr3FHg,perle d'istanbul,2.0,5.0,48.8620186,2.50559,€,Alouettes - Maréchal de Lattre de Tassigny
+7r-ANIFQqnrtvBvn-VRIXw,Edo Man,2.0,5.0,48.8624916,2.5041399,0,Alouettes - Maréchal de Lattre de Tassigny
+aJTt8qla7JCvHinFFItqtw,Aux Délices de Plaisance,3.0,4.5,48.8616139,2.506207,€€,Alouettes - Maréchal de Lattre de Tassigny
+7WpJLW-vYPajCQHyz7yGNQ,Shanghai Express,1.0,5.0,48.853969,2.484492,0,Alouettes - Maréchal de Lattre de Tassigny
+7MieRU5mjHFYRSM7z0_q1g,La cuisine de Franck,1.0,5.0,48.8623085,2.5046999,0,Alouettes - Maréchal de Lattre de Tassigny
+VrH8xoBBJGEeLtlo5NrOvQ,Domino's Pizza,1.0,5.0,48.8465527,2.4905475,€€,Alouettes - Maréchal de Lattre de Tassigny
+BLDWxqOz6U69P0911bqiCA,Au Petit Duc,5.0,4.0,48.8535,2.48745,€,Alouettes - Maréchal de Lattre de Tassigny
+8JhRUhvPEl_Q-sDmnj0NsA,La Taverne,1.0,5.0,48.86315,2.48235,0,Alouettes - Maréchal de Lattre de Tassigny
+yp-I506wcdZUHypd4zuooA,Thaï Ming,2.0,4.5,48.851158,2.4878755,€,Alouettes - Maréchal de Lattre de Tassigny
+AvKA521ZWk5Lh7Lv9rmf5Q,Burger King,3.0,4.0,48.853763,2.484665,0,Alouettes - Maréchal de Lattre de Tassigny
+AmguhHa6Q8aSr_NiIdlWvA,La Bocca Delle Delizie,2.0,4.0,48.86151,2.50615,€€,Alouettes - Maréchal de Lattre de Tassigny
+I4NfOByPb4OYsI0LIARXyA,Pizza Paï,1.0,4.0,48.853643,2.483189,0,Alouettes - Maréchal de Lattre de Tassigny
+dSjbVNMQQwyp6mQMjWyZNQ,Dauphin Bleu,1.0,4.0,48.85821511,2.49126449,€,Alouettes - Maréchal de Lattre de Tassigny
+-XlcMdqvvoCdekl5VuRZyg,Sushi Kyo,1.0,4.0,48.8550883,2.4856167,0,Alouettes - Maréchal de Lattre de Tassigny
+qm7IuVLbW_AlhDaz8TTAFw,Antunes Patrick,1.0,4.0,48.86225,2.50521,0,Alouettes - Maréchal de Lattre de Tassigny
+MNhCyN8YLlVaoHxfRrsdMw,Pourquoi Pas,3.0,3.5,48.8497314,2.49891,€€€,Alouettes - Maréchal de Lattre de Tassigny
+gvG0ck-RRyC1PulkPns2lA,Tokyo Sushi,3.0,3.5,48.8492461,2.4966805,€€,Alouettes - Maréchal de Lattre de Tassigny
+6aH86_Cz76TeFnKB1_Z75A,Mcdonald's,3.0,3.0,48.8542731092192,2.48604832599581,€,Alouettes - Maréchal de Lattre de Tassigny
+IKBg5Tsh19uS50MCAEyqbA,Mercure,4.0,3.0,48.85531,2.48584,€,Alouettes - Maréchal de Lattre de Tassigny
+YXTdM8tL4nywkf6Gv-KLzw,Hokkaido,2.0,3.0,48.8492123,2.4954902,0,Alouettes - Maréchal de Lattre de Tassigny
+mcE6ghhQ9KCv_iZO6VF1bA,BREIZH Café Montorgueil | La Crêpe Autrement	,8.0,5.0,48.86689,2.34735,0,Mairie du 2ème
+m90LJIsLsBFcFoQljKRG-A,Melba,16.0,5.0,48.8703999772536,2.34904546290636,€€,Mairie du 2ème
+NCY1hqkHQaDXRUbF4nHx1w,Substance Café,8.0,5.0,48.86625,2.34917,0,Mairie du 2ème
+qsnDWWLY1VlpJ1-j05oyiw,Eels,16.0,5.0,48.873248,2.3499957,0,Mairie du 2ème
+l2MfmgWbln2Ipvx6nMotfQ,L'Estaminet,18.0,4.5,48.8514174,2.4431139,€€€,Résistance - Parmentier
+3YUMRBAAhzdRDqtCjZD3wQ,Rio Dos Camaraos,18.0,4.5,48.85322,2.42612,€€,Résistance - Parmentier
+9zeGyZ4Jjxqy3CIDBatpgg,Mac Pizza,1.0,5.0,48.85668,2.42884,0,Résistance - Parmentier
+wLJauRAVfiy9Bvm1OBlqmQ,Rêv Café,1.0,5.0,48.8531199,2.4235699,0,Résistance - Parmentier
+ucR5AA4Zc7ZRCphXhEav8A,Mijoté,1.0,5.0,48.85275,2.42785,0,Résistance - Parmentier
+Ci-iMtynez8b-t4UIQGBIw,L'Etoile d'Agadir,4.0,5.0,48.8146,2.38196,0,Gare RER - Maurice Grandcoing
+wOFpoPg2XcPlBreHrkL8iA,Pasqualina,7.0,4.5,48.8108411,2.379714,€€,Gare RER - Maurice Grandcoing
+MKmz0ptJQ0ESQpIkmwLHiA,Bouche à Oreille,5.0,4.5,48.8130762720557,2.39383624173354,€,Gare RER - Maurice Grandcoing
+MYbGL7JiVwBEMThS-9pMbA,Al Dabke,13.0,4.5,48.8109589,2.3838401,€€,Gare RER - Maurice Grandcoing
+FDrFOa-4-qSmmwApdOZGjA,Junmai,7.0,4.0,48.8082363,2.390976,€€,Gare RER - Maurice Grandcoing
+7BNaV_t860PA6ID7SXdBdg,Corner 42,1.0,5.0,48.8146056,2.3838657,0,Gare RER - Maurice Grandcoing
+ymRpMJ0kHHAlChHqOru_wg,Chez Alain,4.0,4.5,48.810571227223,2.38435638737949,0,Gare RER - Maurice Grandcoing
+VHaYSjuEGzSRHS14pTCs3Q,L'imprévu,3.0,4.5,48.805,2.40511,€€,Gare RER - Maurice Grandcoing
+4YPA4DHpi6du5ZQiGABcCQ,Le Bistrot Burger,4.0,4.0,48.81805,2.39818,0,Gare RER - Maurice Grandcoing
+ycitZAVFX7jP8SlPjB_SZQ,Sushi Yaki,3.0,4.0,48.81456,2.40085,€€,Gare RER - Maurice Grandcoing
+kHnkpReaNAYZkqyl807Qng,Pedra Alta,14.0,3.5,48.814825,2.389775,€€€€,Gare RER - Maurice Grandcoing
+lG2aPgVQMW8YmvoNzLDkfA,L'escale,2.0,4.0,48.8107414,2.3911901,0,Gare RER - Maurice Grandcoing
+gIrFjcWGwjOYBqlf-Tfyqw,Boucherie Boudjay et Frères Bbf,2.0,4.0,48.813055,2.38822,0,Gare RER - Maurice Grandcoing
+l0z9LfhJQ-B_KpB-KGhBbg,Mak Boucané,2.0,4.0,48.8207703,2.40237,€,Gare RER - Maurice Grandcoing
+GkYk16xvQs33vnqe_Vgc2A,Hôtel COQ,7.0,4.5,48.83293,2.35729,€€,Bobillot - Tolbiac
+BjAR-v4S7x_Xzf5-EcveDQ,Café des Dames,5.0,4.5,48.87805,2.37071,€€,Euryale Dehaynin - Loire
+oljvmpjZBKv5lm58Jq7XRw,Le Jeroboam,55.0,4.5,48.82906,2.31693,€€€,Gergovie - Alésia
+Zkz4TNWf-nooLvoUVQRuFQ,La Sablière,6.0,4.5,48.8324,2.32087,€€,Gergovie - Alésia
+W9FYeTUI8d5YHbVyUBmS-A,L'Alexandra,6.0,4.5,48.83301,2.31978,0,Gergovie - Alésia
+8Hx-wGCLks3E7Ai6zGFsvQ,Dokkebi,16.0,4.5,48.8323402,2.3152699,€€,Gergovie - Alésia
+C9bdgKJqAn8vYrxgaWreyQ,Bona Suzy,5.0,4.5,48.8241935408142,2.32443146885388,€€,Gergovie - Alésia
+VC8GEfn_5KkReOIEpVtJRQ,Caminito Cabaret,23.0,4.5,48.826956,2.374429,€€,Pierre Joseph Desault
+oJBKrtRF6rmiQC3n5PreyA,Taiyaki,7.0,4.5,48.82345,2.36581,€,Pierre Joseph Desault
+yyFIOhLbnFu2swe06qCwlg,L'Arobase,46.0,4.5,48.8298085910156,2.37442016601562,€,Pierre Joseph Desault
+GrFah77tQIU3t_kKVLx4hQ,Arc en Ciel - Couscous Maison,2.0,5.0,48.82753,2.37109,0,Pierre Joseph Desault
+6geF1RrWjgLn4cX8xSpNnw,Arlocchino,2.0,5.0,48.82753,2.37109,€,Pierre Joseph Desault
+7EkrWK89QUqlTNQrjJ73Gg,La Gatinaise,2.0,5.0,48.820888,2.3669564,0,Pierre Joseph Desault
+K7LaF225SlyyEqSdjHtcMg,Le Chasse-Marée,4.0,5.0,48.8543282,2.2690301,0,George Sand - Jean de La Fontaine
+M5OZSQETvSRPVbLdWDwIYw,Le Gros 7,3.0,5.0,48.8512688,2.2773499,0,George Sand - Jean de La Fontaine
+Be2Pbda2li3cHmmXLILbZg,Bistrot Bleriot,6.0,4.5,48.8507719,2.2775587,€€€,George Sand - Jean de La Fontaine
+dobldPbb3uh6Uet7OBm5-g,Miniatures,12.0,4.5,48.8494987,2.2760999,€€€€,George Sand - Jean de La Fontaine
+3suJu-667dRPuqRd7Te_Dg,Au Relais Chardon,4.0,5.0,48.8412,2.26362,€€,George Sand - Jean de La Fontaine
+zqh6jyBabvzC92bxW2Gjyg,Il Far'niente,32.0,4.5,48.849545,2.268463,€€,George Sand - Jean de La Fontaine
+K6xEXWv-5OV_H5wLmaC1mw,Chez Paolo,13.0,5.0,48.88175,2.33394,0,Legendre - Nollet
+YbycGye-bTcq5s8vCj_0ow,Emile & Jules,4.0,5.0,48.8822595,2.3144342,€€,Legendre - Nollet
+JNtpahsAngLdvVJmxnE2cQ,Aux Délices de l'Etoile,4.0,5.0,48.8267967,2.2792602,€,Colonel Pierre Avia
+8Vep7z2JA-lzObsah5PbRw,Tra di Noi,3.0,5.0,48.8379199676777,2.28191312402487,0,Colonel Pierre Avia
+cL5fGCT3-dGfOEulLI-joA,Les As Os,3.0,5.0,48.8358994,2.2883799,€€€,Colonel Pierre Avia
+lajtG0dwreoQ29FU5Y5f_A,Aux Plaisirs de Vasco,4.0,5.0,48.83526,2.28545,€,Colonel Pierre Avia
+bn19ObsRa9suEi9yWg-5CA,La Table Marocaine,10.0,4.5,48.834297,2.287859,0,Colonel Pierre Avia
+al4Rqn-y-u_Z79atrDaVMw,Punjab Palace,13.0,4.5,48.83772,2.2861,€€,Colonel Pierre Avia
+jNk8Deos5q4rp2A1RWZ9HQ,Daso,9.0,4.5,48.82595,2.27823,€€,Colonel Pierre Avia
+NgrtKocyYmLtmp2jKzDsWg,Côté Sushi,7.0,4.5,48.8333595390922,2.28882883432391,€€,Colonel Pierre Avia
+g9ig7BLxpOXCkV1577dz5A,Picotte,5.0,5.0,48.8662,2.36753,0,Guillaume Bertrand - République
+tXUEgPAskgZoG1fLxFph0w,ALMA,10.0,5.0,48.8577406800785,2.36776560544968,€€,Guillaume Bertrand - République
+psgyozH6OXYLu-q3PAiNlw,Au Pain Saint Gilles,8.0,5.0,48.857613,2.367484,€€,Guillaume Bertrand - République
+G_h2fX0yRz-qMeTOfs7vYA,Baāgaā,34.0,4.5,48.865169108764,2.28736605495214,€€,Jean Bologne - Passy
+G7sJRDfxYtK77reZkRyXag,Le Bistro de Longchamp,19.0,4.5,48.86511,2.2892,€€,Jean Bologne - Passy
+E3PvQMOiAnCVTUgPSU1mJQ,Le Volant Basque,241.0,4.5,48.8499,2.29127,€€,Jean Bologne - Passy
+_NIqfAkvcwqq_EGwoNVVPA,Jeremie Restaurant,12.0,4.5,48.865,2.2897,€€€€,Jean Bologne - Passy
+fK946J51hqdGSzBqRK-g3A,Speed Rabbit Pizza,9.0,4.5,48.86577,2.28952,€€,Jean Bologne - Passy
+tNE6LVL-ULRqwx9rgSp8uA,Sanki,56.0,4.5,48.836372,2.251768,€€€,Point du Jour - Jean Jaurès
+woe46ynr7LUMHmDWghuCuQ,Frères Zhou,2.0,5.0,48.8367257489066,2.25264392023769,0,Point du Jour - Jean Jaurès
+c9TxmrGiYAePoc-88-kl3w,Bagelstein,2.0,5.0,48.8361588,2.2370501,€,Point du Jour - Jean Jaurès
+K_IVEfjDHORtnAtK40WfvQ,La Padella,2.0,5.0,48.8278,2.24641,€€,Point du Jour - Jean Jaurès
+Rke7WEUz9APaI4Mu9GUs1A,MaSa  - Manipulateur de Saveurs,4.0,4.5,48.8351,2.24446,€€€€,Point du Jour - Jean Jaurès
+7yHQXu5CQnbdDb8e2w9RgA,Musée Fragonard,2.0,5.0,48.813657,2.421426,0,Ecole Vétérinaire
+sceAP8ZhJLMzIMhA2iwqOw,Guiseppe,1.0,5.0,48.81441,2.42019,0,Ecole Vétérinaire
+d2-084oRPaJdVZxQrwEovQ,Crok et Tartines,1.0,5.0,48.819918,2.4158559,€€,Ecole Vétérinaire
+wtyAjXRCSBpRe-vGeXcX2g,Lacrima Cristi,1.0,5.0,48.8186943,2.4181447,0,Ecole Vétérinaire
+rOPra9-1Awkd8LAOAE9dHQ,La Bolée d'Arvor,8.0,4.0,48.81909,2.41685,0,Ecole Vétérinaire
+jzudgXTV1e7ZX1Bl2dW0qg,Chez Giovanni,2.0,4.5,48.8134516,2.4258996,0,Ecole Vétérinaire
+2l-xB8TRHb-JtTBHy22hwA,Sushiyuki,2.0,4.5,48.82132,2.41978,€€,Ecole Vétérinaire
+gUdqjK6d6yjE1bcXxVhPzA,La Paillotte,2.0,4.5,48.813731,2.413935,0,Ecole Vétérinaire
+_a81jjf6ennXAvL_F0AkNg,Zen Sushi,4.0,3.5,48.81784,2.41846,0,Ecole Vétérinaire
+3yLiEblgH3zgTzrmI8ypXw,L'Orchidée d'Asie,2.0,4.0,48.81558,2.428981,0,Ecole Vétérinaire
+GOZvP4ihp2uf6h8CGRymaw,Le Clin´s Factory,2.0,4.0,48.8152071551803,2.418907,0,Ecole Vétérinaire
+R4_e4MqgH-uXCtqidoRWLA,Le Barbecue,2.0,4.0,48.8223785,2.4166384,€€€,Ecole Vétérinaire
+s0KEjp_64D7I7dLHN_8Zbw,Pane E Vino,3.0,5.0,48.9014769741503,2.30574503254753,€€,Gustave Eiffel - Parc des Impressionnistes
+K_Yk2TrrO4wVI8vnjCjdTQ,La Bonne Table,16.0,4.5,48.9051254,2.3019795,€€€,Gustave Eiffel - Parc des Impressionnistes
+9ZoYeUrT40oxl3Ik5RrtdA,La Cocotte et la Marmite,12.0,4.5,48.9008272,2.3039632,€€€,Gustave Eiffel - Parc des Impressionnistes
+qMPGNDvZ6xdnwoomTSRHEA,Auberg'In,10.0,4.5,48.9004773,2.3042468,€€,Gustave Eiffel - Parc des Impressionnistes
+Ey3PHSfPswo3_KOojYJqhg,Le Kavéri,28.0,4.5,48.9124233,2.3013269,€€,Gustave Eiffel - Parc des Impressionnistes
+wWq6yGoMDqQadze1gn8Ycw,Domi's,6.0,4.5,48.90435,2.30335,€€,Gustave Eiffel - Parc des Impressionnistes
+G2ey0HnPMFguxpDjV03yew,Olive et Balsamic,2.0,5.0,48.8954578,2.2967446,€€€,Gustave Eiffel - Parc des Impressionnistes
+Gq4QC2N6l51q6sVzMaXEIQ,Les Vendanges,4.0,4.5,48.9011051891588,2.30526470127753,0,Gustave Eiffel - Parc des Impressionnistes
+TPltxpy-cGjHcKC6Ex3efw,Pizza Times,2.0,5.0,48.9012108,2.3005525,0,Gustave Eiffel - Parc des Impressionnistes
+d5s9ZX9zJtsqIXzMm_h0IA,Hbro,3.0,4.5,48.90232,2.3024,0,Gustave Eiffel - Parc des Impressionnistes
+hi8PwxO-WAXmOPZ7YwI8Lw,Pizza Catania,7.0,4.0,48.8951,2.29181,0,Gustave Eiffel - Parc des Impressionnistes
+rMbUAzE_yeNbD9aNaCPDEg,Mombini,6.0,4.5,48.8388668598407,2.29902222558599,€€,Pierre Larousse - Raymond Losserand
+Tf7C0iP7leWOuhCKIG4c4A,Le Petit Pan,7.0,4.5,48.83311,2.30589,€€,Pierre Larousse - Raymond Losserand
+2CyOhmNkTvrPkF8BHn9zEw,Casa Dagusto,7.0,4.5,48.8324680949386,2.32001725584269,0,Pierre Larousse - Raymond Losserand
+3WAwB6GqfV-3x0sgcKvvlQ,Les Saveurs du Sichuan,14.0,4.5,48.825039,2.32348,€€,Pierre Larousse - Raymond Losserand
+7O-jfqLq2tQtBbe8bPusiA,Tomo,9.0,4.5,48.8410606,2.4175,€€,Cours de Vincennes - Davout
+YfBy-nGsh_zkavnY-ZP5wA,Brûlerie du Rendez-Vous,6.0,4.5,48.84469,2.40567,€€,Cours de Vincennes - Davout
+MclbOIDIHINQsDQp216EwQ,Le Picotin,46.0,4.5,48.843763749503,2.4023244327406,€€€,Cours de Vincennes - Davout
+Ad0hO5bHmU3x2q8Et5rj8Q,Chez Nunzio,2.0,5.0,48.846241,2.397281,0,Cours de Vincennes - Davout
+m5SD1lh5_fRAXaw_lvV7MA,D'Oro,2.0,5.0,48.83907,2.40405,€€,Cours de Vincennes - Davout
+2sqqOdxJKSo_wx6YLbT2MQ,Restaurant Bucovina,2.0,5.0,48.843558,2.402048,0,Cours de Vincennes - Davout
+QWZqTxXmrCy50vL7YKWjRw,Le Petit Hugo,2.0,5.0,48.838231,2.404083,€€,Cours de Vincennes - Davout
+bMAhMnutnfobLcNfycNmuw,Au Bout du Monde,2.0,5.0,48.8521,2.40634,0,Cours de Vincennes - Davout
+nX_X7AzAPIvxC37TzyFblg,Paris Polska,10.0,4.0,48.85413,2.40004,0,Cours de Vincennes - Davout
+iVvV7JHbzlmZXcKt8i2piw,Yotaro,5.0,4.0,48.85232,2.40384,€€,Cours de Vincennes - Davout
+Du4-X3V6K6S4_ginLEwM3w,Poni,8.0,5.0,48.8768728554797,2.33698256313801,0,Clignancourt - Sofia
+_0r47Ndaf4ai9FW4fcWrng,Piano Piano,2.0,5.0,48.80442,2.1775,0,Hôtel de Ville de Chaville
+j48aLL6T0fRl5jOc8SKQDg,Lotus d'Or,4.0,4.5,48.8112578,2.1916009,€€,Hôtel de Ville de Chaville
+U82beEQrJl619WDfAC5zpA,Kim Yang,1.0,5.0,48.816408,2.1944809,0,Hôtel de Ville de Chaville
+KLwpyHbVp5ngZEGnsAmsNg,Olivier le Boulanger,1.0,5.0,48.809155,2.188013,€€,Hôtel de Ville de Chaville
+_D56zcgU464U9TRzwx_2vg,Parc de la Mairie de Chaville,1.0,5.0,48.8093784,2.1887355,0,Hôtel de Ville de Chaville
+k6JuNL5wIHDDhBwXMdHbiw,Le Palais de Maharajah,2.0,4.5,48.8054,2.1837,0,Hôtel de Ville de Chaville
+HFFDUgNmlH6j4dUJleUlWQ,Bistrot de Chaville,2.0,4.0,48.80961657,2.18926325,€€,Hôtel de Ville de Chaville
+BsjxampP1hZw8D4L3YXPQA,San Marco,1.0,4.0,48.81215,2.19111,0,Hôtel de Ville de Chaville
+Vflr05BvU3IArpY1VUgvEQ,Le Nova Klub,1.0,4.0,48.8000552887724,2.19121094805798,0,Hôtel de Ville de Chaville
+BguzdE4c3SgiLECDjlGGxg,Bistro de la Pointe,1.0,4.0,48.8055533741786,2.18446742964271,0,Hôtel de Ville de Chaville
+FwS2IhT8fPUZjUUv9UJQKw,Soirée Angkor,1.0,4.0,48.8075425,2.1860906,€€,Hôtel de Ville de Chaville
+s4kajb26Y_bdRr3STXhJfg,Yamada 8,2.0,3.5,48.815979,2.19414,0,Hôtel de Ville de Chaville
+CqahvUjF0G9ek-evvPZe0Q,Speed Rabbit Pizza,4.0,2.5,48.8157432,2.1936802,€€,Hôtel de Ville de Chaville
+k4b-XsvfqFNBSqE_Mafemg,Sunset,1.0,3.0,48.80801,2.18702,0,Hôtel de Ville de Chaville
+eChiswjoRHKrjskRtJu00g,Palais Nippon,2.0,2.5,48.8003013,2.18465,€€,Hôtel de Ville de Chaville
+0G3dwXqveeURdFTIiJNSTg,Prêt à Manger,4.0,5.0,48.88283,2.26763,€,Madeleine Michelis - Roule
+4EyI-2KItwBN9TCohvSOig,Yoyo,3.0,5.0,48.88171,2.28966,€€€€,Madeleine Michelis - Roule
+rEB6le27-sbREL4KezB9kg,Kirane India,20.0,4.5,48.87801,2.28555,0,Madeleine Michelis - Roule
+2KKeZ4nX20tWG1DGYTq85w,Le Pergolèse,48.0,4.5,48.87439,2.28289,€€,Madeleine Michelis - Roule
+ddshc2_LFf68XC458dx3GA,La Gazette Paris,29.0,4.5,48.87523,2.28647,€€€,Madeleine Michelis - Roule
+9ODa0tzVw3Sn9ZlGBZtDPQ,Aux Delices Parisiens,5.0,5.0,48.911503,2.2411537,€,Mairie de La Garenne Colombes
+So2c0LEw8142-dgXuERlbg,Au Petit Chalet,13.0,5.0,48.913801,2.235881,€€,Mairie de La Garenne Colombes
+vab1F8v52U9-Ya8gNR3bPQ,Villa Min,9.0,4.5,48.8993899,2.24576,0,Mairie de La Garenne Colombes
+LYW9u8sZs57PrLad00zcdg,Les Marines,9.0,4.5,48.908818,2.25168,€€€,Mairie de La Garenne Colombes
+mi2HN03GfT95eSxSIgwrsg,La Grange aux Crêpes,7.0,4.5,48.9059071,2.2528277,€€,Mairie de La Garenne Colombes
+vPi2XGg6y1czjnrLolZ75Q,Le Saint Joseph,19.0,4.5,48.907441,2.241003,€€,Mairie de La Garenne Colombes
+b_6uSJPYQjsB8jzBE0BcOQ,Olympique 1924,6.0,4.5,48.9069,2.2404,€,Mairie de La Garenne Colombes
+7r_pSAFACWtXE3l9f3RyeQ,Trouart Bruno,2.0,5.0,48.89888,2.24646,€€,Mairie de La Garenne Colombes
+zceKRHQNcfg-8dpL_LTwcA,Thaioria,20.0,4.0,48.901980292095,2.2393620484059,€€€,Mairie de La Garenne Colombes
+ULxaZItozE3r_xftjPm-dA,pic a glaces,1.0,5.0,48.9138221,2.2388893,0,Mairie de La Garenne Colombes
+eMqz3srR2fd_9yv918k4dQ,La Diva,1.0,5.0,48.9071388,2.24314,0,Mairie de La Garenne Colombes
+S2n0c2-J0aCqaQ1zlNfspw,Le Soleil d'Antalya,1.0,5.0,48.9038152727611,2.25606995215102,0,Mairie de La Garenne Colombes
+ys7txWUPL844PjSwNI3e_w,O11ze,1.0,5.0,48.90907,2.24736,0,Mairie de La Garenne Colombes
+Fm8t-aDBD2UvnlwGit943Q,Caves Bourdin,1.0,5.0,48.8976582,2.2474688,0,Mairie de La Garenne Colombes
+H86oVZ2SWQI0eRj7cginow,Capriccio,1.0,5.0,48.9076941,2.2477702,0,Mairie de La Garenne Colombes
+t46JBReaB4xTQ9uD-2RLgA,Solques Bruno,19.0,4.5,48.8428,2.34137,€,Boulard - Daguerre
+kuFyh0bNUJuF1v8CJ447AQ,Ducky's,22.0,4.5,48.84054,2.33462,0,Boulard - Daguerre
+Ho1rQgdFwwRP6oqaqe8MOg,Le Oken,7.0,5.0,48.8605971995721,2.35489436461855,0,Place de la Bastille - Bourdon
+SrXJNzZVyqgAJWHJ5ERQug,Apéti,6.0,4.5,48.84827,2.32394,€€,Place Jacques et Thérèse Tréfouël
+1W3eqDoP-udoLV_pjawWug,Flea,5.0,5.0,48.9029443,2.3425186,0,Blanqui - Docteur Bauer
+GOzgHvNY9qGFSLHdNZ7d2Q,Red Gold & Green,6.0,4.5,48.908029,2.344096,0,Blanqui - Docteur Bauer
+m7TQieZVrdcqflApHiU-vg,La Chope Des Puces,6.0,4.5,48.90477,2.33811,0,Blanqui - Docteur Bauer
+WwXPbv3fvK7fRCqoob0xaw,Une Affaire de Famille,4.0,5.0,48.9042653086691,2.33909,€€,Blanqui - Docteur Bauer
+cYCENbYpJZ8sYk5AQN-RXA,Red Gold & Green,4.0,5.0,48.9012765,2.3379582,€,Blanqui - Docteur Bauer
+_O4gaApJQ_vqP8OKlzwP4Q,La Puce,11.0,4.5,48.9090912,2.3320244,€€€,Blanqui - Docteur Bauer
+KiZR5NIk_iba3AXS2raRbA,Nagoya,9.0,4.5,48.905219,2.331721,€€,Blanqui - Docteur Bauer
+G7l4Qhr-3Q4YDZtule6p1Q,MOB Hotel - Restaurant,5.0,4.5,48.90569,2.3360599,0,Blanqui - Docteur Bauer
+20MkPf5YFiGV_QrWq7sAbg,Les Gastropodes,14.0,4.5,48.9013069272251,2.34124205088324,€€,Blanqui - Docteur Bauer
+bVc3sFBXzYf8M8bObMNNKg,La Pericole,7.0,4.5,48.903032,2.336487,€,Blanqui - Docteur Bauer
+H0RVV5ydCfxpJ4H3k7ZF4A,Le P'tit Landais,2.0,5.0,48.9041214,2.33887,€€€,Blanqui - Docteur Bauer
+LeT992tuD-7sXxWzo3b3Tw,Sana Marcello,3.0,4.5,48.9048309,2.3380101,0,Blanqui - Docteur Bauer
+8N3LTC-Li77zpn5NkXIu0A,Le godillot,3.0,4.5,48.90953268,2.34123809,0,Blanqui - Docteur Bauer
+hwfCJCxtt41_8pgGfZnbOA,Biron Le,1.0,5.0,48.90265,2.34151,0,Blanqui - Docteur Bauer
+K20IsRYv0xwiztpq5XBTnw,Michelet,1.0,5.0,48.90763,2.34417,0,Blanqui - Docteur Bauer
+lnlVtGV8kxp0GEwPwGOLoQ,La Petite Venise,2.0,5.0,48.91549,2.29014,0,Marceau Delorme - Pierre Brossolette
+L7d-EQUR8WybSqOiJlszaw,Royal92,1.0,5.0,48.9049062,2.3023698,0,Marceau Delorme - Pierre Brossolette
+ikLPLNIzNtNLG6435ZccHw,Coulée Verte du Sud Parisien,5.0,5.0,48.8086013793945,2.2872200012207,0,Avenir
+2969AvYrTCsmP-fxTz-0Lw,Jardin d'Asie,5.0,4.5,48.812478,2.301028,€€,Avenir
+Grixkfss8zJyfaUEnA6NAg,Au Couscous,4.0,4.5,48.8114444,2.3137624,€€,Avenir
+NSVra69-XT2g5kose-hZDg,Citron Meringué,7.0,4.0,48.80359,2.28816,€€€,Avenir
+alK32dk5lEKghN4c6FHG3A,Le Barbezingue,17.0,4.0,48.80314,2.28991,€€,Avenir
+TMhKxJx-QQCxQXvNFY2wmg,Le Rouge Gorge,1.0,5.0,48.8168,2.30929,€€,Avenir
+TTkYrl5eXfOWqR0esY2Tuw,Miyakito,1.0,5.0,48.81662,2.30654,0,Avenir
+DZN-T4fHiASR2VKLeG-Oyw,Chaillet Dominique,1.0,5.0,48.81659,2.29253,€€,Avenir
+vyvN8xIkrZBN9Y7NRKZeCg,Boulangerie Ganne,1.0,5.0,48.81621,2.30945,€€,Avenir
+C61JHv2LBdEvbIdN3VYhmg,Le Jade Royal,1.0,5.0,48.8031732,2.2882547,€€,Avenir
+nq9BpTIeRZzm7hfTLa60xQ,Eat Chicken,1.0,5.0,48.81567,2.31062,0,Avenir
+he1IQ4dM0mlFeTrSAFDOwA,Pizza Siciliana,1.0,5.0,48.80945,2.29523,€,Avenir
+0vR4bJMsRIiFUquq2bwQgg,La Crêperie du Coin,8.0,4.5,48.7999099,2.28956,€€,Division Leclerc - Kléber
+x8saJWoTvP806Eznxr3MLA,Le Royal Fontenay,2.0,5.0,48.7926668,2.2847947,€€,Division Leclerc - Kléber
+Ta6o2mG6OrfDpKdhsUfeBA,Innovizza,3.0,4.5,48.7920189019389,2.28680983185768,0,Division Leclerc - Kléber
+71l-ibe0wjh5FNqvhsrnwQ,Par Faim d'Arômes,13.0,4.0,48.7936364217333,2.28499356844329,€€€,Division Leclerc - Kléber
+zCG2ePWSiXxsWgHAiC62Sw,Fromagerie Co,1.0,5.0,48.80075,2.28798,0,Division Leclerc - Kléber
+uXDdr1ZlxawGlrpsRfvZtA,Le Darling,1.0,5.0,48.798347,2.287321,0,Division Leclerc - Kléber
+bCFm_UWwhiyoPStWjHigTw,Via Veneto,5.0,4.0,48.80031,2.2896899,0,Division Leclerc - Kléber
+spRWDHUhdSyMwfr4_QWXgA,Dinapoli Pizza,1.0,5.0,48.7923406,2.2851505,0,Division Leclerc - Kléber
+FprAiHz74ubnT75EIYvIsg,Etoile de l'Inde,7.0,4.0,48.80082,2.2878,€€,Division Leclerc - Kléber
+zsmZxkzFXSHk6Zt4M1PbJA,La Royaltine,1.0,5.0,48.80148,2.27832,0,Division Leclerc - Kléber
+JxGL8zxzZlWWpen-hCaCFg,Boucherie El Mesraoui,1.0,5.0,48.8045238,2.2893042,0,Division Leclerc - Kléber
+Kjnxs5A--m6lwY_cb2Btmw,La Fournée Gourmande,3.0,4.5,48.8005,2.28855,€€,Division Leclerc - Kléber
+KYqh1sfd9Vr5MFXRpWoKRA,Kashmir Palace,3.0,5.0,48.9510504566982,2.20281800317991,0,Martyrs de Châteaubriant - Jean Grandel
+sypgvOxFw9o0XL35ht41Xw,KFC,1.0,5.0,48.9484245575324,2.19924108206874,0,Martyrs de Châteaubriant - Jean Grandel
+ptH73KHvHfRCrQwFRRorzQ,Courtepaille,3.0,4.0,48.9502859,2.2068146,€€,Martyrs de Châteaubriant - Jean Grandel
+s6gjX-fk_KvDROWisXC_sQ,Miu Sushi,2.0,4.0,48.949,2.20593,€€,Martyrs de Châteaubriant - Jean Grandel
+ob0SlrBZtkyg4EDzRlb8hw,Mac Donald's,3.0,3.5,48.948101,2.207682,0,Martyrs de Châteaubriant - Jean Grandel
+_r3tLiS7leOFJHOyXAopZQ,Au Bureau,2.0,3.5,48.950308,2.20409,0,Martyrs de Châteaubriant - Jean Grandel
+qdd3KbphXk2X6Pz0YAYqrQ,Tablapizza,4.0,3.0,48.949429,2.206296,0,Martyrs de Châteaubriant - Jean Grandel
+UmI1pa5SCW6oOk9Dw_TV3Q,Poivre Rouge,1.0,3.0,48.950817,2.203373,0,Martyrs de Châteaubriant - Jean Grandel
+ynTtQJ2uMrN26lLu0s1fDw,Buffalo Grill,3.0,2.0,48.959612,2.202181,€€,Martyrs de Châteaubriant - Jean Grandel
+fOToTzoXBeOdSFYhst6e9Q,Burger King,1.0,2.0,48.9512838174804,2.20185173677066,€,Martyrs de Châteaubriant - Jean Grandel
+AZUXF5luRZEqtgne0afZ8g,Volfoni,1.0,2.0,48.950753,2.203561,0,Martyrs de Châteaubriant - Jean Grandel
+jG7NOKZdt0Db_uk17v4paw,Olivier Donnette,1.0,5.0,48.9005438,2.4785785,€,Moscou - Edouard Vaillant
+Dcus2Es3kHsYJPWqVnYBNw,Ohi Sushi,2.0,4.5,48.9087912320528,2.45629895478487,0,Moscou - Edouard Vaillant
+1M3LmS7ig4U_Fn24naGHsA,Le Chêne,4.0,3.5,48.903267,2.480494,€€,Moscou - Edouard Vaillant
+PMkwPfmC3qgpIoqAYJ5twg,Buffalo Grill,6.0,3.0,48.9054063,2.4779304,€€,Moscou - Edouard Vaillant
+bg4RRtqMQ7huAK6FgZddBQ,Adl,1.0,4.0,48.9098754,2.4801308,0,Moscou - Edouard Vaillant
+NTXyqobfOO3MkqWoZqjmAw,Les Saveurs De La Casbah,1.0,4.0,48.9029327,2.4798623,0,Moscou - Edouard Vaillant
+bw-FeeoI3G6p6sfxf3N5GA,Rocket,1.0,4.0,48.90157,2.47079,0,Moscou - Edouard Vaillant
+nKgbyels-wU39bN28WGK_Q,Quinta Do Galo,1.0,3.0,48.9163584,2.4579627,0,Moscou - Edouard Vaillant
+vOH-l0AOnr9rZSo8JRnvzg,Pretty Pizza,1.0,2.0,48.90026,2.47949,0,Moscou - Edouard Vaillant
+OBOaF9UQnxUx-t376wvHxw,Maison Issa,17.0,4.5,48.8327,2.294,€,Bracion - Périphérique
+7sU6RiweLjouCbNLz96FEQ,La Escondida,3.0,5.0,48.833843,2.308681,0,Bracion - Périphérique
+dspHNJKMs4TorCLO6n7EjA,Mad'eo,15.0,4.5,48.83381,2.28956,€€,Bracion - Périphérique
+OXQ-eLkvBnNqyoAEg34DtA,Walczak François,7.0,4.5,48.83291,2.303619,0,Bracion - Périphérique
+oFH-mSHI2oIR9iPzx0rzfg,Aux Sports,5.0,4.5,48.834447,2.295736,€,Bracion - Périphérique
+-ItaIO4-QnuK-EHVV7onDg,Le Comptoir Vouillé,6.0,4.5,48.835,2.30417,€€,Bracion - Périphérique
+lh8kyKLF0YHb4K1_W5vzgQ,Le Borobudur,9.0,4.5,48.834837,2.291461,0,Bracion - Périphérique
+031_MIYHqcM407dqpzDSdQ,Guillaume Grasso,4.0,4.5,48.8335667268071,2.30443228036165,0,Bracion - Périphérique
+lFaDzW86LRHE47QgDTW4jA,Ristorante Italiano da Pupetta,2.0,5.0,48.833082,2.3040272,0,Bracion - Périphérique
+IWW8TVa5G9lRgwleZ6e44w,Pâtisseries et Gourmandises,6.0,4.5,48.9289155,2.2620512,€€,Ménil - Argenteuil
+lryGLNBv-MQZgKmOqHpKAQ,Le Chefson,29.0,4.0,48.9177030934496,2.27608364418029,€€€,Ménil - Argenteuil
+ez2UJVbggBGKGkNBc_qCVA,Boulangerie Bouhours,1.0,5.0,48.9209831,2.2693923,0,Ménil - Argenteuil
+r1ikC9C7Xirnq1xfeuDDYw,Laurent Chislard,1.0,5.0,48.9188524,2.2738766,0,Ménil - Argenteuil
+3ajIPoF3c4Y0cYyvh0861A,Pizza la Strada,2.0,4.0,48.9275676,2.2721125,0,Ménil - Argenteuil
+SYDQjIgUeurqAIVNUMRB_Q,Restaurant Japonais Miyako Sushi,4.0,3.5,48.9189288,2.2815756,€€,Ménil - Argenteuil
+tPe1CR1dBMaTmdw4expY4Q,Raja,2.0,4.0,48.9237820716312,2.26109314709902,0,Ménil - Argenteuil
+xJbADfma-BVwKut54CokLQ,Etoile d'Afrique L',1.0,4.0,48.92738,2.27274,0,Ménil - Argenteuil
+e-fcore0WD5N_J40_aGMag,sin chun hua,2.0,3.0,48.91699,2.2779729,0,Ménil - Argenteuil
+cWoRK7IzwrUMSwoJ485qnQ,francesca,4.0,2.5,48.918275,2.2795154,0,Ménil - Argenteuil
+GyqUjaPEApYd7QP02gxu8g,Navrang,3.0,2.5,48.91734883,2.27702245,€,Ménil - Argenteuil
+s18j6WjIhpOu1CHDBqEJEw,Hayashi Sushi Colombes,1.0,1.0,48.931633,2.266691,0,Ménil - Argenteuil
+ksBxomAPGfmBUHuP4UtvYA,Chez Louis,4.0,4.5,48.88807,2.38628,€€,Marseillaise - Grenade
+i5M0jlSo4eI_pXfdwNVAmQ,Tchao Pantin,2.0,5.0,48.89385,2.40425,0,Marseillaise - Grenade
+MWARvhGP6aAiazcydsHYLQ,L'Etoile,2.0,5.0,48.887099,2.386653,0,Marseillaise - Grenade
+x24WKop_7_sK6WzjnViIJA,Aux Arts et Sciences Réunis,24.0,4.0,48.887363406083,2.3867853048297,€€,Marseillaise - Grenade
+KOLp5VG6oUmtHAQOEAoSvg,Canal Burger,3.0,4.5,48.89414,2.40173,0,Marseillaise - Grenade
+swbPxkqbGi-SDDVrnKY9-g,Les Pantins,7.0,4.0,48.89529,2.40187,€€€,Marseillaise - Grenade
+8dukMPN_DYb6E0UjyQ1nlQ,Show Devant,6.0,4.0,48.79493,2.36624,€€€,Chastenet de Géry - Marcel Paul
+K_P-jJIvYc9_TA2cFrQpbw,My First Address,1.0,5.0,48.806583,2.363061,0,Chastenet de Géry - Marcel Paul
+LftFrkhdaUaMPknl4rnzHg,Le KB,8.0,4.0,48.80853,2.36266,€€,Chastenet de Géry - Marcel Paul
+S0lwCuaMEV9F34nNOLfGzg,Gusti d'Italia,2.0,4.5,48.7926517,2.3660555,0,Chastenet de Géry - Marcel Paul
+KWd1wgFV5ubfcc_zTV8ZnA,L'Adresse,2.0,4.5,48.79262,2.36824,0,Chastenet de Géry - Marcel Paul
+5QIzUMMoBFHo_GS92v60wQ,Tayama,5.0,3.5,48.7918,2.36657,€€,Chastenet de Géry - Marcel Paul
+pn5t5SyHamI1oQXuD-rg1Q,Diwan,2.0,4.0,48.8049897,2.3641401,0,Chastenet de Géry - Marcel Paul
+Ik3FZBsentqC8AMDurmqfA,Gli Angeli,1.0,4.0,48.7992461717586,2.36542940139771,0,Chastenet de Géry - Marcel Paul
+QD3ooBpspQOrI0s0CHqidg,Boucherie du Cotentin,1.0,4.0,48.8057627,2.3579685,€,Chastenet de Géry - Marcel Paul
+DhvUVBRKNnd3_4j7vgQV9Q,Speedzza,1.0,4.0,48.8048,2.369475,€€,Chastenet de Géry - Marcel Paul
+6O3GCORH2W2W1m_N46K7_Q,Le voccia,1.0,4.0,48.7992706,2.3654536,0,Chastenet de Géry - Marcel Paul
+oePomlZxIh6w53PpXooTrA,Sushi Lydoko,1.0,4.0,48.80698,2.36296,0,Chastenet de Géry - Marcel Paul
+lmNkg10A47pVX4h50_t-UA,McDonald's,4.0,3.0,48.79198,2.369908,€€,Chastenet de Géry - Marcel Paul
+IZFnqgGRMo6juKCO0ocxRA,Maison Caquelin,4.0,3.0,48.7948219557962,2.36626734722131,€€,Chastenet de Géry - Marcel Paul
+2nJN8CVSps7lNtdyWhir8w,Parc départemental des Hautes Bruyères,3.0,3.0,48.7933278,2.3536423,0,Chastenet de Géry - Marcel Paul
+cizV8r6XnVCGxlvnYYFCRw,Dragon D'Or,2.0,3.0,48.7953641,2.367228,€€,Chastenet de Géry - Marcel Paul
+NdQEZLTNoPecS7qOesc0gA,Tevet Reception,2.0,3.0,48.80764,2.36308,€€€,Chastenet de Géry - Marcel Paul
+gxck3bjA5kjYI0ggNfOOlw,Monopoli,3.0,2.5,48.7946,2.36151,€€€,Chastenet de Géry - Marcel Paul
+GqdAewJNDDR4Qk3xo8QmrA,Bertin Patrick,1.0,3.0,48.79277,2.36659,€,Chastenet de Géry - Marcel Paul
+ZSBDzVrKCNJyUiRxIa_6sQ,Musée Châteaux Malmaison,4.0,5.0,48.8743399,2.17338,0,Place des Arts - Jean Mermoz
+_V8e0TuyXrJYGeUw4xxNBQ,Michiko,8.0,4.5,48.873116,2.192175,€€,Place des Arts - Jean Mermoz
+3PCV9V60ApNV2J_buBwXPA,Le Patte Noire,3.0,5.0,48.87796,2.18335,€€€,Place des Arts - Jean Mermoz
+eg9mQfPdYxffoO3bJDslsw,Verana,3.0,5.0,48.878597,2.1825881,€,Place des Arts - Jean Mermoz
+k7EIezUS1GHxJc9ALIWJhA,Saucisson et Beaujolais,16.0,4.5,48.8794842,2.1844472,€€€,Place des Arts - Jean Mermoz
+nt8xaDJG81y_OLgE3KFV3A,Crêperie Joséphine,16.0,4.5,48.87604,2.18034,€,Place des Arts - Jean Mermoz
+UFbTHxUmyFqioAPgaKj2Gw,Shogun,9.0,4.0,48.876718,2.185089,€€€,Place des Arts - Jean Mermoz
+tCJbmHLHNL2IqOTeDS4lQA,Les Écuries de Richelieu,17.0,4.0,48.878756,2.182854,€€€,Place des Arts - Jean Mermoz
+cekPcWKzxABG20T_5_j6tQ,Rueil-Malmaison,3.0,4.5,48.8720142549189,2.17974310033579,0,Place des Arts - Jean Mermoz
+Tldn5fZ9-flOxh7OFiEu1g,Don Pepe,3.0,4.5,48.879768,2.180589,€€,Place des Arts - Jean Mermoz
+FsxmezhpqD1bXxBN1TxL9w,Parc de Bois-Préau,3.0,4.5,48.8727946098008,2.17146336285113,0,Place des Arts - Jean Mermoz
+P96N5Cq8UW6rJ5LgaijWOg,Comme O ViêtNam,3.0,4.5,48.8869143,2.172499,0,Place des Arts - Jean Mermoz
+WBzvF5BJU-HTpJ62aCddLA,Au Pain du Cardinal,10.0,4.0,48.8735306,2.1822212,€€€,Place des Arts - Jean Mermoz
+lQaY-u398z7t4lYp1vnfvQ,Le Bistrot Gourmand,7.0,4.0,48.87776,2.18274,€€€€,Place des Arts - Jean Mermoz
+L6mwTgmWYhyvaZR1fmvrug,Les Arts,6.0,4.0,48.8800392,2.1839099,€€,Place des Arts - Jean Mermoz
+loIXrQ-q3LOBgVyw2OZCAA,Paradise Kiss,1.0,5.0,48.887127,2.170913,0,Place des Arts - Jean Mermoz
+mb1As21kDU719nTSGerNCg,Le Ganesha,1.0,5.0,48.8785488797489,2.18243535608053,0,Place des Arts - Jean Mermoz
+yUEqSo1jVRlRTBMXNgdWpQ,Le Beauharnais,5.0,4.0,48.8760274,2.1808467,0,Place des Arts - Jean Mermoz
+SnNY0_BftioHVOT94zq7Tw,Halles du Portugal,2.0,4.5,48.770381436666,2.40870626787835,€€,Rouget de L'isle - Watteau
+pSrKZs4V211Gb-PEvN0D0A,Love Pizza,4.0,4.0,48.7711388,2.4037367,0,Rouget de L'isle - Watteau
+xS6tYa_c0AdWQq_fJm7qpw,Rollerparc Avenue,2.0,4.0,48.7813307,2.4079458,0,Rouget de L'isle - Watteau
+6IOdem6b0lgk4VbdGEaTPw,Le Délice Du Wok,1.0,4.0,48.7858086,2.3996301,€€€,Rouget de L'isle - Watteau
+AG-74tLizyzNYPdg97bIug,KFC,1.0,3.0,48.7841779288841,2.39291000336746,0,Rouget de L'isle - Watteau
+L4tYXryUg-uYk6fsU2qVNQ,Parc Départemental des Lilas,1.0,3.0,48.775848,2.387595,0,Rouget de L'isle - Watteau
+lmvpdXnfgz6k5NMmX-zwxg,Les Ardoines,2.0,2.0,48.7826,2.40944,0,Rouget de L'isle - Watteau
+p7we0TEB1MzcJRlQYTjogA,Fun academy,1.0,2.0,48.781801,2.407765,0,Rouget de L'isle - Watteau

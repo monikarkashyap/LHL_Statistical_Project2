@@ -1,345 +1,3259 @@
 category_id,category,fsq_id
-13031,Burger Joint,4dab2c0b0cb6a89c627db466
-13145,Fast Food Restaurant,4dab2c0b0cb6a89c627db466
-17069,Grocery Store,5e4a0fe2eebce700081eee5d
-17035,Drugstore,1de3109bb15746cb265b50d6
-11000,Business and Professional Services,5dea4bd629e58b00086af5bd
-12066,City Hall,cbb3734b7fe048b898863188
-11086,General Contractor,292131c291b84faf1093a3d8
-17041,Bridal Store,292131c291b84faf1093a3d8
-13002,Bakery,1431c40674be4036650fc5fd
-13047,Pastry Shop,1431c40674be4036650fc5fd
-17134,Tobacco Store,5d5dac0ec637630008798b50
-15047,Psychiatrist,46c92802c34f4d90afc070dd
-11076,Home Improvement Service,ba301494f81b4296bfa9b7e5
-11027,Computer Repair Service,6d01b1455d8f4c20b732221a
-11083,Electrician,6d01b1455d8f4c20b732221a
-12115,Utility Company,6d01b1455d8f4c20b732221a
-17066,Fish Market,4c11ce64a3574d4af621efd6
-17077,Meat and Seafood Store,4c11ce64a3574d4af621efd6
-17056,Flower Store,c0721363cb864146e968510f
-17018,Bookstore,780b67aeea4b4f99397c8d78
-10004,Art Gallery,8114df250ba3434b58e76d99
-11104,Import and Export Service,1a09d7d47e4540c88417efca
-13145,Fast Food Restaurant,4c8a038e1797236af7ae5d88
-13148,French Restaurant,4c8a038e1797236af7ae5d88
-12058,Elementary School,198187201fc041cb06f02fe1
-13003,Bar,4c4964e53013a5937348ace2
-13034,Café,4c4964e53013a5937348ace2
-13152,Brasserie,4c4964e53013a5937348ace2
-12066,City Hall,4d8dbe3dd4ec8cfac1e16089
-10030,History Museum,4ce0000faba88cfa4a7e4cd7
-13003,Bar,4e2860f6fa762797e59ca530
-13065,Restaurant,4e2860f6fa762797e59ca530
-13334,Sandwich Spot,4c6d7424a437224b5a192db1
-13145,Fast Food Restaurant,4c6d7424a437224b5a192db1
-17069,Grocery Store,4eb806c777c8972738207d33
-17069,Grocery Store,56d55ba3498ee789c288f73a
-17056,Flower Store,9a427bfe1f79428dd62f7ffc
-17131,Stationery Store,5a28b382a8eb600d856bd2f6
-17029,Convenience Store,4d7393f08e12b1f7674d4b05
-13152,Brasserie,4ea1b9c9e5facb29c6f43c40
-13276,Sushi Restaurant,4ea1b9c9e5facb29c6f43c40
-12086,Non-Profit Organization,51a2049c985a44ebf49638d3
-19014,Hotel,4fab990fe4b0eb9e9483aa53
-12075,Post Office,061fa093b44043d3b7ec50ed
-13152,Brasserie,527545e011d2215b96abcda9
-13338,Seafood Restaurant,527545e011d2215b96abcda9
-13148,French Restaurant,4c1635c277cea593e648d360
-13145,Fast Food Restaurant,4e0f5fdb8877936cb40ef389
-13148,French Restaurant,4e0f5fdb8877936cb40ef389
-13027,Bistro,4e04ddc51495806e9dcb035c
-13152,Brasserie,4e04ddc51495806e9dcb035c
-13003,Bar,4c3f3acb15e8ef3b6962300e
-13003,Bar,51619390011c770ada84bc6c
-13148,French Restaurant,4dfb3dca483b085eeda385fb
-13338,Seafood Restaurant,4dfb3dca483b085eeda385fb
-13148,French Restaurant,4c98ebe17b9d37041e5de285
-13338,Seafood Restaurant,4c98ebe17b9d37041e5de285
-13039,Deli,4dce6296e4cd130e1665060a
-13145,Fast Food Restaurant,4dce6296e4cd130e1665060a
-13000,Dining and Drinking,4dfc9845149599f28fcb1bed
-16003,Beach,4c598a6df346c9284fc14cca
-12075,Post Office,4da029da58c2224ba7294c79
-13199,Indian Restaurant,5f108d982242aa4af1950ec7
-17029,Convenience Store,5ce8f37cd552c7002c5a58bf
-13031,Burger Joint,5981f80d8496ca0ad0637fdb
-13145,Fast Food Restaurant,5981f80d8496ca0ad0637fdb
-13064,Pizzeria,5d66c44fd3702c0008e05bf4
-13064,Pizzeria,4fe03d10e4b0442971e2e4e8
-13148,French Restaurant,4fe03d10e4b0442971e2e4e8
-15023,Nutritionist,9a8dbfe320914acea8b8ff6f
-16026,Monument,7887d9b77eea4d9beb280b14
-19014,Hotel,5ac620d6535d6f7075a0d6ff
-10055,Water Park,4dcfc6d01f6eb122709bbc29
-11122,Metals Supplier,5b6e74578e3c45728ab7b391
-12051,Driving School,5d906eb7d3e64d048f20dbaf
-16008,Campground,56af1377498e8396507557a7
-11028,Construction,1b0ce9b0b41640e2f3ba92f0
-11076,Home Improvement Service,1b0ce9b0b41640e2f3ba92f0
-17028,Construction Supplies Store,1b0ce9b0b41640e2f3ba92f0
-10024,Movie Theater,4c542a51728920a1abd54a82
-17069,Grocery Store,4c3616ab3849c928546ebbb1
-17114,Shopping Mall,4b8f7d2ff964a520ee5533e3
-17036,Duty-free Store,551adff6498eed36b43fccd9
-17085,Housewares Store,4d8df9ddc1b1721e5b852446
-13003,Bar,4de284057d8b2547eb05ab5f
-13065,Restaurant,4de284057d8b2547eb05ab5f
-13002,Bakery,4f7f42e07b0cf18ae1af0ad6
-13145,Fast Food Restaurant,4f7f42e07b0cf18ae1af0ad6
-13334,Sandwich Spot,4f7f42e07b0cf18ae1af0ad6
-13031,Burger Joint,4c4ef3b49932e21e262296ce
-13145,Fast Food Restaurant,4c4ef3b49932e21e262296ce
-13064,Pizzeria,4ced2971840a9eb0cf999f13
-13383,Steakhouse,4ced2971840a9eb0cf999f13
-13152,Brasserie,4da2df31d686b60ce2c1c028
-10042,Opera House,4ce93d81595cb1f7e083cd14
-10043,Theater,4ce93d81595cb1f7e083cd14
-13065,Restaurant,4ce93d81595cb1f7e083cd14
-13145,Fast Food Restaurant,5c179eeed176e9002576033d
-18063,Soccer Club,4ec91d6599115348dae61177
-13145,Fast Food Restaurant,4d9306757b5ea14330eabdb8
-13055,Fried Chicken Joint,4d9306757b5ea14330eabdb8
-13000,Dining and Drinking,4d9306757b5ea14330eabdb8
-12058,Elementary School,74afac2b4d094c689adc6cb6
-13002,Bakery,5287ece6b3294d12cbc5bbc5
-13047,Pastry Shop,5287ece6b3294d12cbc5bbc5
-13065,Restaurant,5287ece6b3294d12cbc5bbc5
-13034,Café,4e22aec3d4c0d32590fb88af
-11064,Hair Salon,569e35b2498e7617ac043f92
-11072,Skin Care Clinic,569e35b2498e7617ac043f92
-12066,City Hall,569e35b2498e7617ac043f92
-18075,Swimming Pool,68ce1e79ea464ddcbeb352f9
-12058,Elementary School,230ffd52264340a2096cb142
-18048,Recreation Center,4e60e28ed22d509a38ed4787
-17096,Miscellaneous Store,57a3957e38fa6612ad5bea89
-17069,Grocery Store,5af58b8ebf7dde002c2667aa
-15014,Hospital,2c23f02b92ad4d96f686c2f7
-17035,Drugstore,14cb8ccece924941c348580f
-17000,Retail,5c9c80641acf11002c0e67a4
-17035,Drugstore,50602af0c3d0497bb797a979
-13065,Restaurant,4e844a727ee6358aac7f6305
-12051,Driving School,7e720e70664449f7546cbf05
-11057,Caterer,f5c7ce1970464302f4f50a2a
-17057,Food and Beverage Retail,f5c7ce1970464302f4f50a2a
-10006,Bowling Alley,50db0bdbe4b047bb1f3ff23b
-13003,Bar,50db0bdbe4b047bb1f3ff23b
-13064,Pizzeria,50db0bdbe4b047bb1f3ff23b
-12060,Middle School,24e48e66fde44f9fadbf78d2
-12009,Education,ffba1e5374554ea5e4d71809
-12010,Adult Education,010c7f316a70499524ba4707
-12010,Adult Education,9e7168b7ce5d4847162c3939
-16008,Campground,5b58d1eeb6b04b002c0b75f0
-17059,Butcher,4fb8dd10e4b0851f2a21014a
-17077,Meat and Seafood Store,4fb8dd10e4b0851f2a21014a
-17069,Grocery Store,4fb8dcd5e4b0e6b4aecb898c
-17069,Grocery Store,52691dd7498e87d7b26ad4bb
-13003,Bar,6939f493cde14e50aae4c2e4
-13065,Restaurant,6939f493cde14e50aae4c2e4
-17048,Shoe Store,5e1f7d5500b18a000888e1ee
-17069,Grocery Store,4f4284d8e4b0f7b45b5fa24f
-17076,Liquor Store,4bf007bf3a002d7f409485a4
-17080,Wine Store,4bf007bf3a002d7f409485a4
-17069,Grocery Store,4ece73f593ad987b4accd142
-13031,Burger Joint,4c5e9d9c7735c9b643499272
-13145,Fast Food Restaurant,4c5e9d9c7735c9b643499272
-12010,Adult Education,5fd5f44f4370575347d65016
-17028,Construction Supplies Store,4f52332de4b0ef96711f2b83
-17061,Cheese Store,0b1b1dba349b43b697594a31
-17061,Cheese Store,675784b6d793408a3e78ed5c
-17121,Fishing Store,91316eda42be4f00eb66f784
-17124,Hunting Supply Store,91316eda42be4f00eb66f784
-13068,American Restaurant,57336df1cd109952cafbe13f
-17082,Furniture and Home Store,594bb342f870fd0be726a1b5
-17117,Sporting Goods Retail,5eaacf6cf6205800084fe245
-17048,Shoe Store,54c9fb3264114179e1dd73f8
-17006,Car Dealership,d488822f334e443e3cb79084
-17035,Drugstore,64d67757f4bb4f8d9de4f4bb
-17035,Drugstore,5d6934a651bb40000822a8cf
-17056,Flower Store,5abf57c5d41bb7723c455aa1
-11057,Caterer,bca8dfafd3d3433293039519
-13065,Restaurant,bca8dfafd3d3433293039519
-17057,Food and Beverage Retail,bca8dfafd3d3433293039519
-12051,Driving School,4780bbcb319c48e39e784693
-17056,Flower Store,12d0aed0c61449d52c475d4f
-12010,Adult Education,5c51ab585455b2002c55c3f1
-12010,Adult Education,5c51ab97e55d8b0039aad47b
-17069,Grocery Store,4c4180e0ce54e21e3c2e0b1a
-17030,Cosmetics Store,4dd3fed7d22dc96be81329fe
-17043,Clothing Store,4ed108332c5bc35057acb3b2
-17043,Clothing Store,4d84c00361676dcb812479e4
-13334,Sandwich Spot,53493038498ea42cc62336ad
-13145,Fast Food Restaurant,53493038498ea42cc62336ad
-16003,Beach,4e7dfe1e7ee6ec382526a711
-13145,Fast Food Restaurant,4e05bde9d22d6585329af75b
-13148,French Restaurant,4e05bde9d22d6585329af75b
-13338,Seafood Restaurant,4e05bde9d22d6585329af75b
-12075,Post Office,841c04c0d9b449bbfbc32e4f
-16008,Campground,4fc4aacfe4b079c69e5ffbac
-13002,Bakery,5c55544f1af8520039f185c2
-12066,City Hall,4faad3f8e4b013e03a0875bd
-16008,Campground,652bb4cee77f4498004c3045
-18000,Sports and Recreation,e33a270311874a58301ab6ff
-17030,Cosmetics Store,6d4f757612834b6b72691588
-13065,Restaurant,5d44579a046acf00083342f0
-17069,Grocery Store,51eaa8c4498efab8dc0c611c
-11009,Automotive Service,510f00feff65462ff3e8b3de
-12005,Cultural Center,510f00feff65462ff3e8b3de
-12082,Organization,510f00feff65462ff3e8b3de
-18048,Recreation Center,6e3ea802e13f41d91c9ad643
-17061,Cheese Store,5d29a95d96ba5e0023e1b71f
-18000,Sports and Recreation,06ac4d738a4b4cbe823e69f7
-11012,Motorcycle Repair Shop,5304c7ea498eba0700106972
-12082,Organization,1e66734fa1d94e182fc3041a
-12075,Post Office,1fa81a978e5b419978cdcfd4
-12059,High School,5ad99bda9d204b4d3ee14f74
-17056,Flower Store,579c4b91498e2f42917cccd7
-11121,Media Agency,b2418a6887744225d8690692
-12058,Elementary School,2036622b66954245e863230b
-11024,Chemicals and Gasses Manufacturer,cf09860ee4ec4d51d862e1c4
-16017,Garden,5f0f492e268a064887e1cb65
-11097,Professional Cleaning Service,2e0032fe4f21463e1ba8295a
-11087,"Heating, Ventilating and Air Conditioning Contractor",0f2a8d29dce7447053e48e7f
-18047,Tennis Court,313dee71c50a4704e77eb7b7
-10055,Water Park,4f2e8031e4b0bd78b7e87d8f
-18047,Tennis Court,1a877f48ba964a7f1b30d4a3
-15023,Nutritionist,57d06f8c498e896e0adfcc93
-17096,Miscellaneous Store,57d06f8c498e896e0adfcc93
-17052,Women's Store,705a2d73a63d4cb1dead143a
-10056,Zoo,37ed57911c2c4d95af6f568c
-12058,Elementary School,ec5e96cec81343cbcb591eba
-12058,Elementary School,9c54538f9c5b482b53afb162
-13148,French Restaurant,d75720d655314faabab8f63e
-13065,Restaurant,5104b19561c74664bc9197a5
-11109,Laboratory,2643f732416b48611fb24990
-13002,Bakery,616e80abee0eea7a5ee23b5d
-13034,Café,616e80abee0eea7a5ee23b5d
-11104,Import and Export Service,43573230c4ba4d821b3658b9
-13065,Restaurant,43573230c4ba4d821b3658b9
-15000,Health and Medicine,1cd3ac1b7e394f472d87f08b
-15016,Medical Center,cdd87c0ab04740634db15712
-15014,Hospital,4d3482205017a093f6ac5b9b
-15000,Health and Medicine,37d3d9c996ce540d7b249a83
-15000,Health and Medicine,5b3df218780eee002cfa889a
-17034,Discount Store,5b3df218780eee002cfa889a
-17069,Grocery Store,5b3df218780eee002cfa889a
-11057,Caterer,53342eb8498e72792bbc993d
-11097,Professional Cleaning Service,303f2de30c88430db641bf70
-11151,Real Estate Development and Title Company,5df4f5ccc44c2900080e65cc
-11000,Business and Professional Services,55a8f1d1498e3cbb6c04dc4d
-11170,Telecommunication Service,72c58cb58b7f4efb5056556e
-16003,Beach,4e37cfd4483bda3eb1144499
-16000,Landmarks and Outdoors,2fbd62f49174410cfdb681a7
-13064,Pizzeria,c9d6231f8ae64ac3db20d2bf
-13145,Fast Food Restaurant,c9d6231f8ae64ac3db20d2bf
-13145,Fast Food Restaurant,2c0f3000911cf4b928da6d13
-16000,Landmarks and Outdoors,6b464c7c6182494fb7c80f57
-16024,Lighthouse,4dfde46e149599f28fcf9c21
-13338,Seafood Restaurant,4bdc6ed5c79cc9286f8486e9
-17077,Meat and Seafood Store,4bdc6ed5c79cc9286f8486e9
-13065,Restaurant,f391699bee49431e915477ac
-13003,Bar,5ac8cb4a598e643cd849eeb5
-13034,Café,5ac8cb4a598e643cd849eeb5
-13152,Brasserie,5ac8cb4a598e643cd849eeb5
-13034,Café,53d37cfe498e2d92df6d6bca
-13035,Coffee Shop,53d37cfe498e2d92df6d6bca
-13152,Brasserie,53d37cfe498e2d92df6d6bca
-17080,Wine Store,4f6caed1e4b01489b8e73815
-12006,Disabled Persons Service,c4eb3ad93f3943fc63a712f7
-17069,Grocery Store,415adc1f2e794fad4d987b1d
-17080,Wine Store,415adc1f2e794fad4d987b1d
-17057,Food and Beverage Retail,579d713da838481e3766b9c9
-13031,Burger Joint,54995a08498ef4e3798b2d3a
-13145,Fast Food Restaurant,54995a08498ef4e3798b2d3a
-15009,Ambulance Service,f37ce0b579274bab06567b3b
-17000,Retail,aee20ab5d1c34e297b13da25
-12058,Elementary School,6eebf31481ec46a88ef6541c
-17096,Miscellaneous Store,5c5859ef38f216002546b350
-17096,Miscellaneous Store,5c58568db9a5a8002caecd87
-11028,Construction,5e722b6b80258900075089e7
-11024,Chemicals and Gasses Manufacturer,9671643356ad44f8b4cd6ecb
-11120,Manufacturer,8436dd2121b34da010ba3cd6
-12009,Education,75c25b234a4c4405b5f8c6ec
-18012,Equestrian Facility,0a2d9ade8e484cbd667e522e
-16008,Campground,2c5bd0dea01040e5f5e708f9
-11078,Carpenter,e1fd463a98774f898597ae8a
-12057,Primary and Secondary School,3aebdfa921a14edf28e29c7e
-10027,Museum,017bc8a7c8c146bcb294f99e
-12066,City Hall,14b234ab49004009ec06d6d0
-12058,Elementary School,c8450707aa4c4fd9a22e4ddb
-12051,Driving School,c131985700d0496a8311b600
-12057,Primary and Secondary School,49ae36773de7489dc88d6d98
-17134,Tobacco Store,0165071df9ff469c478aace4
-17043,Clothing Store,e82e5c1f0df04d0602435642
-17052,Women's Store,e82e5c1f0df04d0602435642
-17028,Construction Supplies Store,22c1f9f8248a40f2b35241cf
-11083,Electrician,ff7ee7c557de4c6d36951656
-17000,Retail,5f0703869641187ab0e915b8
-16008,Campground,4e09faab1f6e2110339df1d3
-13065,Restaurant,d9cdfb25fec640522c1931dd
-11083,Electrician,5e2bfb53dc486000075eb032
-12072,Police Station,476534faac2e4747fb75c75e
-18000,Sports and Recreation,d946b0295393408592d68893
-17069,Grocery Store,5e1ee47047c34b0008b0a402
-13148,French Restaurant,4c6d6c34e6b7b1f75bada98e
-18055,Skate Park,4dac6a06a86e771ea74d5ba7
-13005,Beach Bar,62d1453be4ff9e56dd8890cb
-16023,Lake,63273b36bd1bfe2be7fef1df
-18000,Sports and Recreation,3e492f5c41614d20c82d2016
-18000,Sports and Recreation,1186fe3d4d8f4f72061e1408
-16008,Campground,a15b43fdb3ff427c3430ccf0
-10051,Stadium,4ef3b1540e61358da4cc026d
-12066,City Hall,a2bad24733c347523d418be9
-11057,Caterer,500ac46ee4b0ca8f7be335f2
-12066,City Hall,a522820860b548a7bb2924a8
-11002,Agriculture and Forestry Service,c79e13097ca349ebcc0a1658
-13003,Bar,5a104a23b04056135fd543db
-13030,Buffet,5a104a23b04056135fd543db
-13035,Coffee Shop,5a104a23b04056135fd543db
-11028,Construction,df9e6d7d23f84eb831f55194
-18012,Equestrian Facility,53de87f7721d4f291e19f26b
-13334,Sandwich Spot,50222c39e4b0edf15a94a7cf
-17059,Butcher,30a8c95129cd422edad177c5
-17077,Meat and Seafood Store,30a8c95129cd422edad177c5
-11090,Interior Designer,3c43d2b901be46f4659970ea
-11094,Painter,3c43d2b901be46f4659970ea
-12075,Post Office,bf24b7eaeb234c20fc1bf7b6
-13065,Restaurant,a14a8f097c3f4d783336621d
-17077,Meat and Seafood Store,331b7f116b4f45ef90f4f213
-12087,Social Services Organization,3d329bd48bd14dd8c9e3e4b2
-17012,Motorcycle Dealership,561523d8498e6a9b629858e1
-12009,Education,c37ed10f2f9c4e01fd2aada7
-18000,Sports and Recreation,c37ed10f2f9c4e01fd2aada7
-11002,Agriculture and Forestry Service,db88ca4145634095ade50308
-13002,Bakery,c9d383d9ae1843f6368f291f
-13047,Pastry Shop,c9d383d9ae1843f6368f291f
-17000,Retail,52aab301a51242eea0a9f243
-18000,Sports and Recreation,52aab301a51242eea0a9f243
-13003,Bar,dadf746aae144afaf0c2cd73
-13034,Café,dadf746aae144afaf0c2cd73
-13065,Restaurant,dadf746aae144afaf0c2cd73
-17043,Clothing Store,1c29f2cdad764ed82916fdb2
-17052,Women's Store,1c29f2cdad764ed82916fdb2
-10046,Psychic and Astrologer,55a3ea25498e042d0679a669
-11033,Employment Agency,5b4db70a029a5500391bda16
-12058,Elementary School,5a3523cfe65a444637237b1f
-11028,Construction,5e2f1ec6033e2d000847ce21
-11092,Landscaper and Gardener,5e2f1ec6033e2d000847ce21
-12066,City Hall,4fbf77d6e4b00aac082c1e17
-15022,Nursing Home,655f291281da42d91fe79888
-19053,Limo Service,655f291281da42d91fe79888
-11170,Telecommunication Service,5a1eff69aa6c956a284a931d
-17026,Mobile Phone Store,5a1eff69aa6c956a284a931d
-15024,Optometrist,5b2d4ea88c812a002ca4db6c
-17037,Eyecare Store,5b2d4ea88c812a002ca4db6c
-13145,Fast Food Restaurant,4c99e39f292a6dcb4ec3c976
-13152,Brasserie,4c99e39f292a6dcb4ec3c976
-17069,Grocery Store,4e61f850b993678bb62f1dfc
-12066,City Hall,8bff7ad2f7f94d1f2638684f
-12080,Library,9aeb39bb7f61421742b68bba
-12051,Driving School,baa27cf09c394cb2186c116f
-12075,Post Office,4cd582129c214e41365034cb
-11092,Landscaper and Gardener,11ea1c7943034897a654218e
-17043,Clothing Store,ceb6a68aabb746e1a62fd8c7
-15014,Hospital,c5c366344e0642af0d3f4997
-12060,Middle School,40db5e38acf24bcf6f8ca1cc
+16041,Plaza,4bb381b7eb3e9521d738cb0a
+13236,Italian Restaurant,5bd848f89de23b003984d7a9
+10027,Museum,4adcda10f964a5209a3521e3
+13065,Restaurant,5b61826df193c0002cfec9d5
+13036,Tea Room,4adcda14f964a5203a3721e3
+13047,Pastry Shop,4adcda14f964a5203a3721e3
+13145,Fast Food Restaurant,4adcda14f964a5203a3721e3
+13000,Dining and Drinking,5ff3069fb907b733a9252835
+13031,Burger Joint,4d59643f296d5481838b58b1
+13039,Deli,4d59643f296d5481838b58b1
+13068,American Restaurant,4d59643f296d5481838b58b1
+13035,Coffee Shop,628f3fb0f6e50f2be3a6711b
+17063,Coffee Roaster,628f3fb0f6e50f2be3a6711b
+13013,Hotel Bar,4b77f147f964a52097af2ee3
+13027,Bistro,4bf54e03ff90c9b68b2d5628
+13064,Pizzeria,4bf54e03ff90c9b68b2d5628
+13148,French Restaurant,4bf54e03ff90c9b68b2d5628
+16016,Fountain,55536fca498e1bf662c2ed7d
+16017,Garden,4ba8b203f964a520a6e739e3
+16007,Structure,4c079d740ed3c928b6be797d
+13002,Bakery,5b394cae92e7a9002c724cf9
+13065,Restaurant,5b394cae92e7a9002c724cf9
+12101,Church,4adcda09f964a520e83321e3
+10016,Exhibit,5864efb745c3ed1e7d88e96d
+10027,Museum,4adcda10f964a520af3521e3
+16000,Landmarks and Outdoors,4f6dabf5003944083fe0002e
+17018,Bookstore,4adcda21f964a520f23921e3
+16041,Plaza,4f979c8ae4b05465dae0714f
+17018,Bookstore,4c012b5f9a950f47ffa308c6
+17068,Gourmet Store,4d974096a2c654814aa6d353
+17069,Grocery Store,4d974096a2c654814aa6d353
+13042,Cupcake Shop,53652b7b498ed109610fe6a5
+13064,Pizzeria,53652b7b498ed109610fe6a5
+13025,Wine Bar,4b68a117f964a520c8832be3
+13152,Brasserie,4b68a117f964a520c8832be3
+13035,Coffee Shop,5c5ef4381acf11002c9cb8fe
+13002,Bakery,4b5eec5df964a520129e29e3
+13065,Restaurant,4b5eec5df964a520129e29e3
+13009,Cocktail Bar,5415ae4f498e9aee38f6a39e
+13035,Coffee Shop,5415ae4f498e9aee38f6a39e
+19014,Hotel,4b62faecf964a520ff5b2ae3
+17057,Food and Beverage Retail,4af5aeaaf964a5203cfb21e3
+13065,Restaurant,548cbfba498e8beca9c22ef9
+13025,Wine Bar,548cbfba498e8beca9c22ef9
+10027,Museum,4adcda10f964a5208b3521e3
+12003,Cemetery,4ba8b650f964a520f5e839e3
+16005,Botanical Garden,4ba8b650f964a520f5e839e3
+16017,Garden,4ba8b650f964a520f5e839e3
+16032,Park,4ba8b650f964a520f5e839e3
+17101,Garden Center,4ba8b650f964a520f5e839e3
+18000,Sports and Recreation,4ba8b650f964a520f5e839e3
+19000,Travel and Transportation,4ba8b650f964a520f5e839e3
+13322,Peruvian Restaurant,5d6ae3b0ca1763000823441b
+17033,Department Store,4b2e385bf964a52067dd24e3
+12098,Spiritual Center,4bccc4e7937ca59381baab92
+10039,Music Venue,4b54148df964a520b0b127e3
+13059,Juice Bar,5dd296bdd3fbb90007e2e259
+10026,Indie Movie Theater,4adcda15f964a520b43721e3
+16041,Plaza,4b115ed4f964a520157b23e3
+13000,Dining and Drinking,5710c77a498e3021c0641aa9
+17033,Department Store,4b673be3f964a520e5422be3
+10037,Concert Hall,4adcda17f964a5204f3821e3
+10039,Music Venue,4adcda17f964a5204f3821e3
+13152,Brasserie,4adcda17f964a5204f3821e3
+13027,Bistro,51c5f55d498e59e2ebcc7742
+13049,Diner,51c5f55d498e59e2ebcc7742
+13152,Brasserie,51c5f55d498e59e2ebcc7742
+13002,Bakery,4d541304d4a6721e9b5691ac
+13065,Restaurant,4d541304d4a6721e9b5691ac
+17080,Wine Store,50edcbb9e4b0f4e820906b4e
+13064,Pizzeria,564f964b498e03abff0be2ab
+13148,French Restaurant,4dc1490a22713750ba78c198
+10004,Art Gallery,515f4bd0e4b03c1e7855b051
+13338,Seafood Restaurant,527d495611d201ce6ba8fb48
+17058,Beer Store,50a68565e4b0540fe03b01ff
+17069,Grocery Store,50a68565e4b0540fe03b01ff
+17080,Wine Store,50a68565e4b0540fe03b01ff
+13148,French Restaurant,4c0fba0315c2ef3b077e1b08
+13148,French Restaurant,562b7821498efaeee3059e89
+17018,Bookstore,4b584778f964a520b55028e3
+13148,French Restaurant,534e7fc1498e475c9cf55c6d
+10027,Museum,4adcda15f964a520873721e3
+10028,Art Museum,4b4f8c95f964a520000b27e3
+13006,Beer Bar,591624431b0ea52ea821c07b
+13007,Beer Garden,591624431b0ea52ea821c07b
+13065,Restaurant,591624431b0ea52ea821c07b
+17080,Wine Store,4b0a8e3af964a520112523e3
+17119,Bicycle Store,4f646c98e4b08b476f507722
+18000,Sports and Recreation,4adcda15f964a5209d3721e3
+13148,French Restaurant,4d947481e923721eb3126cfe
+13027,Bistro,5c56e8e13fcee8002c58c302
+13148,French Restaurant,5c56e8e13fcee8002c58c302
+13064,Pizzeria,4d528e239d493704f374d939
+13236,Italian Restaurant,4d528e239d493704f374d939
+13006,Beer Bar,57fc988b498e1b3a29381f8f
+13034,Café,57fc988b498e1b3a29381f8f
+13065,Restaurant,57fc988b498e1b3a29381f8f
+16017,Garden,4dc790c01fc72e86376fc69c
+17068,Gourmet Store,4adcda21f964a520fc3921e3
+17069,Grocery Store,4adcda21f964a520fc3921e3
+17018,Bookstore,4eee19d802d514a36abd0d87
+17030,Cosmetics Store,533ffd0611d24e92867c9a17
+10004,Art Gallery,4cab440436fa6dcb2f6cd778
+13276,Sushi Restaurant,516d9a47e4b004f2bba1f2b9
+13148,French Restaurant,50d5be47e4b0fb6ff8363c5f
+16026,Monument,4adcda09f964a520eb3321e3
+13010,Dive Bar,53568d3e498e92e5a3a56f36
+13025,Wine Bar,53568d3e498e92e5a3a56f36
+13347,Tapas Restaurant,53568d3e498e92e5a3a56f36
+16032,Park,4adcda09f964a5200d3421e3
+13263,Japanese Restaurant,50abd239e4b0869279d6a3af
+13236,Italian Restaurant,5127d6aee4b0e1bb8f8a9f42
+13009,Cocktail Bar,4f5a5636e4b03005858b31cc
+13034,Café,4f5a5636e4b03005858b31cc
+13035,Coffee Shop,4f5a5636e4b03005858b31cc
+10037,Concert Hall,4adcda15f964a520a53721e3
+10039,Music Venue,4adcda15f964a520a53721e3
+13152,Brasserie,4adcda15f964a520a53721e3
+13002,Bakery,4c224a3611de20a1b7a084ce
+13145,Fast Food Restaurant,4c45eb2df1b5c9b67e0278ef
+13153,Breton Restaurant,4c45eb2df1b5c9b67e0278ef
+13338,Seafood Restaurant,4c45eb2df1b5c9b67e0278ef
+17045,Jewelry Store,4bd816a009ecb7135f03487c
+13035,Coffee Shop,4b5b043af964a52007df28e3
+13036,Tea Room,4b5b043af964a52007df28e3
+13065,Restaurant,4b5b043af964a52007df28e3
+13148,French Restaurant,4b1f9255f964a520052724e3
+13039,Deli,5838995814250b703b741f28
+13064,Pizzeria,5838995814250b703b741f28
+13236,Italian Restaurant,5838995814250b703b741f28
+13145,Fast Food Restaurant,4c113790ce57c928a42383d2
+13148,French Restaurant,4c113790ce57c928a42383d2
+13236,Italian Restaurant,4adcda11f964a520343621e3
+13001,Bagel Shop,546dd0fc498e1597e843450f
+13047,Pastry Shop,546dd0fc498e1597e843450f
+13145,Fast Food Restaurant,546dd0fc498e1597e843450f
+13065,Restaurant,4b5a3efbf964a52037b728e3
+13003,Bar,4b5a3efbf964a52037b728e3
+13002,Bakery,54fc65f3498e7f86ee38def9
+16041,Plaza,4bc30cc12a89ef3bf670f488
+17076,Liquor Store,4b736282f964a520d6ab2de3
+17080,Wine Store,4b736282f964a520d6ab2de3
+17043,Clothing Store,4adcda09f964a5200e3421e3
+17047,Men's Store,4adcda09f964a5200e3421e3
+17052,Women's Store,4adcda09f964a5200e3421e3
+13036,Tea Room,50d341c7e4b03474901dccaa
+10037,Concert Hall,4adcda15f964a520c53721e3
+10039,Music Venue,4adcda15f964a520c53721e3
+17043,Clothing Store,4adcda1df964a5202a3921e3
+17033,Department Store,4bc9d4260687ef3b1b88dacc
+13025,Wine Bar,4adcda08f964a5206f3321e3
+13027,Bistro,4adcda08f964a5206f3321e3
+13152,Brasserie,4adcda08f964a5206f3321e3
+13035,Coffee Shop,4bcb2d36cc8cd13a6bc9becf
+13046,Ice Cream Parlor,4bcb2d36cc8cd13a6bc9becf
+13065,Restaurant,4bcb2d36cc8cd13a6bc9becf
+13379,Vietnamese Restaurant,546d1cf4498e84042b94bbb5
+16016,Fountain,4fd4c769e4b0191b9c7fcce3
+13148,French Restaurant,4b9d145ff964a520ca8d36e3
+13027,Bistro,4adcda05f964a520733221e3
+13152,Brasserie,4adcda05f964a520733221e3
+13152,Brasserie,4b18361bf964a520e1ce23e3
+10028,Art Museum,4adcda0ff964a520763521e3
+13148,French Restaurant,54d1d78e498e60ecf1b0476b
+13099,Chinese Restaurant,5309eec8498eb8684d85792e
+13352,Thai Restaurant,5309eec8498eb8684d85792e
+13009,Cocktail Bar,4b22eca6f964a5206c5024e3
+13016,Lounge,4b22eca6f964a5206c5024e3
+13065,Restaurant,4b22eca6f964a5206c5024e3
+13000,Dining and Drinking,59468bd1898bdc07ffc0d6ac
+16000,Landmarks and Outdoors,4adcda09f964a5200c3421e3
+10026,Indie Movie Theater,4bc0790f4cdfc9b6b4de9221
+13027,Bistro,4d3898babb0d721ea09c55e3
+13148,French Restaurant,4d3898babb0d721ea09c55e3
+16026,Monument,4adcda09f964a520ea3321e3
+17018,Bookstore,4b588679f964a5201c5c28e3
+16026,Monument,4e83dade4fc6f78732f6b025
+16041,Plaza,4e83dade4fc6f78732f6b025
+19019,Vacation Rental,4e83dade4fc6f78732f6b025
+13352,Thai Restaurant,5522d0a3498eaa1b74f88c64
+13027,Bistro,4df27ab522718759f81c4fc7
+13148,French Restaurant,4df27ab522718759f81c4fc7
+13047,Pastry Shop,51602778e4b01c5e825f4878
+13152,Brasserie,4b2569f3f964a520877124e3
+17061,Cheese Store,4b4635eff964a520271a26e3
+10027,Museum,4adcda10f964a520b13521e3
+17061,Cheese Store,4adcda1ef964a5203a3921e3
+18000,Sports and Recreation,4f928bdbe4b020d1a2912d6b
+18021,Gym and Studio,5696a3af498e5e76ec30003b
+18064,Soccer Field,4f4d4213e4b063a3e170a08b
+10039,Music Venue,4ba4fe9bf964a520bccd38e3
+10043,Theater,4ba4fe9bf964a520bccd38e3
+13065,Restaurant,4ba4fe9bf964a520bccd38e3
+17069,Grocery Store,5998132c898bdc4a9a179c03
+17057,Food and Beverage Retail,4ca255641f709eb0d22dfa94
+17043,Clothing Store,4e58f0cc483b865169d705a1
+17052,Women's Store,4e58f0cc483b865169d705a1
+16032,Park,4e7ede0e8b81ad7de86e4613
+13031,Burger Joint,4d91bb4a033ba35d3176750d
+13145,Fast Food Restaurant,4d91bb4a033ba35d3176750d
+17069,Grocery Store,56af464a498e4972bc9737ce
+13379,Vietnamese Restaurant,4b75abe4f964a520cf1b2ee3
+13003,Bar,55abde31498e6e43c84042bc
+13035,Coffee Shop,55abde31498e6e43c84042bc
+13379,Vietnamese Restaurant,55abde31498e6e43c84042bc
+13027,Bistro,4fdf66a0e4b0767cc7fc9764
+13034,Café,4fdf66a0e4b0767cc7fc9764
+13148,French Restaurant,4fdf66a0e4b0767cc7fc9764
+13064,Pizzeria,4c7ce919a141b1f767476c79
+13236,Italian Restaurant,4c7ce919a141b1f767476c79
+18058,Snow Sports,4bbf5464b083a5936935a3e9
+17069,Grocery Store,4b9bb17ff964a520c71a36e3
+12075,Post Office,52b84667498e879916e7fe51
+17059,Butcher,5af58d5aba57b4002cfa8be3
+17069,Grocery Store,5af58d5aba57b4002cfa8be3
+18000,Sports and Recreation,510b898ee4b03bf824274da9
+17057,Food and Beverage Retail,5cf956d68a6f17002c403077
+10006,Bowling Alley,4d852d6a5ad3a0934625e0fd
+11039,Event Space,4b5ec454f964a520079829e3
+16032,Park,4adcda0ef964a5204c3521e3
+13002,Bakery,4d5ea2db9f67f04db4f062fb
+13047,Pastry Shop,4d5ea2db9f67f04db4f062fb
+13334,Sandwich Spot,55815f5e498ec764d847035f
+13145,Fast Food Restaurant,55815f5e498ec764d847035f
+13003,Bar,4c6d6ca165eda093cf8f4ed0
+13035,Coffee Shop,4c6d6ca165eda093cf8f4ed0
+13152,Brasserie,4c6d6ca165eda093cf8f4ed0
+13152,Brasserie,4adcda05f964a520873221e3
+13099,Chinese Restaurant,4efe1f5d9911b33a0f4dd08f
+12009,Education,4eb294ea6c25aecd47132898
+15016,Medical Center,5fe4bccb3ac73f6514e68911
+17069,Grocery Store,4c8776f0d92ea09370007672
+18000,Sports and Recreation,4dcfc4b97d8b975f18ef5f39
+13055,Fried Chicken Joint,59d68e5f037be1208e7ff035
+13148,French Restaurant,59d68e5f037be1208e7ff035
+13064,Pizzeria,4df3e6c245dd4e2693426bdc
+13067,African Restaurant,4df3e6c245dd4e2693426bdc
+13313,Moroccan Restaurant,4df3e6c245dd4e2693426bdc
+13148,French Restaurant,56e025b7498efee80178e180
+13148,French Restaurant,4b8d7582f964a520f7fc32e3
+13236,Italian Restaurant,4b697ca2f964a52030a42be3
+13276,Sushi Restaurant,4bb33f78715eef3b100f86bb
+18075,Swimming Pool,4b4cc470f964a52006be26e3
+18056,Skating Rink,4adcda23f964a5205f3a21e3
+13148,French Restaurant,4c0175b0f7ab0f477e2916b6
+13035,Coffee Shop,52a6c5a9498e6afa46fbf13b
+13065,Restaurant,52a6c5a9498e6afa46fbf13b
+13006,Beer Bar,54469172498ed34e0178dc37
+10031,Science Museum,4adcda0ff964a520683521e3
+16037,Playground,4bcb34b03740b7130ef46165
+13145,Fast Food Restaurant,4bca09f70687ef3ba719dbcc
+13148,French Restaurant,4bca09f70687ef3ba719dbcc
+13177,Greek Restaurant,4bca09f70687ef3ba719dbcc
+13064,Pizzeria,4e7e3931d22d1f219890e88b
+13236,Italian Restaurant,4e7e3931d22d1f219890e88b
+13035,Coffee Shop,5134df1fe4b0fb51933777ef
+13036,Tea Room,5134df1fe4b0fb51933777ef
+13145,Fast Food Restaurant,5134df1fe4b0fb51933777ef
+13148,French Restaurant,4adcda11f964a520f63521e3
+13177,Greek Restaurant,4adcda11f964a520f63521e3
+13302,Mediterranean Restaurant,4adcda11f964a520f63521e3
+13236,Italian Restaurant,5daf5ce348f796000802bc27
+10027,Museum,4adcda0ff964a5207f3521e3
+13148,French Restaurant,59822a59e96d0c565387343e
+13002,Bakery,55ab746d498e124b1e4a89b7
+13006,Beer Bar,5c6c0fa6c8b2fb002c4e8544
+13035,Coffee Shop,5c6c0fa6c8b2fb002c4e8544
+13065,Restaurant,5c6c0fa6c8b2fb002c4e8544
+13148,French Restaurant,589af97f55d6220190f3c214
+17058,Beer Store,562ce4a0498e3302dec98d20
+17080,Wine Store,562ce4a0498e3302dec98d20
+16026,Monument,4adcda09f964a520de3321e3
+13148,French Restaurant,53f72f4f498e240441adcfc5
+11057,Caterer,4c40a4fbe26920a13c385de7
+13027,Bistro,52cd4623498e7cfc3bc364c7
+13145,Fast Food Restaurant,52cd4623498e7cfc3bc364c7
+13148,French Restaurant,52cd4623498e7cfc3bc364c7
+13002,Bakery,4cbabc6d035d236aea30dc4e
+13047,Pastry Shop,4cbabc6d035d236aea30dc4e
+17069,Grocery Store,4c5a71f16407d13aa4b7b428
+17057,Food and Beverage Retail,4c08c862f23f9521f5809628
+17069,Grocery Store,4e55080c22710ebb5a915622
+17096,Miscellaneous Store,57a3934e498e77252f2a3b93
+11096,Plumber,b483d221ca76465fab0d05d3
+17057,Food and Beverage Retail,4da02cf7bcc4a0939e440ac9
+12058,Elementary School,67cea1fc3b634b1c0dff8d8c
+16041,Plaza,4b82c9adf964a520f7e430e3
+13046,Ice Cream Parlor,5023fdf4e4b0b3d65ba53fa9
+13065,Restaurant,5023fdf4e4b0b3d65ba53fa9
+13064,Pizzeria,5581ba79498e2d654886dbad
+13258,Trattoria,5581ba79498e2d654886dbad
+17043,Clothing Store,4c4dbdf29efabe9af5840169
+17052,Women's Store,4c4dbdf29efabe9af5840169
+17058,Beer Store,509ceef329a664775e200554
+17076,Liquor Store,509ceef329a664775e200554
+13145,Fast Food Restaurant,50543808c84c7e50721da3a6
+13334,Sandwich Spot,50543808c84c7e50721da3a6
+13027,Bistro,583491ed6c682b6191d2a6ae
+13148,French Restaurant,583491ed6c682b6191d2a6ae
+13347,Tapas Restaurant,583491ed6c682b6191d2a6ae
+17082,Furniture and Home Store,4adcda1ef964a520353921e3
+13236,Italian Restaurant,4b883a55f964a520e2e831e3
+13134,Comfort Food Restaurant,56a761b3498ec81a0c540d0c
+13148,French Restaurant,56a761b3498ec81a0c540d0c
+13022,Sports Bar,4c6a716dc946e21e0aa3ec8e
+13064,Pizzeria,4c6a716dc946e21e0aa3ec8e
+13152,Brasserie,4c6a716dc946e21e0aa3ec8e
+13027,Bistro,4bd88a0f11dcc9284ac7f633
+13151,Basque Restaurant,4bd88a0f11dcc9284ac7f633
+13347,Tapas Restaurant,4bd88a0f11dcc9284ac7f633
+13289,Korean Restaurant,4bbf8b402a89ef3b061bef88
+13298,Lebanese Restaurant,4b505eb8f964a5208a2127e3
+16032,Park,4b72f288f964a52075912de3
+19000,Travel and Transportation,4b72f288f964a52075912de3
+16032,Park,4af7347af964a520230722e3
+13148,French Restaurant,51a0d2a7498ec2b22f99eb55
+17018,Bookstore,4ba205e7f964a520e8d637e3
+16007,Structure,51a2445e5019c80b56934c75
+16006,Bridge,4bcae3ec937ca593289aa892
+13152,Brasserie,4d0a627f5edd5481a159059b
+13006,Beer Bar,58a229bcfd27163ad03ea582
+13035,Coffee Shop,58a229bcfd27163ad03ea582
+13065,Restaurant,58a229bcfd27163ad03ea582
+16000,Landmarks and Outdoors,4b0d54cbf964a520764623e3
+13148,French Restaurant,4e078807e4cdefcff6dce4f6
+13027,Bistro,5904fdf3cad1b6166c61078b
+16032,Park,4bc0b864b492d13ad8b9a460
+13152,Brasserie,4ca4e797d971b1f7e8e9f1e0
+10024,Movie Theater,52694978498e0b407e4d9ccc
+13152,Brasserie,4c0956e8a1b32d7f298297f0
+17030,Cosmetics Store,4adcda1ef964a520423921e3
+17025,Electronics Store,5b982ec3f5e9d7002cc1cd2d
+13064,Pizzeria,4be9af92246fb71301d1abdf
+13236,Italian Restaurant,4be9af92246fb71301d1abdf
+13006,Beer Bar,4c17886f30d30f47e49f36a9
+13010,Dive Bar,4c17886f30d30f47e49f36a9
+13035,Coffee Shop,4c17886f30d30f47e49f36a9
+13002,Bakery,4c51ac069426c928eb1c2a74
+13047,Pastry Shop,4c51ac069426c928eb1c2a74
+13065,Restaurant,4c51ac069426c928eb1c2a74
+13027,Bistro,4adcda14f964a5200d3721e3
+13152,Brasserie,4adcda14f964a5200d3721e3
+13031,Burger Joint,4b5ee72df964a5203a9d29e3
+13148,French Restaurant,4b5ee72df964a5203a9d29e3
+13383,Steakhouse,4b5ee72df964a5203a9d29e3
+13027,Bistro,4c49fe4a46240f47310a37f1
+13049,Diner,4c49fe4a46240f47310a37f1
+13152,Brasserie,4c49fe4a46240f47310a37f1
+13025,Wine Bar,4da74bddf7b15dc952f74dd1
+13034,Café,4da74bddf7b15dc952f74dd1
+13065,Restaurant,4da74bddf7b15dc952f74dd1
+13065,Restaurant,582d8fbd761b1a6099db6ca5
+13065,Restaurant,5238a8c711d28a3c7a057397
+13064,Pizzeria,5471f9b3498e6e2065dc3ad4
+13236,Italian Restaurant,5471f9b3498e6e2065dc3ad4
+13099,Chinese Restaurant,5ccb52df66fc65002c7d0e92
+13148,French Restaurant,4fc67af1e4b0284ec0749b7d
+13310,Modern European Restaurant,4fc67af1e4b0284ec0749b7d
+17018,Bookstore,4b7fdbe1f964a5201e4130e3
+17080,Wine Store,58c2fe0624f61156f4b8d053
+16032,Park,4adcda0af964a520243421e3
+16032,Park,4dd7daae7d8b322663f9a365
+13064,Pizzeria,5803e6d738fa97c7dd1a2e8c
+13039,Deli,4b72abfcf964a52024832de3
+13148,French Restaurant,4b72abfcf964a52024832de3
+13025,Wine Bar,4d146be7816af04d9ac63bc2
+13039,Deli,4d146be7816af04d9ac63bc2
+13145,Fast Food Restaurant,4d146be7816af04d9ac63bc2
+13236,Italian Restaurant,4ca4d10eb0ff8cfa3811c35e
+13027,Bistro,52d925e8498e01837e63f370
+13148,French Restaurant,52d925e8498e01837e63f370
+13064,Pizzeria,4c2ba00a8ef52d7f3eaf31ba
+13236,Italian Restaurant,4c2ba00a8ef52d7f3eaf31ba
+13313,Moroccan Restaurant,4ce6e22a9f776ea8d3755422
+13003,Bar,4ebc0fae9adf82e8066f73ec
+13065,Restaurant,4ebc0fae9adf82e8066f73ec
+13068,American Restaurant,4f129ec2c2ee45f86a798910
+10037,Concert Hall,51072ecc00cafb926bac068d
+10039,Music Venue,51072ecc00cafb926bac068d
+13065,Restaurant,51072ecc00cafb926bac068d
+13002,Bakery,52ee129911d25876028a0ee6
+13065,Restaurant,52ee129911d25876028a0ee6
+10004,Art Gallery,4bd18f93462cb713045cda07
+13046,Ice Cream Parlor,4e63901c1f6ef7d07b2e1647
+10037,Concert Hall,4d7a7c65e8b7a1cdb312991f
+10039,Music Venue,4d7a7c65e8b7a1cdb312991f
+10043,Theater,4d7a7c65e8b7a1cdb312991f
+11094,Painter,5e4f2fdfebb4710008b9563d
+11098,Roofer,5e4f2fdfebb4710008b9563d
+17069,Grocery Store,5f2176eaba33525e384d6128
+16032,Park,4adcda09f964a520123421e3
+16032,Park,4c8660e8d92ea09381b06d72
+13145,Fast Food Restaurant,4b6b2a37f964a520eef62be3
+13276,Sushi Restaurant,4b6b2a37f964a520eef62be3
+13035,Coffee Shop,4bfd07b78992a5930373abb0
+13152,Brasserie,4bfd07b78992a5930373abb0
+13347,Tapas Restaurant,4bfd07b78992a5930373abb0
+13006,Beer Bar,54b7e3ef498ed956716e3da3
+13007,Beer Garden,54b7e3ef498ed956716e3da3
+13034,Café,54b7e3ef498ed956716e3da3
+13145,Fast Food Restaurant,4be54699910020a111c6d214
+13236,Italian Restaurant,4be54699910020a111c6d214
+17029,Convenience Store,4e836d4be5fa5681e8c44fcc
+13145,Fast Food Restaurant,4ba2167ef964a520f4da37e3
+13236,Italian Restaurant,4ba2167ef964a520f4da37e3
+17035,Drugstore,4d9c421d948ea093dc58cc11
+13148,French Restaurant,4bab5365f964a520b7a03ae3
+13145,Fast Food Restaurant,4ded16d3d4c02451f2299886
+13148,French Restaurant,4ded16d3d4c02451f2299886
+13145,Fast Food Restaurant,51d851d5498e62a2f7d0e07c
+13334,Sandwich Spot,51d851d5498e62a2f7d0e07c
+12075,Post Office,4da5c6c57ccc816e4333ae7b
+17059,Butcher,5abc35b1cd441c726ef61b7e
+17069,Grocery Store,5abc35b1cd441c726ef61b7e
+13031,Burger Joint,4bcee92ab6c49c7485cb9791
+13145,Fast Food Restaurant,4bcee92ab6c49c7485cb9791
+12057,Primary and Secondary School,1a9cdb43b0fb45f3bb5abd71
+17025,Electronics Store,5bfd2a4b56c89f002c2f29cc
+11087,"Heating, Ventilating and Air Conditioning Contractor",43ca5f53e2a5447815dd9704
+12092,Public Bathroom,43ca5f53e2a5447815dd9704
+13067,African Restaurant,5eb3511b5973450008ad2937
+13027,Bistro,554d1a03498e05b6d6a59027
+13034,Café,554d1a03498e05b6d6a59027
+13035,Coffee Shop,554d1a03498e05b6d6a59027
+13031,Burger Joint,52965f8d498ea4362c60a951
+13145,Fast Food Restaurant,52965f8d498ea4362c60a951
+13148,French Restaurant,52965f8d498ea4362c60a951
+19014,Hotel,5373d8cb498ee7d5aeceaeb1
+13177,Greek Restaurant,580fd315d67c81df460e15da
+13000,Dining and Drinking,5ac669545ba0462732218dea
+13148,French Restaurant,551d8924498ee1038e75807d
+13003,Bar,5266a51711d287ff63ea60c6
+13034,Café,5266a51711d287ff63ea60c6
+13035,Coffee Shop,5266a51711d287ff63ea60c6
+13143,Ethiopian Restaurant,4bce1d55fb84c9b6613a233e
+13003,Bar,51a79b2e498eadcf45c54033
+13065,Restaurant,51a79b2e498eadcf45c54033
+13148,French Restaurant,4bcdebfbfb84c9b64dd8223e
+10027,Museum,4adcda10f964a520bb3521e3
+16017,Garden,4adcda09f964a520063421e3
+18075,Swimming Pool,4d4406f83616b60c42d4dfc2
+13064,Pizzeria,4be5b1c52457a593b5d8ab15
+13302,Mediterranean Restaurant,4be5b1c52457a593b5d8ab15
+13309,Middle Eastern Restaurant,4be5b1c52457a593b5d8ab15
+12075,Post Office,5bcaffbedff8150039e29112
+13031,Burger Joint,4b768e9af964a520d2512ee3
+13145,Fast Food Restaurant,4b768e9af964a520d2512ee3
+17069,Grocery Store,4fe20657e4b0b2da244183f4
+17043,Clothing Store,4e10804c1838f8ad8152a68e
+17052,Women's Store,4e10804c1838f8ad8152a68e
+11090,Interior Designer,4d80fc96f724a0930bd618f7
+17117,Sporting Goods Retail,51890993498e5317a24b3f3c
+12068,Embassy or Consulate,50581066e4b0b66b9515e2a4
+16039,Urban Park,4adcda0af964a520203421e3
+10037,Concert Hall,4bc773712f94d13ac3f3117f
+10039,Music Venue,4bc773712f94d13ac3f3117f
+10043,Theater,4bc773712f94d13ac3f3117f
+13003,Bar,5571d51f498e9ea789f8342d
+13029,Brewery,5571d51f498e9ea789f8342d
+13065,Restaurant,5571d51f498e9ea789f8342d
+13003,Bar,5318cff6498e7b5d95c75fbe
+13034,Café,5318cff6498e7b5d95c75fbe
+13148,French Restaurant,5318cff6498e7b5d95c75fbe
+13064,Pizzeria,58df99386f20d10582acc2b5
+10040,Jazz and Blues Venue,59a19685625a6632a8515569
+13065,Restaurant,59a19685625a6632a8515569
+10024,Movie Theater,58411ec8bbd6d11f8c1da34a
+13027,Bistro,53864aef498e7dc54e0704dc
+10016,Exhibit,4b8a3f15f964a5208a6532e3
+10026,Indie Movie Theater,4c41a17ea5c5ef3b1548b06f
+13065,Restaurant,4c41a17ea5c5ef3b1548b06f
+13025,Wine Bar,52fd1a6a498e72d4549b57cd
+13065,Restaurant,52fd1a6a498e72d4549b57cd
+13065,Restaurant,595bcb1c2be425119f0050e0
+13289,Korean Restaurant,528f41f5498ed26b82536630
+10027,Museum,4bbddcf1593fef3b31ea0356
+13064,Pizzeria,543d1c33498ea4de49ae21d7
+13025,Wine Bar,4ea428a1b6347b996880466f
+13035,Coffee Shop,4ea428a1b6347b996880466f
+13065,Restaurant,4ea428a1b6347b996880466f
+17080,Wine Store,51f7e0cc498e74d93869d809
+13035,Coffee Shop,614d8771abc3d4417580cb29
+18043,Racquetball Club,4be3d3e6cbdbef3bf8a360d8
+13152,Brasserie,4bb7179b2ea19521f38aac2f
+16017,Garden,4bf7e54b5efe2d7f1daa6934
+18001,Athletic Field,4adcda15f964a520c43721e3
+18000,Sports and Recreation,4adcda16f964a520273821e3
+13027,Bistro,4bab6466f964a520d1a53ae3
+13148,French Restaurant,4bab6466f964a520d1a53ae3
+17117,Sporting Goods Retail,4dc9a6b27d8b296263cbcab0
+13298,Lebanese Restaurant,4c86978ad4e23704cba08c88
+13068,American Restaurant,54b903e2498ef9e5ee12cd75
+13134,Comfort Food Restaurant,54b903e2498ef9e5ee12cd75
+13145,Fast Food Restaurant,54b903e2498ef9e5ee12cd75
+13000,Dining and Drinking,4f4e30fbe4b00b42c51380dd
+13145,Fast Food Restaurant,4d62b6a59f67f04d944192fb
+13276,Sushi Restaurant,4d62b6a59f67f04d944192fb
+13152,Brasserie,4bd3228bcaff95212412d4f0
+13064,Pizzeria,4bb2541beb3e9521f0e0c90a
+13145,Fast Food Restaurant,4bb2541beb3e9521f0e0c90a
+13236,Italian Restaurant,4bb2541beb3e9521f0e0c90a
+13352,Thai Restaurant,5167066be4b0639d02f821b5
+17061,Cheese Store,4c87cd8c0dcb8cfae80a3e68
+13003,Bar,52332e62498e03027314ed19
+13343,South American Restaurant,52332e62498e03027314ed19
+18036,Martial Arts Dojo,4e7a2f0a2271920e47665738
+13003,Bar,545b600a498eb1e8714d1b39
+13034,Café,545b600a498eb1e8714d1b39
+13065,Restaurant,545b600a498eb1e8714d1b39
+13002,Bakery,4adcda09f964a520113421e3
+16032,Park,4adcda09f964a520113421e3
+13347,Tapas Restaurant,4adcda08f964a5209f3321e3
+13148,French Restaurant,4ccd61152dc437044bfacd08
+13276,Sushi Restaurant,4b8bc134f964a520bba932e3
+16032,Park,4c122dfa82a3c9b6ac2ff9f8
+10009,Circus,4c9baa5cceef236a32a8054c
+10024,Movie Theater,5006c880e4b065de569ef17c
+13067,African Restaurant,4d4877df9b63cbffe55cb108
+13145,Fast Food Restaurant,4d4877df9b63cbffe55cb108
+13383,Steakhouse,4bf1033624f19c740b52f983
+13099,Chinese Restaurant,4b6ddb6cf964a5203d962ce3
+16032,Park,4adcda0cf964a520c33421e3
+18021,Gym and Studio,4c34b94966e40f47bf02ca8b
+10039,Music Venue,4adcda18f964a5207b3821e3
+10043,Theater,4adcda18f964a5207b3821e3
+13152,Brasserie,4adcda18f964a5207b3821e3
+18047,Tennis Court,4bb8461198c7ef3b39013102
+13152,Brasserie,4d020d280dae37040475c742
+13148,French Restaurant,4bbf5eb1f353d13acc7b7e10
+13302,Mediterranean Restaurant,4bbf5eb1f353d13acc7b7e10
+16041,Plaza,4da2c514bf22a143d5bcb8f8
+13099,Chinese Restaurant,50bfa40ae4b0e1f6a90b3b60
+13263,Japanese Restaurant,50bfa40ae4b0e1f6a90b3b60
+13303,Mexican Restaurant,50bfa40ae4b0e1f6a90b3b60
+13145,Fast Food Restaurant,5e5a2c3865828b0008b7e972
+17069,Grocery Store,54f5ff50498e26ac1f52bfaa
+11092,Landscaper and Gardener,4c03766ff423a593af4bd016
+18021,Gym and Studio,4ce078f33644a093ad30589f
+12005,Cultural Center,524d038211d2f0888cd22589
+10037,Concert Hall,4adcda1af964a520cf3821e3
+10039,Music Venue,4adcda1af964a520cf3821e3
+10043,Theater,4adcda1af964a520cf3821e3
+13276,Sushi Restaurant,4df8f19f18a801cd9f14a0bf
+13030,Buffet,4dd6b947d22d38ef42d6b729
+13263,Japanese Restaurant,4dd6b947d22d38ef42d6b729
+13303,Mexican Restaurant,4b92b58df964a520e11334e3
+12075,Post Office,4c2f029466e40f471237c18b
+12075,Post Office,4c2b24cd57a9c9b60563f567
+13145,Fast Food Restaurant,58c2fef3c45ee3572ec78119
+13263,Japanese Restaurant,58c2fef3c45ee3572ec78119
+16032,Park,a07513604f264d29d839da7c
+13152,Brasserie,5e77c8952c4e740007a5bdfc
+12058,Elementary School,45f66d68b0e04950de4bb252
+17006,Car Dealership,5b44b6c0dd8442002ce18492
+13031,Burger Joint,5ff099b17c1293281aa3f134
+16017,Garden,4adcda09f964a520fe3321e3
+13013,Hotel Bar,4f52b281e4b0d3a8f5068bd1
+13065,Restaurant,4f52b281e4b0d3a8f5068bd1
+10027,Museum,6228822b64d192560a61f964
+17080,Wine Store,51eaf458498e71cde524700b
+13148,French Restaurant,4b98e0e3f964a520d55335e3
+13002,Bakery,54de1b4f498e372eef504e57
+13040,Dessert Shop,54de1b4f498e372eef504e57
+13065,Restaurant,54de1b4f498e372eef504e57
+10037,Concert Hall,4bc991343740b713d4ea5e65
+10039,Music Venue,4bc991343740b713d4ea5e65
+10043,Theater,4bc991343740b713d4ea5e65
+13034,Café,4ef8d66d469012b8c2268748
+13003,Bar,4ef8d66d469012b8c2268748
+13000,Dining and Drinking,4ef8d66d469012b8c2268748
+13145,Fast Food Restaurant,54dd4f8f498e62876939b098
+13148,French Restaurant,54dd4f8f498e62876939b098
+13347,Tapas Restaurant,54dd4f8f498e62876939b098
+10039,Music Venue,4adcda07f964a5201a3321e3
+13003,Bar,4adcda07f964a5201a3321e3
+13152,Brasserie,4adcda07f964a5201a3321e3
+13003,Bar,4b59b17af964a520289328e3
+13148,French Restaurant,4b59b17af964a520289328e3
+13006,Beer Bar,593aed9ff0b490219460dd87
+13347,Tapas Restaurant,56a2b516498e75b5086629d6
+13356,Turkish Restaurant,56a2b516498e75b5086629d6
+16032,Park,4adcda0af964a520253421e3
+13006,Beer Bar,57054c44498ed5a375ce4b86
+13057,Gastropub,57054c44498ed5a375ce4b86
+10026,Indie Movie Theater,4b0ec8cdf964a520fb5a23e3
+10027,Museum,5113ebbce4b0d3c1022aef14
+17080,Wine Store,4b894a17f964a520de2832e3
+13148,French Restaurant,503fdaf5e4b003e2b260a76a
+16007,Structure,4adcda09f964a520f63321e3
+16017,Garden,4b30f9bbf964a5208ffd24e3
+16026,Monument,4adcda09f964a520f73321e3
+16041,Plaza,50c5c94690e732743b022d32
+16026,Monument,4c6d415de6b7b1f7e020a98e
+13148,French Restaurant,5451852a498e812da94cf923
+13338,Seafood Restaurant,5451852a498e812da94cf923
+13002,Bakery,4e760d1e1f6e072f13ef90f1
+13047,Pastry Shop,4e760d1e1f6e072f13ef90f1
+18075,Swimming Pool,4ba602e1f964a5203b2e39e3
+17058,Beer Store,51f802c8498e40f00debfa6a
+17076,Liquor Store,51f802c8498e40f00debfa6a
+17080,Wine Store,51f802c8498e40f00debfa6a
+12080,Library,4adcda09f964a520133421e3
+10024,Movie Theater,4b1cf16ef964a5209f0a24e3
+13016,Lounge,4adcda07f964a5203b3321e3
+13035,Coffee Shop,4adcda07f964a5203b3321e3
+13065,Restaurant,4adcda07f964a5203b3321e3
+13034,Café,5129080be4b096ae47d1d543
+13148,French Restaurant,5129080be4b096ae47d1d543
+10035,Performing Arts Venue,4baca14ff964a52073ff3ae3
+13148,French Restaurant,54b28ef0498e92acf06e18b0
+13003,Bar,552bcfc4498e003e2da33ad0
+13065,Restaurant,552bcfc4498e003e2da33ad0
+13035,Coffee Shop,5698d2d5498e61bdaa0fa9b8
+13065,Restaurant,5698d2d5498e61bdaa0fa9b8
+16032,Park,4b6ed6b6f964a520d0cc2ce3
+18000,Sports and Recreation,4b6ed6b6f964a520d0cc2ce3
+19000,Travel and Transportation,4b6ed6b6f964a520d0cc2ce3
+16032,Park,4b9f357bf964a520fe1737e3
+13047,Pastry Shop,541dd109498ed1e00755fbf3
+13065,Restaurant,541dd109498ed1e00755fbf3
+17018,Bookstore,4b487de3f964a5202d4e26e3
+19020,Parking,4d88ba1c7139b1f731bea6d4
+18075,Swimming Pool,4ddc1613b3ad1aa3071ae3d5
+17000,Retail,509940fb3d7c4b7466e64c3c
+17069,Grocery Store,4c371e22dfb0e21e1720aca8
+12075,Post Office,055729b840b14f0968d604e8
+17057,Food and Beverage Retail,5d39a6cc28d5f700081b9fd4
+17134,Tobacco Store,533c2ec7498eea8fb06b2d5b
+18000,Sports and Recreation,f830ee8ac6414280ae39d003
+11076,Home Improvement Service,58b0608731e74cd8986df04e
+13148,French Restaurant,518cfe05498ee0772581297e
+17077,Meat and Seafood Store,518cfe05498ee0772581297e
+13236,Italian Restaurant,4caf938d75ebb60c9855bdad
+17057,Food and Beverage Retail,53ce3e45498e1ba1b16e9b14
+13236,Italian Restaurant,59e10655dd84424274bf80ec
+13065,Restaurant,5bf2afc17e210b0025f5f0ed
+13148,French Restaurant,4adcda12f964a5205c3621e3
+16000,Landmarks and Outdoors,4bc7556a14d79521482d67e9
+12082,Organization,4adcda19f964a520ac3821e3
+17002,Antique Store,4b085867f964a520a90923e3
+13148,French Restaurant,573e08f1498e998174206ed7
+13064,Pizzeria,5271597911d2c3bb59501bbc
+13236,Italian Restaurant,5271597911d2c3bb59501bbc
+13027,Bistro,52d0529f498e4ede95bdd2aa
+13007,Beer Garden,51acb88f8bbd1eaae07a2b70
+13027,Bistro,51acb88f8bbd1eaae07a2b70
+13148,French Restaurant,51acb88f8bbd1eaae07a2b70
+10000,Arts and Entertainment,4badedc4f964a5204e733be3
+17054,Flea Market,4badedc4f964a5204e733be3
+16011,Castle,4adcda09f964a520103421e3
+13049,Diner,5303e287498ec249d1af7b04
+13148,French Restaurant,5303e287498ec249d1af7b04
+18075,Swimming Pool,4e6debd062e1ce64872648c5
+17069,Grocery Store,4da9ab616e81162ae7c27c7e
+17071,Health Food Store,574f0f57498e8c46a198d64f
+13064,Pizzeria,4e1f455cc65bd9e1fde5f005
+13236,Italian Restaurant,4e1f455cc65bd9e1fde5f005
+12075,Post Office,4e986f3e77c8d1cccbb8b022
+17057,Food and Beverage Retail,4ca2558e1f709eb00b2efa94
+12087,Social Services Organization,f8bb1306267940fee5ddaed5
+13039,Deli,5e526237093267000741e4f8
+17061,Cheese Store,5e526237093267000741e4f8
+13035,Coffee Shop,4cdd3e1f3f6a8cfa698bf6ea
+13065,Restaurant,4cdd3e1f3f6a8cfa698bf6ea
+13002,Bakery,4c5c42566147be9aa6bb8e09
+13145,Fast Food Restaurant,4c5c42566147be9aa6bb8e09
+16032,Park,4b7e6e5df964a520d5ec2fe3
+13313,Moroccan Restaurant,4c991c3078ffa0934d156175
+17065,Farmers Market,4c306c5c452620a1a51a1f0f
+17069,Grocery Store,4c306c5c452620a1a51a1f0f
+17068,Gourmet Store,4b97eb96f964a520721f35e3
+17069,Grocery Store,4b97eb96f964a520721f35e3
+13031,Burger Joint,4f6081bce4b0382505fcc3ae
+13049,Diner,4f6081bce4b0382505fcc3ae
+13068,American Restaurant,4f6081bce4b0382505fcc3ae
+17069,Grocery Store,4b12ad75f964a520268c23e3
+13003,Bar,548ecb1b498eecad73397311
+13031,Burger Joint,548ecb1b498eecad73397311
+13072,Asian Restaurant,548ecb1b498eecad73397311
+13002,Bakery,529a070211d2dd104e654b40
+13067,African Restaurant,59d5274f1c0b3446e6718dba
+13067,African Restaurant,4b6094bcf964a520b3ee29e3
+13152,Brasserie,4b6094bcf964a520b3ee29e3
+10030,History Museum,4adcda09f964a520fd3321e3
+16020,Historic and Protected Site,4adcda09f964a520fd3321e3
+13145,Fast Food Restaurant,4cc0b2bc22ce4688bff63847
+13148,French Restaurant,4cc0b2bc22ce4688bff63847
+13148,French Restaurant,52af6d4a498e6d8ddfc6caa4
+13145,Fast Food Restaurant,4bb9b94398c7ef3b24423202
+13352,Thai Restaurant,4bb9b94398c7ef3b24423202
+13379,Vietnamese Restaurant,4bb9b94398c7ef3b24423202
+13039,Deli,4d29eabeebacb1f7def2fe4f
+13145,Fast Food Restaurant,4d29eabeebacb1f7def2fe4f
+13379,Vietnamese Restaurant,4d29eabeebacb1f7def2fe4f
+13065,Restaurant,4ebb05e63b7b59c37945efdb
+13064,Pizzeria,5af9704d75eee4002c90862c
+13236,Italian Restaurant,5af9704d75eee4002c90862c
+13152,Brasserie,4b773997f964a5207f892ee3
+16046,Scenic Lookout,4b5f3d50f964a52066af29e3
+13263,Japanese Restaurant,4c35b44b3896e21e018aed90
+12053,Language School,4b41d61ef964a52055c925e3
+16046,Scenic Lookout,572ef46d498e6a2426bb341e
+13065,Restaurant,4b091db5f964a520491423e3
+16041,Plaza,4bee7a823686c9b6b78b246e
+13152,Brasserie,4adcda13f964a520ad3621e3
+13345,Spanish Restaurant,4adcda13f964a520ad3621e3
+16040,Pedestrian Plaza,4cc12b69873c236abc55b723
+17089,Gift Store,4b533b45f964a520509327e3
+10037,Concert Hall,50f910b8e4b0f0c81f22e25a
+10039,Music Venue,50f910b8e4b0f0c81f22e25a
+13065,Restaurant,50f910b8e4b0f0c81f22e25a
+10000,Arts and Entertainment,4adcda15f964a520a63721e3
+13145,Fast Food Restaurant,4b05c05df964a5206ee222e3
+13148,French Restaurant,4b05c05df964a5206ee222e3
+10037,Concert Hall,4adcda1cf964a520043921e3
+10043,Theater,4adcda1cf964a520043921e3
+13027,Bistro,547efe8d498e129542045673
+13072,Asian Restaurant,547efe8d498e129542045673
+13377,Vegan and Vegetarian Restaurant,5006b402e4b052ccd4ab259f
+13236,Italian Restaurant,55199c44498ed951dcccdda3
+13009,Cocktail Bar,4fd3c3137b0c4fe0be8ea3a6
+13347,Tapas Restaurant,4fd3c3137b0c4fe0be8ea3a6
+13009,Cocktail Bar,4fc946d0e4b06b13b1e7d4d3
+13152,Brasserie,4fc946d0e4b06b13b1e7d4d3
+10030,History Museum,4bdd3271f219c9b624321210
+16019,Hiking Trail,4d8db929d265236a4eadf816
+13152,Brasserie,4b06dee2f964a520e3f122e3
+16039,Urban Park,4adcda09f964a520ed3321e3
+13072,Asian Restaurant,5b54dc24829b0c002cefdd2a
+12005,Cultural Center,541d53a6498ebd85fa94404e
+10039,Music Venue,541d53a6498ebd85fa94404e
+13294,Korean BBQ Restaurant,4b1abffff964a520f6f023e3
+13027,Bistro,50a3836fe4b08f00ef2d3f44
+13139,Eastern European Restaurant,50a3836fe4b08f00ef2d3f44
+13148,French Restaurant,50a3836fe4b08f00ef2d3f44
+13148,French Restaurant,55e09d6d498ebe455fee5d7d
+13002,Bakery,569caa0b498e43ea7474a117
+13047,Pastry Shop,569caa0b498e43ea7474a117
+13152,Brasserie,4bb5d6462ea195213dccaa2f
+10028,Art Museum,4b4861e0f964a520804c26e3
+13002,Bakery,4b657cc7f964a52025f22ae3
+13047,Pastry Shop,4b657cc7f964a52025f22ae3
+13065,Restaurant,4b657cc7f964a52025f22ae3
+16041,Plaza,4bf41231e5eba59334341f90
+13039,Deli,59247f4e0d2be70573edd834
+13047,Pastry Shop,59247f4e0d2be70573edd834
+17062,Chocolate Store,4e0766702271dfa46baee474
+16032,Park,4bdafaf7c79cc928937d80e9
+13064,Pizzeria,5e27600b16c1750008659b8e
+16045,Roof Deck,5438ff7a498ec64de51dba92
+13143,Ethiopian Restaurant,4c8f66654e95236a317a83ca
+13065,Restaurant,5e185db7b57efe000896e2d6
+13049,Diner,4b978bccf964a520330835e3
+13057,Gastropub,4b978bccf964a520330835e3
+13152,Brasserie,4b978bccf964a520330835e3
+13145,Fast Food Restaurant,4b7e7d1bf964a52040ef2fe3
+13148,French Restaurant,4b7e7d1bf964a52040ef2fe3
+13298,Lebanese Restaurant,4b7e7d1bf964a52040ef2fe3
+12080,Library,4c135783b7b9c928e167a937
+10037,Concert Hall,4adcda19f964a520c03821e3
+10039,Music Venue,4adcda19f964a520c03821e3
+13148,French Restaurant,4adcda19f964a520c03821e3
+18000,Sports and Recreation,4d9c75e3c540236ad8ac784b
+13013,Hotel Bar,50774a9be4b02bab185d282b
+10037,Concert Hall,4adcda1df964a520273921e3
+10043,Theater,4adcda1df964a520273921e3
+13035,Coffee Shop,4adcda1df964a520273921e3
+16009,Canal,4c8fb2cdb3bcb60c97f26327
+19000,Travel and Transportation,4c8fb2cdb3bcb60c97f26327
+13064,Pizzeria,57c72061cd10055bdbe66444
+13236,Italian Restaurant,57c72061cd10055bdbe66444
+13383,Steakhouse,5144ec18e4b08e9c8a75a57b
+13152,Brasserie,55f162d1498edec075e8c3d2
+13352,Thai Restaurant,55f162d1498edec075e8c3d2
+13009,Cocktail Bar,4b7d76ecf964a5202cc02fe3
+13145,Fast Food Restaurant,4b7d76ecf964a5202cc02fe3
+13152,Brasserie,4b7d76ecf964a5202cc02fe3
+19014,Hotel,4b8e3df0f964a520a01c33e3
+10037,Concert Hall,4adcda15f964a5208a3721e3
+10039,Music Venue,4adcda15f964a5208a3721e3
+10043,Theater,4adcda15f964a5208a3721e3
+13006,Beer Bar,597cb9a9ee71206fc0a2752b
+13029,Brewery,597cb9a9ee71206fc0a2752b
+13035,Coffee Shop,597cb9a9ee71206fc0a2752b
+13064,Pizzeria,574d7a4f498eeaadcbaef0ff
+13025,Wine Bar,4d3b3564fa736ea8a7da1d8a
+13148,French Restaurant,4d3b3564fa736ea8a7da1d8a
+13379,Vietnamese Restaurant,587c9bbf286804584a1f28c6
+13057,Gastropub,4adcda12f964a520603621e3
+13152,Brasserie,4adcda12f964a520603621e3
+13338,Seafood Restaurant,4adcda12f964a520603621e3
+13298,Lebanese Restaurant,4bd031989854d13a4a39f74d
+13027,Bistro,4adcda11f964a5202c3621e3
+13148,French Restaurant,4adcda11f964a5202c3621e3
+13002,Bakery,4c1a1f4fd4d9c9282ceff129
+13042,Cupcake Shop,4c1a1f4fd4d9c9282ceff129
+13047,Pastry Shop,4c1a1f4fd4d9c9282ceff129
+13152,Brasserie,4cdaf27722bd721e7ba5f247
+13276,Sushi Restaurant,4cdaf27722bd721e7ba5f247
+10028,Art Museum,5ad06f59febf316801ad0305
+13009,Cocktail Bar,59aeba86772fbc3179b30f13
+13347,Tapas Restaurant,4d38b652acf1b60c57ad8318
+12075,Post Office,53bb87dc498e340e1104dcc6
+15003,Alternative Medicine Clinic,9f5f6192dc1143538516a02f
+17035,Drugstore,9f5f6192dc1143538516a02f
+13325,Portuguese Restaurant,4f895784e4b0b1c4af9cfcb5
+11083,Electrician,f77fafc7b1e7449b701edadc
+11096,Plumber,f77fafc7b1e7449b701edadc
+11083,Electrician,d8a6db3860214768b51bf8e9
+10001,Amusement Park,5ac3ce021953f33c3f4f5ac3
+11092,Landscaper and Gardener,51be8b97498e7a73463f9103
+12101,Church,8f6f5c280dfe409e607b204f
+10026,Indie Movie Theater,4b8aabb2f964a520d57832e3
+13145,Fast Food Restaurant,4ba619ccf964a520923339e3
+13148,French Restaurant,4ba619ccf964a520923339e3
+13199,Indian Restaurant,4d78ba36109eb1f748a25306
+16041,Plaza,4b66bd37f964a52038292be3
+13002,Bakery,4e78d59d1f6ecf8d36be5750
+13065,Restaurant,4e78d59d1f6ecf8d36be5750
+19019,Vacation Rental,4adcda09f964a5200f3421e3
+13002,Bakery,4bb4c84d8786ef3b42a66533
+13047,Pastry Shop,4bb4c84d8786ef3b42a66533
+13148,French Restaurant,4bb4c84d8786ef3b42a66533
+13145,Fast Food Restaurant,4b716003f964a5207c432de3
+13148,French Restaurant,4b716003f964a5207c432de3
+17114,Shopping Mall,4b657ec1f964a52059f22ae3
+16000,Landmarks and Outdoors,4bbf3eadb083a593900ea3e9
+13064,Pizzeria,4b7859d1f964a52098c72ee3
+13356,Turkish Restaurant,4b7859d1f964a52098c72ee3
+13148,French Restaurant,4b98122df964a520532a35e3
+17023,Computers and Electronics Retail,4f6a1c5ee4b0e357e9fd4139
+13152,Brasserie,4bd305229854d13a2dabfc4d
+10015,Escape Room,54e09c20498e602add59be00
+13065,Restaurant,505e4deae4b077974a963fca
+13006,Beer Bar,5724e600498e49d09c4e1c21
+13007,Beer Garden,5724e600498e49d09c4e1c21
+13065,Restaurant,5724e600498e49d09c4e1c21
+10027,Museum,4adcda10f964a520ae3521e3
+13148,French Restaurant,51cdc738498ee7a33471ea12
+10037,Concert Hall,4be6ebf4bcef2d7fc49805e5
+10039,Music Venue,4be6ebf4bcef2d7fc49805e5
+10027,Museum,4adcda0ef964a5204d3521e3
+13144,Falafel Restaurant,5735b892cd10a50daaa8435c
+13106,Dim Sum Restaurant,4c472b3776d72d7f5d4c3c4d
+13033,Bubble Tea Shop,5a8c1166e1f22874f4fc9714
+13065,Restaurant,5a8c1166e1f22874f4fc9714
+13065,Restaurant,512534ece4b03a94f9a50313
+17068,Gourmet Store,512534ece4b03a94f9a50313
+18021,Gym and Studio,542d1697498e60c8daea612a
+16032,Park,4c58007ccc96c9b6f61c7a2e
+17070,Organic Grocery,4d0ccdd53bbaa143116a38da
+17026,Mobile Phone Store,4f422276e4b005b5367362ba
+12075,Post Office,50486a7ce4b0e98bbf047d09
+19020,Parking,4adcda0cf964a520fb3421e3
+17057,Food and Beverage Retail,525f80fb498ead86827065f4
+12075,Post Office,4d9ee5b3640b5481dacdd32d
+12075,Post Office,4dd119d0183899ddfb1393bc
+17069,Grocery Store,4ce63abcf3bda1433337aae4
+16041,Plaza,4e81cbef02d561cd4a53ba3b
+10051,Stadium,4be3225ab02ec9b6dea94ec0
+13152,Brasserie,beb693e9baff45793d10305f
+17057,Food and Beverage Retail,5f8f6a29094d0d68766adb00
+13148,French Restaurant,4cfd30f9d8468cfa43bdfe6b
+13065,Restaurant,507d42dce4b073908287ae88
+17080,Wine Store,507d42dce4b073908287ae88
+13072,Asian Restaurant,4f672adee4b015497d9f9780
+16032,Park,4b9d09dcf964a520668a36e3
+13027,Bistro,4adcda14f964a520373721e3
+13145,Fast Food Restaurant,4adcda14f964a520373721e3
+13152,Brasserie,4adcda14f964a520373721e3
+13338,Seafood Restaurant,4e6b47cfe4cdb37551ef49e3
+13003,Bar,4b477ff1f964a520163426e3
+13145,Fast Food Restaurant,4b477ff1f964a520163426e3
+13152,Brasserie,4b477ff1f964a520163426e3
+17059,Butcher,4bdc05142a3a0f47284db1b6
+17069,Grocery Store,4bdc05142a3a0f47284db1b6
+17077,Meat and Seafood Store,4bdc05142a3a0f47284db1b6
+13034,Café,4b157c60f964a52090ad23e3
+13035,Coffee Shop,4b157c60f964a52090ad23e3
+13165,German Restaurant,4b157c60f964a52090ad23e3
+13003,Bar,588ce3cd0bc55b4647f55f3d
+13145,Fast Food Restaurant,588ce3cd0bc55b4647f55f3d
+12003,Cemetery,4adcda09f964a520e73321e3
+13031,Burger Joint,4f55ff93e4b072b51dbbae19
+13039,Deli,4f55ff93e4b072b51dbbae19
+13064,Pizzeria,4f55ff93e4b072b51dbbae19
+10037,Concert Hall,4f479e89e4b01e144da40b8d
+10039,Music Venue,4f479e89e4b01e144da40b8d
+10043,Theater,4f479e89e4b01e144da40b8d
+13064,Pizzeria,4b4c7754f964a520acb326e3
+13236,Italian Restaurant,4b4c7754f964a520acb326e3
+13119,Jiangxi Restaurant,50e4a3f9e4b047678a6230d5
+15017,Medical Lab,5db838ff2d5b7f0008b5f3c4
+11130,Office Building,4cfe4a17d7206ea87a954d69
+12097,Social Club,81c8d3742d9f45967e42de99
+12051,Driving School,b4a5294c4afa45a3406cfa1f
+13152,Brasserie,4adcda12f964a520863621e3
+13064,Pizzeria,4b4ee809f964a52009f726e3
+13152,Brasserie,4b4ee809f964a52009f726e3
+12080,Library,4b6ee041f964a52085ce2ce3
+17080,Wine Store,4da88e0a1e72d9bb4748c89c
+10037,Concert Hall,4adcda04f964a520473221e3
+10039,Music Venue,4adcda04f964a520473221e3
+10043,Theater,4adcda04f964a520473221e3
+13003,Bar,4ba52754f964a520c2e438e3
+13152,Brasserie,4ba52754f964a520c2e438e3
+13313,Moroccan Restaurant,4ba52754f964a520c2e438e3
+13199,Indian Restaurant,4bdc7ca2afe8c9b6a8a74f85
+17069,Grocery Store,50672face4b0f6898effc097
+17080,Wine Store,50672face4b0f6898effc097
+13067,African Restaurant,510a5457e4b0758bf5ffd0ec
+13148,French Restaurant,510a5457e4b0758bf5ffd0ec
+13064,Pizzeria,4bb64de0f562ef3b8bf22f97
+13152,Brasserie,4bb64de0f562ef3b8bf22f97
+13236,Italian Restaurant,4bb64de0f562ef3b8bf22f97
+13064,Pizzeria,4f72e4b1e4b03ea6fd6395e6
+13145,Fast Food Restaurant,4f72e4b1e4b03ea6fd6395e6
+13352,Thai Restaurant,4f72e4b1e4b03ea6fd6395e6
+17030,Cosmetics Store,4da48148d686b60c8e58e128
+12075,Post Office,4eaacfb5f7905c3941681d40
+13031,Burger Joint,5b0fd669b2958f002c44ff41
+13145,Fast Food Restaurant,5b0fd669b2958f002c44ff41
+17069,Grocery Store,54f5ff4e498e26ac1f529dac
+13002,Bakery,4bdb0be7c79cc9283cd880e9
+13047,Pastry Shop,4bdb0be7c79cc9283cd880e9
+13145,Fast Food Restaurant,4bdb0be7c79cc9283cd880e9
+17069,Grocery Store,4b542963f964a52084b327e3
+17114,Shopping Mall,4c00d00534ccc928ba2ee2cd
+12066,City Hall,4ca0e6e6d3c2b60cda3ce1bc
+13065,Restaurant,57cea934498e0875f6439c4b
+11179,Wholesaler,571a19f2498e4010d8fb31ec
+13050,Distillery,571a19f2498e4010d8fb31ec
+10024,Movie Theater,4c062c6e5753c9280a783af1
+13148,French Restaurant,4bdcbcc0afe8c9b6c4c95085
+13064,Pizzeria,4b6d7fcaf964a52083782ce3
+13236,Italian Restaurant,4b6d7fcaf964a52083782ce3
+12075,Post Office,5224609d11d2fe5581d69790
+13334,Sandwich Spot,518f7416498ef8b46569bc81
+13145,Fast Food Restaurant,518f7416498ef8b46569bc81
+13263,Japanese Restaurant,4c3f5c33d7fad13a4c6604da
+18075,Swimming Pool,55aa8819498e7472d33b869e
+16032,Park,4b8155eef964a5200da030e3
+16032,Park,4bcb1acf0687ef3badfedccc
+13152,Brasserie,4b59e89df964a52012a028e3
+13040,Dessert Shop,63838af2028001039b9e19ec
+13002,Bakery,52a37eed11d2ed01f682da6f
+11057,Caterer,4b9e2041f964a52039cc36e3
+13145,Fast Food Restaurant,4bbdbc2df57ba593b15aaeb9
+13148,French Restaurant,4bbdbc2df57ba593b15aaeb9
+18075,Swimming Pool,4bc49abdb492d13a2440aa60
+13035,Coffee Shop,4d2c3aa38e102c0fe89dd26e
+13036,Tea Room,4d2c3aa38e102c0fe89dd26e
+13065,Restaurant,4d2c3aa38e102c0fe89dd26e
+13003,Bar,4b5a59cbf964a5203ebf28e3
+13034,Café,4b5a59cbf964a5203ebf28e3
+13065,Restaurant,4b5a59cbf964a5203ebf28e3
+17000,Retail,55e87c7d498e1ee2d575093e
+17071,Health Food Store,539892bd498e9758d6b6cc0c
+16000,Landmarks and Outdoors,535782bf11d2bbfbf6844c04
+17080,Wine Store,50a541b2e4b08b4ad0f68420
+18064,Soccer Field,4fe21127e4b0bd44619d8dc2
+13289,Korean Restaurant,4be52d40d4f7c9b63d232520
+10027,Museum,4b6ecf33f964a5208ccb2ce3
+13263,Japanese Restaurant,555a3870498e86f0d297406f
+17069,Grocery Store,4e43c8aa2271bdbcf66b47d2
+17043,Clothing Store,16ad63f189604efc50aac4f9
+11145,Real Estate Service,2c679b17ee7a413d2be7b886
+12091,Public and Social Service,2c679b17ee7a413d2be7b886
+12091,Public and Social Service,a2afdc3f474e46de5dac2c9f
+12058,Elementary School,174768c9c1fb404dbb36f8a1
+12060,Middle School,9c204e4357024dc10defc715
+17068,Gourmet Store,55294216498ea8f3dc53073b
+13177,Greek Restaurant,5c632fde8c812a0035fdf072
+11057,Caterer,546251c2498e013f49963f11
+16016,Fountain,5096523c498ecb7e553bc676
+17065,Farmers Market,4b88d025f964a520a10e32e3
+13065,Restaurant,4bd143edb221c9b6d55bd5d0
+13145,Fast Food Restaurant,4c33838d16adc928e6c0c39c
+13263,Japanese Restaurant,4c33838d16adc928e6c0c39c
+13003,Bar,4b644db7f964a52076a92ae3
+13057,Gastropub,4b644db7f964a52076a92ae3
+13145,Fast Food Restaurant,4b644db7f964a52076a92ae3
+13145,Fast Food Restaurant,4be1cd86a145c92872a04e80
+13148,French Restaurant,4be1cd86a145c92872a04e80
+17065,Farmers Market,4f5347f4e4b07de37c79e9a2
+13065,Restaurant,51e53db9498e6f175b09570c
+13064,Pizzeria,4b1791b4f964a5206ec623e3
+13145,Fast Food Restaurant,4b1791b4f964a5206ec623e3
+13236,Italian Restaurant,4b1791b4f964a5206ec623e3
+13379,Vietnamese Restaurant,5106c2b8e4b01e27c235baf1
+13006,Beer Bar,4b855bcaf964a520dd5831e3
+13027,Bistro,4b855bcaf964a520dd5831e3
+13152,Brasserie,4b855bcaf964a520dd5831e3
+17069,Grocery Store,4b7931fdf964a520a3ee2ee3
+13027,Bistro,4bae3a5bf964a52049953be3
+13152,Brasserie,4bae3a5bf964a52049953be3
+12075,Post Office,4e5ccf9762e1ef715a50a96e
+17069,Grocery Store,4c4f16f79932e21ef024d1ce
+13003,Bar,4c0a4df432daef3b9a9c4b50
+13034,Café,4c0a4df432daef3b9a9c4b50
+13152,Brasserie,4c0a4df432daef3b9a9c4b50
+17057,Food and Beverage Retail,519e557c498ea05fb2b699de
+17069,Grocery Store,54e20a25498e07cde70629d5
+12075,Post Office,4f2d49b5e4b059914ed871f5
+15000,Health and Medicine,5c995d22ad1789002c79c49b
+17035,Drugstore,5c995d22ad1789002c79c49b
+15003,Alternative Medicine Clinic,55123076498e662ffa2638b6
+17035,Drugstore,55123076498e662ffa2638b6
+12009,Education,caa0fdea3234451845c9139f
+12058,Elementary School,4f93dc80e4b0f639258c6c50
+17071,Health Food Store,587ca1dde309e107706d08eb
+12009,Education,547c3ff4498edcb600c4183a
+16041,Plaza,4c33288866e40f474c7fc78b
+19055,Travel Agency,4c33288866e40f474c7fc78b
+10030,History Museum,4adcda0ff964a5207e3521e3
+17058,Beer Store,51ceb321498e99170b28b975
+17080,Wine Store,51ceb321498e99170b28b975
+13046,Ice Cream Parlor,4c1242987f7f2d7feceadc68
+13065,Restaurant,4c1242987f7f2d7feceadc68
+13003,Bar,543eb4c3498ec28948bb1e7a
+13034,Café,543eb4c3498ec28948bb1e7a
+13152,Brasserie,543eb4c3498ec28948bb1e7a
+13034,Café,55180038498ee39ec281e9c8
+13035,Coffee Shop,55180038498ee39ec281e9c8
+13065,Restaurant,55180038498ee39ec281e9c8
+13003,Bar,5a1f27c94a7aae552767576a
+13065,Restaurant,5a1f27c94a7aae552767576a
+13148,French Restaurant,597f1089cad1b643afabc02b
+13025,Wine Bar,5169a33b498e2abcc8e8e141
+13148,French Restaurant,5169a33b498e2abcc8e8e141
+13145,Fast Food Restaurant,4d5d8badfb186dcb067a0d9b
+13152,Brasserie,4d5d8badfb186dcb067a0d9b
+13263,Japanese Restaurant,4d5d8badfb186dcb067a0d9b
+13035,Coffee Shop,5ae44cf7dd8442002cc065ca
+13065,Restaurant,5ae44cf7dd8442002cc065ca
+13145,Fast Food Restaurant,4e8c435e775bb2805224ec38
+13148,French Restaurant,4e8c435e775bb2805224ec38
+13064,Pizzeria,4b7cf2b4f964a5200daa2fe3
+13152,Brasserie,4b7cf2b4f964a5200daa2fe3
+13127,Szechuan Restaurant,56293666498ee732f99e697f
+13148,French Restaurant,4c3cbfd37d00d13a0a593950
+13046,Ice Cream Parlor,4d000f592685a35d8ea8c690
+13145,Fast Food Restaurant,4d000f592685a35d8ea8c690
+13236,Italian Restaurant,4d000f592685a35d8ea8c690
+11057,Caterer,4b8d49a8f964a52018f232e3
+17110,Pet Supplies Store,525033bc498e477d8430f25d
+16032,Park,4b68261bf964a5203d692be3
+10024,Movie Theater,4b71ada8f964a5208c552de3
+13064,Pizzeria,4b2a2817f964a520a5a524e3
+13236,Italian Restaurant,4b2a2817f964a520a5a524e3
+17069,Grocery Store,4b491081f964a520536426e3
+17080,Wine Store,4b491081f964a520536426e3
+13002,Bakery,4d9d996aa695721edd3e140d
+13002,Bakery,50cf04a1e4b029bcb5260639
+17080,Wine Store,4ba733f4f964a520b28539e3
+17065,Farmers Market,4b408317f964a520a4b825e3
+13067,African Restaurant,4e1068de6284edb6bace27b2
+13148,French Restaurant,4e1068de6284edb6bace27b2
+13313,Moroccan Restaurant,4e1068de6284edb6bace27b2
+13064,Pizzeria,4b881bf5f964a5206fe031e3
+13145,Fast Food Restaurant,4b881bf5f964a5206fe031e3
+13236,Italian Restaurant,4b881bf5f964a5206fe031e3
+17069,Grocery Store,5aa3e401db2aeb110014f363
+16019,Hiking Trail,4de4f7fdd164df857536250f
+13352,Thai Restaurant,4c595319d3aee21e47d56755
+10000,Arts and Entertainment,5b744032947c05002c69f5a8
+13007,Beer Garden,5b744032947c05002c69f5a8
+10035,Performing Arts Venue,57657f66498e0e9819e9c370
+10009,Circus,4adcda16f964a520e03721e3
+12075,Post Office,4bed11c1e3562d7f6783fef8
+12086,Non-Profit Organization,565dbe2d498e9be4f1f03d9f
+17057,Food and Beverage Retail,5d4597eada59890008341d2b
+13352,Thai Restaurant,60db551c16c30b5af70ce630
+13027,Bistro,4c9e3f637c096dcbe036d3d1
+13077,Belgian Restaurant,4c9e3f637c096dcbe036d3d1
+13152,Brasserie,4c9e3f637c096dcbe036d3d1
+17117,Sporting Goods Retail,4c8cbfb0ed3ab60c864f6a21
+11092,Landscaper and Gardener,4c9f4b8c2fb1a1430050f240
+13145,Fast Food Restaurant,4bed35419868a59315045d46
+13145,Fast Food Restaurant,4bc59bb6ccbcef3bb8b0e6d2
+13148,French Restaurant,4bc59bb6ccbcef3bb8b0e6d2
+13383,Steakhouse,4bc59bb6ccbcef3bb8b0e6d2
+13199,Indian Restaurant,5e4cbe72fdc661000842ab3b
+13064,Pizzeria,4bfebd83c30a2d7ff9ec0f1d
+13152,Brasserie,4bfebd83c30a2d7ff9ec0f1d
+13276,Sushi Restaurant,4bfebd83c30a2d7ff9ec0f1d
+17101,Garden Center,4e491ff462e148603b94bc56
+12075,Post Office,4c8ddcf3d68c6dcbde42f7a1
+17069,Grocery Store,5af58c8eaa6c95002c1a38a3
+16032,Park,4cc83aa1be8746882a2183af
+13065,Restaurant,2c877bc23ffd412c2a3d3509
+13031,Burger Joint,4c72b704376da0938021a7c6
+13055,Fried Chicken Joint,4d61b08b196ba0938a872856
+13145,Fast Food Restaurant,4d61b08b196ba0938a872856
+17057,Food and Beverage Retail,60d0656d296ea6540ca09354
+12058,Elementary School,4f080cfde4b071c5751a5a28
+13151,Basque Restaurant,4af1d62df964a520a6e321e3
+13152,Brasserie,4af1d62df964a520a6e321e3
+13027,Bistro,4dbfd93b43a147cd6ec9d8de
+13035,Coffee Shop,4dbfd93b43a147cd6ec9d8de
+13152,Brasserie,4dbfd93b43a147cd6ec9d8de
+13148,French Restaurant,51e83ee0498e088846067b82
+13002,Bakery,52ed2262498e834a447c1a3b
+13027,Bistro,4de25d72cc3fa786ac7a14e5
+13148,French Restaurant,4de25d72cc3fa786ac7a14e5
+16026,Monument,4c28e218fe6e2d7fa4f4533c
+13317,Persian Restaurant,501faaa6e4b0650735b6a225
+13152,Brasserie,4b695f90f964a5204fa02be3
+13064,Pizzeria,4d31ee0f5c2db60c8900bd6c
+17069,Grocery Store,4b9cbd1af964a5200d7936e3
+19020,Parking,4b9cbd1af964a5200d7936e3
+13148,French Restaurant,51508ddae4b040403ea6b5e3
+16019,Hiking Trail,4bd2cc5ba8b3a593bc83685f
+13027,Bistro,4b18c8b8f964a520b9d523e3
+13152,Brasserie,4b18c8b8f964a520b9d523e3
+13027,Bistro,52f8cf0a498effed3e66807c
+13031,Burger Joint,52f8cf0a498effed3e66807c
+13049,Diner,52f8cf0a498effed3e66807c
+13276,Sushi Restaurant,4c6bb5ea6d390f4719480b9a
+13276,Sushi Restaurant,535e9604498ec936982ff2a3
+16032,Park,4c093b8ca1b32d7fc24e97f0
+10024,Movie Theater,4caf0b84cbab236a40b69473
+17043,Clothing Store,4bc094f1920eb713a51b192c
+17044,Fashion Accessories Store,4bc094f1920eb713a51b192c
+17052,Women's Store,4bc094f1920eb713a51b192c
+13002,Bakery,4c9f5639542b224b4e46fc9f
+13298,Lebanese Restaurant,4fd5d072e4b078418a9392c4
+13067,African Restaurant,4ee7a70b6c2521dbe39a5693
+13313,Moroccan Restaurant,4ee7a70b6c2521dbe39a5693
+17054,Flea Market,4adcda1ff964a520603921e3
+13145,Fast Food Restaurant,4c586cdb30d82d7fc817dc62
+13325,Portuguese Restaurant,4c586cdb30d82d7fc817dc62
+13338,Seafood Restaurant,4c586cdb30d82d7fc817dc62
+10031,Science Museum,4e1882f7aeb7eb0120cbb641
+17069,Grocery Store,5b74bbb4dee770002cd8984c
+17029,Convenience Store,4eaed4758b8181aef8ad7df7
+13099,Chinese Restaurant,4d67fc836d6a236ad3db372a
+13145,Fast Food Restaurant,4b7afaa2f964a520cc492fe3
+13055,Fried Chicken Joint,4b7afaa2f964a520cc492fe3
+11076,Home Improvement Service,596f45a728374e0f769bfcab
+10001,Amusement Park,4adcda23f964a520543a21e3
+10028,Art Museum,4c08f9cf6071a5933b09dd32
+17018,Bookstore,58e8f644e03e577e291bfb28
+13064,Pizzeria,4adcda11f964a520fb3521e3
+13145,Fast Food Restaurant,4adcda11f964a520fb3521e3
+13236,Italian Restaurant,4adcda11f964a520fb3521e3
+13334,Sandwich Spot,551937e6498ef873aa2304a6
+19020,Parking,4bbf1964b083a59310d5a2e9
+11057,Caterer,4d0750ef8620224ba777b740
+13352,Thai Restaurant,4b18fb06f964a520e3d623e3
+13148,French Restaurant,4d4004eede17a093b018f46b
+15000,Health and Medicine,4b7fbd58f964a520b33b30e3
+17035,Drugstore,4b7fbd58f964a520b33b30e3
+13152,Brasserie,4f70567ce4b02a6d6a800eca
+17069,Grocery Store,4bd1726841b9ef3bececfbe5
+13064,Pizzeria,5eb335371e10f900071bd05c
+13145,Fast Food Restaurant,5eb335371e10f900071bd05c
+13236,Italian Restaurant,5eb335371e10f900071bd05c
+11130,Office Building,5e0b7752ee0f6000087107eb
+12091,Public and Social Service,bc8ac35839524d52f0169f9b
+13064,Pizzeria,4c6541bb5e61d13a7b5bbb85
+13236,Italian Restaurant,4c6541bb5e61d13a7b5bbb85
+12075,Post Office,4e00ac67b61c1fbe8dfb0248
+11107,Insurance Agency,4fb12087e4b0771d836ad95e
+17006,Car Dealership,4b75123ef964a520fbfc2de3
+13152,Brasserie,53c7ad72498e21a7a6d4dd86
+17098,Music Store,4e1d91cb45ddc696bb3abdfd
+13276,Sushi Restaurant,57b9ecd138fa56c7b9077f16
+11092,Landscaper and Gardener,5e4a1797fdc6610008849db6
+17057,Food and Beverage Retail,4fe0c018e4b062b31d2c3857
+12086,Non-Profit Organization,314f83261c924773e431138c
+15022,Nursing Home,314f83261c924773e431138c
+11087,"Heating, Ventilating and Air Conditioning Contractor",4a7051fadf914dc38f63c6be
+11096,Plumber,4a7051fadf914dc38f63c6be
+13002,Bakery,622b644de50816517130c220
+13065,Restaurant,feec8f5d0478f02f0ff3585b
+10037,Concert Hall,4adcda17f964a520583821e3
+13148,French Restaurant,5eb45e0205c5b90008896362
+12075,Post Office,51973fe8498e0a87fad0005e
+17069,Grocery Store,5eac7ecd087e7500075b7670
+17018,Bookstore,52ffc37f498e580ecf72c9b2
+17054,Flea Market,4c061d60d3842d7f3920bf41
+13027,Bistro,59dca3334420d844d75105f6
+13003,Bar,4ba29291f964a520830538e3
+13064,Pizzeria,4ba29291f964a520830538e3
+13148,French Restaurant,4ba29291f964a520830538e3
+13000,Dining and Drinking,4de282d58877bcb68646034d
+10039,Music Venue,4de282d58877bcb68646034d
+13003,Bar,4de282d58877bcb68646034d
+13003,Bar,4b17a395f964a520c3c623e3
+13148,French Restaurant,4b17a395f964a520c3c623e3
+13347,Tapas Restaurant,4b17a395f964a520c3c623e3
+13035,Coffee Shop,4c35ae1e66e40f47457ccb8b
+13152,Brasserie,4c35ae1e66e40f47457ccb8b
+13199,Indian Restaurant,5349223d498eba6f43d5558d
+10037,Concert Hall,4b9be0b2f964a520683036e3
+10039,Music Venue,4b9be0b2f964a520683036e3
+13031,Burger Joint,4b9be0b2f964a520683036e3
+13064,Pizzeria,4c4b2eba959220a1c232370f
+13145,Fast Food Restaurant,4c4b2eba959220a1c232370f
+13236,Italian Restaurant,4c4b2eba959220a1c232370f
+16032,Park,4bcd8b31b6c49c74d2779591
+13002,Bakery,4dc913057d8b549a55fbed6f
+13148,French Restaurant,4bff9cd8ca1920a13fffec81
+17110,Pet Supplies Store,574990e7498e18da8e12ebfe
+16041,Plaza,4efcdf89e300fdc0460c273f
+13145,Fast Food Restaurant,4c5bf630857ca59349a9c8cb
+13148,French Restaurant,4c5bf630857ca59349a9c8cb
+13236,Italian Restaurant,4c5bf630857ca59349a9c8cb
+13027,Bistro,55942fb0498e911af5d08d4e
+13152,Brasserie,55942fb0498e911af5d08d4e
+13002,Bakery,4db47956f7b121c29f4c890a
+13047,Pastry Shop,4db47956f7b121c29f4c890a
+12075,Post Office,4cb03579c5e6a1cd1838d3f6
+13064,Pizzeria,4c497b0f6594be9a03be1f25
+13276,Sushi Restaurant,4c497b0f6594be9a03be1f25
+13152,Brasserie,4af6ffcef964a520a60422e3
+13338,Seafood Restaurant,4af6ffcef964a520a60422e3
+13016,Lounge,5792a3ff498ea411967f3efb
+13079,Brazilian Restaurant,54aba080498e149abf407f2d
+13334,Sandwich Spot,545b6678498e08322d08fd7d
+13236,Italian Restaurant,4e37e25e81dc481882618733
+13152,Brasserie,4b27db82f964a520438b24e3
+13148,French Restaurant,4adcda06f964a520fa3221e3
+18000,Sports and Recreation,4d8c7ba1788fb60cb0426512
+12075,Post Office,4d94767974c8236a9c49bdfc
+10006,Bowling Alley,4c1357e87f7f2d7f08eede68
+12075,Post Office,4ecf7b15b634dd2990609b1f
+18055,Skate Park,4bd9dee83904a59394fb439e
+11057,Caterer,5ce0cee8e7254d1b329aec00
+11070,Massage Clinic,5ce0cee8e7254d1b329aec00
+11072,Skin Care Clinic,5ce0cee8e7254d1b329aec00
+17057,Food and Beverage Retail,5ce0cee8e7254d1b329aec00
+12058,Elementary School,f262e7bf3f0d452974f0181d
+12066,City Hall,f262e7bf3f0d452974f0181d
+15014,Hospital,f262e7bf3f0d452974f0181d
+12080,Library,95570e00dcb54bec210d778a
+10056,Zoo,569a47b7498e84a7e70ae7f2
+17018,Bookstore,4bdaf90863c5c9b6b8ac2568
+10030,History Museum,4adcda0af964a520343421e3
+17069,Grocery Store,4c7fc8e801df3704fe35e7ac
+10027,Museum,4be573f99026ef3befbc0a38
+16032,Park,60f3fa78905f5b21a7f711e6
+13025,Wine Bar,5378951a498ea252669f5884
+12075,Post Office,51974814498e804c5c032033
+13035,Coffee Shop,585cdf1cea1c0d03328885cc
+13065,Restaurant,585cdf1cea1c0d03328885cc
+16020,Historic and Protected Site,4c2f103c66e40f476345c18b
+13148,French Restaurant,4bd02fa3046076b0a9776f71
+13148,French Restaurant,4adcda15f964a520803721e3
+13017,Piano Bar,4adcda15f964a520803721e3
+13236,Italian Restaurant,4b48ffa4f964a5205d6126e3
+13148,French Restaurant,52571a9c11d21d865f1311d5
+13002,Bakery,4c08cf596071a59325cbdc32
+13047,Pastry Shop,4c08cf596071a59325cbdc32
+13065,Restaurant,51cf1e3c498eb2bc950bd49d
+13145,Fast Food Restaurant,4c9264b3ae96a093d58dab46
+13148,French Restaurant,4c9264b3ae96a093d58dab46
+13064,Pizzeria,4bad001bf964a5200e233be3
+13145,Fast Food Restaurant,4bad001bf964a5200e233be3
+17057,Food and Beverage Retail,4ba4924af964a520f9a438e3
+17065,Farmers Market,4c8223f251ada1cd625e1910
+10026,Indie Movie Theater,4bdf42b8ffdec928614ceba1
+13145,Fast Food Restaurant,4b4f59f4f964a520a60227e3
+13152,Brasserie,4b4f59f4f964a520a60227e3
+13276,Sushi Restaurant,4b4f59f4f964a520a60227e3
+13148,French Restaurant,5a3826e182a750305b353239
+13379,Vietnamese Restaurant,569788e5498e6908350bc8a5
+13148,French Restaurant,4c2a54a68ef52d7f6cb42fba
+16017,Garden,51e2b1ce498e1df398bbd9d1
+13027,Bistro,4ba274d8f964a5209bfa37e3
+13145,Fast Food Restaurant,4ba274d8f964a5209bfa37e3
+13148,French Restaurant,4ba274d8f964a5209bfa37e3
+13031,Burger Joint,514220d1e4b0f63761a0dd5d
+16000,Landmarks and Outdoors,4d79d7810ceba1cd5940b858
+18053,Track,4c9a4e0d80958cfac2cd41d4
+13003,Bar,56dc1b92498e8755e21e7f42
+13035,Coffee Shop,56dc1b92498e8755e21e7f42
+13065,Restaurant,56dc1b92498e8755e21e7f42
+13298,Lebanese Restaurant,4bfada85bbb7c92806590743
+10027,Museum,4adcda0ff964a520623521e3
+13152,Brasserie,4d9f5e458e8f224b4690a256
+13027,Bistro,4af1bc5ff964a5209be221e3
+13152,Brasserie,4af1bc5ff964a5209be221e3
+13148,French Restaurant,580f9ce938faaa7ba63399c0
+13064,Pizzeria,5c004508c8b2fb002c86de96
+13236,Italian Restaurant,5c004508c8b2fb002c86de96
+12051,Driving School,4ebbf9a08b81c444e958bc79
+13148,French Restaurant,4cf948a3d8468cfafee4e56b
+13191,Halal Restaurant,5c743fa135f983002c17f4fe
+13199,Indian Restaurant,5c743fa135f983002c17f4fe
+13276,Sushi Restaurant,562227fe498ed9b36f8c1502
+17061,Cheese Store,5e319234cb3bb800071c424e
+17068,Gourmet Store,5e319234cb3bb800071c424e
+17080,Wine Store,5e319234cb3bb800071c424e
+13099,Chinese Restaurant,51a1f243498ec2b239884d01
+16032,Park,4bd43c1377b29c747a449282
+13064,Pizzeria,4ddc018de4cdb993eaa0e920
+13148,French Restaurant,4ddc018de4cdb993eaa0e920
+13383,Steakhouse,4ddc018de4cdb993eaa0e920
+13027,Bistro,4d0e88a2bd72f04dc0eda551
+10015,Escape Room,54c68ac1498e215fadeb92a1
+17000,Retail,507f09bae4b07e189a6fb389
+16032,Park,4adcda0cf964a520b23421e3
+13148,French Restaurant,541485c1498efe97bd3efa43
+13310,Modern European Restaurant,541485c1498efe97bd3efa43
+16032,Park,5a96a78e0e5da86ac88b5ba3
+13148,French Restaurant,4c1a537cb9f876b076757846
+13148,French Restaurant,4b8fabb4f964a520465c33e3
+13152,Brasserie,4b69b9aff964a52030b02be3
+13039,Deli,4f75a0b7e4b0b4e683ebaf0f
+13034,Café,4b7d82cbf964a5205bc32fe3
+13064,Pizzeria,4b7d82cbf964a5205bc32fe3
+13152,Brasserie,4b7d82cbf964a5205bc32fe3
+13065,Restaurant,5943d2a8db1d815a3b27012f
+13003,Bar,5943d2a8db1d815a3b27012f
+13027,Bistro,5d769d81d133420008ccaed9
+17069,Grocery Store,4be45031bcef2d7fa15e02e5
+13152,Brasserie,4db7f27b6a238ed5d8e9046b
+16032,Park,4e4e596d1495fc2ca3eeba79
+10043,Theater,4adcda16f964a520363821e3
+19031,Airport,4adcda16f964a520363821e3
+13199,Indian Restaurant,4b9bec4bf964a520353636e3
+13152,Brasserie,4b17c542f964a52004c823e3
+13152,Brasserie,4b0ec5f7f964a520cf5a23e3
+13064,Pizzeria,4cda845b4006a143ff05d2b2
+13276,Sushi Restaurant,4cda845b4006a143ff05d2b2
+16032,Park,4c1fb5b9b4e62d7f1e10e093
+13002,Bakery,553c8f59498e1b7a7fb7a6fe
+13047,Pastry Shop,553c8f59498e1b7a7fb7a6fe
+13145,Fast Food Restaurant,5eb1f4aa3c961a0008f36455
+17069,Grocery Store,19c9b8508d784b4c1f782a6d
+15000,Health and Medicine,92fa04504f524db5782674ba
+13145,Fast Food Restaurant,5ca234011c675b002c85bc0d
+13191,Halal Restaurant,5ca234011c675b002c85bc0d
+13352,Thai Restaurant,5ca234011c675b002c85bc0d
+13148,French Restaurant,4c160b1e7f7f2d7fbd46e368
+17065,Farmers Market,4b24cb1df964a520d36924e3
+15024,Optometrist,4ed920db61af8a14b4c1cf07
+17037,Eyecare Store,4ed920db61af8a14b4c1cf07
+17062,Chocolate Store,500b2304f2e7f111af5c601c
+17069,Grocery Store,500b2304f2e7f111af5c601c
+13026,BBQ Joint,4b0e64dbf964a520525723e3
+13145,Fast Food Restaurant,4b0e64dbf964a520525723e3
+13325,Portuguese Restaurant,4b0e64dbf964a520525723e3
+13236,Italian Restaurant,4bcc3903511f95214397b2c7
+13027,Bistro,55ed52ec498e43ed359f3cd0
+13148,French Restaurant,55ed52ec498e43ed359f3cd0
+13068,American Restaurant,5346d333498e27fae1ac46e2
+13236,Italian Restaurant,5346d333498e27fae1ac46e2
+13065,Restaurant,5077f665e4b0dad82160ff0d
+12075,Post Office,4c3c7e0a86ce328f33caab2d
+17069,Grocery Store,5af58ca028374e002ce249ce
+12075,Post Office,4cac97be36fa6dcb98e8df78
+12115,Utility Company,c1fe41d17dd64f116661e816
+12060,Middle School,4bfcc998f7c82d7fda4a8d04
+17059,Butcher,56e09cf8498e6dffd0d1fd36
+10051,Stadium,4ec9280e0aaf9c3cce4df41e
+10032,Night Club,4b7728aef964a5206c832ee3
+13003,Bar,4b7728aef964a5206c832ee3
+13148,French Restaurant,4b7728aef964a5206c832ee3
+12016,College Arts Building,4adcda22f964a5202b3a21e3
+13039,Deli,516fc869e4b002aad536140b
+13145,Fast Food Restaurant,516fc869e4b002aad536140b
+17029,Convenience Store,4b963c11f964a520bec134e3
+13064,Pizzeria,4e14422cd22d40141715f989
+13236,Italian Restaurant,4e14422cd22d40141715f989
+11130,Office Building,51067704e4b0f07420a9974e
+19047,Rail Station,51067704e4b0f07420a9974e
+12087,Social Services Organization,4e04c8a0e4cd92cb899ea489
+16037,Playground,4c109fb4b4aeef3b9152fc0f
+19000,Travel and Transportation,4c109fb4b4aeef3b9152fc0f
+13064,Pizzeria,56548500498e701dc213abcd
+13236,Italian Restaurant,56548500498e701dc213abcd
+13148,French Restaurant,4bc5a8edccbcef3b28bfe6d2
+16041,Plaza,4bd13d32a8b3a5930b87655f
+13009,Cocktail Bar,505a06b7e4b0f81baba6bce6
+13016,Lounge,505a06b7e4b0f81baba6bce6
+13064,Pizzeria,4b790b65f964a520ede92ee3
+13152,Brasserie,4b790b65f964a520ede92ee3
+13000,Dining and Drinking,56d9dea6cd1020ad8183be5c
+13002,Bakery,4b406ba5f964a52020b825e3
+13047,Pastry Shop,4b406ba5f964a52020b825e3
+13145,Fast Food Restaurant,4c3cba394bc9a593f811d371
+13148,French Restaurant,4c3cba394bc9a593f811d371
+13352,Thai Restaurant,552ba9a0498ea7c14ec15de3
+11012,Motorcycle Repair Shop,523816e8498e933284082d3d
+11092,Landscaper and Gardener,5415a7c2498e9e1a5e40542d
+16017,Garden,5415a7c2498e9e1a5e40542d
+13145,Fast Food Restaurant,4bbf7278b083a593a674a3e9
+13276,Sushi Restaurant,4bbf7278b083a593a674a3e9
+13148,French Restaurant,50409cbce4b04fbe5245642e
+13003,Bar,4e8b42048b810d8892a453a9
+13164,Southwestern French Restaurant,4be156f20f03a593abf518b4
+10024,Movie Theater,4b519b12f964a520975027e3
+13003,Bar,4b519b12f964a520975027e3
+12075,Post Office,5081092fe4b052836f551888
+17069,Grocery Store,4bb99f077421a593f7e6c240
+17059,Butcher,5b02876ba2c00b002b734bd2
+17069,Grocery Store,5b02876ba2c00b002b734bd2
+12075,Post Office,4ea161315c5cd12b352b2892
+17069,Grocery Store,5838eee64bc2f13036b0ee15
+13064,Pizzeria,5ecb9a9ccc34e600077667bc
+13148,French Restaurant,4db2ba7a5da3a76f44188c0a
+10047,Public Art,4c5fee65b6f3be9ac5085e73
+16017,Garden,4c5fee65b6f3be9ac5085e73
+11057,Caterer,4ebbbb41722e58fca045b382
+13018,Pub,4c61264ede6920a142929764
+13145,Fast Food Restaurant,4c61264ede6920a142929764
+13148,French Restaurant,4c61264ede6920a142929764
+13064,Pizzeria,4bd96bb40115c9b6722e7780
+13236,Italian Restaurant,4bd96bb40115c9b6722e7780
+13145,Fast Food Restaurant,4b940307f964a520296134e3
+13152,Brasserie,4b940307f964a520296134e3
+13276,Sushi Restaurant,4b940307f964a520296134e3
+13002,Bakery,4d14728e8312236ab26c4aba
+13099,Chinese Restaurant,4bebf02ba9900f4711521840
+13145,Fast Food Restaurant,4bebf02ba9900f4711521840
+13379,Vietnamese Restaurant,4bebf02ba9900f4711521840
+13352,Thai Restaurant,4fa571bfe4b098f42b3c2254
+17069,Grocery Store,4b7ff769f964a520754730e3
+13099,Chinese Restaurant,4b61e3a8f964a52066292ae3
+13002,Bakery,52865fff11d255f9d225fc93
+13047,Pastry Shop,52865fff11d255f9d225fc93
+13299,Malay Restaurant,4c794af1a86837046e06104d
+13379,Vietnamese Restaurant,4c794af1a86837046e06104d
+13302,Mediterranean Restaurant,4ef0802729c22c6c76bb0927
+13379,Vietnamese Restaurant,4c08df87009a0f4741b7e6bf
+13379,Vietnamese Restaurant,4b7722bff964a520eb802ee3
+13002,Bakery,4f25008fe4b04b5526095186
+17057,Food and Beverage Retail,58301e3efc5a5f4d94a5867a
+17054,Flea Market,4daab8748154abafc2b30db1
+17057,Food and Beverage Retail,4ca255651f709eb0d32dfa94
+17057,Food and Beverage Retail,4c62862a58810f478a50071e
+17082,Furniture and Home Store,31643a2befc64863bf331e33
+11092,Landscaper and Gardener,f64e70eb0c004ed6f2e2d108
+11121,Media Agency,f64e70eb0c004ed6f2e2d108
+17057,Food and Beverage Retail,f64e70eb0c004ed6f2e2d108
+13064,Pizzeria,4b5b6921f964a520e3fb28e3
+13236,Italian Restaurant,4b5b6921f964a520e3fb28e3
+13338,Seafood Restaurant,56f6c92b498eba4984ab4acc
+13035,Coffee Shop,4bd3116b77b29c7480d28f82
+13049,Diner,4bd3116b77b29c7480d28f82
+13152,Brasserie,4bd3116b77b29c7480d28f82
+13070,Argentinian Restaurant,531ba635498e61592a1c07ae
+13236,Italian Restaurant,531ba635498e61592a1c07ae
+13064,Pizzeria,53ff6e25498e03776db27b59
+13236,Italian Restaurant,53ff6e25498e03776db27b59
+10024,Movie Theater,552ea0c9498ee5b71f9ba64d
+13236,Italian Restaurant,4cf100a07e93f04d4c654a69
+13000,Dining and Drinking,4bb336e914cfd13a4dba15ab
+13148,French Restaurant,4b731115f964a5203a992de3
+13031,Burger Joint,5368d4b1498e6afd57e9f958
+13145,Fast Food Restaurant,5368d4b1498e6afd57e9f958
+13148,French Restaurant,5368d4b1498e6afd57e9f958
+13002,Bakery,4c18a8806a21c9b6fc45c997
+13152,Brasserie,536536d4498e26ffc79bf45a
+17048,Shoe Store,5fcfee003abdf061d831b756
+18000,Sports and Recreation,4b7464a2f964a520b6d92de3
+12069,Government Department,4f1578aae4b0725660a670e7
+11120,Manufacturer,090b1e9a169049faa1431653
+17035,Drugstore,090b1e9a169049faa1431653
+11092,Landscaper and Gardener,585a5169a0754777dea1b128
+12101,Church,55cb7569498e47143b2c63f5
+17057,Food and Beverage Retail,4cab614b76d3a0931bb92b6b
+13025,Wine Bar,53f8b8e2498ed31bb9167c3e
+13148,French Restaurant,52e10287498e1c6870913d27
+16017,Garden,4bcd8a9b8920b7130ad49fdc
+13057,Gastropub,4d57e8f51901224b3f6584a6
+13152,Brasserie,4d57e8f51901224b3f6584a6
+17069,Grocery Store,4c271569a852c92850c1e76c
+13067,African Restaurant,50577cfce4b01f3aa6ee0896
+13152,Brasserie,4c2c75bc57a9c9b61b6af767
+13148,French Restaurant,53a55ca4498e74f8078a555e
+13310,Modern European Restaurant,53a55ca4498e74f8078a555e
+13009,Cocktail Bar,55b3d8f5498e7fb4514d3abf
+13148,French Restaurant,55b3d8f5498e7fb4514d3abf
+11061,Health and Beauty Service,4dfe768462e15bcf9469dbae
+13152,Brasserie,5041f60de4b03798677b993b
+13027,Bistro,4ba26c57f964a52093f737e3
+13145,Fast Food Restaurant,4ba26c57f964a52093f737e3
+13152,Brasserie,4ba26c57f964a52093f737e3
+13236,Italian Restaurant,4adcda15f964a520593721e3
+13009,Cocktail Bar,57f7ca4ccd10074b3ec13496
+13034,Café,57f7ca4ccd10074b3ec13496
+10027,Museum,4adcda10f964a520983521e3
+10016,Exhibit,58d919032f91cb5e92abee88
+12004,Community Center,58d919032f91cb5e92abee88
+12005,Cultural Center,58d919032f91cb5e92abee88
+12082,Organization,58d919032f91cb5e92abee88
+10004,Art Gallery,52347a6d11d20a407419b145
+13007,Beer Garden,5b2d4f1225fb7b002cf33c04
+10039,Music Venue,57c85d84498e9b3d5c260645
+13003,Bar,57c85d84498e9b3d5c260645
+13065,Restaurant,57c85d84498e9b3d5c260645
+17069,Grocery Store,4cb87305a33bb1f7441a81fd
+13377,Vegan and Vegetarian Restaurant,5893ada8d6fe904b7f9190df
+13064,Pizzeria,4beb106db3352d7f0dfd55d2
+13356,Turkish Restaurant,4beb106db3352d7f0dfd55d2
+18000,Sports and Recreation,4bf6b2015efe2d7f57966734
+13027,Bistro,5724af82498e8558a4b4425d
+13152,Brasserie,4adcda12f964a5207e3621e3
+13145,Fast Food Restaurant,4adcda04f964a5202b3221e3
+13148,French Restaurant,4adcda04f964a5202b3221e3
+13236,Italian Restaurant,4adcda04f964a5202b3221e3
+13027,Bistro,4b55a618f964a5206bea27e3
+13145,Fast Food Restaurant,4b55a618f964a5206bea27e3
+13148,French Restaurant,4b55a618f964a5206bea27e3
+13000,Dining and Drinking,4c46d7fe96abd13a8ace6e01
+16032,Park,4b530e85f964a520b08d27e3
+13145,Fast Food Restaurant,4bc8acfa8b7c9c74c2a738cf
+13152,Brasserie,4bc8acfa8b7c9c74c2a738cf
+13031,Burger Joint,55e74b11498e18adc435d069
+13145,Fast Food Restaurant,55e74b11498e18adc435d069
+13148,French Restaurant,55e74b11498e18adc435d069
+16041,Plaza,4c58543c7329c92887e29080
+10024,Movie Theater,4e9c199061afc418ba5678ae
+13148,French Restaurant,4e6f33518998fd5c56814ab1
+17057,Food and Beverage Retail,4c10c4923ce120a14185081c
+13002,Bakery,4bab78aef964a520e6ab3ae3
+13047,Pastry Shop,4bab78aef964a520e6ab3ae3
+13065,Restaurant,4bab78aef964a520e6ab3ae3
+13145,Fast Food Restaurant,50361786e4b05ec15f4bf131
+13334,Sandwich Spot,50361786e4b05ec15f4bf131
+13003,Bar,4d4a9976183f224bf3c4e9a8
+13064,Pizzeria,4d4a9976183f224bf3c4e9a8
+13152,Brasserie,4d4a9976183f224bf3c4e9a8
+10009,Circus,5bdede698496ca002c48c9bc
+13148,French Restaurant,544aa2bd498e954e94609e5a
+17114,Shopping Mall,583ed5fee9dad17b07be9656
+10024,Movie Theater,526819d511d286205523ab61
+10026,Indie Movie Theater,4bd9dd42c79cc92884557ce9
+13003,Bar,4bd9dd42c79cc92884557ce9
+13152,Brasserie,4b30c3eaf964a52073fb24e3
+13289,Korean Restaurant,4d0f85065584f04da0595216
+10037,Concert Hall,5764513a498e9829cf57a795
+10039,Music Venue,5764513a498e9829cf57a795
+13199,Indian Restaurant,4eaeaf8bd3e32ee0dedb6c75
+17030,Cosmetics Store,509940f93d7c4b7466e64b25
+13334,Sandwich Spot,4e3686bf45dd1c42bf297a4c
+13145,Fast Food Restaurant,4e3686bf45dd1c42bf297a4c
+13035,Coffee Shop,523952d611d24b6f22a08e90
+13065,Restaurant,523952d611d24b6f22a08e90
+10027,Museum,4c2631ae905a0f473ac76260
+16041,Plaza,4c2631ae905a0f473ac76260
+13145,Fast Food Restaurant,4c95f547f244b1f75c3b301d
+13148,French Restaurant,4c95f547f244b1f75c3b301d
+10024,Movie Theater,4bd5dd196798ef3b4a1f648d
+13003,Bar,4b8f6d10f964a5202f5433e3
+13034,Café,4b8f6d10f964a5202f5433e3
+13152,Brasserie,4b8f6d10f964a5202f5433e3
+13068,American Restaurant,576985a3498e9549cf767a93
+13145,Fast Food Restaurant,576985a3498e9549cf767a93
+17029,Convenience Store,4e9446b4f5b95fb5b093cefa
+12050,Culinary School,5db70d727974a500085c19b6
+18028,Yoga Studio,529e3aaa11d273aaac8e3eff
+12067,Courthouse,0d912b1c34e4439f8022eae0
+13002,Bakery,5113eb81e4b0c374ac18de71
+13047,Pastry Shop,5113eb81e4b0c374ac18de71
+10051,Stadium,4adcda21f964a520ff3921e3
+13148,French Restaurant,4e9ffea3e5fa13c70e50ecfd
+13012,Hookah Bar,51a91363498ea9f225bd86b6
+13034,Café,51a91363498ea9f225bd86b6
+13035,Coffee Shop,51a91363498ea9f225bd86b6
+13148,French Restaurant,4b5d9b69f964a520436329e3
+13003,Bar,4cb59bdc1b0af04da228ca25
+13049,Diner,4cb59bdc1b0af04da228ca25
+13152,Brasserie,4cb59bdc1b0af04da228ca25
+13022,Sports Bar,4c5c56e12815c92895c5b167
+13065,Restaurant,4c5c56e12815c92895c5b167
+13002,Bakery,4bd2d23541b9ef3bdabcfee5
+13032,"Cafe, Coffee, and Tea House",4bd2d23541b9ef3bdabcfee5
+13065,Restaurant,4bd2d23541b9ef3bdabcfee5
+13065,Restaurant,5256e3d511d2dd6cd691c336
+13302,Mediterranean Restaurant,5887f24f14fb417692ddb14a
+13289,Korean Restaurant,516c6bb7498e19f9f9005cfb
+13064,Pizzeria,4bc8b3188b7c9c7432b638cf
+13236,Italian Restaurant,4bc8b3188b7c9c7432b638cf
+13383,Steakhouse,4bc8b3188b7c9c7432b638cf
+13064,Pizzeria,4ba55fa8f964a5207e0039e3
+13236,Italian Restaurant,4ba55fa8f964a5207e0039e3
+16032,Park,4d9c4a7509c0a1cde603b52b
+13002,Bakery,4fa8ef39e4b0f293ac06dcee
+13047,Pastry Shop,4fa8ef39e4b0f293ac06dcee
+13334,Sandwich Spot,4fa8ef39e4b0f293ac06dcee
+13099,Chinese Restaurant,4bba354b1261d13a2d5dea98
+13276,Sushi Restaurant,4bba354b1261d13a2d5dea98
+13148,French Restaurant,4bb08733f964a520f2493ce3
+13027,Bistro,58ade76d9dc8d05e51e6c5ba
+13148,French Restaurant,4b523eabf964a520467227e3
+16046,Scenic Lookout,4e88ba242c5ba93bf76cc83c
+13031,Burger Joint,53540f3e498eb6d1057c4586
+13057,Gastropub,53540f3e498eb6d1057c4586
+13148,French Restaurant,53540f3e498eb6d1057c4586
+13313,Moroccan Restaurant,4b59fe4af964a52059a628e3
+13001,Bagel Shop,55e18c02498e8745270e4a2e
+13145,Fast Food Restaurant,55e18c02498e8745270e4a2e
+13148,French Restaurant,55e18c02498e8745270e4a2e
+13065,Restaurant,525299c9498ef83d6a888bb9
+13148,French Restaurant,5150bbcae4b0bdec8a084474
+13003,Bar,52c1eff3498e6ff46eccf861
+13031,Burger Joint,52c1eff3498e6ff46eccf861
+13145,Fast Food Restaurant,52c1eff3498e6ff46eccf861
+13002,Bakery,5404b914498ebf230f13142c
+16032,Park,4bcad6f90687ef3b58b7dccc
+13352,Thai Restaurant,4b81a076f964a520a8b330e3
+13145,Fast Food Restaurant,4b7d0d1ef964a52033ad2fe3
+13313,Moroccan Restaurant,4b7d0d1ef964a52033ad2fe3
+13383,Steakhouse,4b7d0d1ef964a52033ad2fe3
+13152,Brasserie,4dc6a5cfc65b89d3ca8c3d76
+16032,Park,4adcda16f964a520193821e3
+10000,Arts and Entertainment,4b9bdd1ff964a520bb2e36e3
+13065,Restaurant,4ca4910ea73cb60c99202278
+16041,Plaza,4ca4910ea73cb60c99202278
+17069,Grocery Store,4ca4910ea73cb60c99202278
+19047,Rail Station,4ca4910ea73cb60c99202278
+13152,Brasserie,4b75b850f964a520971f2ee3
+13064,Pizzeria,52321d9911d222d558722411
+13236,Italian Restaurant,52321d9911d222d558722411
+10027,Museum,5204dc44498e950b141a9704
+17025,Electronics Store,51d6f26c2fc62062184382c2
+17043,Clothing Store,584e8edbde0cbc4a66207393
+17043,Clothing Store,4ec7ea4429c22cc60ce1fcfd
+17052,Women's Store,4ec7ea4429c22cc60ce1fcfd
+17030,Cosmetics Store,4f59cd3ce4b0e4b75e7ba311
+13031,Burger Joint,57e6ceaecd1036a3617880c3
+13145,Fast Food Restaurant,57e6ceaecd1036a3617880c3
+13064,Pizzeria,4bd6c6ee29eb9c74c88595e1
+13031,Burger Joint,5c9619bb46e1b6002c373db9
+13145,Fast Food Restaurant,5c9619bb46e1b6002c373db9
+16032,Park,4bc9e845b6c49c7482378f91
+10024,Movie Theater,4b7d0ff7f964a52096ad2fe3
+10051,Stadium,4d4567020349224b102c044f
+18000,Sports and Recreation,4d4567020349224b102c044f
+19002,Bike Rental,4d4567020349224b102c044f
+10000,Arts and Entertainment,53e35553498e741fec38fa09
+13002,Bakery,53e35553498e741fec38fa09
+13047,Pastry Shop,53e35553498e741fec38fa09
+13099,Chinese Restaurant,5742e71d498e3b4a65517217
+13002,Bakery,4df26a9f88772e1f814fe94b
+13047,Pastry Shop,4df26a9f88772e1f814fe94b
+17025,Electronics Store,57e6a25acd10347e48baea25
+17085,Housewares Store,5876791cf229952ac1e05ffe
+13016,Lounge,594179ccf0b4901ca9d66e72
+10026,Indie Movie Theater,4b8a75d1f964a520a96d32e3
+13003,Bar,5aa40f4f6c08d133ac76f6cb
+13035,Coffee Shop,5aa40f4f6c08d133ac76f6cb
+13065,Restaurant,5aa40f4f6c08d133ac76f6cb
+13143,Ethiopian Restaurant,4b924294f964a520d2ee33e3
+10056,Zoo,4adcda0af964a5203b3421e3
+17059,Butcher,5b74b7c7b1538e002c32575d
+17069,Grocery Store,5b74b7c7b1538e002c32575d
+12075,Post Office,4c7cf48f7a856dcb9f7ee3a7
+17057,Food and Beverage Retail,4b51e79ff964a520965a27e3
+18000,Sports and Recreation,56c96f99498e6709efcac771
+13145,Fast Food Restaurant,dd90ef3b007140eecb7c068a
+13027,Bistro,5320a4de498e04b5d9c37d33
+13148,French Restaurant,5320a4de498e04b5d9c37d33
+13049,Diner,4b9d767cf964a52073ae36e3
+13148,French Restaurant,4b9d767cf964a52073ae36e3
+13236,Italian Restaurant,4b9d767cf964a52073ae36e3
+16037,Playground,4bb9c2421261d13aaacfe998
+13148,French Restaurant,4b536e89f964a520b19c27e3
+13263,Japanese Restaurant,4b536e89f964a520b19c27e3
+17026,Mobile Phone Store,5e5862bb7da2170008dcd575
+11083,Electrician,1de8394a142f4b7ffcabb041
+13150,Auvergne Restaurant,55e49d4d498e7d1811d783f5
+13027,Bistro,4c248c26905a0f47a2e05f60
+13145,Fast Food Restaurant,4c248c26905a0f47a2e05f60
+13152,Brasserie,4c248c26905a0f47a2e05f60
+18048,Recreation Center,4b24d28af964a520fe6924e3
+13236,Italian Restaurant,5474e08e498e26dc5e12ebb5
+10010,Comedy Club,4b3159a7f964a5203e0525e3
+10039,Music Venue,4b3159a7f964a5203e0525e3
+10043,Theater,4b3159a7f964a5203e0525e3
+13046,Ice Cream Parlor,4adcda04f964a520293221e3
+13145,Fast Food Restaurant,4adcda04f964a520293221e3
+13003,Bar,4b642dadf964a520b6a22ae3
+13145,Fast Food Restaurant,4b642dadf964a520b6a22ae3
+13148,French Restaurant,4b642dadf964a520b6a22ae3
+17069,Grocery Store,4bdd359a4ffaa5932b0d6ff7
+17069,Grocery Store,4db2a9e8fa8c6bb2d0b640ef
+13145,Fast Food Restaurant,5960c62b9ec399064acbab94
+13145,Fast Food Restaurant,4f18147de4b037c550240cec
+15000,Health and Medicine,ff8eb3a63174460dde322c6c
+11083,Electrician,5301dbd1e52b4a4e4e983b48
+13148,French Restaurant,529f8563498e6b18eaf71141
+13025,Wine Bar,50f58b0fe41224aa9b67aa5b
+13034,Café,50f58b0fe41224aa9b67aa5b
+13148,French Restaurant,50f58b0fe41224aa9b67aa5b
+13096,Cambodian Restaurant,532a9f3a498e01dca782f2d2
+13145,Fast Food Restaurant,4c13cd4ab7b9c928a233aa37
+13276,Sushi Restaurant,4c13cd4ab7b9c928a233aa37
+13072,Asian Restaurant,53d51f58498ebed2ce49eef9
+13145,Fast Food Restaurant,53d51f58498ebed2ce49eef9
+18021,Gym and Studio,4adcda18f964a520753821e3
+13276,Sushi Restaurant,4bae6763f964a520c2ad3be3
+13152,Brasserie,4cbde759dd41a35de4cefba0
+13334,Sandwich Spot,529dca06498e4c13bfdae3ce
+13145,Fast Food Restaurant,529dca06498e4c13bfdae3ce
+13002,Bakery,4ed8c30be5fa78b16c1852e7
+13047,Pastry Shop,4ed8c30be5fa78b16c1852e7
+13145,Fast Food Restaurant,4ed8c30be5fa78b16c1852e7
+17057,Food and Beverage Retail,4ca255541f709eb0c12dfa94
+17069,Grocery Store,513e180de4b099af4f1aafdb
+13016,Lounge,4f453db8e4b0f1fcfee3d17b
+13064,Pizzeria,4f453db8e4b0f1fcfee3d17b
+13236,Italian Restaurant,4f453db8e4b0f1fcfee3d17b
+13031,Burger Joint,4cd948021647a093acf7e54c
+13145,Fast Food Restaurant,4cd948021647a093acf7e54c
+11130,Office Building,5dbe8e392ad02500075e7925
+13099,Chinese Restaurant,514cb729e4b086be7ec6ebba
+13276,Sushi Restaurant,514cb729e4b086be7ec6ebba
+13352,Thai Restaurant,514cb729e4b086be7ec6ebba
+17000,Retail,5b367a62e1791000396d3635
+15000,Health and Medicine,e9bd53744f9745ba75d38069
+16018,Harbor or Marina,5a93cf2b75dcb7486ee883b6
+15014,Hospital,4b792f94f964a52044ee2ee3
+13377,Vegan and Vegetarian Restaurant,5ad49075d8096e428685adef
+16037,Playground,4bcb3e8f511f9521c504b1c7
+13022,Sports Bar,504e3ae4e4b02e543a255fc1
+17101,Garden Center,4bc49db1461576b069278032
+13003,Bar,4c56a7eb7329c928fefc8c80
+13152,Brasserie,4c56a7eb7329c928fefc8c80
+12060,Middle School,4c0cfd8947d84e829294131b
+13152,Brasserie,4b06936bf964a52051ed22e3
+13383,Steakhouse,4b06936bf964a52051ed22e3
+17061,Cheese Store,4c0e53f5b40eef3b2232f6db
+11098,Roofer,de27f9d188d6462fe3699ebe
+13064,Pizzeria,90c05b5196024b4f8abc77f3
+13145,Fast Food Restaurant,90c05b5196024b4f8abc77f3
+12010,Adult Education,3c37f13f9c1e4e5cf40c4be1
+11094,Painter,340b96f910b7460ae6a01710
+17069,Grocery Store,4fa94b7ae4b099106f826b02
+13236,Italian Restaurant,4b86e170f964a5209ba331e3
+10027,Museum,4c065d85517d0f475bd5f515
+16000,Landmarks and Outdoors,4c065d85517d0f475bd5f515
+13313,Moroccan Restaurant,4c9e53547c096dcb1819d4d1
+10024,Movie Theater,4c42e9c2d7fad13a3ecb09da
+16041,Plaza,4c827cfc2f1c236a94cc3943
+13031,Burger Joint,51f7996c498e4a3b8f8467ce
+13068,American Restaurant,51f7996c498e4a3b8f8467ce
+13145,Fast Food Restaurant,51f7996c498e4a3b8f8467ce
+13145,Fast Food Restaurant,51306147e4b03f298b86169e
+13002,Bakery,562cc0f9498e54d25934831f
+13047,Pastry Shop,562cc0f9498e54d25934831f
+13065,Restaurant,562cc0f9498e54d25934831f
+17057,Food and Beverage Retail,4bf5b1a692d19521a9a1591f
+16046,Scenic Lookout,4da1d2f02939b1f70ae0fc56
+12000,Community and Government,58f886104acb1930468c41eb
+15031,Doctor's Office,5f8af8bb4e6337189a87e077
+17056,Flower Store,5d7cbce133c21b00085a4d14
+10051,Stadium,4beb9e890acf76b0e88e3cc8
+18047,Tennis Court,4beb9e890acf76b0e88e3cc8
+16032,Park,4adcda09f964a520093421e3
+16032,Park,4f608cebe4b0d8a1570d7b48
+13236,Italian Restaurant,5061e027e4b0597ff9841d13
+13007,Beer Garden,4b2c145af964a52020c124e3
+13148,French Restaurant,4b2c145af964a52020c124e3
+13152,Brasserie,4d7e6bdaebc15481d1cbe1a6
+13263,Japanese Restaurant,4d7e6bdaebc15481d1cbe1a6
+16032,Park,4befeeccc601a5932a16c3d1
+18018,Golf Course,4bb9ee6b7421a593392ac340
+13018,Pub,4faece56e4b02f54b847fb87
+13034,Café,4faece56e4b02f54b847fb87
+13065,Restaurant,4faece56e4b02f54b847fb87
+13145,Fast Food Restaurant,4bf804045317a5931af8fe7e
+13152,Brasserie,4bf804045317a5931af8fe7e
+13276,Sushi Restaurant,4c2b91b08abca593b9630020
+12075,Post Office,4e9be3f861afc418ba4375f2
+13031,Burger Joint,4b8ae1fcf964a520158732e3
+13145,Fast Food Restaurant,4b8ae1fcf964a520158732e3
+17029,Convenience Store,56eabfcd498e52f071e252cb
+13027,Bistro,53dea13f498e60722d89d36d
+13064,Pizzeria,4c62ad4e58810f4783b5071e
+13276,Sushi Restaurant,4c62ad4e58810f4783b5071e
+13334,Sandwich Spot,5772579b498e978ddd3860cb
+13145,Fast Food Restaurant,5772579b498e978ddd3860cb
+12075,Post Office,4b864b29f964a520038531e3
+17029,Convenience Store,4e2d6dc1636553b25b66f33f
+16032,Park,56814c0d498e6a84eeeafe11
+15000,Health and Medicine,5c6c91bae55d8b002c08d1b9
+13065,Restaurant,5e18a5365d6f71000848ecac
+13199,Indian Restaurant,4bcac7060687ef3b71aadccc
+13067,African Restaurant,5172e978e4b0182f5a748182
+13145,Fast Food Restaurant,5172e978e4b0182f5a748182
+10039,Music Venue,4adcda17f964a5206c3821e3
+10042,Opera House,4adcda17f964a5206c3821e3
+10043,Theater,4adcda17f964a5206c3821e3
+13276,Sushi Restaurant,4de7f474887710a065c430e4
+13309,Middle Eastern Restaurant,4cc5a03506c2548167a19d47
+13302,Mediterranean Restaurant,5dc5eb1172940900083ce590
+13054,Food Truck,4f6b1e9fe4b0ef1d485670d0
+13148,French Restaurant,4da486cbd686b60c4cd9e128
+12075,Post Office,4c28541c9fb5d13a466e9957
+13148,French Restaurant,4fc8b63be4b0ad1236f53498
+13002,Bakery,4bdd659db0f5c928d2464ce3
+13065,Restaurant,4bdd659db0f5c928d2464ce3
+13145,Fast Food Restaurant,4bb28db04019a593490337b8
+13152,Brasserie,4bb28db04019a593490337b8
+13347,Tapas Restaurant,4bb28db04019a593490337b8
+13152,Brasserie,4ba0bde3f964a5208d7a37e3
+18075,Swimming Pool,4d8dcceed4ec8cfab01c6289
+17059,Butcher,5b702710419a9e0039345100
+17069,Grocery Store,5b702710419a9e0039345100
+17069,Grocery Store,5f08a73735d1e26f928326dd
+17069,Grocery Store,54f5ff4e498e26ac1f52a56e
+17069,Grocery Store,54da33ed498eac70ac485ca7
+10051,Stadium,4c0149319a950f47e5dd08c6
+18000,Sports and Recreation,4c0149319a950f47e5dd08c6
+13276,Sushi Restaurant,4b4cd583f964a520d6c026e3
+15014,Hospital,4e8733b9f79018e1597c7f8d
+11138,Photographer,0181af35154345e1b73a1243
+12110,Synagogue,4bb02f58f964a520763b3ce3
+15022,Nursing Home,424e2c06cd804fa6bceccd78
+13042,Cupcake Shop,4c84fbc651ada1cdb2373310
+13064,Pizzeria,4b0f06fdf964a520535e23e3
+13236,Italian Restaurant,4b0f06fdf964a520535e23e3
+13298,Lebanese Restaurant,4eca363629c22cc60f820bdc
+10004,Art Gallery,4d8e2af2cb9b224b6be27d41
+16007,Structure,4adcda09f964a520f83321e3
+13145,Fast Food Restaurant,4b6828aff964a520b4692be3
+13288,Kebab Restaurant,4b6828aff964a520b4692be3
+13334,Sandwich Spot,4b6828aff964a520b4692be3
+10037,Concert Hall,4adcda1bf964a520f13821e3
+10039,Music Venue,4adcda1bf964a520f13821e3
+10043,Theater,4adcda1bf964a520f13821e3
+13145,Fast Food Restaurant,4e36ab6aa8092599ee110aac
+12075,Post Office,4c876342e602b1f79230c77a
+12075,Post Office,503b65f129a6d5c8039c8b64
+17065,Farmers Market,4d85d7c340a7a35d40f928be
+17114,Shopping Mall,4e7378851f6eaf402bc12c25
+13031,Burger Joint,4e36b011d1649e45e3ddc9ad
+13145,Fast Food Restaurant,4e36b011d1649e45e3ddc9ad
+11028,Construction,7ff184ee840c4fec623b566e
+11078,Carpenter,7ff184ee840c4fec623b566e
+17057,Food and Beverage Retail,7ff184ee840c4fec623b566e
+13065,Restaurant,5d8f401ca62c28000816e2c4
+11078,Carpenter,4a112a59d1ba47e06802a8ef
+11082,Doors and Windows Contractor,4a112a59d1ba47e06802a8ef
+12010,Adult Education,966089956da04cba73434b2b
+12059,High School,fa0668be6e3746fb2db37039
+13145,Fast Food Restaurant,4bd9d4ce2e6f0f47d22e0c08
+13298,Lebanese Restaurant,4bd9d4ce2e6f0f47d22e0c08
+16032,Park,4f814e5ae4b0c7b855f3e2fd
+13148,French Restaurant,585c7c22cf4451174c305754
+13057,Gastropub,585c7c22cf4451174c305754
+13065,Restaurant,4b97eb3af964a520511f35e3
+13064,Pizzeria,5aa2e0027564f726ae2a636d
+17069,Grocery Store,4b8a4dbcf964a520b16732e3
+18075,Swimming Pool,4ce2f7c311fca093934d65a8
+10024,Movie Theater,4c912bb93d4e199cf3402853
+17029,Convenience Store,4db9a9c40cb6ddfae439de6b
+17029,Convenience Store,5881b7eeea29b865e03a746c
+13035,Coffee Shop,59a1833193bd63511bd5629d
+13065,Restaurant,59a1833193bd63511bd5629d
+17069,Grocery Store,4e42c4d11f6ea0170898dc85
+13096,Cambodian Restaurant,4e6a743eb0fb8b8a8435daa6
+13027,Bistro,4adcda14f964a520483721e3
+13152,Brasserie,4adcda14f964a520483721e3
+13276,Sushi Restaurant,4d52f17b3062a1cd79d276a3
+17114,Shopping Mall,4ffc4b77e4b044d6afe8f47e
+10043,Theater,4c2655e4c11dc9b679cc2824
+13099,Chinese Restaurant,4ce7faea0f196dcb222642ae
+13145,Fast Food Restaurant,4ce7faea0f196dcb222642ae
+17077,Meat and Seafood Store,4ce7faea0f196dcb222642ae
+13034,Café,51ac4242498e2fe98519cedb
+13148,French Restaurant,51ac4242498e2fe98519cedb
+17069,Grocery Store,5413fc9a498ef4057add948f
+13199,Indian Restaurant,4c33793316adc92805afc39c
+17082,Furniture and Home Store,4ea2de550aaf711180c809d7
+17052,Women's Store,5c39b4b33e6741002cb670e3
+13027,Bistro,504cdce545b0de0e10c550eb
+13057,Gastropub,504cdce545b0de0e10c550eb
+13148,French Restaurant,504cdce545b0de0e10c550eb
+13009,Cocktail Bar,4f92ee1ae4b04c0b8ca03b10
+12075,Post Office,4ddd2031e4cdb993eab9ce3b
+10000,Arts and Entertainment,4adcda05f964a520913221e3
+17057,Food and Beverage Retail,4b4f1cbcf964a5208afa26e3
+13031,Burger Joint,4d56dc9c611aa35d41a64639
+13145,Fast Food Restaurant,4d56dc9c611aa35d41a64639
+13042,Cupcake Shop,4e3969fe887777123dd29511
+17131,Stationery Store,4e3969fe887777123dd29511
+17057,Food and Beverage Retail,5615555a498e7df7713b2798
+12069,Government Department,cb6ab2316e3549bf28384cb8
+13099,Chinese Restaurant,4e157e4518384368edcfee0b
+19029,Tour Provider,4c9b0a6d80958cfa402648d4
+17018,Bookstore,5dfcbd8937dae000088ed304
+13064,Pizzeria,55ba7ae3498ec60e65ac89bf
+13145,Fast Food Restaurant,55ba7ae3498ec60e65ac89bf
+13236,Italian Restaurant,55ba7ae3498ec60e65ac89bf
+13006,Beer Bar,4d5c34299c31b60c4345b2ee
+13077,Belgian Restaurant,4d5c34299c31b60c4345b2ee
+13152,Brasserie,4d5c34299c31b60c4345b2ee
+13145,Fast Food Restaurant,4fbbf45fe4b0efa7dae3127d
+13236,Italian Restaurant,4fbbf45fe4b0efa7dae3127d
+10004,Art Gallery,4b633e37f964a5200a6d2ae3
+17035,Drugstore,98df5bf8284847b105662c6a
+13325,Portuguese Restaurant,4cc6b268b2beb1f798a5294c
+13145,Fast Food Restaurant,5693fc37498ecf87752e3190
+13236,Italian Restaurant,5693fc37498ecf87752e3190
+13031,Burger Joint,5c4c946131fd14002c2bc7f2
+11096,Plumber,79030e47f3e14f60f400dd28
+10041,Rock Club,4c1bc723b9f876b010d27a46
+13263,Japanese Restaurant,4e4ba2c4483bb8f059940f75
+13025,Wine Bar,515efdaa498e27bd73c3554a
+13034,Café,515efdaa498e27bd73c3554a
+13035,Coffee Shop,515efdaa498e27bd73c3554a
+12075,Post Office,4af3ffa0f964a520caef21e3
+16041,Plaza,4af3ffa0f964a520caef21e3
+17018,Bookstore,4baa2b24f964a520fb4f3ae3
+16032,Park,4bae473bf964a5205e9c3be3
+10030,History Museum,4d2c4008467d6ea865cbe695
+19020,Parking,4d0fe49ed21db60cdcc72618
+17062,Chocolate Store,4d4d2ef29aaab60c20483529
+16000,Landmarks and Outdoors,4c06a882b4aa0f47fc736462
+13034,Café,4bb763062f70c9b64b948630
+13145,Fast Food Restaurant,4bb763062f70c9b64b948630
+13152,Brasserie,4bb763062f70c9b64b948630
+13064,Pizzeria,4e182c81b0fb8567c669c170
+13145,Fast Food Restaurant,4e182c81b0fb8567c669c170
+13236,Italian Restaurant,4e182c81b0fb8567c669c170
+16017,Garden,5172b86ee4b0773c5e581a7a
+13064,Pizzeria,4c95030358d4b60c33272e29
+13236,Italian Restaurant,4c95030358d4b60c33272e29
+13145,Fast Food Restaurant,526d201d11d2d42b81af4ee6
+13235,Israeli Restaurant,526d201d11d2d42b81af4ee6
+13302,Mediterranean Restaurant,526d201d11d2d42b81af4ee6
+13064,Pizzeria,4d4847f00bfd54819bdc3b00
+13145,Fast Food Restaurant,4d4847f00bfd54819bdc3b00
+12005,Cultural Center,4b682aadf964a5200b6a2be3
+13064,Pizzeria,5a4fcfe9916bc169c2e30043
+13236,Italian Restaurant,5a4fcfe9916bc169c2e30043
+13027,Bistro,558da87d498ee38d6c5640a6
+13148,French Restaurant,558da87d498ee38d6c5640a6
+10037,Concert Hall,4adcda17f964a520723821e3
+10027,Museum,4b522c78f964a520676d27e3
+13018,Pub,54e1f301498ef55418cfc132
+13034,Café,54e1f301498ef55418cfc132
+13065,Restaurant,54e1f301498ef55418cfc132
+13148,French Restaurant,5224f14b11d254561aa9b004
+13199,Indian Restaurant,5224f14b11d254561aa9b004
+10024,Movie Theater,4bd9868ae914a59347c756fa
+13095,Cajun and Creole Restaurant,4bca04b1b6c49c7450878f91
+13097,Caribbean Restaurant,4bca04b1b6c49c7450878f91
+13002,Bakery,575d65c4498ee9c1bd76afe8
+13035,Coffee Shop,575d65c4498ee9c1bd76afe8
+13046,Ice Cream Parlor,575d65c4498ee9c1bd76afe8
+13263,Japanese Restaurant,5211146411d2889d86dcac5e
+13035,Coffee Shop,5ad8881ff4b52533a7a38065
+17043,Clothing Store,4c8ba19ee51e6dcb280174de
+13334,Sandwich Spot,50a630b3e4b0c753d69a133c
+13145,Fast Food Restaurant,50a630b3e4b0c753d69a133c
+13236,Italian Restaurant,4af86dccf964a5202d0d22e3
+16026,Monument,4adcda0af964a520323421e3
+13035,Coffee Shop,58a43989d0bb3e57c91d5ad5
+13065,Restaurant,58a43989d0bb3e57c91d5ad5
+13027,Bistro,4b39b41ff964a5209b5e25e3
+13148,French Restaurant,4b39b41ff964a5209b5e25e3
+13064,Pizzeria,4b699cabf964a5209aa92be3
+13152,Brasserie,4b699cabf964a5209aa92be3
+13276,Sushi Restaurant,4b699cabf964a5209aa92be3
+16019,Hiking Trail,4c4b130e6e209521e43ff7eb
+13035,Coffee Shop,5b999c323731ee00396f1324
+16017,Garden,4adcda0af964a520313421e3
+10039,Music Venue,4ca8ada297c8a1cd241187a5
+10043,Theater,4ca8ada297c8a1cd241187a5
+18047,Tennis Court,4b559677f964a52040e827e3
+16037,Playground,4bd318d8462cb7134380dd07
+10042,Opera House,4adcda15f964a5208f3721e3
+10043,Theater,4adcda15f964a5208f3721e3
+13034,Café,4adcda15f964a5208f3721e3
+12009,Education,4b59bfcdf964a520029628e3
+13037,Cafeteria,517e8c8290e7cbdf52441e6a
+16023,Lake,4b524359f964a520907327e3
+12003,Cemetery,4bbefeba85fbb7133d7c7167
+16017,Garden,4bbefeba85fbb7133d7c7167
+19000,Travel and Transportation,4bbefeba85fbb7133d7c7167
+17034,Discount Store,5925911ddb2aeb19e950534a
+13001,Bagel Shop,508e543ee4b0b2a617681af3
+13145,Fast Food Restaurant,508e543ee4b0b2a617681af3
+13027,Bistro,58dfc44ad0bb3e2f457b5e40
+13303,Mexican Restaurant,4d5e46e273e76a31c2a5be96
+13345,Spanish Restaurant,4d5e46e273e76a31c2a5be96
+13046,Ice Cream Parlor,5e21e11c15e4fe000767da8b
+17025,Electronics Store,4c9d9e310e9bb1f7b960df5f
+10024,Movie Theater,5c7e8fc63b8307002cf64209
+17030,Cosmetics Store,4dbc17a493a08f9274b426ba
+17023,Computers and Electronics Retail,4b41f28ff964a52094ca25e3
+17114,Shopping Mall,4b5b2047f964a520f2e428e3
+17043,Clothing Store,4cfa4e9d2d80a14364b843d8
+16032,Park,4c262fde905a0f47ddc26260
+13031,Burger Joint,5c927fd42619ee002ced0dd9
+13145,Fast Food Restaurant,5c927fd42619ee002ced0dd9
+13148,French Restaurant,5c927fd42619ee002ced0dd9
+18047,Tennis Court,4c4f37701d76c928fb337e91
+13003,Bar,56b616ca498e4a68b9620b9e
+13036,Tea Room,56b616ca498e4a68b9620b9e
+13049,Diner,56b616ca498e4a68b9620b9e
+13003,Bar,4ef46dda61af302a97b01b44
+13152,Brasserie,4ef46dda61af302a97b01b44
+13352,Thai Restaurant,4ef46dda61af302a97b01b44
+18000,Sports and Recreation,dc017cecc9dd447fa6dca383
+16000,Landmarks and Outdoors,4c02da390d0e0f4782c2019a
+13148,French Restaurant,5b3e3bfe3092be002cf7cabe
+13003,Bar,4e93eff9b803d7c292fa7138
+13034,Café,4e93eff9b803d7c292fa7138
+13065,Restaurant,4e93eff9b803d7c292fa7138
+11034,Engineer,83f81c8ca000434a0ad27908
+12064,Government Building,4d528a34bd6ff04d68cbfc0c
+16032,Park,4d331c77eefa8cfa0daa3db3
+13002,Bakery,4c6f9618df6b8cfac2b0b54d
+17065,Farmers Market,4cbab9227148f04dac5adeab
+17057,Food and Beverage Retail,4ca255961f709eb0132efa94
+13065,Restaurant,4bdd864ed640d13ab60a6a27
+13148,French Restaurant,4e2c0fecb61cd010837b602f
+13148,French Restaurant,4b8156baf964a52036a030e3
+13276,Sushi Restaurant,4ecf8a2393ad987b4bf8177e
+16041,Plaza,4da1ba7822a5f04db9800155
+13034,Café,4b9e2176f964a52083cc36e3
+13035,Coffee Shop,4b9e2176f964a52083cc36e3
+13148,French Restaurant,4b9e2176f964a52083cc36e3
+17057,Food and Beverage Retail,4b8950fcf964a5200a2b32e3
+13034,Café,5550a204498ef148a0fe365f
+16041,Plaza,4b98274af964a520043035e3
+16041,Plaza,4e899dedf7902e91822c1392
+17067,Fruit and Vegetable Store,4babb275f964a5205fc13ae3
+17069,Grocery Store,4d8901ce7d4c5481eb184b71
+13383,Steakhouse,4bc8b51815a7ef3b95b07bda
+11079,Carpet and Flooring Contractor,4baf5a97f964a520ccf93be3
+11092,Landscaper and Gardener,4baf5a97f964a520ccf93be3
+11094,Painter,4baf5a97f964a520ccf93be3
+13031,Burger Joint,5d9884b66a423d0007d7c97a
+13145,Fast Food Restaurant,5d9884b66a423d0007d7c97a
+18000,Sports and Recreation,35f01494c5c749468f585fb1
+10009,Circus,528749bc11d2ab3e9df12cc6
+11130,Office Building,4ebf7d685c5c3d470c9ab14b
+17000,Retail,5e4953d7e0c652000812403a
+12101,Church,618b821f83e78f5f391f0107
+11076,Home Improvement Service,67543579beab43263122b97f
+13145,Fast Food Restaurant,7c2b91e3d44b40187bfe3203
+11078,Carpenter,5e4a22761eea2d00081ec977
+11096,Plumber,5e4a22761eea2d00081ec977
+11098,Roofer,5e4a22761eea2d00081ec977
+18021,Gym and Studio,52f276e411d242eb57256e72
+13003,Bar,52d3b434498ea67929978cc8
+17085,Housewares Store,04e5b95e8f9d4050d3d599b1
+19020,Parking,6203dbf9b64e6c18392e0c7e
+12086,Non-Profit Organization,56d40d6acd10d5a1e640e43e
+17069,Grocery Store,51865a9f498ebaa845028c84
+13064,Pizzeria,500869d1e4b04413bea72f6a
+13236,Italian Restaurant,500869d1e4b04413bea72f6a
+13068,American Restaurant,4feca5aae4b08f550ad89c25
+13069,Arepa Restaurant,4feca5aae4b08f550ad89c25
+13145,Fast Food Restaurant,4feca5aae4b08f550ad89c25
+12075,Post Office,51e9311a498ef292eb6ff62b
+13276,Sushi Restaurant,4b5235b8f964a520027027e3
+13272,Ramen Restaurant,4e359d1bc65b2313e28f6356
+13276,Sushi Restaurant,4e359d1bc65b2313e28f6356
+18075,Swimming Pool,559951ce498eb21ce3104a32
+13049,Diner,4e9180f4f79014e2ceeb3f01
+13148,French Restaurant,4e9180f4f79014e2ceeb3f01
+13003,Bar,4af31753f964a52092ea21e3
+12075,Post Office,5485b78e498e1787e93c1bde
+13039,Deli,4e982248cc217f441ece16f6
+13145,Fast Food Restaurant,4e982248cc217f441ece16f6
+12075,Post Office,4d83682a99b78cfa6ca59f1f
+13064,Pizzeria,35762552d84749ad5a5cfc7b
+13145,Fast Food Restaurant,35762552d84749ad5a5cfc7b
+11145,Real Estate Service,c619e54a45e34a5b0a16beee
+12091,Public and Social Service,c619e54a45e34a5b0a16beee
+17057,Food and Beverage Retail,5a1bcae9ca18ea4953862109
+16041,Plaza,4bf981b15317a593a965017f
+13002,Bakery,4f75a222e4b0a6fdc6723276
+13046,Ice Cream Parlor,4f75a222e4b0a6fdc6723276
+13236,Italian Restaurant,5c8b9b89088158002c741a45
+13099,Chinese Restaurant,4b9226c4f964a5208ae933e3
+13145,Fast Food Restaurant,4b9226c4f964a5208ae933e3
+13152,Brasserie,4b5b64fcf964a5208dfa28e3
+13164,Southwestern French Restaurant,4b5b64fcf964a5208dfa28e3
+16032,Park,4dc561ed2271f270512acf63
+13143,Ethiopian Restaurant,4c4f36b024edc9b69e8953bb
+12101,Church,4ef62a550aafbcb31b6f5442
+17089,Gift Store,574881a6498e0cddb3fbea4f
+12091,Public and Social Service,60e80fa00f444c257277f8c1
+13027,Bistro,4adcda14f964a5203c3721e3
+13152,Brasserie,4adcda14f964a5203c3721e3
+10027,Museum,502f9afee4b0504d9e6d906e
+13013,Hotel Bar,4adcda07f964a5205d3321e3
+13065,Restaurant,4adcda07f964a5205d3321e3
+13002,Bakery,4e400afbe4cdab9b93644c96
+13065,Restaurant,4e400afbe4cdab9b93644c96
+13031,Burger Joint,5410982d498ebc69f8edaeba
+13002,Bakery,4c28c9953492a5933fdfb728
+13047,Pastry Shop,4c28c9953492a5933fdfb728
+13065,Restaurant,4c28c9953492a5933fdfb728
+13002,Bakery,4ce8ff8ee888f04d94b5456b
+13047,Pastry Shop,4ce8ff8ee888f04d94b5456b
+12075,Post Office,51690f7ce4b096c380b3e188
+17069,Grocery Store,54f5ff4f498e26ac1f52b618
+17069,Grocery Store,554a6166498e6d28514e3174
+13064,Pizzeria,4fff283be4b0bc634544fa93
+13145,Fast Food Restaurant,4fff283be4b0bc634544fa93
+13236,Italian Restaurant,4fff283be4b0bc634544fa93
+13199,Indian Restaurant,58ed45b6d24332409ce5bb7c
+13199,Indian Restaurant,59f5db8248b04e778828730b
+12003,Cemetery,86984929adf74fb9086b81aa
+17096,Miscellaneous Store,55121583498ec8be031d7346
+10039,Music Venue,4dd563f5d22d8e00fcdff9e5
+10043,Theater,4dd563f5d22d8e00fcdff9e5
+13276,Sushi Restaurant,4f0de169e4b08ead5e52eff6
+15016,Medical Center,5c5968422632ec003932aa77
+16001,Bathing Area,5c5968422632ec003932aa77
+13148,French Restaurant,57443520498e7a2a40d7e54f
+16001,Bathing Area,6f429639deb443022754d9c7
+13025,Wine Bar,548c8b5c498eff940216227a
+13065,Restaurant,548c8b5c498eff940216227a
+10024,Movie Theater,4adcda15f964a520b33721e3
+17089,Gift Store,4b49ecd3f964a520177626e3
+17042,Children's Clothing Store,4b977ed1f964a520f70535e3
+17043,Clothing Store,4b977ed1f964a520f70535e3
+12075,Post Office,4e454b7c45dd2955e5874db3
+17069,Grocery Store,4b858a71f964a520486431e3
+17068,Gourmet Store,5b3b7d5aa6031c002c9fd4ba
+17070,Organic Grocery,5b3b7d5aa6031c002c9fd4ba
+17069,Grocery Store,5ea9d117df41f90008cef29d
+13065,Restaurant,5deab921e91ae30008e099ca
+17061,Cheese Store,5deab921e91ae30008e099ca
+17076,Liquor Store,5b68787d112c6c002c242555
+17043,Clothing Store,77c7794b9d3f4a4c177ae5bd
+17044,Fashion Accessories Store,77c7794b9d3f4a4c177ae5bd
+17045,Jewelry Store,77c7794b9d3f4a4c177ae5bd
+17095,Medical Supply Store,5fdc436b9ff06f26cbf0df49
+16040,Pedestrian Plaza,597e06722f97ec358df12f17
+13002,Bakery,4bb47ffaf187a593fa2c14f8
+13064,Pizzeria,4caf74b039458cfa9a9cfa9f
+13145,Fast Food Restaurant,4caf74b039458cfa9a9cfa9f
+10024,Movie Theater,4b523c8cf964a520ce7127e3
+17065,Farmers Market,4b5ec310f964a520e19729e3
+18075,Swimming Pool,4bdae1fcc79cc9282c1580e9
+13064,Pizzeria,4be5c5a02468c928bb860043
+13152,Brasserie,4be5c5a02468c928bb860043
+13236,Italian Restaurant,4be5c5a02468c928bb860043
+13003,Bar,4c7c2eba3e90a1cd4dce41be
+13152,Brasserie,4c7c2eba3e90a1cd4dce41be
+13065,Restaurant,4c17e810d4d9c928daa4ee29
+13148,French Restaurant,4d602544865a224b2091a785
+13338,Seafood Restaurant,4d602544865a224b2091a785
+11076,Home Improvement Service,54de1d39498efca53cfeaa3a
+11000,Business and Professional Services,628395bc9f17925856f31f11
+13152,Brasserie,4b2cb670f964a520b7c824e3
+13236,Italian Restaurant,4b2cb670f964a520b7c824e3
+13016,Lounge,54cab993498ec48ec866b4e7
+13191,Halal Restaurant,54cab993498ec48ec866b4e7
+13236,Italian Restaurant,54cab993498ec48ec866b4e7
+13027,Bistro,4bd030779854d13aa337f74d
+13034,Café,4bd030779854d13aa337f74d
+13152,Brasserie,4bd030779854d13aa337f74d
+13276,Sushi Restaurant,503b5652e4b0f874bd41a7f4
+13352,Thai Restaurant,4daf3ee4ec8e4c4af4ec730b
+13379,Vietnamese Restaurant,4d8e46a0c479a35d4c5d4297
+13379,Vietnamese Restaurant,4bf978d75317a5939354017f
+11104,Import and Export Service,533bd330498e58e995222866
+17096,Miscellaneous Store,533bd330498e58e995222866
+13148,French Restaurant,507e9372e4b0b83c38573df1
+12058,Elementary School,75102390c76b45fffa348241
+15000,Health and Medicine,c3af97c8dd4340d23b6758fd
+17035,Drugstore,c3af97c8dd4340d23b6758fd
+12087,Social Services Organization,f617ebf445784aca60ea7b80
+17057,Food and Beverage Retail,5d39acf2d962bb0008ede7aa
+13199,Indian Restaurant,4d7536969a296ea82bec5fa9
+13265,Japanese Curry Restaurant,4d7536969a296ea82bec5fa9
+13145,Fast Food Restaurant,4e061fecae60a90eabc0b11e
+13356,Turkish Restaurant,4e061fecae60a90eabc0b11e
+13236,Italian Restaurant,53502d93498eaf6c85dcc0d2
+17057,Food and Beverage Retail,4b9fc972f964a520a23e37e3
+15014,Hospital,4dfcf363d4c001cca36e4dbf
+17117,Sporting Goods Retail,4decd56f45dd3993a8c7343a
+13034,Café,4c8cb7f9f87e224b7f463705
+13148,French Restaurant,4c8cb7f9f87e224b7f463705
+13145,Fast Food Restaurant,4c3c9fec7d00d13a632a3950
+13148,French Restaurant,4c3c9fec7d00d13a632a3950
+10024,Movie Theater,4adcda1bf964a520eb3821e3
+13288,Kebab Restaurant,4e74d8deae60c32850db0986
+13148,French Restaurant,52e4f66211d29d3e54c10329
+13031,Burger Joint,545baaa5498eed3c99be5969
+13006,Beer Bar,596628a4135b3919fc7a270c
+13035,Coffee Shop,596628a4135b3919fc7a270c
+13065,Restaurant,596628a4135b3919fc7a270c
+13148,French Restaurant,4daaced6a86e771ea72b7e9b
+12058,Elementary School,5305770abda04b97ed172f1d
+13298,Lebanese Restaurant,5943be81b23dfa77eb49c68e
+13325,Portuguese Restaurant,4d7539b7d238a1cd9d25e10e
+13039,Deli,4d403269255d8cfaa42d6305
+13145,Fast Food Restaurant,4d403269255d8cfaa42d6305
+15031,Doctor's Office,4c93f3e558d4b60ccf162429
+12005,Cultural Center,c45baa16d83a45eaa56f1a8f
+11130,Office Building,4e4392db628485fd4c555304
+11130,Office Building,61db336b245eaa08d184e389
+13006,Beer Bar,58a58562ef787f21708c9ea0
+13035,Coffee Shop,58a58562ef787f21708c9ea0
+13065,Restaurant,58a58562ef787f21708c9ea0
+17000,Retail,5834aeab26a4072fcb6c0dd4
+18001,Athletic Field,4b76ebbbf964a520bc6a2ee3
+17057,Food and Beverage Retail,4b8ba14df964a520ffa432e3
+12075,Post Office,4c56cdabd12a20a1d43165bd
+13145,Fast Food Restaurant,4ddb8f3052b1cb916cc69151
+13276,Sushi Restaurant,4ddb8f3052b1cb916cc69151
+16041,Plaza,4bcc1fbf68f976b0d41e6283
+19014,Hotel,4c1b80573b2ab71314283325
+11034,Engineer,adedac15e3e74c2869bc0036
+12080,Library,4fbdf325e4b0923d5c1ba033
+17018,Bookstore,4fbdf325e4b0923d5c1ba033
+12091,Public and Social Service,53d28585498e21660388fb9d
+18055,Skate Park,53d28585498e21660388fb9d
+12075,Post Office,4bed3d326e8c20a1c5087061
+11006,Audiovisual Service,0cc11d7de5e045d551e9c8d6
+10000,Arts and Entertainment,3518f7496c0d4c0078dff6a1
+13002,Bakery,5554d3d5498e5cf6343b8967
+17117,Sporting Goods Retail,4b48a667f964a5209c5126e3
+12106,Mosque,5261207e11d2503660127f27
+13263,Japanese Restaurant,58ec1e80ea1c0d560ef7c3be
+17059,Butcher,4f40e8e6e4b0e9ea7a972704
+17069,Grocery Store,4f40e8e6e4b0e9ea7a972704
+17077,Meat and Seafood Store,4f40e8e6e4b0e9ea7a972704
+11092,Landscaper and Gardener,5ce3e1d99e0d54002c40c328
+17057,Food and Beverage Retail,5ce3e1d99e0d54002c40c328
+17087,Lighting Store,5ce3e1d99e0d54002c40c328
+12058,Elementary School,4e9b0347722edf21e2a7703a
+13039,Deli,4f8150dfe4b0c0cb044735fb
+13047,Pastry Shop,4f8150dfe4b0c0cb044735fb
+13064,Pizzeria,4c21e5c79390c9b6a79fc9cd
+13236,Italian Restaurant,4c21e5c79390c9b6a79fc9cd
+13152,Brasserie,4d6e358e30d5b1f7c883c342
+17069,Grocery Store,4bd2a7ba9854d13abd2afc4d
+13263,Japanese Restaurant,4c8626a1d34ca14347ed4c80
+13145,Fast Food Restaurant,4fe9942ee4b06eaf7adb5354
+13152,Brasserie,4fe9942ee4b06eaf7adb5354
+13288,Kebab Restaurant,4fe9942ee4b06eaf7adb5354
+13002,Bakery,4cb0330aaef16dcb77deae54
+13047,Pastry Shop,4cb0330aaef16dcb77deae54
+13152,Brasserie,4bcecee4c564ef3baac4eef0
+13148,French Restaurant,51437f10e4b082a1346fac11
+16041,Plaza,4dc140dc1838710f437863b6
+16000,Landmarks and Outdoors,4e74c9a91495be5170d1d532
+16020,Historic and Protected Site,4da9751cfa8cc764971972c9
+17016,Big Box Store,4c000093daf9c9b65c16fbef
+17069,Grocery Store,4b5b46f2f964a520c1f028e3
+12075,Post Office,50b8fb41e4b0cbe64156af60
+17069,Grocery Store,57122311498e1a08e988a1cf
+16041,Plaza,4b8772c8f964a52094bf31e3
+13276,Sushi Restaurant,51c18854498efff560dadcf5
+13152,Brasserie,4b4e0371f964a52025de26e3
+13039,Deli,4c7e37b1d598a093a202c562
+13145,Fast Food Restaurant,4c7e37b1d598a093a202c562
+13145,Fast Food Restaurant,4dff2c3a18388670a23ac623
+13334,Sandwich Spot,4dff2c3a18388670a23ac623
+13035,Coffee Shop,4bd80e320b779c74374506a0
+11172,Tutoring Service,4c306715ed37a5938fd46803
+12000,Community and Government,4c306715ed37a5938fd46803
+16015,Forest,4c306715ed37a5938fd46803
+17030,Cosmetics Store,4dbc2f6e43a1d8504b840819
+16032,Park,4ba65109f964a5209b4539e3
+13041,Creperie,5d95b6bf81c84800085ef7e3
+13065,Restaurant,5d95b6bf81c84800085ef7e3
+17029,Convenience Store,5880dfd18f0be46d2319b21d
+13035,Coffee Shop,4b7d037cf964a52002ac2fe3
+13036,Tea Room,4b7d037cf964a52002ac2fe3
+13065,Restaurant,4b7d037cf964a52002ac2fe3
+13003,Bar,4b7cfc56f964a52022ab2fe3
+13064,Pizzeria,4b7cfc56f964a52022ab2fe3
+13148,French Restaurant,4b7cfc56f964a52022ab2fe3
+13064,Pizzeria,50d7c6c4e4b0f535961f51e0
+17056,Flower Store,84a049cde079429166e72eab
+12066,City Hall,172c7f3091a44dc3fd0c2620
+13360,Doner Restaurant,5784c80a498ea79bf03cebee
+11121,Media Agency,78aec25e7dfc479469494a62
+12101,Church,f529f6385cd04c505276ccdf
+12075,Post Office,58551747f5bfab4aa52bbf1b
+17006,Car Dealership,c962d17d25fa4d8e91cd67b2
+19028,Tourist Information and Service,c962d17d25fa4d8e91cd67b2
+19054,Public Transportation,c962d17d25fa4d8e91cd67b2
+11109,Laboratory,4d821077d95df04d78214fbc
+15017,Medical Lab,4d821077d95df04d78214fbc
+17029,Convenience Store,5b013476e727c4002dffec7a
+13263,Japanese Restaurant,59a3a143916bc16d673de24a
+11001,Advertising Agency,5daeb0d27b76110008055bcf
+17112,Print Store,5daeb0d27b76110008055bcf
+17033,Department Store,519c78b17dd28b9dbfdfa31d
+10037,Concert Hall,4adcda16f964a5201c3821e3
+10039,Music Venue,4adcda16f964a5201c3821e3
+10043,Theater,4adcda16f964a5201c3821e3
+17057,Food and Beverage Retail,5a16ec91ea1e4473565464e7
+10037,Concert Hall,52eda78d498e8b3979087a6c
+10039,Music Venue,52eda78d498e8b3979087a6c
+10042,Opera House,52eda78d498e8b3979087a6c
+13065,Restaurant,966002bafa704949d6a3885f
+17030,Cosmetics Store,a270f58030d941cadedeb92d
+13145,Fast Food Restaurant,568279b8498ebdd3fb6eafc0
+11087,"Heating, Ventilating and Air Conditioning Contractor",f9feb3d418ca493164bcbf04
+11096,Plumber,f9feb3d418ca493164bcbf04
+11098,Roofer,f9feb3d418ca493164bcbf04
+17029,Convenience Store,5881064cc45ee31e8bc0ce67
+12091,Public and Social Service,fe2f507799b1425306f33015
+11000,Business and Professional Services,5a5f701c23a2e63f27e78ccb
+17056,Flower Store,a55334e6c35b4054b87c6612
+10051,Stadium,4ee36ba56da14e7d98b03617
+11078,Carpenter,81660847244f4cf700614394
+10051,Stadium,4f37de4fe4b0653d4b2397d1
+18021,Gym and Studio,4f37de4fe4b0653d4b2397d1
+18048,Recreation Center,4f37de4fe4b0653d4b2397d1
+11096,Plumber,5f2824b697900e25c1ec9f83
+17096,Miscellaneous Store,5f2824b697900e25c1ec9f83
+13360,Doner Restaurant,5560dd9f498e67d3e6009414
+12010,Adult Education,f5022bcd316747389670c1eb
+10046,Psychic and Astrologer,0eaf68923efe46a4edcc8b8c
+11028,Construction,c7db2e5bcd084a0a8822d571
+11092,Landscaper and Gardener,c7db2e5bcd084a0a8822d571
+15000,Health and Medicine,5ac0ce0597cf5a3a5581b713
+18000,Sports and Recreation,fcf1b002058d4d15b0c26735
+10051,Stadium,52c7fd9d11d2a15e07696adb
+18064,Soccer Field,52b7fc67498e98b1c15f59cd
+18000,Sports and Recreation,5180daa8498e994dbf2c9a80
+16000,Landmarks and Outdoors,4be27ca6d27a20a121bc8f5b
+13027,Bistro,582a2b3c8e003314e04b97dd
+13152,Brasserie,582a2b3c8e003314e04b97dd
+13314,New American Restaurant,582a2b3c8e003314e04b97dd
+18048,Recreation Center,4adcda16f964a520123821e3
+17030,Cosmetics Store,4fef3027e4b02af6a24c7874
+17069,Grocery Store,4dce865d52b1f8915b97e238
+12075,Post Office,5231baaa11d2087e0949a533
+17029,Convenience Store,59441a9835dfa71fb9a092c2
+13031,Burger Joint,4bd6c642637ba593749ef870
+13145,Fast Food Restaurant,4bd6c642637ba593749ef870
+17057,Food and Beverage Retail,50521f0ae4b05b8794c18a46
+17061,Cheese Store,4d28944c915fa0933735fe09
+17071,Health Food Store,4d28944c915fa0933735fe09
+13003,Bar,5b0aeae1b399f7002c270be3
+13148,French Restaurant,4adcda11f964a520da3521e3
+11006,Audiovisual Service,39b82305edfc451e8b21cc7f
+13145,Fast Food Restaurant,519236e0498ef1f5e5717944
+13177,Greek Restaurant,519236e0498ef1f5e5717944
+13288,Kebab Restaurant,519236e0498ef1f5e5717944
+11072,Skin Care Clinic,4c98bad97b9d37046980e085
+19020,Parking,dcc76a137f9e3c16eef765a1
+12086,Non-Profit Organization,ea03a2919c994cbc914b1203
+12059,High School,2614c46b89f84e62ae2585d2
+11130,Office Building,5784e739498ebc4f93d3df2b
+17081,Framing Store,50dc744ce4b0d4442f376347
+15020,Psychologist,5d9c76373bc1880009d83181
+17090,Hardware Store,5b0442b2bfc6d0002cbebc29
+13148,French Restaurant,4fa17a6fe4b000b305087be6
+17065,Farmers Market,4c0235ad9a7920a13b29ce79
+17069,Grocery Store,4c0235ad9a7920a13b29ce79
+11096,Plumber,9b78304642734996beec1e25
+15054,Veterinarian,5abf8b7d491be763883c1569
+11120,Manufacturer,34eb48f121994ae47da82895
+18021,Gym and Studio,50991836e4b0ac9fff1d33bf
+12075,Post Office,509a7012e4b0bc59f11ff83c
+17069,Grocery Store,4de21fffd164df8574f35ff4
+17069,Grocery Store,4d847f9181fdb1f722f7fcbf
+13031,Burger Joint,4b77f039f964a52077af2ee3
+13145,Fast Food Restaurant,4b77f039f964a52077af2ee3
+17102,Office Supply Store,5e2bf322f65b9900088a1339
+13148,French Restaurant,4bfea1b805672d7ffc6c0a04
+17028,Construction Supplies Store,4baa6827f964a5203b673ae3
+13152,Brasserie,529dcd5b11d2dc60794b125e
+13145,Fast Food Restaurant,50cc632ae4b00957c79f682d
+13199,Indian Restaurant,50cc632ae4b00957c79f682d
+13064,Pizzeria,4bd6c2d7cfa7b71324fc27da
+17062,Chocolate Store,58dcabcdd25ded736dd6d4cc
+13031,Burger Joint,614a271249d1242c1fec2b49
+17096,Miscellaneous Store,59c39921bcbf7a6c79f6df05
+11057,Caterer,5530e20e498e6ce7cf48ec74
+13003,Bar,4e6b541d7d8b143eb77d78a9
+13034,Café,4e6b541d7d8b143eb77d78a9
+13152,Brasserie,4e6b541d7d8b143eb77d78a9
+13031,Burger Joint,543d59a8498ec28948977fe1
+13145,Fast Food Restaurant,543d59a8498ec28948977fe1
+13027,Bistro,546b9d68498e40fb2779a28b
+13148,French Restaurant,546b9d68498e40fb2779a28b
+13310,Modern European Restaurant,546b9d68498e40fb2779a28b
+13145,Fast Food Restaurant,4c4f34f692b6a593a5053371
+13276,Sushi Restaurant,4c4f34f692b6a593a5053371
+17077,Meat and Seafood Store,4c4f34f692b6a593a5053371
+16046,Scenic Lookout,516a93a8e4b032fb3da991f5
+16032,Park,4d2b9c9f8292236a598635bb
+13027,Bistro,4beaa1a9415e20a1c534e5bb
+13064,Pizzeria,4cd4531594848cfabdf2deb1
+13145,Fast Food Restaurant,4cd4531594848cfabdf2deb1
+13236,Italian Restaurant,4cd4531594848cfabdf2deb1
+13003,Bar,4e689d51b99320740ff9d252
+13034,Café,4e689d51b99320740ff9d252
+13347,Tapas Restaurant,4e689d51b99320740ff9d252
+17065,Farmers Market,4e58b371483b865169d42a1f
+13034,Café,4af2f621f964a52068e921e3
+13152,Brasserie,4af2f621f964a52068e921e3
+13145,Fast Food Restaurant,4b69782ef964a52086a32be3
+13148,French Restaurant,4b69782ef964a52086a32be3
+13031,Burger Joint,4bbf0e3782a2ef3b96232cd2
+13145,Fast Food Restaurant,4bbf0e3782a2ef3b96232cd2
+13012,Hookah Bar,5749f1b1cd10c7ca9e0eff9d
+13356,Turkish Restaurant,5749f1b1cd10c7ca9e0eff9d
+13032,"Cafe, Coffee, and Tea House",50a4f15ce4b0755d9a497c9b
+13145,Fast Food Restaurant,50a4f15ce4b0755d9a497c9b
+13377,Vegan and Vegetarian Restaurant,50a4f15ce4b0755d9a497c9b
+18000,Sports and Recreation,4bf30684cad2c92843579a99
+16019,Hiking Trail,4c22420f9085d13ae90686cc
+13148,French Restaurant,5baba672c8b2fb002ce6b69a
+11130,Office Building,5296bfa511d29657b9a359d1
+17003,Arts and Crafts Store,5aa15ca84186865d6c6c9adf
+13064,Pizzeria,4ba9ce4df964a520bc383ae3
+13152,Brasserie,4ba9ce4df964a520bc383ae3
+13065,Restaurant,5abcbd974a1cc040356eab10
+13263,Japanese Restaurant,4f01916ee300fdc04a72c00a
+13379,Vietnamese Restaurant,518e53c8498e54736b62c885
+13152,Brasserie,4bfc0daada7120a1047d49fd
+13303,Mexican Restaurant,4bfc0daada7120a1047d49fd
+13002,Bakery,5492f1fb498e4b624fd1dcc6
+16041,Plaza,4f4cbcb7e4b027c8724b287b
+13145,Fast Food Restaurant,50eff758e4b05bd3e69d8a37
+13152,Brasserie,50eff758e4b05bd3e69d8a37
+11094,Painter,5dbe669b0c7f490008cbba5a
+12115,Utility Company,c97967eac2e2407a7813c278
+13002,Bakery,5eb18a88087e750007989124
+13065,Restaurant,5eb18a88087e750007989124
+12095,Retirement Home,19e4a5ad58ad42e5ee368b67
+15004,Assisted Living Service,19e4a5ad58ad42e5ee368b67
+19009,Lodging,19e4a5ad58ad42e5ee368b67
+13199,Indian Restaurant,5eb188d306ed5600070a99d5
+13064,Pizzeria,4cd3ebcf9828b60c70f3d784
+13276,Sushi Restaurant,4cd3ebcf9828b60c70f3d784
+13148,French Restaurant,5321ac67498e3a4bd24e97d3
+13263,Japanese Restaurant,5321ac67498e3a4bd24e97d3
+16041,Plaza,4b2b184ff964a52060b424e3
+13002,Bakery,52da84ff11d22bf52d47983c
+13047,Pastry Shop,52da84ff11d22bf52d47983c
+13065,Restaurant,52da84ff11d22bf52d47983c
+13145,Fast Food Restaurant,4ce2766570bba1cdb6ee76c4
+13236,Italian Restaurant,4ce2766570bba1cdb6ee76c4
+13002,Bakery,5e20f6423f8cf10008908ca5
+13047,Pastry Shop,5e20f6423f8cf10008908ca5
+13145,Fast Food Restaurant,4e32f6af45dd6987a173ce92
+13199,Indian Restaurant,4e32f6af45dd6987a173ce92
+10051,Stadium,4d72376d3815f04db6e48967
+19014,Hotel,4c55ae9972cf0f4779d8a9d6
+17057,Food and Beverage Retail,4e57cdadd22d61e8f33f3b0e
+13079,Brazilian Restaurant,505efc50e4b0076526c1ec2b
+12075,Post Office,d01dd6a30a014bb80e4bd377
+13054,Food Truck,55f1b06a498e62eb291a28d4
+12101,Church,969a50e7dbd84a9dc8ae6c8d
+11078,Carpenter,8c397c30445541a3e8e19056
+12059,High School,4c1f75a28b3aa59344789d5f
+13145,Fast Food Restaurant,50917973e4b061e9d71de9e5
+13148,French Restaurant,50917973e4b061e9d71de9e5
+13383,Steakhouse,50917973e4b061e9d71de9e5
+13145,Fast Food Restaurant,4bb6a35f941ad13a6dcb1fe3
+13352,Thai Restaurant,4bb6a35f941ad13a6dcb1fe3
+13145,Fast Food Restaurant,4e07679ad1640223a49c8fac
+13276,Sushi Restaurant,4e07679ad1640223a49c8fac
+13152,Brasserie,5eb2ec64b94fa900082cb193
+13152,Brasserie,5cd8bcb63d4791002c3658de
+16000,Landmarks and Outdoors,4bc07f772a89ef3b2a91f088
+17043,Clothing Store,5adb5a3d829b0c0c4ce29ac6
+17052,Women's Store,5adb5a3d829b0c0c4ce29ac6
+17068,Gourmet Store,50c373bee4b0e7fe4d63a8bf
+17069,Grocery Store,50c373bee4b0e7fe4d63a8bf
+12101,Church,5b93d780364d97002c09d592
+11085,Garage Door Supplier,2387e86ad72045437ffdad97
+15004,Assisted Living Service,5d54f7f7e3a748feff5f29a0
+13145,Fast Food Restaurant,4e0624c1c65b5bf27787a7ef
+13148,French Restaurant,4e0624c1c65b5bf27787a7ef
+13338,Seafood Restaurant,4e0624c1c65b5bf27787a7ef
+13049,Diner,55d74e02498efcb3cb28c62d
+17057,Food and Beverage Retail,4b58a41ff964a520276328e3
+13099,Chinese Restaurant,4c08d040a1b32d7f609096f0
+13152,Brasserie,4c08d040a1b32d7f609096f0
+13145,Fast Food Restaurant,5ca0cd915a2c91002d7f0bdc
+17000,Retail,5ab43bd5286fda11bd85434d
+13064,Pizzeria,5300ec1e498ef831fabc1c23
+13031,Burger Joint,4b8d71e9f964a5203dfc32e3
+13145,Fast Food Restaurant,4b8d71e9f964a5203dfc32e3
+18000,Sports and Recreation,b3fa0ec5ee524b870a83c83e
+15000,Health and Medicine,72955d9567ff4902856bad43
+17035,Drugstore,72955d9567ff4902856bad43
+13065,Restaurant,c9db7870bfd24bb3eb2bf2d3
+12009,Education,5baa58683731ee002c819d2e
+18036,Martial Arts Dojo,5baa58683731ee002c819d2e
+13002,Bakery,5135f1aee4b0d7ac411b77f0
+13047,Pastry Shop,5135f1aee4b0d7ac411b77f0
+13064,Pizzeria,5135f1aee4b0d7ac411b77f0
+11020,Business and Strategy Consulting Office,585808ba19b1ad1b2607ebce
+10037,Concert Hall,4adcda17f964a5203e3821e3
+10039,Music Venue,4adcda17f964a5203e3821e3
+10043,Theater,4adcda17f964a5203e3821e3
+11130,Office Building,4f10cf43e4b0fd294dbb68af
+17003,Arts and Crafts Store,5e81d2025efb070008eff59a
+13145,Fast Food Restaurant,56241186498e626307202384
+13148,French Restaurant,56241186498e626307202384
+13191,Halal Restaurant,56241186498e626307202384
+13309,Middle Eastern Restaurant,57dd222a498e5359ff164e06
+13313,Moroccan Restaurant,57dd222a498e5359ff164e06
+13002,Bakery,4da15ec62939b1f7ac14f456
+13067,African Restaurant,4c2260b89085d13a163d86cc
+13313,Moroccan Restaurant,4c2260b89085d13a163d86cc
+13031,Burger Joint,55d471d8498e8812c3f3393c
+10024,Movie Theater,4b5a0ba7f964a520c6a928e3
+13002,Bakery,4eccde85722eff7ffebc2b47
+13047,Pastry Shop,4eccde85722eff7ffebc2b47
+17042,Children's Clothing Store,4b72df70f964a520c28c2de3
+17043,Clothing Store,4b72df70f964a520c28c2de3
+17052,Women's Store,4b72df70f964a520c28c2de3
+10028,Art Museum,4b93c3c6f964a5207c5034e3
+13064,Pizzeria,4c23911999282d7f53e068b0
+13151,Basque Restaurant,4c23911999282d7f53e068b0
+13345,Spanish Restaurant,4c23911999282d7f53e068b0
+13145,Fast Food Restaurant,4ea101d46da1455cabc213a7
+13288,Kebab Restaurant,4ea101d46da1455cabc213a7
+13334,Sandwich Spot,4ea101d46da1455cabc213a7
+15000,Health and Medicine,4e27101fd4c007d41a98d769
+17035,Drugstore,4e27101fd4c007d41a98d769
+11096,Plumber,4f0aa1f9e4b09d21f8c7113e
+13276,Sushi Restaurant,4c56ffcd6201e21e9949106e
+17069,Grocery Store,4fe6f3bfe4b02272046c0f5c
+13002,Bakery,4f797eb5e4b0cbf9bff2660a
+13047,Pastry Shop,4f797eb5e4b0cbf9bff2660a
+13298,Lebanese Restaurant,5e20e670064339000787c4cc
+13079,Brazilian Restaurant,5c689250237dee002c0c16ac
+15016,Medical Center,5b150bfddee770002c49d99b
+12010,Adult Education,bb5a889153af47934e253c3c
+11001,Advertising Agency,5e4a12af9ed4790008815e69
+17112,Print Store,5e4a12af9ed4790008815e69
+13003,Bar,54a29bad498ea7de5075014a
+13035,Coffee Shop,54a29bad498ea7de5075014a
+13065,Restaurant,54a29bad498ea7de5075014a
+10051,Stadium,4babe61df964a52057d33ae3
+13145,Fast Food Restaurant,4bc6efc915a7ef3bd07678da
+13276,Sushi Restaurant,4bc6efc915a7ef3bd07678da
+13002,Bakery,4c70e671fa49a1cd4089a7e3
+17057,Food and Beverage Retail,4b9a8854f964a52090be35e3
+17069,Grocery Store,5e0b4850456d3b000815d730
+12075,Post Office,4d0c7685be6d6ea83a55ffb4
+17029,Convenience Store,4ecd380a9a528a8ec7a60251
+17057,Food and Beverage Retail,50127b63d63e9c55d87fa46a
+17029,Convenience Store,4d85d1bc99b78cfaa612d71f
+13099,Chinese Restaurant,4cb82da9f50e224b9c62e4fb
+13145,Fast Food Restaurant,4cb82da9f50e224b9c62e4fb
+18065,Sports Club,4adcda23f964a520633a21e3
+10037,Concert Hall,4adcda1bf964a520f33821e3
+10039,Music Venue,4adcda1bf964a520f33821e3
+10043,Theater,4adcda1bf964a520f33821e3
+11090,Interior Designer,4ba4eaeff964a520d3c238e3
+11092,Landscaper and Gardener,4ba4eaeff964a520d3c238e3
+16041,Plaza,4dc67eb0b0fb5556cd0ad8f4
+13145,Fast Food Restaurant,4bc1bec82a89ef3bddabf288
+13152,Brasserie,4bc1bec82a89ef3bddabf288
+13338,Seafood Restaurant,4bc1bec82a89ef3bddabf288
+12075,Post Office,4d13225e2e583704aa98e9d1
+18075,Swimming Pool,4c5971de2091a593b5d55cd0
+13199,Indian Restaurant,4b9002cbf964a520f56f33e3
+16032,Park,4c45d9b7429a0f4737b44a1e
+13065,Restaurant,529879ae11d248487371bbfe
+16041,Plaza,4cbc4e56d78f4688815ac773
+17035,Drugstore,5e319baf09ca2500081dd89d
+12059,High School,4eb92c28722e09311d42f4da
+17069,Grocery Store,4e15bd2ce4cded56112ab8bb
+13065,Restaurant,ad24c0359bed49e1e0f1a4ae
+19009,Lodging,ad24c0359bed49e1e0f1a4ae
+12059,High School,4d33f4b28250f04d8f6701e1
+18036,Martial Arts Dojo,01c5115d60224f4c8a2818d4
+18000,Sports and Recreation,4be0607c98f2a593a208c25a
+18001,Athletic Field,0c0fd48fae5c4ed0815adbb2
+13036,Tea Room,4e6a353e88772457c457ff30
+13065,Restaurant,4e6a353e88772457c457ff30
+11000,Business and Professional Services,5c01476ab6eedb002ce00367
+11028,Construction,5e5957b9c2d8a800085e8c84
+17069,Grocery Store,5af58cc44940bc002c346941
+12051,Driving School,505987e5e4b0dfb8b84f28c7
+17000,Retail,5f1c2fb42835f147a221d739
+11090,Interior Designer,5ce83cfbf2554e002cd4adca
+15014,Hospital,a4f97eefe3a4432ac59a27ce
+16041,Plaza,4adcda0cf964a520023521e3
+17018,Bookstore,4c010ba79a950f47ca7108c6
+13099,Chinese Restaurant,4ce6c33e867f60fce43a36c3
+13352,Thai Restaurant,4ce6c33e867f60fce43a36c3
+17065,Farmers Market,4c2ede2f452620a1c2ac1c0f
+11170,Telecommunication Service,4fb569127beb292faf09b4b1
+13034,Café,4e01b08ed1647696f1241602
+13145,Fast Food Restaurant,4e01b08ed1647696f1241602
+13148,French Restaurant,4e01b08ed1647696f1241602
+17057,Food and Beverage Retail,4ca2555f1f709eb0ca2dfa94
+13003,Bar,55301943498e1648d93b12f8
+13034,Café,55301943498e1648d93b12f8
+13148,French Restaurant,55301943498e1648d93b12f8
+10051,Stadium,4adcda23f964a520603a21e3
+18000,Sports and Recreation,4adcda23f964a520603a21e3
+13276,Sushi Restaurant,5732342e38fa5b4eae6c906f
+17067,Fruit and Vegetable Store,4c7f8ab7d51ea1435cc95a9f
+17069,Grocery Store,4c7f8ab7d51ea1435cc95a9f
+17059,Butcher,5abc346ee179103e69cdc65d
+17069,Grocery Store,5abc346ee179103e69cdc65d
+13263,Japanese Restaurant,4fc65b34e4b0c52bfc62a871
+15007,Dentist,51ce9f4f498e9a2d647deef0
+15042,Oral Surgeon,51ce9f4f498e9a2d647deef0
+17136,Vape Store,571dedf0498e21ffe032cde0
+12106,Mosque,532c337d498ef503f9d68f29
+12058,Elementary School,064b8c13b4fa49b0824997b4
+13064,Pizzeria,5d9c9b39ab6a8400076d4114
+13072,Asian Restaurant,4bc9a40eb6c49c7429b58e91
+13148,French Restaurant,4bc8e5c3cc8cd13a8488bacf
+13302,Mediterranean Restaurant,4bc8e5c3cc8cd13a8488bacf
+13003,Bar,5528ff8b498ea8f3dc4cc4e9
+13347,Tapas Restaurant,5528ff8b498ea8f3dc4cc4e9
+10000,Arts and Entertainment,56367283498efb578a3da036
+10027,Museum,4adcda0df964a5200e3521e3
+10027,Museum,4adcda0af964a5206e3421e3
+18075,Swimming Pool,4d7cb60c645ea35d71a24af8
+13152,Brasserie,4c096210bbc676b0d81b48d5
+17006,Car Dealership,4bde91066198c9b6483b14ff
+17069,Grocery Store,59923d7c12c8f07dfd5e6d4e
+17029,Convenience Store,4ff1f6f3e4b043f16769c122
+18018,Golf Course,4c716d9f9a669c74e982e3bd
+13148,French Restaurant,4cdedc38db125481816933ce
+10004,Art Gallery,4db8110043a1a75c1f69fe67
+13288,Kebab Restaurant,4f0d7bcae4b06ab9f831e3c3
+17069,Grocery Store,4bdd2c524ffaa59370fc6ef7
+12075,Post Office,4ddbc96dc65b7845ebfb044c
+10000,Arts and Entertainment,62181b6ac49641d6b26f271b
+17112,Print Store,62181b6ac49641d6b26f271b
+12075,Post Office,56a9e563498e68cdeed0b4b9
+13012,Hookah Bar,56a9e563498e68cdeed0b4b9
+17034,Discount Store,56a9e563498e68cdeed0b4b9
+13003,Bar,51a9bb34498e097263625cb6
+13152,Brasserie,51a9bb34498e097263625cb6
+13347,Tapas Restaurant,51a9bb34498e097263625cb6
+11090,Interior Designer,51cf0790498ed43053df7764
+11091,Kitchen Remodeler,51cf0790498ed43053df7764
+11092,Landscaper and Gardener,51cf0790498ed43053df7764
+13288,Kebab Restaurant,58baea8e51666a48d2b83949
+17069,Grocery Store,5c41d73098fbfc002c0622df
+11114,Notary,5e184e5d7497be0008b62065
+13148,French Restaurant,4ef1f9ace5e8d8d3dcd5acdf
+11170,Telecommunication Service,4c5fce8a47429c7447981b7a
+12075,Post Office,4b912d2bf964a52041a833e3
+12075,Post Office,4e89e2037ee6c20983d933ba
+13026,BBQ Joint,582e0924761b1a3f49adbfa4
+13068,American Restaurant,582e0924761b1a3f49adbfa4
+16041,Plaza,4e931131be7bf17dd69ab1bd
+13148,French Restaurant,4adcda05f964a520823221e3
+13003,Bar,4ba89ea6f964a520cbe239e3
+13152,Brasserie,4ba89ea6f964a520cbe239e3
+13003,Bar,4db03afa0437a93f7f6fc034
+13034,Café,4db03afa0437a93f7f6fc034
+13152,Brasserie,4db03afa0437a93f7f6fc034
+17057,Food and Beverage Retail,4bdf034be75c0f47fb99c903
+13002,Bakery,5665468138fa1e55aae8a002
+13065,Restaurant,5665468138fa1e55aae8a002
+12075,Post Office,4b89001df964a5208c1732e3
+13148,French Restaurant,4b5869b7f964a5209f5628e3
+13145,Fast Food Restaurant,4c3b87855810a593d0d0ba3c
+13152,Brasserie,4c3b87855810a593d0d0ba3c
+13298,Lebanese Restaurant,4c04edfcf56c2d7f8bd51e66
+13302,Mediterranean Restaurant,4c04edfcf56c2d7f8bd51e66
+13199,Indian Restaurant,4eb285ed5c5cd1bad43286b4
+13316,Pakistani Restaurant,4eb285ed5c5cd1bad43286b4
+10037,Concert Hall,4adcda1bf964a520ec3821e3
+10039,Music Venue,4adcda1bf964a520ec3821e3
+10043,Theater,4adcda1bf964a520ec3821e3
+13003,Bar,53c40643498ed53534cb0ce9
+13027,Bistro,53c40643498ed53534cb0ce9
+13152,Brasserie,53c40643498ed53534cb0ce9
+13064,Pizzeria,4bfebe9f4e5d0f478d167d1f
+13145,Fast Food Restaurant,4bfebe9f4e5d0f478d167d1f
+13276,Sushi Restaurant,4bfebe9f4e5d0f478d167d1f
+13152,Brasserie,4dd24fb2fa767fb7078f04ac
+13236,Italian Restaurant,4dd24fb2fa767fb7078f04ac
+17065,Farmers Market,4db28f0b6e817f90df1ef183
+11064,Hair Salon,50e838ede4b0497541ec7391
+17047,Men's Store,50e838ede4b0497541ec7391
+13334,Sandwich Spot,4e7b29ebfa76674cbe5dbcfd
+18075,Swimming Pool,4b83d5a8f964a520c11231e3
+17043,Clothing Store,507fb810e4b0324d29a865d5
+17047,Men's Store,507fb810e4b0324d29a865d5
+17052,Women's Store,507fb810e4b0324d29a865d5
+13002,Bakery,4e58cf2bd164da2b275956ff
+13047,Pastry Shop,4e58cf2bd164da2b275956ff
+13065,Restaurant,4e58cf2bd164da2b275956ff
+13002,Bakery,4ed4bff7e3007ce6d7694a32
+13047,Pastry Shop,4ed4bff7e3007ce6d7694a32
+13152,Brasserie,4d0f9ee49302a35d1130766e
+11010,Automotive Repair Shop,511a6aba759629b506189ffc
+13067,African Restaurant,5645ce19498ee052e1753a63
+13191,Halal Restaurant,5645ce19498ee052e1753a63
+11096,Plumber,9bc3f9b51ef94130ccf152e2
+11098,Roofer,9bc3f9b51ef94130ccf152e2
+10000,Arts and Entertainment,5c326c8997cf5a002c750bce
+17069,Grocery Store,589579f7ae97562eef830728
+17131,Stationery Store,7783c3c378e1427d9eaf66e4
+12101,Church,1aee8f7605f74169d96c5fd4
+13049,Diner,50a2073ae4b094fddba8b680
+13003,Bar,4d76a06605b32d4331355967
+13236,Italian Restaurant,4b828181f964a520c6d530e3
+13065,Restaurant,4bd6df80cfa7b7135f2d28da
+13003,Bar,4bd6df80cfa7b7135f2d28da
+12051,Driving School,6aaaf1ba4953489e18cd4eba
+15024,Optometrist,5eac2cb975c97d0008a53b39
+17037,Eyecare Store,5eac2cb975c97d0008a53b39
+12010,Adult Education,f5ea1f5a6c0344fb1a970633
+12072,Police Station,33c148372d6e426a0c2f721e
+13026,BBQ Joint,4fab9ddce4b0a0d479361dbf
+13177,Greek Restaurant,4fab9ddce4b0a0d479361dbf
+13099,Chinese Restaurant,5034c206e4b0359693220d88
+13152,Brasserie,4dbe94a40cb691071cd269b0
+11175,Waste Management Service,5d94e95cff3c690008e6c8ce
+12009,Education,9dee2d7077a04e7a2db4cc38
+12005,Cultural Center,f3e1c190a13949d4fc4d8147
+18000,Sports and Recreation,f3e1c190a13949d4fc4d8147
+17018,Bookstore,559fb64f498e52ed4d74d757
+11000,Business and Professional Services,5ad319a9b23dfa17a2a1dc3b
+11000,Business and Professional Services,5ab53ad50d8a0f795cf964b2
+13148,French Restaurant,4c8a14a11eafb1f71cca7635
+10024,Movie Theater,4b474228f964a520bf2d26e3
+16026,Monument,4b2b5fc5f964a52000b624e3
+16045,Roof Deck,4ba8c5f0f964a520beed39e3
+13052,Food Court,4bb8e7b0cf2fc9b6ee01a002
+17114,Shopping Mall,4bb8e7b0cf2fc9b6ee01a002
+17025,Electronics Store,4f9dc5b2e4b0f1efa915e4ad
+13276,Sushi Restaurant,4fb54072e4b059afc6af713b
+12075,Post Office,4d7b3ba4136bf04d1788488d
+17057,Food and Beverage Retail,4c25be4ef7ced13a2f27256d
+11092,Landscaper and Gardener,5e2bec6a1edeb00008c481fc
+12086,Non-Profit Organization,525c1da2498e80d1f8832de2
+17096,Miscellaneous Store,5aab8faf7dc9e17c6f118560
+17043,Clothing Store,48f44b4a527b4a759414749e
+16000,Landmarks and Outdoors,4c13b267b7b9c92897f3a937
+17069,Grocery Store,a7324ad52ba94e5a2a45c737
+13027,Bistro,512b4d24e4b0ac94fc074641
+13148,French Restaurant,512b4d24e4b0ac94fc074641
+17030,Cosmetics Store,4efb336ba69dea74fe042c3e
+12010,Adult Education,cb6678d8cf464d89825cefbd
+17069,Grocery Store,4b72874ef964a520587d2de3
+17056,Flower Store,525806a211d291f21f0d24fd
+17043,Clothing Store,b10c858949024a59b59a12c3
+18065,Sports Club,4c1386c182a3c9b6fd8dfbf8
+17137,Video Store,61b7491edfd83a3497b969c1
+13064,Pizzeria,59d3c5efdab4b15f25168e13
+11034,Engineer,430bb31d7f3b4e989a94ec7a
+11076,Home Improvement Service,5e4a18deac5495000888d6b9
+12066,City Hall,4d31a2cb329e5481b881a81d
+13002,Bakery,4e5d00d045dd2e4538b59a43
+13039,Deli,4e5d00d045dd2e4538b59a43
+13064,Pizzeria,4c54771dfd2ea5938157252a
+13145,Fast Food Restaurant,4c54771dfd2ea5938157252a
+13236,Italian Restaurant,4c54771dfd2ea5938157252a
+10006,Bowling Alley,4b894245f964a5208a2632e3
+13025,Wine Bar,51b2ff6f498e2b4f8fcbc968
+13065,Restaurant,51b2ff6f498e2b4f8fcbc968
+12005,Cultural Center,4e03901b1495525ce2c84620
+13334,Sandwich Spot,5649c1d3498ebb7b59445899
+13145,Fast Food Restaurant,5649c1d3498ebb7b59445899
+13000,Dining and Drinking,5649c1d3498ebb7b59445899
+18000,Sports and Recreation,4bdd889b4ffaa59303976ff7
+13064,Pizzeria,4e7100cefa76e1a41fc06ec2
+13236,Italian Restaurant,4e7100cefa76e1a41fc06ec2
+13031,Burger Joint,4e12f57a483bee47ff3ec7f6
+13067,African Restaurant,4e12f57a483bee47ff3ec7f6
+13145,Fast Food Restaurant,4e12f57a483bee47ff3ec7f6
+11092,Landscaper and Gardener,55605b46498e30fba69ab159
+13145,Fast Food Restaurant,4c6d7724c52437047b3628eb
+13152,Brasserie,4c6d7724c52437047b3628eb
+13338,Seafood Restaurant,4c6d7724c52437047b3628eb
+17084,Home Appliance Store,4b94e8a8f964a520638734e3
+13031,Burger Joint,4b6b6b6ff964a5208c072ce3
+13145,Fast Food Restaurant,4b6b6b6ff964a5208c072ce3
+13145,Fast Food Restaurant,5f0318ca29c560533e62488d
+12075,Post Office,2608f9c04e8743f6fa759276
+19020,Parking,2608f9c04e8743f6fa759276
+13145,Fast Food Restaurant,59e266eae4c459524a278c98
+11091,Kitchen Remodeler,54217cbd4e1d496303730fe5
+16032,Park,4e19b915a8097d08b242f711
+16032,Park,4bdd1acdf219c9b69d011210
+17069,Grocery Store,4c7fce79cfddb60c569b6fae
+13030,Buffet,4f9683d6e4b03fde92512416
+13263,Japanese Restaurant,4f9683d6e4b03fde92512416
+10037,Concert Hall,4adcda16f964a520103821e3
+10039,Music Venue,4adcda16f964a520103821e3
+10042,Opera House,4adcda16f964a520103821e3
+18056,Skating Rink,4ba5dbfcf964a5202d2639e3
+13145,Fast Food Restaurant,4ff6cd86e4b0484032fc6ab3
+13152,Brasserie,4ff6cd86e4b0484032fc6ab3
+13288,Kebab Restaurant,4ff6cd86e4b0484032fc6ab3
+13002,Bakery,4c5f0ce52815c9280036b967
+13047,Pastry Shop,4c5f0ce52815c9280036b967
+13148,French Restaurant,4c7cc61faa3ba093e897ab74
+18065,Sports Club,ef7e32fe98d045d8e9650cbb
+12087,Social Services Organization,1314572b570543b0b8095d69
+18047,Tennis Court,50b09db01648e53dbf52deb0
+16041,Plaza,4b86d451f964a5202da031e3
+15009,Ambulance Service,1c15e4bca1ef4ece4c221ad4
+15014,Hospital,ec9370c9bc524a261653cd82
+12000,Community and Government,4b466769f964a520da1f26e3
+13148,French Restaurant,4c51e3282543a5939cf29e84
+13009,Cocktail Bar,5b635b1fb6eedb002cbd3ec2
+13016,Lounge,5b635b1fb6eedb002cbd3ec2
+13065,Restaurant,5b635b1fb6eedb002cbd3ec2
+16032,Park,4c5bf64094fd0f476137c745
+19020,Parking,4c30519c3896e21e166ce590
+17069,Grocery Store,4f50be32e4b07af68dd8d69f
+17080,Wine Store,4f50be32e4b07af68dd8d69f
+13065,Restaurant,593d582ee185f37c5a308580
+13003,Bar,593d582ee185f37c5a308580
+13031,Burger Joint,527a990111d2f9c72c4cf733
+13057,Gastropub,527a990111d2f9c72c4cf733
+13145,Fast Food Restaurant,527a990111d2f9c72c4cf733
+16032,Park,4bbb21577421a593b56ec440
+13031,Burger Joint,51002525e4b09a8cd329bc0b
+13145,Fast Food Restaurant,51002525e4b09a8cd329bc0b
+12003,Cemetery,60478c00a0c55f5028b0c731
+12059,High School,40c57cae355c47ee16beb42e
+18046,Tennis Club,ea8e1d11bb4e4e258eab037f
+12106,Mosque,54c2b394498eea71db4fcf7a
+17035,Drugstore,50535179e4b0d070fbabaeac
+17069,Grocery Store,a9e42f4350cd4482f782a608
+13145,Fast Food Restaurant,2542100a9fed419df8690b14
+17065,Farmers Market,4c67a802aebea59310e676d0
+18075,Swimming Pool,4c4c14815609c9b684920292
+17057,Food and Beverage Retail,4beadf1eb3352d7f10b655d2
+12075,Post Office,4ce4da11d678a1cd0151ac0c
+16032,Park,4c00e6a88c1076b0e3cf2071
+17029,Convenience Store,51263ae6e4b00df7177f14c4
+13064,Pizzeria,5225be2611d25b534e2f44a8
+13325,Portuguese Restaurant,5225be2611d25b534e2f44a8
+17035,Drugstore,5e6fa5f85bc03b0008731bd6
+15014,Hospital,5d5105afad0a0d0008c46727
+12058,Elementary School,6ddd8617ba464bbeb4b30486
+17069,Grocery Store,550af67f498e712c790d589b
+17069,Grocery Store,4e86d00f775b326975c7b9ad
+13263,Japanese Restaurant,5e55070b37aff50008a9c350
+12067,Courthouse,4fc4b9efe4b0d6790ea64ea0
+18063,Soccer Club,8e9ae6cfc4e445879f00ac46
+17017,Board Store,5093e652e4b0b6c716ba090e
+13148,French Restaurant,4d2e0c3473e5a093977b4ecf
+17057,Food and Beverage Retail,4ca255971f709eb0142efa94
+17069,Grocery Store,4c4aabf4c668e21e90aef6f8
+13145,Fast Food Restaurant,4bf6ca9813aed13a2035eaf7
+13148,French Restaurant,4bf6ca9813aed13a2035eaf7
+17069,Grocery Store,4bc5e5a8d35d9c7489c2e13a
+17069,Grocery Store,4c471fc8417b20a11e88dca9
+12051,Driving School,5dea945912e9ea000810d0a6
+13065,Restaurant,cbd6a3c55c3d4a577ba4940c
+17029,Convenience Store,5601675c498e89e61690d141
+17067,Fruit and Vegetable Store,5b3de0c47564f7002b5d9653
+17068,Gourmet Store,5b3de0c47564f7002b5d9653
+17070,Organic Grocery,5b3de0c47564f7002b5d9653
+12082,Organization,4f0b588ae4b000dd7861036f
+15000,Health and Medicine,912c05e386924df0fdfe4da9
+13065,Restaurant,937f267aff49490deaabe98d
+11090,Interior Designer,5620ce9b498e37e2bad710dd
+17082,Furniture and Home Store,5620ce9b498e37e2bad710dd
+13152,Brasserie,4b9fd370f964a520254237e3
+17018,Bookstore,4cb5b5991b0af04dac0ecb25
+17069,Grocery Store,4b66c22bf964a520dd292be3
+17069,Grocery Store,4b9baa6af964a5202f1836e3
+16032,Park,4bc1d0f3461576b06e597c32
+13148,French Restaurant,4b5d8408f964a520b75f29e3
+13027,Bistro,4c48a44ac047be9abc843479
+13031,Burger Joint,4c48a44ac047be9abc843479
+13152,Brasserie,4c48a44ac047be9abc843479
+12075,Post Office,4bc5754841cb76b0e7683e6f
+17029,Convenience Store,584637b90acb6a484ccceb8c
+17059,Butcher,5af58c8b8c812a002ca8cbb4
+17069,Grocery Store,5af58c8b8c812a002ca8cbb4
+12087,Social Services Organization,0ab366951d8941bc0be73b6a
+12058,Elementary School,16c4f84aa5ee45e3a2abff5e
+16032,Park,3c681036cf8d4db6dafe1224
+13145,Fast Food Restaurant,50006949e4b0a7c211f60b83
+13148,French Restaurant,50006949e4b0a7c211f60b83
+17029,Convenience Store,4d56b79496ed548167061870
+12075,Post Office,4ed8c31a93ad464d2673e478
+12075,Post Office,4ee32f884690f8893f49993b
+17057,Food and Beverage Retail,4c0548e7f423a5931ac5d216
+18053,Track,4fb21a82e4b0b9253b42b8ef
+18039,Race Track,4ba624abf964a520a23639e3
+13152,Brasserie,4b689540f964a52046812be3
+12082,Organization,4c512b679426c92848f44873
+16015,Forest,4bc08dbb2a89ef3b65a6f088
+12058,Elementary School,20e32e601c654810f4594c07
+17000,Retail,594e3eed6bdee65efd937768
+18000,Sports and Recreation,4dc571e82271f270512cb448
+13064,Pizzeria,4b7bdad4f964a520c8702fe3
+13145,Fast Food Restaurant,4b7bdad4f964a520c8702fe3
+13236,Italian Restaurant,4b7bdad4f964a520c8702fe3
+17057,Food and Beverage Retail,51602ca3e4b00ffbd59eb6b2
+13064,Pizzeria,5c2f6873c36588002c63280f
+13065,Restaurant,5c2f6873c36588002c63280f
+11076,Home Improvement Service,71c2eb6b4410446189d13c14
+11169,Website Designer,ae6e4a0da0f8409fc06315d5
+19009,Lodging,ae6e4a0da0f8409fc06315d5
+11130,Office Building,537db725498e336c9ebdded0
+13072,Asian Restaurant,54d295cd498e6e9bc2b5d031
+13145,Fast Food Restaurant,54d295cd498e6e9bc2b5d031
+18001,Athletic Field,4bdd2bd5f219c9b68e261210
+10051,Stadium,4f8ac56ce4b00a62631260dc
+18008,Basketball Court,506c6717c84c508f70f64af7
+12013,College and University,509a6ea2f2e74061c59b6bec
+16014,Farm,4b53273df964a520749027e3
+13049,Diner,4ce57970eceb6dcbdbbee2ec
+17030,Cosmetics Store,5399ef6465dc41908077f10a
+13065,Restaurant,b7d933b296a04d5254daf4d0
+13379,Vietnamese Restaurant,5bdca655c66666002c1e0136
+10000,Arts and Entertainment,503a7e16e4b0d8ef57a174af
+16017,Garden,503a7e16e4b0d8ef57a174af
+16019,Hiking Trail,52bc5f52498e4a54c98f8e56
+13057,Gastropub,4b1ff559f964a520592b24e3
+13152,Brasserie,4b1ff559f964a520592b24e3
+13034,Café,5324204f498e195bc3e21511
+13035,Coffee Shop,5324204f498e195bc3e21511
+13065,Restaurant,5324204f498e195bc3e21511
+13002,Bakery,4ec4f3cd2c5b6307e69711f3
+13049,Diner,4ec4f3cd2c5b6307e69711f3
+13027,Bistro,544f7fff498e317ec53b2e14
+13148,French Restaurant,544f7fff498e317ec53b2e14
+13065,Restaurant,ab358c2218734b5ec2a3441d
+13152,Brasserie,4b2b845df964a5200db724e3
+12075,Post Office,4c1e022ab489b713e7aba9c7
+11083,Electrician,eb3a446f4db7447844438c29
+13002,Bakery,4efb41fe7ee5bf7995c9a003
+13047,Pastry Shop,4efb41fe7ee5bf7995c9a003
+17069,Grocery Store,55f54840498e2fe1e05f8e0c
+17077,Meat and Seafood Store,55f54840498e2fe1e05f8e0c
+15014,Hospital,3a9bae33f9af43c72a51e3d1
+18065,Sports Club,54f6adb2bb83441583d90d7b
+13003,Bar,51718019e4b0d5bc92a73b93
+13065,Restaurant,51718019e4b0d5bc92a73b93
+13000,Dining and Drinking,4ef24408a69d22306c783e96
+12086,Non-Profit Organization,4e9954266da1ff617227c12a
+16017,Garden,4e9954266da1ff617227c12a
+18053,Track,4e75eed8d22d80eb336a23cd
+16046,Scenic Lookout,53c01f3d498e1b6feda0d7c4
+13199,Indian Restaurant,4b23f54bf964a520d35d24e3
+13145,Fast Food Restaurant,4e18b50bc65b6bfb5911c34b
+13356,Turkish Restaurant,4e18b50bc65b6bfb5911c34b
+13025,Wine Bar,5c59ef930d2be7002c125f0f
+13065,Restaurant,5c59ef930d2be7002c125f0f
+17002,Antique Store,4b6ec7fcf964a5205aca2ce3
+19014,Hotel,4adcda1ff964a5207c3921e3
+13009,Cocktail Bar,5946479d4382ab30b2121ed9
+13039,Deli,5946479d4382ab30b2121ed9
+13177,Greek Restaurant,5946479d4382ab30b2121ed9
+10024,Movie Theater,4bcdf1e6cc8cd13a4170c3cf
+13065,Restaurant,4dc551d0d164eb9c9feb12af
+17002,Antique Store,4dfdf0b5b0fb84d7ace533f6
+12003,Cemetery,8d3691b6c662430556b3b75b
+11170,Telecommunication Service,4d31a9905017a093d259419b
+17026,Mobile Phone Store,4d31a9905017a093d259419b
+13145,Fast Food Restaurant,56c4653acd1069b811fe7c3c
+13236,Italian Restaurant,56c4653acd1069b811fe7c3c
+18021,Gym and Studio,4d7613ff004b3704d050fd93
+16041,Plaza,4bdfbc3e6198c9b6774618ff
+19020,Parking,4bdfbc3e6198c9b6774618ff
+15024,Optometrist,5c707959a0215b002c5e4d1b
+17037,Eyecare Store,5c707959a0215b002c5e4d1b
+11087,"Heating, Ventilating and Air Conditioning Contractor",0ba35ad035a140dfb11b5c15
+12086,Non-Profit Organization,2b87f4fab30a4f19aeab1d6f
+15014,Hospital,5213a49411d270bced015fbc
+10051,Stadium,4bd32d7d9854d13a5e12fd4d
+13148,French Restaurant,587a0a456cea3f55dca7df5d
+13064,Pizzeria,4c5a982f2091a593b7a85fd0
+13152,Brasserie,4c5a982f2091a593b7a85fd0
+13002,Bakery,57c5a32d498e446e9a78bdb9
+16032,Park,4dde2565d22d28453eb87713
+10026,Indie Movie Theater,4ca4f63197c8a1cdc1a862a5
+13065,Restaurant,4ca4f63197c8a1cdc1a862a5
+17114,Shopping Mall,4be2f649d27a20a17ad2905b
+17043,Clothing Store,5395a9ef498eae4bad93a688
+13003,Bar,4c5bf5ad94fd0f472936c745
+13065,Restaurant,4c5bf5ad94fd0f472936c745
+10043,Theater,4dc55010ae608779d136e2d4
+10043,Theater,4bb39c29eb3e9521d962cb0a
+16044,Rock Climbing Spot,51795971e4b0de94808d6978
+16004,Bike Trail,57777bd4498e7af410916cf0
+13379,Vietnamese Restaurant,4b7d3c80f964a52014b42fe3
+13002,Bakery,4be06f0ccb81c9b6d9d8658b
+13145,Fast Food Restaurant,4be06f0ccb81c9b6d9d8658b
+13152,Brasserie,4be06f0ccb81c9b6d9d8658b
+16000,Landmarks and Outdoors,4e3410b5d4c0c08309527e26
+19007,Fuel Station,4e147289b61c18a82701a33d
+17069,Grocery Store,5896a790561ded434d2f737f
+18075,Swimming Pool,df293e30812e43efb6e200f5
+16032,Park,6134dea99ad044375ff0e71f
+11097,Professional Cleaning Service,ee75a1443a9f416e142c34d9
+10051,Stadium,50f28465e4b0e0c9da842f81
+18048,Recreation Center,50f28465e4b0e0c9da842f81
+13276,Sushi Restaurant,4b977f65f964a520130635e3
+13145,Fast Food Restaurant,4f8080bfe4b00d7481ce80c6
+13379,Vietnamese Restaurant,4f8080bfe4b00d7481ce80c6
+13030,Buffet,4b5ee693f964a520189d29e3
+13145,Fast Food Restaurant,4b5ee693f964a520189d29e3
+13152,Brasserie,4b5ee693f964a520189d29e3
+13002,Bakery,4dc2d78fd22dd7df9ab26a87
+13047,Pastry Shop,4dc2d78fd22dd7df9ab26a87
+13000,Dining and Drinking,4ef4d504f7909b0d2e8cdb3d
+17029,Convenience Store,4ef84ab630f894d8691d4f82
+13064,Pizzeria,4ba37893f964a520d53f38e3
+13276,Sushi Restaurant,4ba37893f964a520d53f38e3
+16032,Park,5343fdd2498ea2911a71bc54
+17056,Flower Store,4f1aedaee4b0065cba3c5506
+13383,Steakhouse,5f79d092dd00b2571a5d72b9
+11086,General Contractor,5de2308abc7298000880c692
+15024,Optometrist,4f5b855be4b0090c099c59e8
+17037,Eyecare Store,4f5b855be4b0090c099c59e8
+16000,Landmarks and Outdoors,51d95ed8498e49279fc32d1b
+16032,Park,4db5805f93a017099decc8dc
+12075,Post Office,53724c2a498ec2a9d818d94d
+13003,Bar,4fcfa0cce4b02b4665c4dbc8
+16041,Plaza,4c1caee9b4e62d7f2f66db93
+11092,Landscaper and Gardener,29f40a1df6c04253a3e0808b
+13148,French Restaurant,4d5656c0c6edf04db552cfa2
+11034,Engineer,80a64bad9f574a85ccca1ed4
+17069,Grocery Store,4e5a782ffa76d2b00c1b0083
+13145,Fast Food Restaurant,4ced27b3840a9eb08c919f13
+13152,Brasserie,4ced27b3840a9eb08c919f13
+13383,Steakhouse,4ced27b3840a9eb08c919f13
+13035,Coffee Shop,5222054c11d2ac120bb65745
+13148,French Restaurant,5222054c11d2ac120bb65745
+13276,Sushi Restaurant,6151818eb63ad61cc0de1b84
+12101,Church,06a6abe075cc457b35982001
+15000,Health and Medicine,4e230ffeb0fbdf9ba7ba38e1
+17028,Construction Supplies Store,5a173f26ee7120695305b18e
+18000,Sports and Recreation,f33c5428827246b7993e71e7
+13064,Pizzeria,507071d6e4b0f32242d4f378
+13139,Eastern European Restaurant,507071d6e4b0f32242d4f378
+13145,Fast Food Restaurant,507071d6e4b0f32242d4f378
+17044,Fashion Accessories Store,7dcf95344dbe4f8607bd6459
+16032,Park,4bf7efe88d30d13a2cbdff17
+12000,Community and Government,4be6d2fa2468c9285db40143
+11001,Advertising Agency,5ae1cfd6d807ee002cd940db
+10001,Amusement Park,4f897baae4b0bae8970f84a2
+11036,Entertainment Service,4f897baae4b0bae8970f84a2
+16000,Landmarks and Outdoors,4f897baae4b0bae8970f84a2
+18035,Indoor Play Area,4f897baae4b0bae8970f84a2
+18048,Recreation Center,4f897baae4b0bae8970f84a2
+19055,Travel Agency,4f897baae4b0bae8970f84a2
+12055,Nursery School,506a985be4b0bdc21b6b8c2a
+18001,Athletic Field,4adcda22f964a5203a3a21e3
+18000,Sports and Recreation,4adcda23f964a5205c3a21e3
+17082,Furniture and Home Store,4b8ab57af964a520547b32e3
+13145,Fast Food Restaurant,56eb6ad5498e1bc48ac8d3ef
+13064,Pizzeria,4d4c421532a3236a4f8a09ea
+13145,Fast Food Restaurant,5c557c94c36588002c2e61cc
+13031,Burger Joint,4c3b64cb4565e21ecaa7566a
+13145,Fast Food Restaurant,4c3b64cb4565e21ecaa7566a
+11003,Architecture Firm,82d47284262c4a28b5b03639
+11028,Construction,82d47284262c4a28b5b03639
+11086,General Contractor,82d47284262c4a28b5b03639
+17082,Furniture and Home Store,82d47284262c4a28b5b03639
+17006,Car Dealership,4948defc028a455e969aa4e5
+17043,Clothing Store,50507dd7e4b0eacd3e083dc3
+17048,Shoe Store,50507dd7e4b0eacd3e083dc3
+17052,Women's Store,50507dd7e4b0eacd3e083dc3
+17082,Furniture and Home Store,559864db498e87853388abba
+17023,Computers and Electronics Retail,4ba90036f964a5203d023ae3
+17000,Retail,4cc9afdfd147a09331a8e8ae
+17117,Sporting Goods Retail,4bb9f5a97421a593c332c340
+13065,Restaurant,4bc8d829762beee1ab963d38
+13031,Burger Joint,4b8846bef964a52017ec31e3
+13145,Fast Food Restaurant,4b8846bef964a52017ec31e3
+11087,"Heating, Ventilating and Air Conditioning Contractor",5d322be33fa42a0008c82e3b
+11096,Plumber,5d322be33fa42a0008c82e3b
+18000,Sports and Recreation,4ca0e84f3244b21a99123703
+18056,Skating Rink,3033d45e440743ec16f5faa6
+17069,Grocery Store,63dc1e7eb39a48364b199ac2
+12051,Driving School,5278d798498e8a53949b5982
+12051,Driving School,460722dad751462dbc5319cf
+11000,Business and Professional Services,56cb2f69498e8b9d4232eb17
+11083,Electrician,5d60341b618fca0008c4a137
+11087,"Heating, Ventilating and Air Conditioning Contractor",5d60341b618fca0008c4a137
+17069,Grocery Store,fc9335cbbe3f4810c4f4ae0d
+13148,French Restaurant,4c6bd08c9669e21e43b7ab51
+18018,Golf Course,4c7f47372042b1f70c8ec2ad
+13049,Diner,4f68d8bbe4b0c2cd00d5d8de
+13145,Fast Food Restaurant,4f68d8bbe4b0c2cd00d5d8de
+17042,Children's Clothing Store,436a2cc668ec48a66e288973
+17043,Clothing Store,436a2cc668ec48a66e288973
+11000,Business and Professional Services,578e2c55498e22f131a37761
+17035,Drugstore,4eb94d4b4901cef9da28b1ea
+13064,Pizzeria,5fd24c12576a725ffb3bd9a6
+13236,Italian Restaurant,5fd24c12576a725ffb3bd9a6
+13049,Diner,4e819fc86da179ef0005086c
+12086,Non-Profit Organization,8052207d8daf4530261abcc5
+13018,Pub,4b4f713af964a520ca0627e3
+13099,Chinese Restaurant,4d52dc9ac305b60cb2ea9e1e
+13145,Fast Food Restaurant,4d52dc9ac305b60cb2ea9e1e
+11170,Telecommunication Service,4f608140e4b05ba8a6ada145
+17026,Mobile Phone Store,4f608140e4b05ba8a6ada145
+10039,Music Venue,4adcda16f964a520f23721e3
+10042,Opera House,4adcda16f964a520f23721e3
+10043,Theater,4adcda16f964a520f23721e3
+17069,Grocery Store,527e45c111d28ec6c69af720
+18000,Sports and Recreation,889f30d970041e16df1d5f87
+12072,Police Station,4f21943fe4b0b5801bbd0dd3
+16003,Beach,5068bd4ee4b0e370b2ca6937
+18001,Athletic Field,5ca4db863e6741002c263bf5
+12091,Public and Social Service,fd04f25c77274b54502b4ef6
+17057,Food and Beverage Retail,4ca2555c1f709eb0c72dfa94
+17035,Drugstore,62c71217dc4cf113ca250013
+11064,Hair Salon,57345eb4498edc53628b2561
+12058,Elementary School,6cd9e8aa944c4c2c52382ccc
+11145,Real Estate Service,4d33af04ccec4993658f230a
+17057,Food and Beverage Retail,5d39a5c856b1210008986c1b
+17000,Retail,4c10bc416b7e2d7fa4082835
+13064,Pizzeria,58b180ef8cb34e443bad6c89
+13236,Italian Restaurant,58b180ef8cb34e443bad6c89
+13057,Gastropub,4e7ce02661af3f2e3d845fa8
+13145,Fast Food Restaurant,4e7ce02661af3f2e3d845fa8
+13148,French Restaurant,4e7ce02661af3f2e3d845fa8
+13041,Creperie,4c152b9da5eb76b02be1c2b7
+13148,French Restaurant,60c71efe1180d052538e8bf9
+12075,Post Office,4f548b1de4b0195da61ee0eb
+12058,Elementary School,b0d504b11e6042ec4ebc5695
+12051,Driving School,5a69ac3df427de1fe99b220e
+17056,Flower Store,517ba90a498ee8a7bdb4b826
+10051,Stadium,505827c2e4b07b064bb8b9bb
+11087,"Heating, Ventilating and Air Conditioning Contractor",5ddfc74389196d000812f9f2
+11096,Plumber,5ddfc74389196d000812f9f2
+13065,Restaurant,5b853d3925ecca002c72ef05
+12101,Church,5161599ae4b002db602c499b
+17056,Flower Store,4e678cd71f6ecb18da57ad00
+17043,Clothing Store,53859deb498e94fb758129bb
+13003,Bar,5c767dca65211f002c1d3d21
+13065,Restaurant,5c767dca65211f002c1d3d21
+13236,Italian Restaurant,515d60b0e4b0fd821e9815f3
+13002,Bakery,4ca9b2bba6e08cfa8d4b9b94
+13065,Restaurant,4ca9b2bba6e08cfa8d4b9b94
+12075,Post Office,4c9766ea72dd224b1323b491
+13334,Sandwich Spot,53caa90a498e6db96d69d581
+13145,Fast Food Restaurant,53caa90a498e6db96d69d581
+13145,Fast Food Restaurant,57d9aee6498e6fcd80de5460
+13064,Pizzeria,4bb755c546d4a5936250c7c0
+13145,Fast Food Restaurant,4bb755c546d4a5936250c7c0
+13236,Italian Restaurant,4bb755c546d4a5936250c7c0
+13065,Restaurant,516a9188e4b0683f61e6462c
+13067,African Restaurant,4feab9d9e4b0282e87b7fbfb
+10001,Amusement Park,574a39b6498ef19a15bfbaf3
+17006,Car Dealership,d4f2615f2fdf43f2c08c6037
+11079,Carpet and Flooring Contractor,ce5c1cdc90604cd5f435a97f
+16041,Plaza,4b6f3778f964a520c9e42ce3
+16000,Landmarks and Outdoors,4bace3b2f964a52036163be3
+13003,Bar,4d1b479431af236a8c911017
+13035,Coffee Shop,4d1b479431af236a8c911017
+13032,"Cafe, Coffee, and Tea House",4d1a552e954c224b7405ada1
+13313,Moroccan Restaurant,4d1a552e954c224b7405ada1
+13064,Pizzeria,4d6fa4775b5ca1cd826c6f44
+13145,Fast Food Restaurant,4d6fa4775b5ca1cd826c6f44
+13236,Italian Restaurant,4d6fa4775b5ca1cd826c6f44
+13057,Gastropub,4d53e60fbdbea1cd71cbe092
+13152,Brasserie,4d53e60fbdbea1cd71cbe092
+11170,Telecommunication Service,4bfd93bcc5cd437734a0084b
+12010,Adult Education,89564692be1e492c60239fd0
+12003,Cemetery,4fae55a0e4b06952df705a83
+12075,Post Office,457c6843a62d4d93ec9ce0c4
+17057,Food and Beverage Retail,5cf96f0abfc6d0002cb698ee
+17059,Butcher,5abad858ca18ea6297efb91b
+17069,Grocery Store,5abad858ca18ea6297efb91b
+11151,Real Estate Development and Title Company,5e9ef9cc17ca5f0007d2e24c
+13002,Bakery,4f1b0370e4b09189794c14d7
+18000,Sports and Recreation,4faa0ae0e4b00ffffd6e4ce9
+15007,Dentist,5e621f45e160900008939a5b
+15042,Oral Surgeon,5e621f45e160900008939a5b
+18075,Swimming Pool,54258d86498e962713ba271e
+10051,Stadium,512a2276e4b034d2b65e7831
+18000,Sports and Recreation,512a2276e4b034d2b65e7831
+12057,Primary and Secondary School,f0fe6403d96e4d3e5e6c898e
+10004,Art Gallery,4d7a6c83e540f04dc5c412dc
+13145,Fast Food Restaurant,902a7a3f31461fcde75de70f
+12069,Government Department,243b6b12ab1e466f7056669c
+17090,Hardware Store,5272247511d273c8ea4d446e
+18021,Gym and Studio,542974b2498e05dee5dd2a4b
+17069,Grocery Store,5b74be3816ef67002cfee1fe
+15000,Health and Medicine,5991be3286f4cc10e20ab71a
+17035,Drugstore,5991be3286f4cc10e20ab71a
+13152,Brasserie,52ea44fc11d2598bc0eeb5c8
+12066,City Hall,2050ed75fcc642473cdc178c
+12059,High School,4c7d2c539221236a395e7e3d
+12058,Elementary School,53d74456498efad6b843eecd
+17029,Convenience Store,5880de10a1492663740588b2
+16032,Park,4c43180ace54e21eaf8a0d1a
+12069,Government Department,4ebc0f08b8f7074b34b5f10d
+12000,Community and Government,51c99d7e498e2e449197fd92
+11000,Business and Professional Services,51c05d9b498ecb94e2254976
+11096,Plumber,5144b6eb3e274129553a7827
+12075,Post Office,516fe9ee498eeb3c12cc9d7b
+12075,Post Office,4ed8b098e5fa78b16c0360d3
+17059,Butcher,5b0ce2df1fa763002c2cfed5
+17069,Grocery Store,5b0ce2df1fa763002c2cfed5
+17069,Grocery Store,4e25cace18388c58be2fd14c
+13145,Fast Food Restaurant,5f4cf720beae8f7fb0f68f40
+12051,Driving School,505831bae4b0a899957008bc
+16032,Park,4b9a42c5f964a520f8a735e3
+13064,Pizzeria,5a1241d3898bdc40e8595106
+12051,Driving School,85a878c0d765499bbfff9bf9
+12051,Driving School,04ccdf7525e04c0eca66c1e3
+12075,Post Office,4c4aa74ff7cc1b8d9806b83e
+11179,Wholesaler,4e69f848d164c37bf45b0613
+13145,Fast Food Restaurant,5c5760dac36588002c70c944
+13041,Creperie,5628f1d7498eb118f2ce589d
+13064,Pizzeria,51310e6ee4b0637888803edf
+15000,Health and Medicine,28a6f75728474f6dacdd9603
+13148,French Restaurant,565da47c498e3056784e5e58
+17056,Flower Store,59fc4246e55d8b0cd96fefa5
+13064,Pizzeria,6013c90b9a7d48704ae90bcc
+13145,Fast Food Restaurant,6013c90b9a7d48704ae90bcc
+13191,Halal Restaurant,6013c90b9a7d48704ae90bcc
+13236,Italian Restaurant,5395fd8a498e4cf319c5a091
+13263,Japanese Restaurant,59144fb37918717350d1c1ff
+15000,Health and Medicine,5a9d51d695a7222a9de0ade3
+13035,Coffee Shop,566e7742498e954bece1814c
+13064,Pizzeria,566e7742498e954bece1814c
+13065,Restaurant,8048c3e3ef5140c9b51ec73f
+11078,Carpenter,0e22ab4004104393cce15038
+11091,Kitchen Remodeler,0e22ab4004104393cce15038
+16032,Park,4bcf063329d4b7134467a9dc
+18075,Swimming Pool,4b9cec54f964a520a38236e3
+17029,Convenience Store,5881e1f79c439d0a27091972
+12075,Post Office,5139b83ae4b0c2a7b80c69cb
+13031,Burger Joint,4e3583efb0fb59390e9f71d2
+13145,Fast Food Restaurant,4e3583efb0fb59390e9f71d2
+12058,Elementary School,3e2b6752a0b04771c93559fe
+18075,Swimming Pool,4c42d42bd7fad13ab4b709da
+12058,Elementary School,4dd77cc0ae60680f15080a0b
+18000,Sports and Recreation,585a3ebd83622d03954d3531
+16001,Bathing Area,48848718afe9cfcab789f27f
+13034,Café,4caeb9e8aef16dcb5601a354
+13003,Bar,4c90ea799087199c93eaaf31
+16032,Park,511ba9cae4b02e93b169bfbf
+13332,Salad Restaurant,5e5f930f6bb6ab0008bce64e
+12082,Organization,5ce4285b66f3cd002c7ebc4f
+13002,Bakery,5dd023b16626490008c2f0e4
+13037,Cafeteria,57d93236498e7453bfa9036a
+12086,Non-Profit Organization,bcfbf7a2464342c83da09cbb
+11087,"Heating, Ventilating and Air Conditioning Contractor",3edbd484add24a3cae1a9d96
+11096,Plumber,3edbd484add24a3cae1a9d96
+16023,Lake,51f404c1498ea9952b51538e
+13037,Cafeteria,583552b14bafb719b04595e4
+16024,Lighthouse,4c30fb583896e21e4a5fe690
+18059,Ski Chalet,4c30fa7116adc928f9f7bf9c
+19014,Hotel,53798c18498e90024bb0f074
+11092,Landscaper and Gardener,55508d48498e9583aa13c1ce
+12069,Government Department,32c986af92e845eafdfd6f06
+12009,Education,ebb2d0ad81b7459bc707d879
+11096,Plumber,5d5e8bb189c8cd000882dd68
+11083,Electrician,6035e0652f044fdf8e9a1cad
+11021,Business Center,4d4aa6299526b60c0b3184ee
+11034,Engineer,b49b844b59ba4b0caec5231a
+11028,Construction,5d331081d1b989000738d9a3
+11027,Computer Repair Service,50ae190be4b0a0a300fe7eeb
+11130,Office Building,5890895afc5a5f6b3d144ec0
+18000,Sports and Recreation,4b0b081af964a520e42b23e3
